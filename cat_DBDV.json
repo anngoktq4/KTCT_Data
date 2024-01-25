@@ -1,0 +1,551 @@
+[
+    {
+        "ID": "DE_4_1",
+        "QUESTION": "Luật Dự bi động viên được thông qua thời gian nào?",
+        "A": "26/11/2019",
+        "B": "26/12/2017",
+        "C": "26/12/2019",
+        "D": "26/11/2018",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_2",
+        "QUESTION": "Luật Dự bi động viên năm 2019 có bao nhiêu chương, bao nhiêu điều ?",
+        "A": "6 chương, 39 điều",
+        "B": "5 chương, 41 điều",
+        "C": "7 chương, 40 điều",
+        "D": "5 chương, 39 điều",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_3",
+        "QUESTION": "Luật Dự bi động viên được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV thông qua tại kỳ họp thứ mấy?",
+        "A": "kỳ họp thứ 6",
+        "B": "kỳ họp thứ 7",
+        "C": "kỳ họp thứ 8",
+        "D": "kỳ họp thứ 9",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_4",
+        "QUESTION": "Cơ quan nào ban hành Luật Lực lượng dự bị động viên?",
+        "A": "Bộ Quốc phòng",
+        "B": "Chính phủ",
+        "C": "Quốc hội",
+        "D": "Chủ tịch nước",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_5",
+        "QUESTION": "Lực lượng dự bị động viên bao gồm?",
+        "A": "Quân nhân dự bị",
+        "B": "quân nhân dự bị và phương tiện kỹ thuật dự bị được đăng ký, quản lý và sắp xếp vào đơn vị dự bị động viên",
+        "C": "quân nhân dự bị, phương tiện trang bị kỹ thuật",
+        "D": "sĩ quan dự bị, hạ sĩ quan dự bị",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_6",
+        "QUESTION": "Quân nhân dự bị bao gồm?",
+        "A": "Sĩ quan dự bị được đăng ký theo quy định",
+        "B": "quân nhân chuyên nghiệp dự bị được đăng ký theo quy định",
+        "C": "hạ sĩ quan, binh sĩ dự bị được đăng ký theo quy định",
+        "D": "tất cả đều đúng",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_7",
+        "QUESTION": "Phương tiện kỹ thuật dự bị là?",
+        "A": "tài sản công",
+        "B": "tài sản của cơ quan, tổ chức, công dân Việt Nam",
+        "C": "tài sản do nhân dân đóng góp xây dựng",
+        "D": "tài sản hỗ trợ từ các quỹ phúc lợi",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_8",
+        "QUESTION": "Phương tiện kỹ thuật dự bị bao gồm?",
+        "A": "phương tiện giao thông cơ giới đường bộ, đường thủy, đường không dân dụng",
+        "B": "phương tiện xây dựng cầu đường, xây dựng công trình, xếp dỡ hàng hóa, thông tin liên lạc, thiết bị vật tư y tế",
+        "C": "một số loại phương tiện, thiết bị khác được đăng ký theo yêu cầu biên chế của Quân đội nhân dân.",
+        "D": "tất cả đều đúng",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_9",
+        "QUESTION": "Đơn vị dự bị động viên là ?",
+        "A": "tổ chức quân sự gồm phần lớn hoặc toàn bộ là quân nhân dự bị và phương tiện kỹ thuật dự bị trong kế hoạch bổ sung cho lực lượng thường trực của Quân đội nhân dân",
+        "B": "đơn vị kết nghĩa với bộ đội chủ lực",
+        "C": "là tập hợp lực lượng quân nhân sau khi xuất ngũ",
+        "D": "tất cả đều sai",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_10",
+        "QUESTION": "Có bao nhiêu Nguyên tắc xây dựng, huy động lực lượng dự bị động viên ?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_11",
+        "QUESTION": "Quân nhân dự bị được xếp trong đơn vị dự bị động viên mấy trách nhiệm?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_12",
+        "QUESTION": "Quân nhân dự bị giữ chức vụ chỉ huy đơn vị dự bị động viên mấy trách nhiệm?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_13",
+        "QUESTION": "chủ phương tiện kỹ thuật dự bị, người vận hành, điều khiển phương tiện kỹ thuật dự bị có mấy quyền và nghĩa vụ?",
+        "A": "không có gì",
+        "B": "1",
+        "C": "2",
+        "D": "tất cả đều sai",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_14",
+        "QUESTION": "Chủ phương tiện kỹ thuật dự bị được bồi thường thiệt hại trong mấy trường hợp?",
+        "A": "không có trường hợp nào",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_15",
+        "QUESTION": "Có bao nhiêu hành vi bị nghiêm cấm trong xây dựng, huy động lực lượng dự bị động viên",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_16",
+        "QUESTION": "Cơ quan nào chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ lập Kế hoạch nhà nước về xây dựng và huy động lực lượng dự bị động viên.",
+        "A": "Bộ Quốc Phòng",
+        "B": "Văn phòng Chủ tịch nước",
+        "C": "Bộ Nội Vụ",
+        "D": "Quốc hội",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_17",
+        "QUESTION": "Cơ quan nào lập kế hoạch xây dựng, huy động lực lượng dự bị động viên của địa phương.",
+        "A": "cơ quan quân sự cùng cấp",
+        "B": "Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện",
+        "C": "Hội đồng nhân dân cùng cấp",
+        "D": "cơ quan quân sự cấp tỉnh, thành phố",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_18",
+        "QUESTION": "Quy định thẩm quyền lập kế hoạch huy động, tiếp nhận lực lượng dự bị động viên của đơn vị Quân đội nhân dân?",
+        "A": "Thủ tướng Chính phủ",
+        "B": "Chủ tịch nước",
+        "C": "Chủ tịch quốc hội",
+        "D": "Bộ trưởng Bộ Quốc phòng",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_19",
+        "QUESTION": "Nội dung kế hoạch xây dựng lực lượng dự bị động viên bao gồm?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_20",
+        "QUESTION": "Nội dung kế hoạch huy động lực lượng dự bị động viên bao gồm?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_21",
+        "QUESTION": "Nội dung kế hoạch tiếp nhận lực lượng dự bị động viên bao gồm?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_22",
+        "QUESTION": "Cơ quan chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư trình Thủ tướng Chính phủ phê duyệt Kế hoạch nhà nước về xây dựng và huy động lực lượng dự bị động viên",
+        "A": "Văn phòng Chủ tịch nước",
+        "B": "Bộ Nội Vụ",
+        "C": "Bộ Quốc phòng",
+        "D": "Văn phòng Chính phủ",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_23",
+        "QUESTION": "kế hoạch xây dựng, huy động lực lượng dự bị động viên của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ do cơ quan nào thẩm định?",
+        "A": "Văn phòng Chủ tịch nước",
+        "B": "Bộ Nội Vụ",
+        "C": "Bộ Quốc phòng",
+        "D": "Văn phòng Chính phủ",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_24",
+        "QUESTION": "kế hoạch xây dựng, huy động lực lượng dự bị động viên của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ do ai phê duyệt?",
+        "A": "Thủ tướng Chính phủ",
+        "B": "Chủ tịch nước",
+        "C": "Tổng Bí thư",
+        "D": "Quốc hội",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_25",
+        "QUESTION": "Cơ quan nào thẩm định kế hoạch xây dựng, huy động lực lượng dự bị động viên của đơn vị thuộc quyền?",
+        "A": "Ban chỉ huy quân sự Bộ",
+        "B": "Cơ quan ngang Bộ",
+        "C": "Cơ quan thuộc Chính phủ",
+        "D": "Tất cả các cơ quan",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_26",
+        "QUESTION": "Cơ quan nào phê duyệt kế hoạch xây dựng, huy động lực lượng dự bị động viên của đơn vị thuộc quyền?",
+        "A": "Bộ trưởng",
+        "B": "Thủ trưởng cơ quan ngang Bộ",
+        "C": "cơ quan thuộc Chính phủ",
+        "D": "Tất cả các cơ quan",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_27",
+        "QUESTION": "Cơ quan nào thẩm định kế hoạch xây dựng, huy động lực lượng dự bị động viên của Ủy ban nhân dân cấp tỉnh?",
+        "A": "Cơ quan quân khu",
+        "B": "Bộ Quốc phòng",
+        "C": "cơ quan trực thuộc Bộ Quốc phòng",
+        "D": "văn phòng Chính phủ",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_28",
+        "QUESTION": "Phê duyệt kế hoạch xây dựng, huy động lực lượng dự bị động viên của Ủy ban nhân dân cấp tỉnh?",
+        "A": "Thủ trưởng cơ quan trực thuộc Quân khu",
+        "B": "Thủ trưởng cơ quan Bộ Quốc phòng",
+        "C": "Tư lệnh Quân khu",
+        "D": "Bộ trưởng Bộ Quốc phòng",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_29",
+        "QUESTION": "Bộ Tư lệnh Thành phố Hồ Chí Minh, Bộ Chỉ huy quân sự cấp tỉnh chủ trì, phối hợp với cơ quan chuyên môn về kế hoạch và đầu tư thuộc Ủy ban nhân dân cấp tỉnh, các cơ quan có liên quan ..... kế hoạch xây dựng, huy động lực lượng dự bị động viên của Ủy ban nhân dân cấp huyện.",
+        "A": "đề đạt",
+        "B": "thẩm định",
+        "C": "phê duyệt",
+        "D": "tất cả các nội dung",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_30",
+        "QUESTION": "Chủ tịch Ủy ban nhân dân cấp tỉnh ..... kế hoạch xây dựng, huy động lực lượng dự bị động viên của Ủy ban nhân dân cấp huyện.",
+        "A": "đề đạt",
+        "B": "thẩm định",
+        "C": "phê duyệt",
+        "D": "tất cả các nội dung",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_31",
+        "QUESTION": "Kế hoạch xây dựng, huy động, tiếp nhận lực lượng dự bị động viên được lập mới trong mấy trường hợp?",
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "lập mới hàng năm",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_32",
+        "QUESTION": "Đăng ký, quản lý quân nhân dự bị thuộc điều mấy trong Luật?",
+        "A": "Điều 11",
+        "B": "Điều 12",
+        "C": "Điều 13",
+        "D": "Điều 14",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_33",
+        "QUESTION": "Cơ quan nào quy định trình tự, thủ tục đăng ký quân nhân dự bị quy định?",
+        "A": "Chính phủ",
+        "B": "Bộ Quốc phòng",
+        "C": "Cơ quan quân sự cấp tỉnh, thành phố",
+        "D": "Ủy ban nhân dân cấp tỉnh, thành phố",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_34",
+        "QUESTION": "Cơ quan nào quy định Danh mục phương tiện kỹ thuật dự bị và việc đăng ký, quản lý phương tiện kỹ thuật dự bị",
+        "A": "Chính phủ",
+        "B": "Bộ Quốc phòng",
+        "C": "Cơ quan quân sự cấp tỉnh, thành phố",
+        "D": "Ủy ban nhân dân cấp tỉnh, thành phố",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_35",
+        "QUESTION": "...Giao chỉ tiêu xây dựng lực lượng dự bị động viên cho Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và tỉnh, thành phố trực thuộc trung ương?",
+        "A": "Bộ Quốc phòng",
+        "B": "Quốc hội",
+        "C": "Thủ tướng Chính phủ",
+        "D": "Chủ tịch nước",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_36",
+        "QUESTION": "...giao chỉ tiêu xây dựng lực lượng dự bị động viên cho cơ quan, đơn vị thuộc quyền và Ủy ban nhân dân cấp huyện.",
+        "A": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+        "B": "Cơ quan quân sự cấp tỉnh",
+        "C": "Cơ quan quân sự cấp huyện",
+        "D": "ủy ban nhân dân huyện",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_37",
+        "QUESTION": "... giao chỉ tiêu xây dựng lực lượng dự bị động viên cho Ủy ban nhân dân cấp xã?",
+        "A": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+        "B": "Chủ tịch Ủy ban nhân dân cấp huyện",
+        "C": "Cơ quan quân sự cấp tỉnh",
+        "D": "Tất cả đều đúng",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_38",
+        "QUESTION": "Sắp xếp quân nhân dự bị vào đơn vị dự bị động viên?",
+        "A": "tập trung chủ yếu vào đơn vị bộ đội địa phương",
+        "B": "đồng đều từ đơn vị bộ đội chủ lực và bộ đội địa phương",
+        "C": "thuộc đơn vị bộ đội chủ lực trước, đơn vị bộ đội địa phương sau.",
+        "D": "tất cả đều đúng",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_39",
+        "QUESTION": "Độ tuổi quân nhân chuyên nghiệp dự bị và hạ sĩ quan, binh sĩ dự bị sắp xếp vào đơn vị dự bị động viên được quy định tại điều mấy?",
+        "A": "Điều 13",
+        "B": "Điều 15",
+        "C": "Điều 17",
+        "D": "Điều 19",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_40",
+        "QUESTION": "Độ tuổi sĩ quan dự bị sắp xếp vào đơn vị dự bị động viên thực hiện theo quy định của ?",
+        "A": "Luật Dự bị động viên",
+        "B": "Luật bảo hiểm xã hội",
+        "C": "Luật Sĩ quan Quân đội nhân dân Việt Nam.",
+        "D": "Luật Quốc phòng",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_41",
+        "QUESTION": "hẩm quyền sắp xếp quân nhân dự bị, phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên tại điều mấy?",
+        "A": "Điều 13",
+        "B": "Điều 15",
+        "C": "Điều 17",
+        "D": "Điều 19",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_42",
+        "QUESTION": "Sắp xếp phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên tại điều mấy?",
+        "A": "Điều 12",
+        "B": "Điều 14",
+        "C": "Điều 16",
+        "D": "Điều 18",
+        "ANSWER": "D"
+    },
+    {
+        "ID": "DE_4_43",
+        "QUESTION": "Việc bổ nhiệm, miễn nhiệm chức vụ; giáng chức, cách chức; phong, thăng, giáng, tước quân hàm; giải ngạch sĩ quan dự bị thực hiện theo quy định của?",
+        "A": "Luật Dự bị động viên",
+        "B": "Luật bảo hiểm xã hội",
+        "C": "Luật Sĩ quan Quân đội nhân dân Việt Nam.",
+        "D": "Luật Quốc phòng",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_44",
+        "QUESTION": "Điều mấy quy định Tuyển chọn, đào tạo sĩ quan dự bị?",
+        "A": "Điều 19",
+        "B": "Điều 20",
+        "C": "Điều 21",
+        "D": "Điều 22",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_45",
+        "QUESTION": "…. quyết định chỉ tiêu đào tạo sĩ quan dự bị hằng năm.?",
+        "A": "Thủ tướng Chính phủ",
+        "B": "Chủ tịch nước",
+        "C": "Bộ trưởng Bộ Quốc phòng",
+        "D": "Tổng tham mưu trưởng",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_46",
+        "QUESTION": "Cơ quan nào quy định đối tượng, tiêu chuẩn tuyển chọn, đào tạo sĩ quan dự bị?",
+        "A": "Bộ Quốc phòng",
+        "B": "Chính phủ",
+        "C": "Quốc hội",
+        "D": "Ủy ban nhân dân tỉnh, thành phố",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_47",
+        "QUESTION": "Quân nhân dự bị được hoãn tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu trong mấy trường hợp?",
+        "A": "không được hoãn",
+        "B": "1 trường hợp",
+        "C": "2 trường hợp",
+        "D": "ngày lễ, tết",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_48",
+        "QUESTION": "Chế độ sinh hoạt của quân nhân dự bị quy định tại điều mấy?",
+        "A": "Điều 21",
+        "B": "Điều 22",
+        "C": "Điều 23",
+        "D": "Điều 24",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_49",
+        "QUESTION": "... quy định hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị?",
+        "A": "Bộ trưởng Bộ Quốc phòng",
+        "B": "Tổng Tham mưu trưởng",
+        "C": "Chủ nhiệm Tổng cục Chính trị",
+        "D": "Tư lệnh Quân khu",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_50",
+        "QUESTION": "Có bao nhiêu trường hợp huy động lực lượng dự bị động viên?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_51",
+        "QUESTION": "quyết định số lượng quân nhân dự bị, phương tiện kỹ thuật dự bị huy động ở Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và tỉnh, thành phố trực thuộc trung ương.",
+        "A": "Bộ quốc phòng",
+        "B": "Thủ tướng Chính phủ",
+        "C": "Quốc hội",
+        "D": "Chủ tịch nước",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_52",
+        "QUESTION": "Huy động lực lượng dự bị động viên khi chưa đến mức tổng động viên hoặc động viên cục bộ được quy định tại điều mấy?",
+        "A": "Điều 19",
+        "B": "Điều 24",
+        "C": "Điều 26",
+        "D": "Điều 31",
+        "ANSWER": "C"
+    },
+    {
+        "ID": "DE_4_53",
+        "QUESTION": "Thời hạn hoàn thành thông báo quyết định huy động và lệnh huy động quân nhân dự bị, phương tiện kỹ thuật dự bị được xác định trong kế hoạch nào?",
+        "A": "kế hoạch huy động lực lượng dự bị động viên.",
+        "B": "công văn của ủy ban nhân dân tỉnh, thành phố",
+        "C": "kế hoạch xây dựng lực lượng",
+        "D": "kế hoạch phối hợp",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_54",
+        "QUESTION": "...quy định việc thông báo quyết định, lệnh huy động lực lượng dự bị động viên?",
+        "A": "Bộ trưởng Bộ Quốc phòng",
+        "B": "Tổng Tham mưu trưởng",
+        "C": "Chủ nhiệm Tổng cục Chính trị",
+        "D": "Tư lệnh Quân khu",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_55",
+        "QUESTION": "Đơn vị ... của Quân đội nhân dân tiếp nhận lực lượng dự bị động viên được bổ sung; bàn giao lực lượng dự bị động viên cho Ủy ban nhân dân các cấp, cơ quan, tổ chức sau khi thực hiện xong nhiệm vụ.",
+        "A": "thường trực",
+        "B": "chủ lực",
+        "C": "bộ binh",
+        "D": "địa phương",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_56",
+        "QUESTION": "Địa điểm tập trung lực lượng dự bị động viên do ... xác định?",
+        "A": "cơ quan quân sự huyện",
+        "B": "Ủy ban nhân dân cấp huyện",
+        "C": "huyện ủy",
+        "D": "cơ quan quân sự cấp tỉnh, thành phố",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_57",
+        "QUESTION": "Địa điểm tiếp nhận lực lượng dự bị động viên do đơn vị ….. của Quân đội nhân dân xác định?",
+        "A": "thường trực",
+        "B": "chủ lực",
+        "C": "bộ binh",
+        "D": "địa phương",
+        "ANSWER": "A"
+    },
+    {
+        "ID": "DE_4_58",
+        "QUESTION": "Quân nhân dự bị đã xếp vào đơn vị dự bị động viên được hưởng …?",
+        "A": "lương",
+        "B": "phụ cấp",
+        "C": "thâm niên",
+        "D": "tiền thưởng",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_59",
+        "QUESTION": "… thống nhất quản lý nhà nước về xây dựng, huy động lực lượng dự bị động viên?",
+        "A": "Bộ Quốc phòng",
+        "B": "Chính phủ",
+        "C": "Quốc hội",
+        "D": "Ủy ban nhân dân tỉnh, thành phố",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_60",
+        "QUESTION": "Nội dung quản lý nhà nước về xây dựng, huy động lực lượng dự bị động viên bao gồm mấy nội dung?",
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7",
+        "ANSWER": "B"
+    },
+    {
+        "ID": "DE_4_61",
+        "QUESTION": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về xây dựng, huy động lực lượng dự bị động viên và có bao nhiêu trách nhiệm?",
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9",
+        "ANSWER": "D"
+    }
+]
