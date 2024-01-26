@@ -1,6 +1,6 @@
 [
     {
-      "ID": "DE_6_1",
+      "ID": "1",
       "QUESTION": "Câu \"Năm mới ra sức thi đua ái quốc để thu nhiều thắng lợi hơn năm cũ” là lời trong thư chúc năm mới của Bác vào năm nào ?",
       "A": "1950",
       "B": "1951",
@@ -9,7 +9,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_2",
+      "ID": "2",
       "QUESTION": "Câu \"Có anh hùng là vì có tập thể anh hùng. Có tập thể anh hùng là vì có nhân dân anh hùng, dân tộc anh hùng, Đảng anh hùng”, trong bài Phát biểu tại buổi tiếp đại biểu các đơn vị anh hùng và chiến sĩ thi đua chống Mỹ, cứu nước ngày 2-1-1967được đăng trên báo Nhân dân số bao nhiêu, ngày bao nhiêu?",
       "A": "Số 3640 ngày 10/7/1950",
       "B": "Số 4660 ngày 10/01/1967",
@@ -18,7 +18,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_3",
+      "ID": "3",
       "QUESTION": "Câu “Đại bác của bọn đế quốc không thể át tiếng nói yêu nước của nhân dân Việt Nam” được Bác viết trong bài báo nào ?",
       "A": "Con đường cứu nước và giải phóng dân tộc trong thời đại ngày nay",
       "B": "Ba mươi năm hoạt động của Đảng",
@@ -27,7 +27,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_4",
+      "ID": "4",
       "QUESTION": "Câu \"... Anh chị em trí thức ta cũng nên có cuộc vận động để góp phần vào phong trào chung đó\" được Bác nói trong trong bài nói chuyện tại Hội nghị trí thức Việt Nam chống Mỹ, cứu nước diễn ra vào ngày nào ?",
       "A": "04/01/1966",
       "B": "04/01/1967",
@@ -36,7 +36,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_5",
+      "ID": "5",
       "QUESTION": "Câu “Văn hóa nghệ thuật cũng là một mặt trận. Anh chị em là chiến sĩ trên mặt trận ấy” trong Thư gửi các họa sĩ nhân dịp triển lãm hội họa được đăng trên báo nào, số bao nhiêu vào ngày 05/01/1952?",
       "A": "Báo Nhân dân số 1952",
       "B": "Báo Cứu quốc số 1952",
@@ -45,7 +45,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_6",
+      "ID": "6",
       "QUESTION": "Điền từ vào lời của Bác trong bài Ba mươi năm hoạt động của Đảng “Chỉ có ... là dũng cảm nhất, cách mạng nhất",
       "A": "giai cấp công nhân",
       "B": "giai cấp nông dân",
@@ -54,7 +54,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_7",
+      "ID": "7",
       "QUESTION": "Câu “Chỉ có giai cấp công nhân là dũng cảm nhất, cách mạng nhất\" được trích trong lời Bác nhân kỷ niệm bao nhiêu năm Đảng hoạt động",
       "A": "20 năm",
       "B": "25 năm",
@@ -63,7 +63,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_8",
+      "ID": "8",
       "QUESTION": "Câu “Nói miệng, ai cũng nói được. Ta cần phải thực hành” được Bác Hồ nói tại đâu ?",
       "A": "Trường Cán bộ Dân tộc Trung ương",
       "B": "Trường Cán bộ tự vệ Hồ Chí Minh",
@@ -72,7 +72,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_9",
+      "ID": "9",
       "QUESTION": "Điền từ vào câu sau \"Có nói sự thực thì việc ... của mình mới có nhiều người nghe” trong lời dạy của Bác ?",
       "A": "truyền bá",
       "B": "truyền đạt",
@@ -81,7 +81,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_10",
+      "ID": "10",
       "QUESTION": "Câu “Thanh niên là một cái nguồn vô tận, từ nguồn ấy mà chúng ta đào tạo những cán bộ tốt cho hiện tại và tương lai của nước nhà” là lời của Bác trong bài báo nào ?",
       "A": "Bài \"Thanh niên nông dân\"\n đăng trên báo Thanh niên",
       "B": "Bài \"Thanh niên cứu quốc\"đăng trên báo Nhân dân",
@@ -90,7 +90,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_11",
+      "ID": "11",
       "QUESTION": "“Chúng ta tranh được tự do, độc lập rồi mà dân cứ chết đói, chết rét, thì tự do, độc lập cũng không làm gì. Dân chỉ biết rõ giá trị của tự do, của độc lập khi mà dân được ăn no, mặc đủ”. Đây là lời của Chủ tịch Hồ Chí Minh trong bài phát biểu tại cuộc họp đầu tiên của Ủy ban nào ?",
       "A": "Ủy ban Nghiên cứu kế hoạch kiến quốc",
       "B": "Ủy ban hành chính kiến quốc",
@@ -99,7 +99,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_12",
+      "ID": "12",
       "QUESTION": "Câu \"...Phát triển lực lượng du kích mạnh mẽ rộng khắp thành một \"thiên la địa võng”, giặc đi đên đâu là bị tiêu diệt đến đó, thì giặc nhất định thua, ta nhất định thắng” được Bác viết trong bài nào ?",
       "A": "Đẩy mạnh chiến tranh du kích",
       "B": "Đẩy mạnh kháng chiến du kích",
@@ -108,7 +108,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_13",
+      "ID": "13",
       "QUESTION": "Câu “ Nhân dân có quyền lợi làm chủ, thì phải có nghĩa vụ làm tròn bổn phận công dân” trong bài \"Đạo đức công dân\" được đăng trên báo Nhân dân vào ngày nào ?",
       "A": "15/01/1955",
       "B": "15/02/1955",
@@ -117,7 +117,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_14",
+      "ID": "14",
       "QUESTION": "Câu “Hết sức tiết kiệm trong công việc làm ăn và trong dịp tết, phải tránh lãng phí sức người, tránh lãng phí thời gian và tiền của. Chớ vì được mùa mà ăn tiêu phí phạm ” được Bác Hồ nói trong bối cảnh nào?",
       "A": "Kết thúc Kế hoạch năm 1956",
       "B": "Kết thúc Kế hoạch năm 1957",
@@ -126,7 +126,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_15",
+      "ID": "15",
       "QUESTION": "Bác Hồ nói câu “Đồng bào miền Nam thắng vì đoàn kết chặt chẽ, chiến đấu anh dũng và có chính nghĩa, cho nên được nhân dân tiến bộ các nước kể cả nhân dân Mỹ đồng tình và ủng hộ. Vậy anh em binh sĩ nên làm sao đây?” trong bối cảnh Đế quốc Mỹ đang tiến hành chiến lược chiến tranh nào ở Việt Nam?",
       "A": "Chiến tranh đơn phương",
       "B": "Chiến tranh đặc biệt",
@@ -135,7 +135,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_16",
+      "ID": "16",
       "QUESTION": "Bác Hồ căn dặn Công an Nhân dân “Công an phải có tinh thần phục vụ nhân dân, là bạn dân\" trong Thử gửi Hội nghị Công an toàn quốc diễn ra vào thời gian nào ?",
       "A": "11/05/1950",
       "B": "15/01/1950",
@@ -144,7 +144,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_17",
+      "ID": "17",
       "QUESTION": "“Các cô, các chú nên thấm nhuần và làm cho cán bộ thấm nhuần điều này: Phải có tinh thần cảnh giác, phòng gian bảo mật”.Là lời của Chủ tịch Hồ Chí Minh, trong Bài nói tại hội nghị cán bộ cao cấp nghiên cứu Nghị quyết Hội nghị lần thứ mấy Ban Chấp hành Trung ương Đảng Khóa III",
       "A": "12",
       "B": "13",
@@ -153,7 +153,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_18",
+      "ID": "18",
       "QUESTION": "“Gửi toàn thể cán bộ và chiến sĩ Mặt trận trung du, đợt thứ hai chiến dịch bắt đầu như thế là khá lắm. Bác thân ái gửi lời khen các chú. Bác mong mỗi người, mỗi đơn vị đều hăng hái thi đua xung phong, giết cho nhiều địch, hạ cho nhiều đồn” trong Điện gửi cán bộ và chiến sĩ Mặt trận Trung du vào ngày mấy ?",
       "A": "17/01/1950",
       "B": "17/01/1951",
@@ -162,7 +162,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_19",
+      "ID": "19",
       "QUESTION": "\"Trước mặt quần chúng, không phải ta cứ viết lên trán chữ “cộng sản” mà ta được họ yêu mến\" đó là lời của Chủ tịch Hồ Chí Minh, trong Bài nói bế mạc tại Hội nghị cán bộ của Đảng lần thứ mấy vào ngày 18-1-1949?",
       "A": "5",
       "B": "6",
@@ -171,7 +171,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_20",
+      "ID": "20",
       "QUESTION": "“Mỗi viên đạn, mỗi khẩu súng là mồ hôi nước mắt của đồng bào mình” là lời của Chủ tịch Hồ Chí Minh trong bài nói tại Hội nghị tổng kết Chiến dịch nào ?",
       "A": "Biên giới",
       "B": "Trần Hưng Đạo",
@@ -180,7 +180,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_21",
+      "ID": "21",
       "QUESTION": "“Khi thắng không kiêu, khi lui không nản! Các anh em quyết kháng chiến cho đến thắng lợi”.\n Đó là lời của Chủ tịch Hồ Chí Minh trong Văn bản nào?",
       "A": "Thư \"Gửi các chiến sĩ Vệ quốc đoàn, tự vệ và dân quân toàn quốc\"",
       "B": "Bài nói tại Hội nghị tổng kết Chiến dịch Hoàng Hoa Thám",
@@ -189,7 +189,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_22",
+      "ID": "22",
       "QUESTION": "“..mỗi một hội viên Việt Minh đều phải tuyên truyền tổ chức; phải làm cho các Hội Cứu quốc ngày càng mạnh, làm cho các đội tự vệ, các đội du kích ngày càng nhiều” là lời của Chủ tịch Hồ Chí Minh, trong bài Năm mới, công việc mới được đăng trên báo nào?",
       "A": "Thanh niên",
       "B": "Cứu Quốc",
@@ -198,7 +198,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_23",
+      "ID": "23",
       "QUESTION": "“ Đồng bào các dân tộc và cán bộ, chiến sĩ Việt Bắc đã luôn luôn nêu cao truyền thống đoàn kết, trung dũng của khu căn cứ cách mạng”. là lời khen của Chủ tịch Hồ Chí Minh, trong Thư gửi quân và dân Quân khu Việt Bắc trong những ngày tháng đầu năm bao nhiêu?",
       "A": "1965",
       "B": "1966",
@@ -207,7 +207,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_24",
+      "ID": "24",
       "QUESTION": "“Kính gửi ông Ragiăngđra Praxát, Tổng thống nước Cộng hoà Ấn Độ, nhân dịp năm mới, tôi kính chúc Tổng thống lời chúc mừng nồng nhiệt và kính chúc Chính phủ và nhân dân Ấn Độ thu được nhiều thắng lợi mới trong việc xây dựng một nước Ấn Độ ngày càng giàu mạnh. Kính chúc Tổng thống năm mới mạnh khoẻ và chúc tình hữu nghị Việt - Ấn ngày càng phát triển”. là lời trong Điện của Chủ tịch Hồ Chí Minh, chúc mừng Tổng thống Ấn Độ nhân dịp năm mới bao nhiêu?",
       "A": "1956",
       "B": "1957",
@@ -216,7 +216,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_25",
+      "ID": "25",
       "QUESTION": "Đội quân chủ lực thực hiện lời Bác dạy “Tết trồng cây chẳng những có ý nghĩa kinh tế mà còn có ý nghĩa chính trị to lớn” trong Bài \"Tết trồng cây\" là của Đoàn Thanh niên lao động bao nhiêu tỉnh?",
       "A": "10",
       "B": "11",
@@ -225,7 +225,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_26",
+      "ID": "26",
       "QUESTION": "Câu “Phải có một quân đội đánh giỏi và một hậu phương vững chắc\", “Mỗi một người công nhân, mỗi một người nông dân đều phải biết đánh giặc”. “Tất cả cho tiền tuyến, tất cả để đánh thắng” được Bác Hồ nói trong thời điểm kế hoạch nào của Pháp đang trên đà thất bại?",
       "A": "Kế hoạch đánh chiếm Hà Nội",
       "B": "Kế hoạch Rơ - ve",
@@ -234,7 +234,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_27",
+      "ID": "27",
       "QUESTION": "“Để thực hiện từng bước công nghiệp hóa xã hội chủ nghĩa, nhằm đưa miền Bắc tiến nhanh, tiến mạnh lên chủ nghĩa xã hội, làm cơ sở vững chắc cho cuộc đấu tranh thực hiện thống nhất nước nhà, cán bộ và công nhân ngành công nghiệp phải có quyết tâm hoàn thành và hoàn thành vượt mức kế hoạch năm 1961, làm đà cho việc thực hiện thắng lợi kế hoạch 5 năm lần thứ ...” Điền từ vào chỗ trống.",
       "A": "Nhất",
       "B": "Nhì",
@@ -243,7 +243,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_28",
+      "ID": "28",
       "QUESTION": "“Các em là đội cảm tử. Các em cảm tử để cho Tổ quốc quyết sinh” là lời của Chủ tịch Hồ Chí Minh trong Thư gửi các chiến sĩ cảm tử quân Thủ đô vào ngày mấy?",
       "A": "27/01/1946",
       "B": "27/01/1947",
@@ -252,7 +252,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_29",
+      "ID": "29",
       "QUESTION": "\"…bảo đảm công tác thông tin liên lạc kịp thời, chính xác, bí mật, an toàn…” là lời của Chủ tịch Hồ Chí Minh, trong Thư gửi cán bộ, chiến sĩ bộ đội Thông tin liên lạc, ngày 28-1-1969, nhân dịp bộ đội Thông tin liên lạc mở Đại hội nào ?",
       "A": "Đại hội Thi đua yêu nước",
       "B": "Đại hội thi đua lập công",
@@ -261,7 +261,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_30",
+      "ID": "30",
       "QUESTION": "“…đoàn kết, cảnh giác, nâng cao chí khí chiến đấu, truyền thống anh dũng, kiên quyết làm tròn nhiệm vụ thì quân đội ta bất kỳ thời chiến hay thời bình sẽ là quân đội tất thắng, vô địch” tại buổi nói chuyện với các đại biểu quân đội, thương binh và quân nhân phục viên trọng dịp Tết nào ?",
       "A": "Bính Thân",
       "B": "Đinh Dậu",
@@ -270,7 +270,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_31",
+      "ID": "31",
       "QUESTION": "“Mục đích của chúng ta là xây dựng chủ nghĩa xã hội ở miền Bắc, nâng cao không ngừng đời sống nhân dân và đấu tranh hòa bình thống nhất nước nhà” là lời của Chủ tịch Hồ Chí Minh, trong bài Nói chuyện tại hội nghị phổ biến nghị quyết hội nghị Trung ương lần thứ ba về kế hoạch nhà nước năm bao nhiêu ?",
       "A": "1964",
       "B": "1963",
@@ -279,7 +279,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_32",
+      "ID": "32",
       "QUESTION": "\"… công việc nào cũng quan trọng, cũng cần thiết và những người quyết tâm làm tròn nhiệm vụ đều là chiến sĩ, anh hùng\" là lời thư của Chủ tịch Hồ Chí Minh gửi cán bộ, ngành thương binh, cựu binh, nhân Hội nghị cán bộ ngành thương binh, cựu binh vào tháng mấy năm 1954 ?",
       "A": "một",
       "B": "hai",
@@ -288,7 +288,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_33",
+      "ID": "33",
       "QUESTION": "“Nhà nào cũng có cửa, có buồng, có hòm, có khoá, để phòng ngừa kẻ gian giảo, để giữ gìn của cải do mình khó nhọc làm ra. Giữ nhà phải cẩn thận như vậy. Giữ nước càng phải cẩn thận hơn” là lời dạy của Chủ tịch Hồ Chí Minh viết trong bài: Phải giữ bí mật của nhà nước, đăng trên Báo Nhân dân ngày nào?",
       "A": "01/02/1955",
       "B": "01/02/1956",
@@ -297,7 +297,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_34",
+      "ID": "34",
       "QUESTION": "“Chính phủ sẽ luôn luôn rộng lượng với những ai biết cải tà quy chính, trọng thưởng những ai biết đái tội lập công”. Câu nói trên được Hồ Chí Minh viết trong Thư chúc tết đồng bào vùng tạm bị địch chiếm vào năm nào?",
       "A": "1946",
       "B": "1947",
@@ -306,7 +306,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_35",
+      "ID": "35",
       "QUESTION": "“Mỗi chi bộ của Đảng phải là một hạt nhân lãnh đạo quần chúng ở cơ sở, đoàn kết chặt chẽ, liên hệ mật thiết với quần chúng, phát huy được trí tuệ và lực lượng vĩ đại của quần chúng. Mỗi cấp bộ của Đảng phải là một cơ quan lãnh đạo vững chắc ở địa phương, theo đúng đường lối, chính sách của Trung ương.” là lời dạy được Chủ tịch Hồ Chí Minh thể hiện trong bài: Đoàn kết tiến lên giành thắng lợi mới. Bài viết nhân dịp kỷ niệm lần thứ mấy Ngày thành lập Đảng Cộng sản Việt Nam",
       "A": "31",
       "B": "32",
@@ -315,7 +315,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_36",
+      "ID": "36",
       "QUESTION": "“Đoàn kết đã đưa Đảng ta và nhân dân ta từ thắng lợi này đến thắng lợi khác. Cho nên chúng ta quý trọng và ra sức bảo vệ sự đoàn kết nhất trí - trong Đảng và trong nhân dân ta cũng như giữa các đảng và giữa các nước anh em - như giữ gìn con ngươi của mình” là lời dạy của Chủ tịch Hồ Chí Minh bao nhiêu năm thành lập Đảng ?",
       "A": "33",
       "B": "34",
@@ -324,7 +324,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_37",
+      "ID": "37",
       "QUESTION": "“Nông dân lao động là một lực lượng rất to lớn của dân tộc, một đồng minh rất chắc chắn của giai cấp công nhân. Muốn kháng chiến thắng lợi, kiến quốc thành công ắt phải dựa vào quần chúng nông dân” là lời dạy trên được Chủ tịch Hồ Chí Minh viết trong Thư gửi Hội nghị nào vào ngày 5/2/1953 ?",
       "A": "Thư gửi Hội nghị nông dân",
       "B": "Thư gửi Hội nghị nông vận và dân vận",
@@ -333,7 +333,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_38",
+      "ID": "38",
       "QUESTION": "“Cách mạng rất cần trí thức và chính ra chỉ có cách mạng mới biết trọng trí thức. Nhưng trọng trí thức như thế nào? Không phải tất cả đều là trọng. Trí thức đáng trọng là trí thức hết lòng phục vụ cách mạng, phục vụ nhân dân” là lời nói của Chủ tịch Hồ Chí Minh trình bày trong Hội nghị nào?",
       "A": "Khai mạc lớp cán bộ tuyên huấn trung ương",
       "B": "Khai mạc lớp cán bộ dân vận",
@@ -342,7 +342,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_39",
+      "ID": "39",
       "QUESTION": "“Đối với tất cả các nước trên thế giới, nước Việt Nam Dân chủ Cộng hòa thiết tha mong muốn duy trì tình hữu nghị và thành thật hợp tác trên cơ sở bình đẳng và tương trợ để xây dựng hòa bình thế giới lâu dài” lời nói trên được Chủ tịch Hồ Chí Minh trình bày trong Hội nghị những người ... nghiên cứu vấn đề quốc tế, ngày 7/2/1958. Điền từ vào chỗ trống",
       "A": "Ấn",
       "B": "Anh",
@@ -351,7 +351,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_40",
+      "ID": "40",
       "QUESTION": "“Tự mãn thì không tiến bộ được nữa; không tiến bộ tức là thoái bộ, mà thoái bộ thì không làm tròn nhiệm vụ” là lời nói của Chủ tịch Hồ Chí Minh trình bày tại Hội nghị tổng kết cải cách ruộng đất đợt mấy?",
       "A": "I",
       "B": "II",
@@ -360,7 +360,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_41",
+      "ID": "41",
       "QUESTION": "“Thực hiện khẩu hiệu “Sạch làng tốt ruộng”, “Tấc đất tấc vàng” - nhà cửa, vườn tược, đường sá đều sạch sẽ, đúng vệ sinh” là lời dạy trên của Chủ tịch Hồ Chí Minh được thể hiện trong Bài viết nào được đăng trên Báo Nhân dân, số 2518, ngày 9-2-1961 ?",
       "A": "\"Đạo đức công dân\"",
       "B": "Năm mới, công việc mới",
@@ -369,7 +369,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_42",
+      "ID": "42",
       "QUESTION": "“Đảng không phải chỉ cần con số cho nhiều, tuy nhiều là tốt, nhưng phải có cái chất của người đảng viên. Mỗi người đảng viên, mỗi người cán bộ từ trên xuống dưới đều phải hiểu rằng: Mình vào Đảng để làm đày tớ cho nhân dân… Làm đày tớ nhân dân chứ không phải làm “quan” nhân dân” là lời dạy của Chủ tịch Hồ Chí Minh trong Bài nói với cán bộ tỉnh nào ngày 10-2-1967",
       "A": "Vĩnh Phú",
       "B": "Hà- Nam-Ninh",
@@ -378,7 +378,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_43",
+      "ID": "43",
       "QUESTION": "“Phải làm cho lực lượng của dân quân du kích thành những tấm lưới sắt rộng rãi và chắc chắn, chăng khắp mọi nơi, địch mò đến đâu là mắc lưới đến đó” là lời của Hồ Chí Minh trình bày trong Báo cáo chính trị tại Hội nghị nào của Đảng?",
       "A": "Hội nghị trung ương 3 Khóa !",
       "B": "Hội nghị Trung ương 5 khóa 2",
@@ -387,7 +387,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_44",
+      "ID": "44",
       "QUESTION": "“Để bảo đảm phong trào thi đua thắng lợi vẻ vang, cần có hai điều: một là cán bộ và công nhân phải thấm nhuần đạo đức cách mạng, ý thức trách nhiệm và tinh thần làm chủ tập thể; hai là kế hoạch 10 phần thì biện pháp phải 20 phần và quyết tâm 30 phần” là lời của Chủ tịch Hồ Chí Minh nói tại Đại hội thi đua “Năng suất cao, chất lượng tốt, tiết kiệm nhiều” toàn miền Bắc vào năm bao nhiêu?",
       "A": "1963",
       "B": "1964",
@@ -396,7 +396,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_45",
+      "ID": "45",
       "QUESTION": "“Tư tưởng bảo thủ là như những sợi dây cột chân cột tay người ta, phải vất nó đi. Muốn tiến bộ thì phải có tinh thần mạnh dạn, dám nghĩ dám làm” là lời của Chủ tịch Hồ Chí Minh trong Thư gửi đồng bào và cán bộ xã nào ?",
       "A": "Nam Thành",
       "B": "Nam Liên",
@@ -405,7 +405,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_46",
+      "ID": "46",
       "QUESTION": "“Chế độ ta là chế độ dân chủ nhân dân; chúng ta cần mở rộng dân chủ với nhân dân, đồng thời cần phải tăng cường chuyên chính với kẻ địch của nhân dân. Có tăng cường chuyên chính với kẻ địch thì mới bảo vệ được tự do và dân chủ của nhân dân ta” là lời của Chủ tịch Hồ Chí Minh được nêu trong Báo cáo trước Hội nghị Đại biểu nhân dân Thủ đô về thành công của Kỳ họp thứ mấy Quốc hội khóa I.",
       "A": "Năm",
       "B": "Sáu",
@@ -414,7 +414,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_47",
+      "ID": "47",
       "QUESTION": "“Nhân dân Việt Nam chúng tôi rất thiết tha với độc lập, tự do và hòa bình... Nhân dân Việt Nam quyết không khuất phục trước vũ lực và quyết không nói chuyện trước sự đe dọa của bom đạn” là quan điểm của Chủ tịch Hồ Chí Minh được thể hiện trong Thư trả lời Tổng thống Mỹ nào?",
       "A": "Ai-xen-hao",
       "B": "Ke-nơ-dy",
@@ -423,7 +423,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_48",
+      "ID": "48",
       "QUESTION": "“Bác mong Không quân có nhiều … hơn nữa” là lời động viên, khen ngợi của Chủ tịch Hồ Chí Minh, đối với Quân chủng Phòng không - Không quân tại Hội nghị gặp mặt các anh hùng Quân đội thuộc Quân chủng Phòng không - Không quân. Điền từ vào chỗ trống.",
       "A": "Cốc",
       "B": "Bảy",
@@ -432,7 +432,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_49",
+      "ID": "49",
       "QUESTION": "“Bác mong Không quân có nhiều Cốc hơn nữa” là lời động viên, khen ngợi của Chủ tịch Hồ Chí Minh, đối với Quân chủng Phòng không - Không quân tại Hội nghị gặp mặt các anh hùng Quân đội thuộc Quân chủng Phòng không - Không quân vào năm bao nhiêu ?",
       "A": "1966",
       "B": "1967",
@@ -441,7 +441,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_50",
+      "ID": "50",
       "QUESTION": "“Con cháu Lạc Hồng, bao giờ cũng quật cường, không bao giờ sợ khổ” là lời của Chủ tịch Hồ Chí Minh được thể hiện trong văn bản nào?",
       "A": "Thư gửi đồng bào tản cư",
       "B": "Thư gửi kiều bào",
@@ -450,7 +450,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_51",
+      "ID": "51",
       "QUESTION": "“Các cô các chú phải trau dồi cả đức cả tài, không có đức thì vô dụng, không có tài thì làm gì cũng khó” là căn dặn của Chủ tịch Hồ với các sinh viên khi Người đến thăm nơi nào ?",
       "A": "Trường Y tá liên khu I",
       "B": "Việt Nam học xá",
@@ -459,7 +459,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_52",
+      "ID": "52",
       "QUESTION": "“Muốn dạy cho trẻ em thành người tốt thì trước hết các cô các chú phải là người tốt” là lời căn dặn sâu sắc của Chủ tịch Hồ Chí Minh khi nói chuyện tại Hội nghị cán bộ phụ trách thiếu nhi toàn miền Bắc vào năm nào ?",
       "A": "1956",
       "B": "1957",
@@ -468,7 +468,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_53",
+      "ID": "53",
       "QUESTION": "“Cán bộ là cái dây chuyền của bộ máy. Nếu dây chuyền không tốt, không chạy thì động cơ dù tốt, dù chạy, toàn bộ máy cũng tê liệt\" là lời của Chủ tịch Hồ Chí Minh trong bài nói chuyện với cán bộ tỉnh, thành phố nào?",
       "A": "Thanh Hóa",
       "B": "Nghệ An",
@@ -477,7 +477,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_54",
+      "ID": "54",
       "QUESTION": "“Các cô, các chú là những thầy giáo, những cán bộ giáo dục đều phải luôn luôn cố gắng học thêm, học chính trị, học chuyên môn. Nếu không tiến bộ mãi, thì sẽ không theo kịp đà tiến chung, sẽ trở thành lạc hậu” là lời của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện tại Đại hội chiến sĩ thi đua toàn ngành giáo dục năm bao nhiêu ?",
       "A": "1955",
       "B": "1956",
@@ -486,7 +486,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_55",
+      "ID": "55",
       "QUESTION": "“Theo đúng đường lối thì đi đến nơi, về đến chốn…\" là lời của Chủ tịch Hồ Chí Minh trong bài “Đường lối chung của Đảng và Chính phủ ở nông thôn” vào năm bao nhiêu?",
       "A": "1955",
       "B": "1956",
@@ -495,7 +495,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_56",
+      "ID": "56",
       "QUESTION": "“Và bất kỳ làm công việc gì, ở địa vị nào mà làm tròn nhiệm vụ đều là vẻ vang, đều là anh hùng” là lời dạy của Chủ tịch Hồ Chí Minh, được trích trong bài nói chuyện với đồng bào và cán bộ tỉnh nào?",
       "A": "Lạng Sơn",
       "B": "Hà Tĩnh",
@@ -504,7 +504,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_57",
+      "ID": "57",
       "QUESTION": "“Một quân đội văn hay võ giỏi, là một quân đội vô địch” là lời của Chủ tịch Hồ Chí Minh được trích trong Thư khen ngợi toàn thể bộ đội khu mấy về thành tích đã xóa nạn mù chữ?",
       "A": "Khu II",
       "B": "Khu III",
@@ -513,7 +513,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_58",
+      "ID": "58",
       "QUESTION": "\"Quân đội ta là quân đội nhân dân. Chiến tranh của ta là chiến tranh nhân dân. Quân đội phải gắn chặt với dân\" là lời của Chủ tịch Hồ Chí Minh căn dặn quân đội được thể hiện trong phiên bế mạc Hội nghị Bộ Chính trị lần thứ mấy khóa III ?",
       "A": "1",
       "B": "2",
@@ -522,7 +522,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_59",
+      "ID": "59",
       "QUESTION": "“Y tá là những chiến sĩ đánh giặc ốm, để bảo vệ sự khang kiện của giống nòi. Những chiến sĩ y tá phải có chí chịu khổ, chịu khó. Phải giàu lòng bác ái hy sinh”là lời của Chủ tịch Hồ Chí Minh được trích trong Thư gửi nam nữ học viên Trường Y tá liên khu mấy?",
       "A": "I",
       "B": "II",
@@ -531,7 +531,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_60",
+      "ID": "60",
       "QUESTION": "“Người bệnh phó thác tính mệnh của họ nơi các cô, các chú. Chính phủ phó thác cho các cô, các chú việc chữa bệnh tật và giữ sức khỏe cho đồng bào. Đó là một nhiệm vụ rất vẻ vang. Vì vậy, cán bộ cần phải thương yêu, săn sóc người bệnh như anh em ruột thịt của mình, coi họ đau đớn cũng như mình đau đớn. “Lương y phải như từ mẫu” câu nói ấy rất đúng” là lời của Chủ tịch Hồ Chí Minh được trích trong Thư gửi Hội nghị cán bộ y tế vào năm bao nhiêu ?",
       "A": "1954",
       "B": "1955",
@@ -540,7 +540,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_61",
+      "ID": "61",
       "QUESTION": "“Thẳng thắn tự phê bình và thật thà phê bình tức là đoàn kết mà đấu tranh và do đấu tranh đó đã đi đến đoàn kết hơn trước”là lời của Chủ tịch Hồ Chí Minh được trích ở bài nói chuyện trong buổi bế mạc Đại hội Văn nghệ toàn quốc lần thứ mấy, năm bao nhiêu?",
       "A": "I, 1955",
       "B": "II, 1955",
@@ -549,7 +549,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_62",
+      "ID": "62",
       "QUESTION": "“Nếu không kiên quyết chống bệnh quan liêu, mệnh lệnh, lãng phí, tham ô, thì nó sẽ cản trở, phá hoại ta tiến lên chủ nghĩa xã hội”.\n Lời nói trên được Hồ Chí Minh nói tại hội nghị nào?",
       "A": "Hội nghị cán bộ thanh tra toàn quân",
       "B": "Hội nghị cán bộ thanh tra toàn quốc",
@@ -558,7 +558,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_63",
+      "ID": "63",
       "QUESTION": "“Nạn giấy tờ đã làm tốn của hao công của nhân dân, nó cũng làm hỏng tư tưởng và tác phong của cán bộ... là mẹ đẻ ra nạn tham ô, lãng phí” trong bài viết “Chống nạn giấy tờ” đăng tải trên báo Nhân Dân số bao nhiêu?",
       "A": "110",
       "B": "150",
@@ -567,7 +567,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_64",
+      "ID": "64",
       "QUESTION": "“Phải đi đúng đường lối quần chúng, liên hệ mật thiết với quần chúng, dựa vào lực lượng quần chúng. Quần chúng thông suốt về phương châm, phương pháp của Đảng và Chính phủ thì nhất định sẽ làm được và làm tốt”là phát biểu của Bác tại Hội nghị nào vào ngày 7 tháng 3 năm 1960.",
       "A": "Tổng kết công tác Thủy lợi",
       "B": "Tổng kết công tác thanh tra",
@@ -576,7 +576,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_65",
+      "ID": "65",
       "QUESTION": "Người nhấn mạnh: “Non sông gấm vóc Việt Nam do phụ nữ ta, trẻ cùng già, ra sức dệt thêu mà thêm tốt đẹp, rực rỡ ” trong bức thư gửi phụ nữ Việt Nam nhân dịp kỷ niệm Hai Bà Trưng và ngày Quốc tế Phụ nữ được đăng tải toàn văn trên báo Nhân Dân số bao nhiêu ?",
       "A": "39",
       "B": "49",
@@ -585,7 +585,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_66",
+      "ID": "66",
       "QUESTION": "“Trên đống xương máu, trên đống tro tàn, thanh niên ta, con cháu ta, sẽ xây dựng một nước Việt Nam hoàn toàn độc lập” là câu nói của Bác vào ngày 9 tháng 3 năm 1947, trong buổi tiếp và trả lời phỏng vấn phóng viên, khi bình luận về lời tuyên bố của ai?",
       "A": "Tổng thống Pháp Vincent Auriol",
       "B": "Toàn quyền Đông Dương Georges Thierry d'Argenlieu",
@@ -594,7 +594,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_67",
+      "ID": "67",
       "QUESTION": "“Chúng ta cần phải giữ gìn .... của đồng bào để xây đắp tương lai của Tổ quốc. Sự kiến thiết, sự tranh đấu chưa kết thúc, tinh thần hăng hái của đồng bào sẽ không bao giờ phải e là không có cơ hội hành động nữa” là lời Chủ tịch Hồ Chí Minh viết thư gửi đồng bào Nam Bộ, các chiến sĩ ở tiền tuyến và Ủy ban Hành chính Nam Bộ để thông báo về việc chính phủ đã ký Hiệp định Sơ bộ ngày 6 tháng 3. Điền từ vào chỗ trống",
       "A": "Tinh thần",
       "B": "Giọt máu",
@@ -603,7 +603,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_68",
+      "ID": "68",
       "QUESTION": "“Là chủ của tương lai, thanh niên không thể không có lý tưởng cao cả. Vì vậy thanh niên phải có cuộc sống chính trị tích cực và cách mạng”. Câu trích trên là một phần nội dung trả lời phỏng vấn của Chủ tịch Hồ Chí Minh dành cho Máccôm Samông (Malcolm Salmon) phóng viên Đông Nam Á của báo nào?",
       "A": "Australia Tribune",
       "B": "Guardian",
@@ -612,7 +612,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_69",
+      "ID": "69",
       "QUESTION": "“Toàn thể đảng viên và cán bộ từ Nam đến Bắc, bất kỳ mới, cũ, bất kỳ ngành nào, bất kỳ trong quân đội hay là ở địa phương, bất kỳ ở nông thôn hay là ở thành thị, phải đoàn kết chặt chẽ, nâng cao trình độ giác ngộ chính trị của mình; phải thống nhất tư tưởng, thống nhất hành động, quyết tâm làm tròn nhiệm vụ”. Đoạn trích trên là một phần nội dung bài phát biểu Chủ tịch Hồ Chí Minh trong phiên Bế mạc Hội nghị lần thứ mấy của Ban Chấp hành Trung ương Đảng khóa II ?",
       "A": "năm",
       "B": "Sáu",
@@ -621,7 +621,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_70",
+      "ID": "70",
       "QUESTION": "“Chủ nghĩa xã hội là làm cho mọi người dân được ấm no, hạnh phúc và học hành tiến bộ”. Câu nói trên của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện với đồng bào và cán bộ tỉnh nào ?",
       "A": "Thái Nguyên",
       "B": "Vĩnh Phú",
@@ -630,7 +630,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_71",
+      "ID": "71",
       "QUESTION": "“Các chú sắp ra mặt trận. Nhiệm vụ các chú lần này rất to lớn, khó khăn, nhưng rất vinh quang. Các chú vừa được chỉnh quân chính trị và chỉnh huấn quân sự và đã thu được nhiều thắng lợi về tư tưởng và chiến thuật, kỹ thuật. Nhiều đơn vị đã đánh thắng trên các mặt trận. Bác tin chắc rằng các chú sẽ phát huy thắng lợi vừa qua, quyết tâm vượt mọi khó khăn gian khổ để làm tròn nhiệm vụ vẻ vang sắp tới”.Đó là lời của Chủ tịch Hồ Chí Minh trong “Thư gửi cán bộ và chiến sĩ ở mặt trận Điện Biên Phủ”. Lời kêu gọi được đăng trên báo nào ?",
       "A": "Nhân dân",
       "B": "Cứu Quốc",
@@ -639,7 +639,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_72",
+      "ID": "72",
       "QUESTION": "\"Giặc Mỹ đã thua to, nhưng chúng vẫn ngoan cố chưa chịu từ bỏ những âm mưu tàn bạo và quỷ quyệt. Quân và dân ta đang thắng lớn, càng phải kiên quyết chiến đấu cho đến ngày thắng lợi hoàn toàn\" là lời khẳng định trên là một phần nội dung bức thư khen Chủ tịch Hồ Chí Minh gửi quân và dân điạ phương nào nhân sự kiện quân và dân ở đây bắn rơi chiếc máy bay thứ 200 của Mỹ vào ngày 6 tháng 3 năm 1968.",
       "A": "Hải Phòng",
       "B": "Thanh Hóa",
@@ -648,7 +648,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_73",
+      "ID": "73",
       "QUESTION": "Câu “Dân ta yêu tự do, độc lập, trọng hòa bình, tín nghĩa” trong Lời kêu gọi nhân dân thi hành đúng Hiệp định sơ bộ Việt - Pháp diễn ra vào ngày, tháng năm nào ?",
       "A": "15/3/1946",
       "B": "16/3/1946",
@@ -657,7 +657,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_74",
+      "ID": "74",
       "QUESTION": "Sự kiện nào khiến Bác phải phát biểu “Cần phải làm thế nào để cho công nhân da đen và da vàng cũng hiểu rằng: Kẻ thù duy nhất của họ nằm ngay trong bản thân cái chế độ này, chế độ đang dẫn đến một chế độ nô lệ tinh vi hơn, nặng nề hơn, và vô nhân đạo hơn chế độ trước đây. Và chỉ với sự giúp đỡ của những người anh em bị áp bức của mình ở các nước châu Âu, họ mới sẽ có thể tự giải phóng được mình”?",
       "A": "Năm Châu Phi",
       "B": "Binh biến Ai Cập",
@@ -666,7 +666,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_75",
+      "ID": "75",
       "QUESTION": "Tham dự buổi diễn tập kỹ - chiến thuật của cán bộ, chiến sĩ Lữ đoàn nào, Bác Hồ ân cần căn dặn: “Đặc công tức là công tác đặc biệt, là vinh dự đặc biệt, cần phải có cố gắng đặc biệt. Các chiến sĩ đặc công được tin tưởng đặc biệt... Bất kỳ nhiệm vụ gì, bất kỳ nhiệm vụ đặc biệt nào cũng phải hoàn thành và hoàn thành cho tốt... Bất kỳ khó khăn đặc biệt nào cũng phải vượt qua, cũng phải khắc phục cho kỳ được...”.",
       "A": "305",
       "B": "308",
@@ -675,7 +675,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_76",
+      "ID": "76",
       "QUESTION": "Ngày 20 tháng 3 năm 1958, tại Hội nghị cao cấp toàn quân, Chủ tịch Hồ Chí Minh đã nêu ra mấy nhiệm vụ trước mắt của quân đội trong tình hình mới?",
       "A": "Hai",
       "B": "Ba",
@@ -684,7 +684,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_77",
+      "ID": "77",
       "QUESTION": "“Cán bộ phải tuyệt đối tránh bệnh quan liêu, mệnh lệnh, phải hết sức chống bệnh hình thức, chống lãng phí, tham ô”. Lời nói trên, Bác Hồ nói trong buổi gặp gỡ đồng bào các dân tộc tỉnh nào?",
       "A": "Thái Nguyên",
       "B": "Vĩnh Phú",
@@ -693,7 +693,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_78",
+      "ID": "78",
       "QUESTION": "\"Quốc hội ta do toàn dân tự do bầu cử, là đại biểu chân chính của nhân dân cả nước từ Bắc đến Nam”. Là lời của Bác vào ngày nào ?",
       "A": "20/3/1955",
       "B": "21/3/1955",
@@ -702,7 +702,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_79",
+      "ID": "79",
       "QUESTION": "Tại Đại hội giáo dục phổ thông toàn quốc vào ngày 23 tháng 3 năm 1956, Bác đã nói câu gì ?",
       "A": "“Nếu không kiên quyết chống bệnh quan liêu, mệnh lệnh, lãng phí, tham ô, thì nó sẽ cản trở, phá hoại ta tiến lên chủ nghĩa xã hội”.",
       "B": "“Trên đống xương máu, trên đống tro tàn, thanh niên ta, con cháu ta, sẽ xây dựng một nước Việt Nam hoàn toàn độc lập”.",
@@ -711,7 +711,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_80",
+      "ID": "80",
       "QUESTION": "“Đạo đức cách mạng là bất kỳ ở cương vị nào, bất kỳ làm công việc gì, đều không sợ khó, không sợ khổ, đều một lòng một dạ phục vụ lợi ích chung của giai cấp, của nhân dân, đều nhằm mục đích xây dựng chủ nghĩa xã hội. Đạo đức cách mạng là đạo đức tập thể, nó phải đánh thắng và tiêu diệt chủ nghĩa cá nhân”. Lời nói trên được Chủ tịch Hồ Chí Minh nói tại Đại hội lần thứ mấy của Đoàn Thanh niên Lao động Việt Nam?",
       "A": "I",
       "B": "II",
@@ -720,7 +720,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_81",
+      "ID": "81",
       "QUESTION": "“Thanh niên ta có cố gắng, có tiến bộ và có nhiều thành tích. Nhưng chớ vì thế mà tự cao, tự đại; phải khiêm tốn, phải luôn luôn cố gắng hơn nữa, vượt mọi khó khăn, để giành lấy thành tích nhiều hơn và to lớn hơn”.\n Lời nói trên được Chủ tịch Hồ Chí Minh nói tại lễ kỷ niệm lần thứ bao nhiêu ngày thành lập Đoàn Thanh niên Lao động Việt Nam,",
       "A": "20",
       "B": "25",
@@ -729,7 +729,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_82",
+      "ID": "82",
       "QUESTION": "“Sự nghiệp cách mạng là một sự nghiệp lâu dài và gian khổ, song nhất định thắng lợi. Mọi người chúng ta, bất kỳ ai, làm việc gì, ở cương vị nào, đều phải là những chiến sĩ dũng cảm của sự nghiệp vẻ vang ấy” là câu nói của Bác trong Báo cáo chính trị tại Hội nghị Chính trị đặc biệt diễn ra vào thời gian nào?",
       "A": "24 đến 25 tháng 3 năm 1964",
       "B": "25 đến ngày 26 tháng 3 năm 1964",
@@ -738,7 +738,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_83",
+      "ID": "83",
       "QUESTION": "“Xe, xăng là mồ hôi, nước mắt của nhân dân. Các chú phải chăm sóc xe, yêu xe như con, quý xăng như máu” là lời của Chủ tịch Hồ Chí Minh nói với cán bộ chiến sĩ 2 đại đội xe đầu tiên của quân đội ta vào năm 1951. “Hiện nay nước ta chưa sản xuất được xe. Xăng cũng vậy, có rất ít. Kháng chiến còn dài, chiến dịch ngày một mở rộng, yêu cầu vận chuyển ngày càng cao. Vì vậy, các chú phải giữ gìn xe, tiết kiệm xăng để phục vụ bộ đội. Xe, xăng là mồ hôi, nước mắt của nhân dân. Các chú phải chăm sóc xe, yêu xe như con, quý xăng như máu”. là câu nói của Bác khi đến thăm đoàn xe đầu tiên của Quân đội ta vào ngày nào?",
       "A": "28/3/1951",
       "B": "29/3/1951",
@@ -747,7 +747,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_84",
+      "ID": "84",
       "QUESTION": "“Muốn thi đua có kết quả tốt, thì đầu óc cần phải suy nghĩ tìm tòi, cũng như tay chân phải cần cù nhanh nhẹn” lời nói trên được Chủ tịch Hồ Chí Minh nêu trong bài viết nào?",
       "A": "Một chiến sĩ gương mẫu",
       "B": "một nông dân gương mẫu",
@@ -756,7 +756,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_85",
+      "ID": "85",
       "QUESTION": "“Trong học tập, cán bộ và công nhân phải phê bình nhau thẳng thắn, có đúng nói đúng, có sai nói sai, không sợ mất thể diện; có khuyết điểm nói ra để giúp đỡ nhau sửa chữa”Câu nói trên được Chủ tịch Hồ Chí Minh nói khi đến thăm cán bộ và công nhân ở đâu?",
       "A": "Công trường Đèo Nai",
       "B": "Công trường Đèo Bụt",
@@ -765,7 +765,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_86",
+      "ID": "86",
       "QUESTION": "“Không được chủ quan, thỏa mãn; phải đoàn kết nội bộ; đoàn kết quân dân; giữ gìn vũ khí, trang bị, máy móc” là câu nói của Bác tại đâu?",
       "A": "Trường huấn luyện Hải quân",
       "B": "Trường huấn luyện Kĩ thuật",
@@ -774,7 +774,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_87",
+      "ID": "87",
       "QUESTION": "“Trí tuệ và sáng kiến của quần chúng là vô cùng tận” là câu trích trong lưu bút của Chủ tịch Hồ Chí Minh ghi tại cuộc triển lãm ngành nào của Quân đội diễn ra vào ngày 01/4/1958 ?",
       "A": "Ngành Tham mưu",
       "B": "Ngành Chính trị",
@@ -783,7 +783,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_88",
+      "ID": "88",
       "QUESTION": "“…Trong lúc lật đổ những tường vách cũ kỹ và đang xây đắp những ngôi lâu đài mới thì chắc chắn không khỏi có những mụn bào gạch bể và những thứ ghét rác khác. Chúng ta sẽ quét sạch dần dần…” là câu trong Thư của Chủ tịch Hồ Chí Minh gửi ai vào ngày 02/4/1949 ?",
       "A": "Ông Hoàng Phan Kính",
       "B": "Ông Trần Lê Hữu",
@@ -792,7 +792,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_89",
+      "ID": "89",
       "QUESTION": "\"Giúp nhân dân nước bạn là tự giúp mình.Đó là lời của Bác được trích trong thư gửi các đơn vị bộ đội có nhiệm vụ tác chiến ở ... ngày 3-4-1953: Lần này là lần đầu tiên, các chú nhận một nhiệm vụ quan trọng và vẻ vang như nhiệm vụ này, tức là giúp nhân dân nước bạn. Mà giúp nhân dân nước bạn tức là mình tự giúp mình”. Điền từ vào chỗ trống.",
       "A": "Thượng Lào",
       "B": "Hạ Lào",
@@ -801,7 +801,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_90",
+      "ID": "90",
       "QUESTION": "“Chúng tôi là những kẻ chiến thắng hiện tại cũng như trong tương lai, vì con đường của chúng tôi được học thuyết vĩ đại của Chủ nghĩa Mác - Lê nin soi sáng”. Đó là lời được trích trong bài viết của Chủ tịch Hồ Chí Minh về “Bọn đế quốc cướp nước không bao giờ có thể nô dịch dân tộc Việt Nam anh dũng”, gửi tạp chí “Vì một nền hòa bình lâu dài, vì một nền dân chủ nhân dân” - cơ quan ngôn luận của cơ quan nào ?",
       "A": "Cục Báo chí quốc tế",
       "B": "Cục Thông tin Quốc tế",
@@ -810,7 +810,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_91",
+      "ID": "91",
       "QUESTION": "Chủ tịch Hồ Chí Minh viết: “Quân nhân phải biết võ, phải biết văn, võ là như tay phải, văn là như tay trái của quân nhân. Biết võ, biết văn, mới là quân nhân hoàn toàn. Muốn biết thì phải thi đua học. Học không bao giờ cùng. Học mãi để tiến bộ mãi. Càng tiến bộ, càng thấy càng phải học thêm” là câu thư của Bác gửi báo nào vào ngày ?",
       "A": "Quân đội Nhân dân",
       "B": "Quân nhân Học báo",
@@ -819,7 +819,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_92",
+      "ID": "92",
       "QUESTION": "\"Về lãnh đạo, cán bộ phải thật sự đoàn kết, nhất trí, phải đi sâu đi sát, phải lãnh đạo thiết thực và toàn diện” là câu nói của Bác khi Người về thăm và nói chuyện với đồng bào, cán bộ tỉnh nào ngày 6-4-1961 ?",
       "A": "Băc Ninh",
       "B": "Bắc Giang",
@@ -828,7 +828,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_93",
+      "ID": "93",
       "QUESTION": "Bác đã dùng bút danh nào để viết bài “Chúng ta có thể đạt hơn 5 tấn thóc cả năm/một héc-ta” đăng trên Báo Nhân Dân vào ngày 07/4/1965 ?",
       "A": "Lê Nông",
       "B": "Lê Ba",
@@ -837,7 +837,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_94",
+      "ID": "94",
       "QUESTION": "“… Thanh niên phải xung phong làm gương mẫu trong … , trong học hỏi, trong tiến bộ, trong đạo đức cách mạng”, điền từ vào chỗ trống trong câu nói của Bác với thanh niên?",
       "A": "Lao động",
       "B": "Công tác",
@@ -846,7 +846,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_95",
+      "ID": "95",
       "QUESTION": "“… Bất cứ một người lao động nào, dù thông minh đến đâu, đôi lúc cũng có thể sai lầm. Chỉ có những kẻ ngồi không mới không có sai lầm mà thôi. Nhưng làm việc mà có sai lầm còn hơn là sợ sai lầm mà khoanh tay ngồi không…\" Đó là đoạn trích trong bài nói chuyện của Chủ tịch Hồ Chí Minh tại Hội nghị tổng kết công tác bình dân học vụ toàn miền Bắc vào năm bao nhiêu ?",
       "A": "1955",
       "B": "1956",
@@ -855,7 +855,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_96",
+      "ID": "96",
       "QUESTION": "“…Chi bộ là một tổ chức lãnh đạo chính trị, chứ không phải là một tổ chức hành chính” là lời được trích trong bài viết“Nhiệm vụ của chi bộ ở các cơ quan” của Chủ tịch Hồ Chí Minh đăng trên báo nào, số bao nhiêu ?",
       "A": "Báo Nhân dân số 196",
       "B": "Báo Cứu quốc số 196",
@@ -864,7 +864,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_97",
+      "ID": "97",
       "QUESTION": "“Không động viên được dân thì kế hoạch hay mấy cũng hỏng, lúc nào mọi kế hoạch đến tận dân, dân thực hiện, lúc đó mới thật là tổng động viên” là lời căn dặn của Chủ tịch trong phần kết luận Phiên họp của Hội đồng Chính phủ thảo luận về tình hình thế giới, tình hình quân sự, việc thực hiện chương trình ba tháng đầu năm và ra Nghị quyết về công tác ngoại giao, giáo dục, cải tổ bộ máy tư pháp, giao thông công chính, nội vụ, tổ chức ngày bao nhiêu ?",
       "A": "08/04/1950",
       "B": "09/04/1950",
@@ -873,7 +873,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_98",
+      "ID": "98",
       "QUESTION": "\"Muốn cải tạo xã hội thì lòng mình phải cải tạo. Nếu lòng mình không cải tạo thì đừng nói đến cải tạo xã hội”.\n  Đó là lời huấn thị của Chủ tịch Hồ Chí Minh tại lớp chỉnh đốn Đảng Trung ương khóa mấy ?",
       "A": "I",
       "B": "II",
@@ -882,7 +882,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_99",
+      "ID": "99",
       "QUESTION": "“…Pháo binh ta có truyền thống oanh liệt, chân đồng vai sắt, đánh giỏi, bắn trúng” là nội dung trong thư khen ngợi bộ đội Pháo binh mà Bác Hồ gửi ngày 13 tháng 4 năm 1967 vì đã lập được thành tích vẻ vang bắn trúng nhiều tàu chiến, bắn chìm nhiều tàu biệt kích của Mỹ - Ngụy và đánh trả pháo binh địch ở đâu ?",
       "A": "Cồn Tiên - Dốc Miếu",
       "B": "Cồn Phụng",
@@ -891,7 +891,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_100",
+      "ID": "100",
       "QUESTION": "“…Đi bỏ phiếu trong cuộc tổng tuyển cử vừa là quyền lợi quý báu, vừa là nghĩa vụ thiêng liêng của mỗi người cử tri” alf lời của Bác trong buổi thăm và nói chuyện với Đại hội đại biểu nhân dân Thủ đô vào ngày mấy ?",
       "A": "14/4/1964",
       "B": "15/4/1964",
@@ -900,7 +900,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_101",
+      "ID": "101",
       "QUESTION": "“…Cán bộ nào không dám công khai thừa nhận khuyết điểm của mình, sợ lời phê bình của đồng sự và của nhân dân, không có can đảm sửa chữa khuyết điểm thì những người đó không xứng đáng là cán bộ…” là lời Bác viết trên báo nào ?",
       "A": "Báo Sự thật",
       "B": "Báo Nhân dân",
@@ -909,7 +909,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_102",
+      "ID": "102",
       "QUESTION": "Bác dùng bút danh nào để viết bài bài “Thuốc đắng dã tật, nói thật mất lòng” ?",
       "A": "N.A.K",
       "B": "T.L",
@@ -918,7 +918,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_103",
+      "ID": "103",
       "QUESTION": "“Chính trị phải làm chủ. Đường lối chính trị đúng thì những việc khác mới đúng được”. Đó là lời của Chủ tịch Hồ Chí Minh tại đâu ?",
       "A": "Đại hội Hội Văn nghệ sĩ Việt Nam",
       "B": "Đại hội Hội Nhà báo Việt Nam",
@@ -927,7 +927,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_104",
+      "ID": "104",
       "QUESTION": "“Anh hùng là những người thật cần, kiệm, liêm, chính, hết lòng hết sức phục vụ kháng chiến, phụng sự Tổ quốc, phục vụ nhân dân. Là người đầy tớ thật trung thành của nhân dân, của giai cấp”.Đó là lời của Chủ tịch Hồ Chí Minh trong bài viết “Ai là Anh hùng?” được Bác viết bằng bút danh nào ?",
       "A": "Q.T",
       "B": "T.K",
@@ -936,7 +936,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_105",
+      "ID": "105",
       "QUESTION": "“... Nhân dân nước nào cũng yêu chuộng hòa bình, cũng chán ghét chiến tranh, cũng muốn sống tự do độc lập”. Đây là lời khẳng định của Chủ tịch Hồ Chí Minh trích trong bài viết chúc mừng Hội nghị nào ?",
       "A": "Hội nghị Á - Âu",
       "B": "Hội nghị Á - Phi",
@@ -945,7 +945,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_106",
+      "ID": "106",
       "QUESTION": "“Đồng bào Kinh hay Thổ, Mường hay Mán, Gia Rai hay Ê Đê, Xê Đăng hay Ba Na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt. Chúng ta sống chết có nhau, sướng khổ cùng nhau, no đói giúp nhau”. Đó là đoạn trích trong Thư của Chủ tịch Hồ Chí Minh gửi Đại hội các dan tộc thiểu số miền Nam tại đâu ?",
       "A": "Buôn Mê Thuột",
       "B": "Pleiku",
@@ -954,7 +954,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_107",
+      "ID": "107",
       "QUESTION": "“Lương y như từ mẫu” là lời của Bác nhân dịp người tới thăm bệnh xá nào ?",
       "A": "Bệnh xá xã Vân Đình",
       "B": "Bệnh xá xã Quỳ Hợp",
@@ -963,7 +963,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_108",
+      "ID": "108",
       "QUESTION": "“Biết đồng sức, biết đồng lòng, việc gì khó, cũng làm xong” là câu thơ trong bài thơ nào của Bác?",
       "A": "Hòn Đá",
       "B": "Trung thu",
@@ -972,7 +972,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_109",
+      "ID": "109",
       "QUESTION": "“Chỉ có giai cấp công nhân lãnh đạo, thì nông dân mới được giải phóng. Cũng chỉ có thắt chặt liên minh với nông dân thì giai cấp công nhân mới lãnh đạo cách mạng đến thắng lợi”.\n Đó là lời trích trong Báo cáo tình hình và nhiệm vụ tại Hội nghị lần thứ mấy của Ban Chấp hành Trung ương Đảng khóa II ?",
       "A": "I",
       "B": "II",
@@ -981,7 +981,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_110",
+      "ID": "110",
       "QUESTION": "“Chính sách của chúng ta vốn là chính sách thực hiện hòa bình và ủng hộ hòa bình...\" là lời trích trong Báo cáo tình hình và nhiệm vụ tại Hội nghị lần thứ mấy của Ban Chấp hành Trung ương Đảng khóa II ?",
       "A": "I",
       "B": "II",
@@ -990,7 +990,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_111",
+      "ID": "111",
       "QUESTION": "“Đối với những người viết báo chúng ta, cái bút là vũ khí sắc bén, bài báo là tờ hịch cách mạng”\n Đây là lời dạy được trích trong Điện của Chủ tịch Hồ Chí Minh chúc mừng cơ quan nào vào năm 1965 ?",
       "A": "Hội Báo chí Quốc tế",
       "B": "Hội Thông tin Á - Phi",
@@ -999,7 +999,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_112",
+      "ID": "112",
       "QUESTION": "“Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công”\n Đó là lời của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện tại Đại hội đại biểu Mặt trận Tổ quốc Việt Nam lần thứ mấy diễn ra vào năm bao nhiêu ?",
       "A": "I,1960",
       "B": "II,1960",
@@ -1008,7 +1008,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_113",
+      "ID": "113",
       "QUESTION": "\"Bộ đội chưa ăn cơm, cán bộ không được kêu mình đói\" Đây là lời của Chủ tịch Hồ Chí Minh tại Hội nghị kiểm thảo Chiến dịch nào ?",
       "A": "Việt Bắc 1947",
       "B": "Biên giới 1950",
@@ -1017,7 +1017,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_114",
+      "ID": "114",
       "QUESTION": "“...Mỗi chiến sĩ, từ trên đến dưới, các cấp bậc đều phải nghiên cứu, học tập, luôn luôn cầu tiến bộ” là lời dạy trên được Bác viết trong Thư gửi báo nào vào năm 1948 ?",
       "A": "Quân đội Nhân dân",
       "B": "Quân nhân Học báo",
@@ -1026,7 +1026,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_115",
+      "ID": "115",
       "QUESTION": "“Trước hết, quân đội nhất định phải có anh hùng. Lúc kháng chiến có anh hùng, sao nay lại không có anh hùng? Khi kháng chiến anh hùng cách khác… Có phải không có chiến tranh thì quân đội không có anh hùng?”.\n Đó là lời của Chủ tịch Hồ Chí Minh khi Người dự cuộc họp của Bộ Chính trị bàn về chuẩn bị Đại hội Liên hoan anh hùng, chiến sĩ thi đua năm bao nhiêu ?",
       "A": "1960",
       "B": "1961",
@@ -1035,7 +1035,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_116",
+      "ID": "116",
       "QUESTION": "Nội bộ phải đoàn kết chặt chẽ. Làm mọi việc phải đi sâu, đi sát, phải tránh chủ quan, phải có kế hoạch chu đáo, phải có quyết tâm bền bỉ”. Trích trong bài nói chuyện của Bác tại Hội nghị nào vào năm 1963 ?",
       "A": "Hội nghị cán bộ thanh tra toàn quân",
       "B": "Hội nghị cán bộ ngành công an",
@@ -1044,7 +1044,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_117",
+      "ID": "117",
       "QUESTION": "“Đồng bào, cán bộ và quân đội ta quyết không được vì thắng lợi mà chủ quan khinh địch. Cần phải luôn nâng cao tinh thần cảnh giác và chí khí chiến đấu”, đó là lời căn dặn của Chủ tịch Hồ Chí Minh trong văn bản nào ?",
       "A": "thư khen quân và dân miền Bắc bắn rơi 1.000 máy bay Mỹ",
       "B": "Thư khen Quân dân Thanh Hóa",
@@ -1053,7 +1053,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_118",
+      "ID": "118",
       "QUESTION": "“Thi đua là yêu nước, yêu nước thì phải thi đua. Và những người thi đua là những người yêu nước nhất”[1].\n Là lời huấn thị của Chủ tịch Hồ Chí Minh trong bài phát biểu khai mạc Đại hội các chiến sĩ thi đua và cán bộ gương mẫu toàn quốc năm bao nhiêu ?",
       "A": "1950",
       "B": "1951",
@@ -1062,7 +1062,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_119",
+      "ID": "119",
       "QUESTION": "“Đảng và Chính phủ lúc nào cũng chú ý đến đồng bào vùng cao và càng ngày càng hết sức chú ý giúp đỡ đồng bào nhiều hơn nữa”\n  Đó là lời khẳng định của Chủ tịch Hồ Chí Minh tại buổi nói chuyện với Đoàn đại biểu các dân tộc ít người về dự lễ kỷ niệm ngày Quốc tế Lao động, ngày 01 tháng 5 năm 1959 tại đâu ?",
       "A": "Hà Nội",
       "B": "Bắc Ninh",
@@ -1071,7 +1071,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_120",
+      "ID": "120",
       "QUESTION": "“Toàn dân đoàn kết muôn năm.\n Trường kỳ kháng chiến nhất định thắng lợi”\n Là lời của Chủ tịch Hồ Chí Minh kêu gọi đồng bào tôn giáo nào được đăng trên Báo Cứu quốc, chi nhánh số 6, số 917, ngày 03 tháng 5 năm 1948.",
       "A": "Phật Giáo",
       "B": "Thiên Chúa Giáo",
@@ -1080,7 +1080,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_121",
+      "ID": "121",
       "QUESTION": "“Công trạng của cá nhân chủ yếu là nhờ tập thể mà có. Vì vậy người có công trạng không nên tự kiêu mà cần khiêm tốn”\n Là lời căn dặn của Chủ tịch trong bài nói chuyện tại lớp chỉnh huấn cán bộ trung, cao cấp cơ quan nào vào tháng 5 năm 1957?",
       "A": "Bộ Nội vụ",
       "B": "Bộ Giao thông công chính",
@@ -1089,7 +1089,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_122",
+      "ID": "122",
       "QUESTION": "“Nay chúng ta cũng già trẻ một lòng, trường kỳ kháng chiến, chúng ta nhất định sẽ đánh tan giặc Pháp”.\n Là lời của Chủ tịch Hồ Chí Minh trong Thư gửi đội lão du kích, huyện nào của tình Bắc Giang ?",
       "A": "Việt Yên",
       "B": "Yên Dũng",
@@ -1098,7 +1098,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_123",
+      "ID": "123",
       "QUESTION": "“Học ở trường, học ở sách vở, học lẫn nhau và học nhân dân, không học nhân dân là một thiếu sót rất lớn\"\n Đó là lời dạy của Chủ tịch Hồ Chí Minh tại Hội nghị nào vào năm 1950.",
       "A": "Hội nghị toàn quốc lần thứ nhất về công tác huấn luyện và học tập",
       "B": "Hội nghị cán bộ ngành sư phạm",
@@ -1107,7 +1107,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_124",
+      "ID": "124",
       "QUESTION": "“Lý luận kết hợp với thực hành, học tập kết hợp với lao động”.\n Đó là lời dạy của Chủ tịch Hồ Chí Minh tại Đại hội Sinh viên Việt Nam lần thứ mấy, năm bao nhiêu ?",
       "A": "I,1957",
       "B": "I,1958",
@@ -1116,7 +1116,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_125",
+      "ID": "125",
       "QUESTION": "“Thắng lợi tuy lớn nhưng mới là bắt đầu. Chúng ta không nên vì thắng mà kiêu, không nên chủ quan khinh địch”\n Trích trong thư của Chủ tịch Hồ Chí Minh khen ngợi bộ đội, dân công, thanh niên xung phong và đồng bào Tây Bắc trong chiến dịch nào ?",
       "A": "Biên giới",
       "B": "Hoàng Hoa Thám",
@@ -1125,7 +1125,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_126",
+      "ID": "126",
       "QUESTION": "“Dạy dần dần từ ít đến nhiều, từ dễ đến khó, từ thấp đến cao. Không tham nhiều, không nhồi sọ. Dạy một cách thiết thực. Lý luận gắn chặt với thực hành”[9]\n Đó là lời dạy của Chủ tịch Hồ Chí Minh trong giáo dục chi bộ và cốt cán ở nông thôn, năm bao nhiêu ?",
       "A": "1951",
       "B": "1952",
@@ -1134,7 +1134,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_127",
+      "ID": "127",
       "QUESTION": "“Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết” là câu nói trong tác phẩm nào của người ?",
       "A": "Naâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân",
       "B": "Di chúc",
@@ -1143,7 +1143,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_128",
+      "ID": "128",
       "QUESTION": "“Phải có quyết tâm cao để vượt mọi khó khăn làm tròn nhiệm vụ. Quyết tâm phải biến thành hành động dũng cảm, chiến đấu …. , không sợ hy sinh gian khổ\" Điền từ vào chỗ trống",
       "A": "Hết mình",
       "B": "Liên tục",
@@ -1152,7 +1152,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_129",
+      "ID": "129",
       "QUESTION": "“Tất cả mọi người đều phải trông thấy ai sai thì phê bình. Phê bình để sửa chữa, để tiến bộ. Không phê bình là tự làm mất quyền dân chủ”.\n Là lời dạy của Bác Hồ vào ngày mấy ?",
       "A": "11/05/1952",
       "B": "12/05/1952",
@@ -1161,7 +1161,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_130",
+      "ID": "130",
       "QUESTION": "“Việc gì cũng phải có lãnh đạo thì mới thành công” là lời của Bác tại Hội nghị nào ?",
       "A": "Hội nghị tổng kết công tác cải cách ruộng đất năm 1956",
       "B": "Hội nghị Cán bộ cáo cấp toàn quốc ngành Quân đội năm 1959",
@@ -1170,7 +1170,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_131",
+      "ID": "131",
       "QUESTION": "“Đảng mạnh là do chi bộ tốt. Chi bộ tốt là do các đảng viên đều tốt”.\n Đó là lời dạy của Chủ tịch Hồ Chí Minh tại lớp huấn luyện đảng viên mới do đơn vị nào tổ chức vào năm 1966.",
       "A": "Thành ủy Hà Nội",
       "B": "Thaành ủy Hải Phòng",
@@ -1179,7 +1179,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_132",
+      "ID": "132",
       "QUESTION": "“Quyết lòng gìn giữ giang san\n Đồng bào Nam Việt muôn vàn văn minh”.\n Những câu thơ trên là phần kết trong bài viết có tiêu đề “Ai dã man? Ai văn minh” của Người nhằm vạch rõ âm mưu, thủ đoàn của kẻ thù nào ?",
       "A": "Phát xít Nhật",
       "B": "Thực dân Pháp và tay sai",
@@ -1188,7 +1188,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_133",
+      "ID": "133",
       "QUESTION": "“Tư tưởng cộng sản phải rèn luyện gian khổ mới có được. Còn tư tưởng cá nhân thì cũng như cỏ dại, sinh sôi, nẩy nở rất dễ”.\n Câu nói trên của Chủ tịch Hồ Chí Minh trích trong bài nói tại lớp chỉnh huấn khóa II của cơ quan nào vào ngày 16 tháng 5 năm 1959?",
       "A": "Bộ Nội vụ",
       "B": "Bộ Công an",
@@ -1197,7 +1197,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_134",
+      "ID": "134",
       "QUESTION": "“Người làm tướng có mưu trí bao giờ cũng lo lắng đến lợi, đến hại. Lo đến lợi mới có đủ tin tưởng làm trọn được nhiệm vụ. Lo đến hại mới tìm mưu kế để giải trừ được gian nguy”.\n Lời của Bác được trích trong bài “Bàn về phương pháp tác chiến”, được đăng trên Báo Cứu quốc, số 242, ngày 17 tháng 5 năm 1946, với bút danh nào ?",
       "A": "A.G",
       "B": "A.B",
@@ -1206,7 +1206,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_135",
+      "ID": "135",
       "QUESTION": "“Khoa học phải từ sản xuất mà ra và phải trở lại phục vụ sản xuất, phục vụ quần chúng, nhằm nâng cao năng xuất lao động và không ngừng cải tiến đời sống của nhân dân, bảo đảm cho chủ nghĩa xã hội thắng lợi”.\n Câu nói trên của Hồ Chí Minh trích trong “Bài nói tại Đại hội đại biểu toàn quốc lần thứ I của Hội nghị phổ biến khoa học, kỹ thuật Việt Nam” ngày 18 tháng 5 năm 1963, bàn về mối quan hệ giữa khoa học và lĩnh vực nào ?",
       "A": "Kỹ Thuật",
       "B": "Nông nghiệp",
@@ -1215,7 +1215,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_136",
+      "ID": "136",
       "QUESTION": "“Vì nước chưa nên nghĩ đến nhà,\n Năm mươi chín tuổi vẫn chưa già.\n Chờ cho kháng chiến thành công đã,\n Bạn sẽ ăn mừng sinh nhật ta”.\n Là bài thơ Bác tự làm nhân kỷ niệm sinh nhật lần thứ bao nhiêu ?",
       "A": "56",
       "B": "57",
@@ -1224,7 +1224,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_137",
+      "ID": "137",
       "QUESTION": "“Phải giáo dục bộ đội giữ gìn tốt vũ khí trang bị, tiết kiệm từng viên đạn, từng hạt gạo, không được để lãng phí”.\n Là lời căn dặn của Bác Hồ trong thư gửi lớp chỉnh huấn cán bộ trung, cao cấp cơ quan Bộ Quốc phòng, các quân khu, quân chủng, binh chủng, sư đoàn do Tổng cục Chính trị tổ chức họp tháng 5 năm bao nhiêu?",
       "A": "1966",
       "B": "1967",
@@ -1233,7 +1233,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_138",
+      "ID": "138",
       "QUESTION": "“Nhân dân miền Nam anh dũng quyết không lùi bước trước mũi súng của kẻ xâm lược và lũ bán nước. Đồng bào chúng tôi thà hy sinh hết thảy, nhưng quyết không chịu làm nô lệ”.\n Là lời trong bài viết của Chủ tịch Hồ Chí Minh đăng trên tạp chí nào ?",
       "A": "Le Populaire",
       "B": "L' Humanité",
@@ -1242,7 +1242,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_139",
+      "ID": "139",
       "QUESTION": "“Học với hành phải đi đôi. Học mà không hành thì học vô ích.\n Hành mà không học thì hành không trôi chảy”\n là lời dạy của Bác trong Hội nghị nào ?",
       "A": "Hội nghị toàn quốc lần thứ nhất về công tác huấn luyện và học tập",
       "B": "Hội nghị cán bộ ngành sư phạm",
@@ -1251,7 +1251,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_140",
+      "ID": "140",
       "QUESTION": "“Đã hứa thì phải làm, làm thì nhất định phải được” là lời của Chủ tịch Hồ Chí Minh nói chuyện với Đại hội chiến sĩ thi đua ... toàn quốc lần thứ III vào Sáng ngày 23 tháng 5 năm 1958. Điền từ vào chỗ trống",
       "A": "Coông nghiệp",
       "B": "Nông nghiệp",
@@ -1260,7 +1260,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_141",
+      "ID": "141",
       "QUESTION": "“Quan sơn muôn dặm một nhà,\n Vì trong bốn biển đều là anh em”\n Đó là những câu thơ của Chủ tịch Hồ Chí Minh trong diễn văn tiễn ai về nước ?",
       "A": "Thủ tướng Ấn Độ Nehru",
       "B": "Lãnh đạo Kim Nhật Thành",
@@ -1269,7 +1269,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_142",
+      "ID": "142",
       "QUESTION": "“Ngòi bút của các bạn cũng là những vũ khí sắc bén trong sự nghiệp phò chính trừ tà, mà anh em văn hóa và trí thức phải làm cũng như là những chiến sĩ anh dũng trong công cuộc kháng chiến để tranh lại quyền thống nhất và độc lập cho Tổ quốc” là lời dạy đó của Bác được trích trong văn bản nào ?",
       "A": "Thư gửi Hội nghị văn nghệ sĩ toàn quốc",
       "B": "Thư gửi Hội nhà báo Việt Nam",
@@ -1278,7 +1278,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_143",
+      "ID": "143",
       "QUESTION": "“Trung với nước, hiếu với dân là một bổn phận thiêng liêng, một trách nhiệm nặng nề nhưng cũng là một vinh dự của người chiến sĩ trong đạo quân quốc gia đầu tiên của nước ta” là lời của Bác khi đến dự lễ khai giảng khoá 8, Trường Võ bị Trần Quốc Tuấn (nay là Trường Sỹ quan Lục quân 1/ Bộ Quốc phòng) vào ngày mấy ?",
       "A": "25/5/1946",
       "B": "26/5/1946",
@@ -1287,7 +1287,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_144",
+      "ID": "144",
       "QUESTION": "“Dân quân, tự vệ và du kích là lực lượng của toàn dân tộc, là một lực lượng vô địch, là một bức tường sắt của Tổ quốc” là lời Bác dạy nhân dịp Hội nghị dân quân, tự vệ và du kích toàn quốc diễn ra tại đâu ?",
       "A": "Tân Trào",
       "B": "Việt Bắc",
@@ -1296,7 +1296,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_145",
+      "ID": "145",
       "QUESTION": "“Còn chủ nghĩa đế quốc, còn thực dân, thì còn nguy cơ chiến tranh”.\n Câu nói đó trích trong bài trả lời các nhà báo của Hồ Chủ tịch, đăng trên báo nào vào ngày 28 tháng 5 năm 1951.",
       "A": "Nhân dân",
       "B": "Quân đội Nhân dân",
@@ -1305,7 +1305,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_146",
+      "ID": "146",
       "QUESTION": "“Du kích như cá, dân chúng như nước. Cá không có nước thì cá chết, du kích không có dân chúng thì du kích chết”.\n Là lời của Bác trong bài viết “Cách đánh du kích” Người viết tháng 5 năm 1944, gồm bao nhiêu chương ?",
       "A": "10",
       "B": "11",
@@ -1314,7 +1314,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_147",
+      "ID": "147",
       "QUESTION": "“Trời có bốn mùa: Xuân, Hạ, Thu, Đông.\n Đất có bốn phương: Đông, Tây, Nam, Bắc.\n Người có bốn đức: Cần, Kiệm, Liêm, Chính.\n Thiếu một mùa, thì không thành trời.\n Thiếu một phương, thì không thành đất.\n Thiếu một đức, thì không thành người”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết nào ?",
       "A": "Nâng cao đạo đức cách mang, quét sạch chủ nghĩa cá nhân",
       "B": "Thế nào là Cần",
@@ -1323,7 +1323,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_148",
+      "ID": "148",
       "QUESTION": "“Tiền đồ của mỗi người nằm trong tiền đồ của cách mạng, của dân tộc”.\n Câu nói trên trích trong bài nói chuyện của Chủ tịch Hồ Chí Minh với Đại hội chiến sĩ thi đua ngành nào ?",
       "A": "Công nghiệp",
       "B": "Nông nghiệp",
@@ -1332,7 +1332,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_149",
+      "ID": "149",
       "QUESTION": "“Đồng bào Nam Bộ là dân nước Việt Nam.\n Sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi”.\n Là chân lý thiêng liêng, cao cả của dân tộc Việt Nam được Chủ tịch Hồ Chí Minh khẳng định trong thư gửi đồng bào Nam Bộ, đăng trên Báo Cứu quốc vào năm bao nhiêu ?",
       "A": "1946",
       "B": "1947",
@@ -1341,7 +1341,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_150",
+      "ID": "150",
       "QUESTION": "\"Sự thành công phần lớn là do các cán bộ, vậy các cán bộ phải cố gắng hơn mọi người để làm kiểu mẫu cho mọi người”.\n Là lời huấn thị của Chủ tịch Hồ Chí Minh trong văn bản nào ?",
       "A": "Thư gửi cán bộ cao cấp",
       "B": "Thư gửi Quân đội quốc gia, dân quân và công nhân quốc phòng",
@@ -1350,7 +1350,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_151",
+      "ID": "151",
       "QUESTION": "“Đồng bào miền Bắc tuy có khó khăn do chiến tranh để lại, nhưng ai cũng an cư lạc nghiệp, được hưởng tự do dân chủ và phấn đấu cho một tương lai vẻ vang. Cho nên đồng bào miền Bắc càng phải thương xót và phải giúp đỡ đồng bào miền Nam đấu tranh”.\n Là lời của Chủ tịch Hồ Chí Minh được thể hiện trong bài viết nào của Bác, ký tên nào C.B",
       "A": "Nhà triệu phú biến thành người ăn xin",
       "B": "Đồng bào đoàn kết",
@@ -1359,7 +1359,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_152",
+      "ID": "152",
       "QUESTION": "“Đồng bào miền Bắc tuy có khó khăn do chiến tranh để lại, nhưng ai cũng an cư lạc nghiệp, được hưởng tự do dân chủ và phấn đấu cho một tương lai vẻ vang. Cho nên đồng bào miền Bắc càng phải thương xót và phải giúp đỡ đồng bào miền Nam đấu tranh”.\n Là lời của Chủ tịch Hồ Chí Minh được thể hiện trong bài viết: “Nhà triệu phú biến thành người ăn xin”, ký tên nào ?",
       "A": "V.K",
       "B": "C.B",
@@ -1368,7 +1368,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_153",
+      "ID": "153",
       "QUESTION": "“Lao động là sự nghiệp quang vinh, vẻ vang, vui thú và anh dũng”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong Bài viết: “Đạo đức lao động”; đăng trên Báo Cứu quốc, số 2092 vào năm bao nhiêu ?",
       "A": "1951",
       "B": "1952",
@@ -1377,7 +1377,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_154",
+      "ID": "154",
       "QUESTION": "“Tình báo là tai mắt. Tai phải tỏ, mắt phải sáng, thì đầu óc định kế hoạch mới đúng. Đầu óc định đúng, thì chân tay hành động mới kịp thời. Ta tai mắt sáng tỏ, kế hoạch đúng sát, hành động kịp thời, thì ta nhất định thắng địch”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong Thư gửi Hội nghị tình báo diễn ra vào năm nào ?",
       "A": "1951",
       "B": "1952",
@@ -1386,7 +1386,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_155",
+      "ID": "155",
       "QUESTION": "“Tuy năng lực và công việc của mỗi người khác nhau, người làm việc to, người làm việc nhỏ; nhưng ai giữ được đạo đức đều là người cao thượng”\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong tác phẩm: “Đạo đức cách mạng”, với bút danh nào ?",
       "A": "V.K",
       "B": "C.B",
@@ -1395,7 +1395,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_156",
+      "ID": "156",
       "QUESTION": "“Đảng ta là một đảng cách mạng, ngoài lợi ích của công nhân và nông dân, Đảng ta không có lợi ích nào khác”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Đại hội sản xuất tỉnh nào ?",
       "A": "Hà Tây",
       "B": "Hà Đông",
@@ -1404,7 +1404,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_157",
+      "ID": "157",
       "QUESTION": "“Mọi người phải ra sức trau dồi đạo đức xã hội chủ nghĩa. Cải tạo xã hội cũ xấu xa trở thành xã hội xã hội chủ nghĩa tốt đẹp là một sự nghiệp rất nặng nề, nhưng rất vẻ vang”. \n Đây là lời của Chủ tịch trong bài nói tại Hội nghị nào diễn ra vào ngày 08 tháng 6 năm 1959.",
       "A": "Hội nghị Thành ủy Hà Nội",
       "B": "Hội nghị Đảng bộ khu Việt Bắc",
@@ -1413,7 +1413,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_158",
+      "ID": "158",
       "QUESTION": "“Muốn tiến bộ mãi thì phải học tập. Học trong sách báo, học trong công tác, học với anh em, học hỏi quần chúng. Học để phát triển ưu điểm, sửa chữa khuyết điểm”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài nói tại buổi bế mạc lớp chỉnh huấn cán bộ cơ quan nào ?",
       "A": "Bộ Nội Vụ",
       "B": "Ngành Thanh tra",
@@ -1422,7 +1422,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_159",
+      "ID": "159",
       "QUESTION": "“Đã đoàn kết, ta phải đoàn kết chặt chẽ rộng rãi thêm. Đã cố gắng, ta phải hăng hái mà cố gắng mãi. Mỗi một người phải lấy việc xung phong trong phong trào Thi đua ái quốc là nhiệm vụ thiêng liêng của mình, phải cố làm cho được”.Đây là lời của Chủ tịch Hồ Chí Minh kêu gọi mọi người đẩy mạnh phong trào thi đua ái quốc, nhân dịp kỷ niệm 1.000 ngày kháng chiến chống thực dân Pháp xâm lược diễn ra vào ngày nào ?",
       "A": "10/06/1949",
       "B": "14/08/1949",
@@ -1431,7 +1431,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_160",
+      "ID": "160",
       "QUESTION": "“Mỗi người dân Việt Nam, bất kỳ già, trẻ, trai, gái; bất kỳ giàu, nghèo, lớn, nhỏ, đều cần phải trở nên một chiến sĩ tranh đấu trên mặt trận: Quân sự, Kinh tế, Chính trị, Văn hoá”. Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Lời kêu gọi thi đua ái quốc, ngày 11 tháng 6 năm 1948; đăng trên Báo Cứu quốc, chi nhánh số mấy, số 968, ngày 24 tháng 6 năm 1948.",
       "A": "5",
       "B": "6",
@@ -1440,7 +1440,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_161",
+      "ID": "161",
       "QUESTION": "“Có tài phải có đức. Có tài không có đức, tham ô hủ hóa có hại cho nước. Có đức không có tài như ông bụt ngồi trong chùa, không giúp ích gì được ai”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong Bài nói chuyện tại lớp đào tạo hướng dẫn viên các trại hè cấp mấy vào ngày 12 tháng 6 năm 1956.",
       "A": "1",
       "B": "2",
@@ -1449,7 +1449,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_162",
+      "ID": "162",
       "QUESTION": "“Bất kỳ khó khăn gì, bất kỳ công việc to mấy ta đoàn kết đều làm được cả”.\n  Là lời của Chủ tịch Hồ Chí Minh được trích trong Bài nói chuyện với đại biểu nhân dân tỉnh nào ?",
       "A": "Thanh Hóa",
       "B": "Nghệ An",
@@ -1458,7 +1458,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_163",
+      "ID": "163",
       "QUESTION": "“Tự phê bình và phê bình là thứ vũ khí sắc bén nhất, nó giúp cho Đảng ta mạnh và ngày càng thêm mạnh. Nhờ nó mà chúng ta sửa chữa khuyết điểm, phát triển ưu điểm, tiến bộ không ngừng”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết nói về phê bình trong Đảng; đăng trên Báo Nhân dân, số 468, ngày 14 tháng 6 năm 1955 với bút danh nào ?",
       "A": "V.K",
       "B": "C.B",
@@ -1467,7 +1467,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_164",
+      "ID": "164",
       "QUESTION": "“Phải chống tham ô lãng phí. Phải làm sao cho trong quân đội ta không có tham ô lãng phí. Phải nâng cao ý thức và kỷ luật lao động. Phải nâng cao ý thức tiết kiệm”.\n Là lời của Chủ tịch Hồ Chí Minh trong buổi nói chuyện với các đơn vị quân đội tại Quân khu nào ?",
       "A": "Quân khu 1",
       "B": "Quân khu 2",
@@ -1476,7 +1476,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_165",
+      "ID": "165",
       "QUESTION": "“Đối với đồng sự, phải đoàn kết chặt chẽ, khuyên nhau, giúp nhau. Đối với dân chúng, phải thân cận, phải giúp đỡ họ mọi việc, phải làm cho dân tin, dân phục, dân yêu”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong Thư gửi các nhân viên cơ quan nào ?",
       "A": "Chính phủ",
       "B": "Chủ tịch nước",
@@ -1485,7 +1485,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_166",
+      "ID": "166",
       "QUESTION": "“Hiểu chủ nghĩa Mác - Lênin là phải sống với nhau có tình có nghĩa”.\n Là lời của Chủ tịch Hồ Chí Minh khi làm việc với đội ngũ cán bộ cơ quan nào ?",
       "A": "Bộ giáo dục",
       "B": "Ban Tuyên huấn Trung ương",
@@ -1494,7 +1494,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_167",
+      "ID": "167",
       "QUESTION": "“Một dân tộc, một đảng và mỗi con người, ngày hôm qua là vĩ đại, có sức hấp dẫn lớn, không nhất định hôm nay và ngày mai vẫn được mọi người yêu mến và ca ngợi, nếu lòng dạ không trong sáng nữa, nếu sa vào chủ nghĩa cá nhân”.\n Là lời của Chủ tịch Hồ Chí Minh tại buổi làm việc với một số cán bộ cơ quan nào ?",
       "A": "Bộ Nội vụ",
       "B": "Ban Tuyên huấn Trung ương",
@@ -1503,7 +1503,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_168",
+      "ID": "168",
       "QUESTION": "“Bất cứ công việc gì, thiếu cán bộ khó thực hiện”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết: “Tại sao hợp tác xã chưa thấy xuất hiện ở thôn quê?” đăng trên Báo Cứu quốc số 270, ngày 19 tháng 6 năm 1946, với bút danh nào ?",
       "A": "X.Y.Z",
       "B": "Lê Nông",
@@ -1512,7 +1512,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_169",
+      "ID": "169",
       "QUESTION": "“Trời có bốn mùa: Xuân, Hạ, Thu, Đông.\n Đất có bốn phương: Đông, Tây, Nam, Bắc.\n Người có bốn đức: Cần, Kiệm, Liêm, Chính.\n Thiếu một mùa, thì không thành trời.\n Thiếu một phương, thì không thành đất.\n Thiếu một đức, thì không thành người”[30].\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết: “Thế nào là Cần”, ký bút danh nào ?",
       "A": "Trần Lực",
       "B": "Trần Thắng Lợi",
@@ -1521,7 +1521,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_170",
+      "ID": "170",
       "QUESTION": "“Cầu đường là mạch máu của một nước”.\n Là lời Chủ tịch Hồ Chí Minh trong bài viết nào của Bác được đăng trên Báo Nhân dân, số 119, từ ngày 21 - 25 tháng 6 năm bao nhiêu ?",
       "A": "Công tác cầu đường",
       "B": "Công tác giao thông",
@@ -1530,7 +1530,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_171",
+      "ID": "171",
       "QUESTION": "“Cầu đường là mạch máu của một nước”.\n Là lời Chủ tịch Hồ Chí Minh trong bài: “Công tác cầu đường”, đăng trên Báo Nhân dân, số 119, từ ngày 21 - 25 tháng 6 năm bao nhiêu ?",
       "A": "1951",
       "B": "1952",
@@ -1539,7 +1539,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_172",
+      "ID": "172",
       "QUESTION": "“Tri thức là vốn liếng quý báu của dân tộc”.\n Đây là nội dung Chủ tịch Hồ Chí Minh trả lời câu hỏi phỏng vấn của một phóng viên nước ngoài: “Sau khi chiến tranh kết liễu thì chương trình kiến thiết của Việt Nam sẽ thế nào? Địa vị người tri thức Việt Nam sẽ thế nào”, vào ngày 22 tháng 6 năm bao nhiêu ?",
       "A": "1946",
       "B": "1947",
@@ -1548,7 +1548,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_173",
+      "ID": "173",
       "QUESTION": "“Muốn xây dựng chủ nghĩa xã hội thì phải lao động tốt. Muốn lao động tốt thì phải có sức khỏe. Muốn có sức khỏe thì phải giữ gìn vệ sinh”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết: “Phải đẩy mạnh hơn nữa công việc vệ sinh”, với bút danh nào ?",
       "A": "L.T",
       "B": "T.L",
@@ -1557,7 +1557,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_174",
+      "ID": "174",
       "QUESTION": "“Muốn chống tham ô lãng phí, chống quan liêu thì phải dân chủ, gây tự phê bình và phê bình, làm cho mọi người biết tự phê bình mình và dám phê bình người“.\n Là lời của Chủ tịch Hồ Chí Minh tại Hội nghị cung cấp toàn quân lần thứ nhất vào ngày mấy ?",
       "A": "25/6/1952",
       "B": "26/5/1952",
@@ -1566,7 +1566,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_175",
+      "ID": "175",
       "QUESTION": "“Muốn xây dựng xã hội chủ nghĩa phải có tinh thần xã hội chủ nghĩa, muốn có tinh thần xã hội chủ nghĩa phải đánh bại chủ nghĩa cá nhân” .\n Là lời của Chủ tịch Hồ Chí Minh trong bài nói chuyện với ai vào ngày 26 tháng 6 năm 1959 ?",
       "A": "Học Sinh",
       "B": "Sinh viên Đại học",
@@ -1575,7 +1575,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_176",
+      "ID": "176",
       "QUESTION": "“Phải luôn luôn cảnh giác, đoàn kết chặt chẽ, ra sức chiến đấu mạnh, sản xuất tốt, phát huy ưu điểm, sửa chữa khuyết điểm”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong Thư khen quân và dân miền Bắc, ngày 27 tháng 6 năm bao nhiêu ?",
       "A": "1965",
       "B": "1966",
@@ -1584,7 +1584,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_177",
+      "ID": "177",
       "QUESTION": "“Phải mật thiết liên hệ với gia đình học trò. Bởi vì giáo dục trong nhà trường, chỉ là một phần, còn cần có sự giáo dục ngoài xã hội và trong gia đình để giúp cho việc giáo dục trong nhà trường tốt hơn. Giáo dục trong nhà trường dù tốt mấy nhưng thiếu giáo dục trong gia đình và ngoài xã hội thì kết quả cũng không hoàn toàn”.\n Là nội dung huấn thị của Chủ tịch Hồ Chí Minh trong bài nói chuyện tại Hội nghị cán bộ Đảng ngành giáo dục, họp tháng 6 năm bao nhiêu ?",
       "A": "1955",
       "B": "1956",
@@ -1593,7 +1593,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_178",
+      "ID": "178",
       "QUESTION": "“Nhân dân Việt Nam cũng như nhân dân lương thiện trên thế giới ai cũng muốn hòa bình. Nhưng phải đoàn kết đấu tranh chống đế quốc thực dân thì mới giành được hòa bình thật sự”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong bài: “Hòa bình kiểu Mỹ tức là binh họa”, với bút danh nào ?",
       "A": "Tân Sinh",
       "B": "Tân Trào",
@@ -1602,7 +1602,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_179",
+      "ID": "179",
       "QUESTION": "“Mỗi đồng chí phải là người kiểu mẫu trong sự hy sinh phấn đấu cho Tổ quốc, cho đồng bào”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong Điện văn gửi cơ quan nào?",
       "A": "Chính phủ Nước Việt Nam Dân chủ Cộng hòa",
       "B": "Ban chấp hành Đảng Dân chủ Việt Nam",
@@ -1611,7 +1611,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_180",
+      "ID": "180",
       "QUESTION": "“Ong kia yêu giống, yêu nòi,\n  Đồng tâm, hợp lực đuổi loài cáo đi.\n  Bây giờ ta thử so bì,\n Ong còn đoàn kết, huống chi là người!”\n Khổ thơ trên của Hồ Chí Minh được trích trong bài thơ:“Con cáo và tổ ong”, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Cứu Quốc",
@@ -1620,7 +1620,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_181",
+      "ID": "181",
       "QUESTION": "“Yêu nước thì việc gì có lợi cho nhân dân, dù khó mấy cũng phải ra sức làm cho kỳ được. Điều gì có hại cho nhân dân, dù khó mấy cũng phải ra sức trừ cho kỳ hết”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài:“Vệ sinh yêu nước” (…) Điền từ vào chỗ trống ?",
       "A": "Phong trào bình dân học vụ",
       "B": "Phong trào diệt muỗi",
@@ -1629,7 +1629,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_182",
+      "ID": "182",
       "QUESTION": "“Xây dựng chủ nghĩa xã hội là một sự nghiệp cực kỳ vẻ vang, nhưng phải lâu dài và gian khổ. Nhân dân ta cần phải có tinh thần phấn đấu bền bỉ, quyết tâm vượt mọi khó khăn, để giành lấy những thắng lợi mới rực rỡ hơn nữa”.\n Câu nói trên của Chủ tịch Hồ Chí Minh được trích trong:“Lời phát biểu tại lễ bế mạc kỳ họp thứ nhất, Quốc hội nước Việt Nam Dân chủ Cộng hòa, khóa mấy",
       "A": "I",
       "B": "II",
@@ -1638,7 +1638,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_183",
+      "ID": "183",
       "QUESTION": "“Nếu mọi người học tập thấm nhuần tinh thần anh dũng và chí khí kiên cường, học được ở Viện bảo tàng, mà quyết tâm làm đúng chính sách của Đảng, đi đúng đường lối quần chúng, đặt lợi ích chung lên trên lợi ích riêng, thì chúng ta nhất định thắng lợi trong mọi việc”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài: “Xem Viện bảo tàng cách mạng”, đăng trên Báo Nhân dân, số 1936, ngày 04 tháng 7 năm bao nhiêu ?",
       "A": "1958",
       "B": "1959",
@@ -1647,7 +1647,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_184",
+      "ID": "184",
       "QUESTION": "“Thi đua ái quốc nhằm ba mục đích chính: diệt giặc đói, diệt giặc dốt, diệt giặc ngoại xâm. Tức là làm cho nhân dân no, ấm, biết chữ, làm cho Tổ quốc độc lập, tự do”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh trong bài: “Thi đua ái quốc, hiện tại và tương lai vẻ vang của nước ta”, đăng trên Báo Nhân dân, số 15, ngày 05 tháng 7 năm bao nhiêu ?",
       "A": "1950",
       "B": "1951",
@@ -1656,7 +1656,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_185",
+      "ID": "185",
       "QUESTION": "“Được lòng dân, thì việc gì cũng làm được, trái ý dân, thì chạy ngược chạy xuôi”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài viết nào ?",
       "A": "“Sẽ được mấy lâu?”",
       "B": "Chống cái tệ quan cách mạng",
@@ -1665,7 +1665,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_186",
+      "ID": "186",
       "QUESTION": "“Anh hùng, chiến sĩ thi đua đã là những người tiên phong trong …. , mà cũng là gương mẫu về đạo đức cách mạng. Họ đặt lợi ích chung của dân tộc trên lợi ích riêng của cá nhân”.Điền từ vào chỗ trống.",
       "A": "Chiến đấu",
       "B": "Lao động",
@@ -1674,7 +1674,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_187",
+      "ID": "187",
       "QUESTION": "“Vào Đảng, vào Đoàn không phải để làm “quan” cách mạng, hay là để nói chính trị suông. Tất cả đảng viên và đoàn viên phải ra sức tăng gia sản xuất, thực hành các chính sách của Đảng và Chính phủ”.\n Là lời huấn thị của Chủ tịch Hồ Chí Minh được trích trong bài: “Nói chuyện tại hội nghị sản xuất tỉnh .... ” Điền từ vào chỗ trống.",
       "A": "Hà Tây",
       "B": "Hà Đông",
@@ -1683,7 +1683,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_188",
+      "ID": "188",
       "QUESTION": "“Tuyên truyền là đem một việc gì nói cho dân hiểu, dân nhớ, dân theo, dân làm. Nếu không đạt được mục đích đó, là tuyên truyền thất bại. Muốn thành công, phải biết cách tuyên truyền”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài: “Người tuyên truyền và cách tuyên truyền”, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Cứu Quốc",
@@ -1692,7 +1692,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_189",
+      "ID": "189",
       "QUESTION": "“Phải lấy việc làm thực tế mà hướng dẫn nhân dân ta xây dựng một nước Việt Nam hoà bình, thống nhất, độc lập, ... và giàu mạnh”.\n Lời dạy trên đây của Chủ tịch Hồ Chí Minh được trích trong bài: “Quốc hội ta vĩ đại thật”",
       "A": "Tự do",
       "B": "Dân chủ",
@@ -1701,7 +1701,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_190",
+      "ID": "190",
       "QUESTION": "“Bất kỳ việc to việc nhỏ, phải chịu khó giải thích cho mọi người dân hiểu rõ thì dân sẽ vui lòng làm, mà việc gì cũng thành công”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài viết nào ?",
       "A": "Thi đua đắp đê",
       "B": "Trắng và đen",
@@ -1710,7 +1710,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_191",
+      "ID": "191",
       "QUESTION": "“Người ta luôn luôn cần không khí để sống. Người cách mạng và đoàn thể cách mạng cần phê bình và tự phê bình thiết tha như người ta cần không khí.”\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết nào ?",
       "A": "Thư gửi các vị phụ lão",
       "B": "Phê bình",
@@ -1719,7 +1719,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_192",
+      "ID": "192",
       "QUESTION": "“Một dân tộc không tự lực cánh sinh mà cứ ngồi chờ dân tộc khác giúp đỡ thì không xứng đáng được độc lập.”\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong Bài nói chuyện tại hội nghị nào ?",
       "A": "Bài nói chuyện tại Trường Đại học Sư phạm Hà Nội",
       "B": "hội nghị chiến tranh du kích",
@@ -1728,7 +1728,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_193",
+      "ID": "193",
       "QUESTION": "“Học trò chẳng những học ở trường, học trong sách, mà còn cần học trong công tác phục vụ nhân dân một cách thực tế nữa.”\n Là lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài viết nào ?",
       "A": "Học đi đôi với hành",
       "B": "Kết hợp học với hành",
@@ -1737,7 +1737,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_194",
+      "ID": "194",
       "QUESTION": "“Trong công việc cách mạng, công việc kháng chiến kiến quốc, không có việc sang, việc hèn, mọi việc đều quan trọng. Mọi người phải làm tròn nhiệm vụ của mình”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài: “Phải chữa cái bệnh cấp bậc”, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Quân đội Nhân dân",
@@ -1746,7 +1746,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_195",
+      "ID": "195",
       "QUESTION": "“Những người lỡ đi lầm đường mà biết trở về với Tổ quốc thì dân Việt Nam sẵn sàng hoan nghênh.”\n Đây là sự khẳng định của Chủ tịch Hồ Chí Minh về truyền thống khoan dung, độ lượng của dân tộc Việt Nam khi Người trả lời phỏng vấn của một nhà báo nước ngoài ngày 16 tháng 7 năm bao nhiêu ?",
       "A": "1946",
       "B": "1947",
@@ -1755,7 +1755,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_196",
+      "ID": "196",
       "QUESTION": "“ ...Chiến tranh có thể kéo dài 5 năm, 10 năm, 20 năm hoặc lâu hơn nữa, Hà Nội, Hải Phòng và một số thành phố, .... có thể bị tàn phá, song nhân dân Việt Nam quyết không sợ! Không có gì quý hơn độc lập tự do. Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn”.",
       "A": "Nhà máy",
       "B": "Xí nghiệp",
@@ -1764,7 +1764,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_197",
+      "ID": "197",
       "QUESTION": "“Dựa vào nhân dân thì việc gì, dù khó đến đâu cũng có thể làm được.”\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài: “Sức mạnh nhân dân” với bút danh nào ?",
       "A": "Nói thật",
       "B": "H.T",
@@ -1773,7 +1773,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_198",
+      "ID": "198",
       "QUESTION": "“Phải đoàn kết chặt chẽ giữa cán bộ và chiến sĩ, giữa bộ đội với nhau, giữa nhân dân với bộ đội”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện với cán bộ, chiến sĩ Đại đội 1, Tiểu đoàn 1, Đoàn Tam Đảo, Bộ đội Phòng không - Không quân, nay là đơn vị nào ?",
       "A": "Lữ đoàn Pháo Phòng không 210/ Quân khu 1",
       "B": "Lữ đoàn Pháo Phòng không 234/ Quân đoàn 3",
@@ -1782,7 +1782,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_199",
+      "ID": "199",
       "QUESTION": "“Con đường tiến tới xã hội chủ nghĩa của các dân tộc là con đường chung của thời đại, của lịch sử, không ai ngăn cản nổi”.\n Câu nói trên được trích trong phát biểu của Chủ tịch Hồ Chí Minh tại tiệc chiêu đãi của Nguyên thủ nào ?",
       "A": "Chủ tịch Mao Trạch Đông",
       "B": "Chủ tịch Dapôtốtxki",
@@ -1791,7 +1791,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_200",
+      "ID": "200",
       "QUESTION": "“Chân lý là cái gì có lợi cho Tổ quốc, cho nhân dân. Cái gì trái với lợi ích của Tổ quốc, của nhân dân tức là không phải chân lý. Ra sức phụng sự Tổ quốc, phục vụ nhân dân - tức là phục tùng chân lý.”\n Là lời dạy của Chủ tịch Hồ Chí Minh trong bài nói chuyện với cán bộ, giảng viên, sinh viên Trường Đại học nào ?",
       "A": "Đại học Tổng hợp Hà Nội",
       "B": "Đại học Nhân dân Hà Nội",
@@ -1800,7 +1800,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_201",
+      "ID": "201",
       "QUESTION": "“Cả nước đồng lòng, muôn người như một, chúng ta nhất định thắng lợi”.\n Là khẳng định của Chủ tịch Hồ Chí Minh trong “Lời kêu gọi sau Hội nghị Giơnevơ thành công” được Người viết ngày 22 tháng 7 năm bao nhiêu ?",
       "A": "1954",
       "B": "1955",
@@ -1809,7 +1809,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_202",
+      "ID": "202",
       "QUESTION": "“Chúng ta phải học tinh thần tự lập tự cường, tinh thần hăng hái thi đua sản xuất và tiết kiệm của nhân dân các nước bạn… Chúng ta phải bồi dưỡng lòng nồng nàn yêu nước và tinh thần quốc tế chân chính.”\n Lời dạy trên của Chủ tịch Hồ Chí Minh được Người nói trong Báo cáo về việc đoàn đại biểu của Chính phủ ta đi thăm Liên Xô và Trung Quốc, ngày 23 tháng 7 năm 1955 ở đâu ?",
       "A": "Phủ Chủ tịch",
       "B": "Quảng trường Ba Đình",
@@ -1818,7 +1818,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_203",
+      "ID": "203",
       "QUESTION": "“Tệ tham ô, lãng phí, quan liêu là cái xấu xa do xã hội cũ để lại, như cái ung nhọt còn sót lại trên thân thể của người khổng lồ. Công khai và ... gạt bỏ cho thật sạch những ung nhọt ấy thì thân thể càng mạnh khỏe thêm”.",
       "A": "Quyết liệt",
       "B": "Quyết tâm",
@@ -1827,7 +1827,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_204",
+      "ID": "204",
       "QUESTION": "“Cũng như chim muốn bay cần phải có hai cánh; một cuộc chiến tranh muốn thắng lợi, cần phải có hai lực lượng chính: quân sự và chính trị”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh được trích trong Báo cáo “Tình hình thế giới và trong nước ... năm 1949” Điền vào chỗ trống.",
       "A": "Tháng 6",
       "B": "Tháng 7",
@@ -1836,7 +1836,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_205",
+      "ID": "205",
       "QUESTION": "“Mọi người công dân - già trẻ gái trai - đều phải thấm nhuần tinh thần làm chủ nước nhà. Mọi người phải nâng cao tinh thần trách nhiệm cần kiệm xây dựng Tổ quốc, xây dựng chủ nghĩa xã hội”.\n Là lời dạy của Chủ tịch Hồ Chí Minh trong bài nói chuyện với nhân dân và cán bộ tỉnh nào khi Người về thăm và làm việc tại địa phương này, ngày 26 tháng 7 năm 1962.",
       "A": "Hải Dương",
       "B": "Nam Định",
@@ -1845,7 +1845,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_206",
+      "ID": "206",
       "QUESTION": "“Càng tưởng nhớ đến những người con dũng cảm của Tổ quốc, thì mọi người càng phải thêm hăng hái thi đua làm trọn nhiệm vụ tổng động viên, để chuẩn bị đầy đủ, để chuyển mạnh sang tổng phản công, để tranh lại độc lập và thống nhất cho Tổ quốc”.\n Là lời của Chủ tịch Hồ Chí Minh trong Thư gửi cơ quan nào ?",
       "A": "Chính phủ",
       "B": "Ban Tuyên huấn Trung ương",
@@ -1854,7 +1854,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_207",
+      "ID": "207",
       "QUESTION": "“Hòa bình cũng như kháng chiến, chúng ta quyết không nên vì thắng mà kiêu. Toàn thể nhân dân, quân đội và cán bộ ta cần phải ghi nhớ mà thực hành”.\n Là lời dạy của Chủ tịch Hồ Chí Minh trong bài “Hội nghị Giơnevơ thắng lợi lớn”, viết ngày 28 tháng 7 năm 1954 được Báo nào đăng ?",
       "A": "Nhân dân",
       "B": "Quân đội Nhân dân",
@@ -1863,7 +1863,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_208",
+      "ID": "208",
       "QUESTION": "“Muốn hoàn thành tốt mọi việc, thì toàn thể đảng viên và cán bộ phải chấp hành nghiêm chỉnh đường lối và chính sách của Đảng. Và muốn như vậy, thì các cấp ủy đảng phải tăng cường công tác kiểm tra”.\n Lời dạy của Chủ tịch Hồ Chí Minh trong Bài nói tại Hội nghị tổng kết công tác kiểm tra của Đảng, ngày 29 tháng 7 năm nào.",
       "A": "1962",
       "B": "1963",
@@ -1872,7 +1872,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_209",
+      "ID": "209",
       "QUESTION": "“Xin chỉ thị trước khi làm, gửi báo cáo khi làm xong - là một điều rất cần thiết, để làm cho chính sách của Chính phủ và Đoàn thể thấu suốt từ trên xuống dưới, từ dưới lên trên”.\n Là lời dạy của Chủ tịch Hồ Chí Minh trong bài viết “Xin chỉ thị, gửi báo cáo”, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Quân đội Nhân dân",
@@ -1881,7 +1881,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_210",
+      "ID": "210",
       "QUESTION": "“Quan liêu, tham ô, lãng phí là tội ác. Phải tẩy sạch nó để thực hiện cần kiệm liêm chính, để đẩy mạnh thi đua sản xuất và tiết kiệm, để đưa kháng chiến đến thắng lợi, kiến quốc đến thành công, để xây dựng thuần phong mỹ tục trong toàn dân, toàn quốc”.\n Là lời dạy của Chủ tịch Hồ Chí Minh trong bài viết “Chống quan liêu, tham ô, lãng phí”, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Quân đội Nhân dân",
@@ -1890,7 +1890,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_211",
+      "ID": "211",
       "QUESTION": "Lời Bác dạy vào ngày 01/8/1960:“… cần phải học tập tiến bộ nhiều hơn nữa”. Điền từ vào chỗ trống.",
       "A": "Thanh niên",
       "B": "Phụ nữ",
@@ -1899,7 +1899,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_212",
+      "ID": "212",
       "QUESTION": "“Chính trị là linh hồn, chuyên môn là cái xác. Có chuyên môn mà không có chính trị thì chỉ còn cái xác không hồn. Phải có chính trị trước rồi có chuyên môn” là lời dạy của Chủ tịch Hồ Chí Minh trong bài nói tại lớp học chính trị của đối tượng nào vào đầu tháng 8 năm 1959 ?",
       "A": "Giáo viên",
       "B": "Công nhân",
@@ -1908,7 +1908,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_213",
+      "ID": "213",
       "QUESTION": "“Tình báo là một khoa học. Người làm tình báo ắt phải có 4 đức tính: Bí mật - cẩn thận - khôn khéo - ...” Điền từ vào chỗ trống",
       "A": "độc lập",
       "B": "Dũng cảm",
@@ -1917,7 +1917,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_214",
+      "ID": "214",
       "QUESTION": "“Vũ khí tốt mà tinh thần hèn, thì cũng vô dụng” là câu nói của Chủ tịch Hồ Chí Minh trong bài “Máy bay “phản lực” phản ...” đăng trên Báo Cứu quốc, số 2135, ngày 04 tháng 8 năm 1952. Điền từ vào chỗ trống",
       "A": "Pháp",
       "B": "Mỹ",
@@ -1926,7 +1926,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_215",
+      "ID": "215",
       "QUESTION": "“Yêu xe như con\n Quý xăng như máu\n Vượt mọi khó khăn\n Hoàn thành nhiệm vụ”.\n Là lời của Chủ tịch Hồ Chí Minh thêu trên lá cờ đỏ, hiện đang được trưng bày trang trọng tại Bảo tàng nào ?",
       "A": "Bảo tàng Hồ Chí Minh",
       "B": "Bảo tàng lịch sử quốc gia",
@@ -1935,7 +1935,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_216",
+      "ID": "216",
       "QUESTION": "“Bộ đội được dân yêu, dân tin, dân phục thì nhất định thắng lợi”.\n Là lời dạy của Chủ tịch Hồ Chí Minh trong buổi nói chuyện tại Hội nghị quân sự lần thứ mấy, họp đầu tháng 8 năm 1948.",
       "A": "2",
       "B": "3",
@@ -1944,7 +1944,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_217",
+      "ID": "217",
       "QUESTION": "“Quản lý bộ đội tốt, bảo đảm đời sống vật chất và tinh thần tốt trong mọi hoàn cảnh”.\n Lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Đại hội Thi đua “Quyết tâm đánh thắng giặc Mỹ xâm lược của các lực lượng vũ trang nhân dân” tổ chức ngày 07 tháng 8 năm 1965 tại Thủ đô Hà Nội. Đây là Đại hội đầu tiên của các đơn vị anh hùng, chống Mỹ, cứu nước. Tại Đại hội này có bao nhiêu đơn vị quân đội, công an vũ trang và dân quân tự vệ toàn miền Bắc được tặng danh hiệu đơn vị Quyết thắng ?",
       "A": "357",
       "B": "367",
@@ -1953,7 +1953,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_218",
+      "ID": "218",
       "QUESTION": "“Nước Việt Nam là một khối thống nhất về mặt dân tộc, lịch sử và kinh tế, và không một lực lượng nào trên thế giới có thể chia cắt được Việt Nam”.\n Là sự khẳng định của Chủ tịch Hồ Chí Minh trong “Diễn từ tiệc chiêu đãi ở Bêôgrát” diễn ra ở quốc gia nào ?",
       "A": "Nam Tư",
       "B": "Liên Xô",
@@ -1962,7 +1962,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_219",
+      "ID": "219",
       "QUESTION": "“Lửa thủ vàng, gian nan thử bạn”.\n Lời dạy của Chủ tịch Hồ Chí Minh trong bài: “Thực dân Pháp xâm lăng ...”, đăng trên Báo Nhân dân, số 2697, ngày 09 tháng 8 năm 1961. Điền từ vào chỗ trống.",
       "A": "Algérie",
       "B": "Angola",
@@ -1971,7 +1971,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_220",
+      "ID": "220",
       "QUESTION": "“Đồng bào lương và giáo hãy đoàn kết chặt chẽ, giúp đỡ lẫn nhau” là lời kêu gọi của Chủ tịch Hồ Chí Minh trong Điện gửi đồng bào xã nào?",
       "A": "Đông",
       "B": "Đoài",
@@ -1980,7 +1980,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_221",
+      "ID": "221",
       "QUESTION": "“Các chú hãy ra sức phát huy ưu điểm, sữa chữa nhược điểm, khó không nản, thắng không kiêu, cùng với đơn vị bạn và nhân dân quyết tâm đánh thắng giặc Mỹ xâm lược, góp phần xứng đáng vào sự nghiệp bảo vệ miền Bắc, ủng hộ cách mạng giải phóng miền Nam tiến tới hòa bình thống nhất nước nhà”.\n Lời dạy của Chủ tịch Hồ Chí Minh trong “Thư gửi cán bộ và chiến sĩ ...”, Báo Nhân dân đăng số 4147, ngày 11 tháng 8 năm 1965. Điền từ vão chỗ trống.",
       "A": "Công an nhân dân vũ trang",
       "B": "Hải Quân",
@@ -1989,7 +1989,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_222",
+      "ID": "222",
       "QUESTION": "“Bộ đội, cán bộ và đồng bào Nghệ An đã phát huy thắng lợi, nêu cao truyền thống anh hùng của quân và dân ta, đoàn kết chặt chẽ, luôn cảnh giác, thi đua chiến đấu giỏi, sản xuất giỏi, quyết giành nhiều thành tích to lớn hơn nữa”.\n Lời khen ngợi và căn dặn của Bác Hồ trong “Thư khen đồng bào, bộ đội và cán bộ ... bắn rơi 100 máy bay Mỹ”. Điền từ vào chỗ trống.",
       "A": "Hà Tĩnh",
       "B": "Hải Dương",
@@ -1998,7 +1998,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_223",
+      "ID": "223",
       "QUESTION": "“Thi đua phải đoàn kết, đoàn kết để thi đua”.\n Lời dạy của Bác Hồ trong Bài nói với cán bộ và đồng bào tỉnh nào vào ngày 13 tháng 8 năm 1958.",
       "A": "Nam Định",
       "B": "Hải Dương",
@@ -2007,7 +2007,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_224",
+      "ID": "224",
       "QUESTION": "“Công đoàn phải làm tốt công tác .... Phải thật sự chăm nom nơi ăn, nhà ở của công nhân, viên chức”.\n Lời dạy trên của Chủ tịch Hồ Chí Minh trong “Bài nói chuyện tại Hội nghị cán bộ công đoàn cơ sở toàn miền Bắc”, Báo Nhân dân đăng trên số 3064 ngày 14 tháng 8 năm 1962. Điền từ vào chỗ trống",
       "A": "Bảo hộ lao động",
       "B": "Chăm sóc đời sống",
@@ -2016,7 +2016,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_225",
+      "ID": "225",
       "QUESTION": "“Trong quân đội, nhiệm vụ của người tướng là:",
       "A": "Phải: trí, tín, dũng, nhân, liêm, trung",
       "B": "Phải: trí, dũng, nhân, tín, liêm, trung",
@@ -2025,7 +2025,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_226",
+      "ID": "226",
       "QUESTION": "“Giữ gìn hòa bình là nhiệm vụ chung của toàn dân. Mỗi người dân Việt Nam phải là một chiến sĩ hăng hái đấu tranh cho hòa bình”.\n Câu nói trên của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi Đại hội nhân dân Việt Nam bảo vệ hòa bình” được Bác viết vào ngày bao nhiêu?",
       "A": "15/8/1958",
       "B": "16/8/1958",
@@ -2034,7 +2034,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_227",
+      "ID": "227",
       "QUESTION": "“Phải dựa vào nhân dân, vì đông đảo nhân dân rất nhiều tai mắt, cho nên bộ đội, công an không những phải đoàn kết nội bộ, lại phải đoàn kết với nhân dân, dựa vào nhân dân, giáo dục nhân dân cảnh giác thì địch không làm gì được”.\n Lời dạy của Người trích trong “Bài nói chuyện với trường thanh niên lao động xã hội chủ nghĩa\" của tỉnh nào ?",
       "A": "Yên Bái",
       "B": "Hà Nam",
@@ -2043,7 +2043,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_228",
+      "ID": "228",
       "QUESTION": "“Hỡi đồng bào yêu quý!\n Giờ quyết định cho vận mệnh dân tộc ta đã đến. Toàn quốc đồng bào hãy đứng dậy đem sức ta mà tự giải phóng cho ta”.\n Lời kêu gọi của Hồ Chí Minh trong “Thư kêu gọi tổng khởi nghĩa”, Người viết ngày bào nhiêu ?",
       "A": "16/8/1945",
       "B": "17/8/1945",
@@ -2052,7 +2052,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_229",
+      "ID": "229",
       "QUESTION": "“Muốn ăn quả tốt, phải trồng cây to”.\n Là lời của Chủ tịch Hồ Chí Minh trong Lời kêu gọi nhân dịp kỷ niệm bao nhiêu năm Cách mạng tháng Tám và Ngày Độc lập",
       "A": "5",
       "B": "10",
@@ -2061,7 +2061,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_230",
+      "ID": "230",
       "QUESTION": "Ngày 20 tháng 8\n “Phải quyết chiến quyết thắng, những chớ chủ quan khinh địch…”.\n Lời dạy của Chủ tịch Hồ Chí Minh trong bài viết “Việc đình chiến ở Triều Tiên” được viết bằng bút danh nào ?",
       "A": "C.B",
       "B": "V.X",
@@ -2070,7 +2070,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_231",
+      "ID": "231",
       "QUESTION": "“Lo cứu nước tức là lo cứu mình”.\n Lời kêu gọi của lãnh tụ Nguyễn Ái Quốc trong bài viết nào ?",
       "A": "Việc đình chiến ở Triều Tiên",
       "B": "Dân cày",
@@ -2079,7 +2079,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_232",
+      "ID": "232",
       "QUESTION": "“Ngoài lợi ích của Tổ quốc, của nhân dân, Đảng ta không có lợi ích gì khác”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết “Phải theo đúng kỷ luật của Đảng” đăng trên Báo Nhân dân số 217, từ ngày 22 đến ngày 24 tháng 8 năm 1954 với bút danh nào ?",
       "A": "C.B",
       "B": "V.X",
@@ -2088,7 +2088,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_233",
+      "ID": "233",
       "QUESTION": "“Nghĩa vụ một người dân là phải yêu Tổ quốc”.\n Lời kêu gọi của lãnh tụ Nguyễn Ái Quốc trong bài “Hãy yêu thương nhau và cùng nhau đoàn kết” được Người viết tại đâu ?",
       "A": "Quảng Châu",
       "B": "Thượng Hải",
@@ -2097,7 +2097,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_234",
+      "ID": "234",
       "QUESTION": "“Giữ gìn trật tự, trị an tốt thì dân mới an cư lạc nghiệp. Muốn giữ gìn trật tự, an ninh tốt, phải dựa vào nhân dân để ngăn ngừa bọn làm trái phép”.\n Là lời huấn thị của Chủ tịch Hồ Chí Minh tại buổi nói chuyện với cán bộ và đại biểu nhân dân các dân tộc tỉnh nào vào ngày 24/8/1958 ?",
       "A": "Hà Bắc",
       "B": "Tuyên Quang",
@@ -2106,7 +2106,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_235",
+      "ID": "235",
       "QUESTION": "“Giáo dục nhi đồng là một khoa học. Các bạn hãy cố gắng học tập,..., trao đổi kinh nghiệm, để tiến bộ mãi, nhất là phải làm kiểu mẫu trong mọi việc cho các em bắt chước.\n Như vậy, các bạn sẽ thành công”.\n Là lời căn dặn của Chủ tịch Hồ Chí Minh trong “Thư gửi Hội nghị các cán bộ phụ trách nhi đồng toàn quốc” Bác viết ngày 25 tháng 8 năm 1950. Hãy điền từ vào chỗ trống.",
       "A": "Rèn luyện",
       "B": "Phấn đấu",
@@ -2115,7 +2115,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_236",
+      "ID": "236",
       "QUESTION": "“Quân và dân ta cố gắng thi đua giết giặc lập công, thi đua tăng gia và tiết kiệm, thì tình hình giặc sẽ bi hơn nữa và thắng lợi nhất định về ta”. \n Lời dạy trên của Chủ tịch Hồ Chí Minh trong bài viết “12 vạn 5 nghìn binh sĩ Pháp chết và bị thương” đăng trên Báo Cứu quốc, số 2151 vào ngày bao nhiêu ?",
       "A": "25/8/1952",
       "B": "26/8/1952",
@@ -2124,7 +2124,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_237",
+      "ID": "237",
       "QUESTION": "“Chủ nghĩa Mác - Lê nin dạy chúng ta rằng: Muốn làm cách mạng thắng lợi thì phải phân biệt rõ ai là bạn, ai là thù, phải thực hiện thêm bạn, bớt kẻ thù”.\n Là lời dạy của Chủ tịch Hồ Chí Minh trong “Bài nói chuyện tại lớp bồi dưỡng cán bộ về công tác ...”. Điền từ vào chỗ trống.",
       "A": "Quân sự",
       "B": "Mặt trận",
@@ -2133,7 +2133,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_238",
+      "ID": "238",
       "QUESTION": "“Chính sách của Chính phủ trước sau vẫn là đại đoàn kết. Đối với các vị quan lại cũ cũng như đối với tất cả các giới đồng bào, những người có tài có đức thì Chính phủ đều hoan nghênh ra gánh việc nước”.\n Là khẳng định của Chủ tịch Hồ Chí Minh về chính sách của Chính phủ đối với thành phần tham gia Chính phủ trong lần trả lời phóng viên Báo nào ?",
       "A": "Nhân đạo",
       "B": "Thanh niên",
@@ -2142,7 +2142,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_239",
+      "ID": "239",
       "QUESTION": "“Nhờ tinh thần anh dũng và lòng yêu nước của toàn thể nhân dân Việt Nam, Cách mạng tháng Tám đã thắng lợi”.\n  Là khẳng định của Chủ tịch Hồ Chí Minh trong bài viết “Nước Việt Nam dân chủ cộng hòa tròn ... tuổi”. Điền từ vào chỗ trống.",
       "A": "5",
       "B": "10",
@@ -2151,7 +2151,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_240",
+      "ID": "240",
       "QUESTION": "“Đồng bào, cán bộ và bộ đội ta không được vì thắng lợi mà chủ quan, cần luôn luôn nâng cao cảnh giác, đoàn kết chặt chẽ, thi đua chiến đấu giỏi, sản xuất giỏi”. \n Là lời căn dặn của Chủ tịch Hồ Chí Minh trong Thư khen đồng bào, cán bộ và bộ đội miền Bắc đã bắn rơi bao nhiêu máy bay Mỹ.",
       "A": "100",
       "B": "300",
@@ -2160,7 +2160,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_241",
+      "ID": "241",
       "QUESTION": "“Học phải đi đôi với hành, lý luận phải liên hệ với thực tế”.\n  Lời dạy trên của Chủ tịch Hồ Chí Minh được Người viết trong “Thư gửi các cán bộ giáo dục, học sinh, sinh viên các trường và các lớp bổ túc văn hóa” vào ngày bao nhiêu ?",
       "A": "28/8/1960",
       "B": "29/8/1960",
@@ -2169,7 +2169,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_242",
+      "ID": "242",
       "QUESTION": "“Để lãnh đạo quân đội tiến bộ không ngừng, các đồng chí cần phải trau dồi đạo đức cách mạng, khiêm tốn, giản dị, gần gũi quần chúng và gương mẫu về mọi mặt”.\n Là lời căn dặn của Chủ tịch Hồ Chí Minh tại Lễ phong quân hàm cấp tướng cho một số cán bộ cao cấp trong quân đội trong bối cảnh miền Bắc đang thực hiện kế hoạch nào ?",
       "A": "Kế hoạch cải cách ruộng đất",
       "B": "kế hoạch 3 năm (1958-1960)",
@@ -2178,7 +2178,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_243",
+      "ID": "243",
       "QUESTION": "\"Thế mà hơn 80 năm nay, bọn thực dân Pháp lợi dụng lá cờ tự do, bình đẳng, bác ái, đến cướp đất nước ta, áp bức đồng bào ta. Hành động của chúng trái hẳn với [...]\" (trích Tuyên ngôn Độc lập, Hồ Chí Minh)",
       "A": "nhân đạo và chính nghĩa",
       "B": "dân chủ và tiến bộ xã hội",
@@ -2187,7 +2187,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_244",
+      "ID": "244",
       "QUESTION": "“Kiên quyết nâng cao dần mức sống của nhân dân... đồng thời giảm nhẹ dần sự đóng góp của nông dân”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong bài xã luận Lễ mừng Quốc khánh năm bao nhiêu",
       "A": "1955",
       "B": "1960",
@@ -2196,7 +2196,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_245",
+      "ID": "245",
       "QUESTION": "“Mong cán bộ ta cẩn thận từng lời nói, từng việc làm, thật thà “ba cùng”, làm đúng chính sách, để giành lấy kết quả tốt hơn trong công tác phát động quần chúng”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong bài viết “Những kinh nghiệm cần phải tránh trong công tác phát động quần chúng”, đăng trên Báo Nhân dân, số 221, từ ngày 04 đến ngày 06 tháng 9 năm 1954, bút danh nào ?",
       "A": "C.B",
       "B": "V.X",
@@ -2205,7 +2205,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_246",
+      "ID": "246",
       "QUESTION": "“Những người khi kháng chiến thì rất anh dũng, trước bom đạn địch không chịu khuất phục, nhưng đến khi về thành thị lại bị tiền bạc, gái đẹp quyến rũ, mất lập trường, sa vào tội lỗi” là lời dạy của Chủ tịch Hồ Chí Minh được trích trong “Bài nói chuyện với bộ đội, công an và cán bộ trước khi vào tiếp quản Thủ đô” được Bác nói vào ngày bao nhiêu ?",
       "A": "05/09/1954",
       "B": "06/09/1954",
@@ -2214,7 +2214,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_247",
+      "ID": "247",
       "QUESTION": "“Đoàn kết là sức mạnh vô địch của chúng ta. Bản Cương lĩnh chính trị của Mặt trận là ngọn cờ đại đoàn kết toàn thể nhân dân miền Nam để cùng nhau chống Mỹ, cứu nước đến thắng lợi cuối cùng. Nhân dân ta đã đoàn kết, càng đoàn kết rộng rãi và chặt chẽ hơn nữa!”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Thư gửi đồng chí nào ?",
       "A": "Phạm Hùng",
       "B": "Lê Duẩn",
@@ -2223,7 +2223,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_248",
+      "ID": "248",
       "QUESTION": "“Muốn cải tạo xã hội mà đảng viên không tự cải tạo mình, không tự nâng cao mình thì không thể được”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Diễn văn khai mạc lớp học lý luận khóa mấy của Trường Nguyễn Ái Quốc",
       "A": "I",
       "B": "II",
@@ -2232,7 +2232,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_249",
+      "ID": "249",
       "QUESTION": "“Tiếng nói là thứ của cải vô cùng lâu đời và vô cùng quý báu của dân tộc. Chúng ta phải giữ gìn nó, quý trọng nó, làm cho nó phổ biến ngày càng rộng khắp”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Bài nói chuyện tại Đại hội lần thứ mấy của Hội nhà báo Việt Nam ?",
       "A": "I",
       "B": "II",
@@ -2241,7 +2241,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_250",
+      "ID": "250",
       "QUESTION": "“Lương thực, vũ khí là mồ hôi nước mắt của đồng bào, là xương máu của bộ đội. Vì vậy, phải quý trọng nó, phải tiết kiệm ngăn nắp, phải sử dụng hợp lý”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Bài nói tại Hội nghị cán bộ chuẩn bị Chiến dịch nào ?",
       "A": "Biên giới",
       "B": "Thượng Lào",
@@ -2250,7 +2250,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_251",
+      "ID": "251",
       "QUESTION": "“Bản chất của hòn đá là cứ ì ra, không nhúc nhích. Nhưng khi nhiều người đồng tâm hiệp lực mà xô đẩy, thì dù tảng đá to mấy, nặng mấy, cũng phải lăn”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Bài nói chuyện trong buổi lễ bế mạc Đại hội thành lập cơ quan nào ?",
       "A": "Hội nhà báo Việt Nam",
       "B": "Hội Văn nghệ sĩ Việt Nam",
@@ -2259,7 +2259,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_252",
+      "ID": "252",
       "QUESTION": "“Kỷ luật là động lực giữ sức mạnh của bộ đội”.\n Đây là lời phát biểu chỉ đạo của Chủ tịch Hồ Chí Minh tại Hội nghị cán bộ chỉ huy cấp trung đoàn, đại đoàn tham gia Chiến dịch nào ?",
       "A": "Việt Bắc",
       "B": "Biên Giới",
@@ -2268,7 +2268,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_253",
+      "ID": "253",
       "QUESTION": "“Chớ thấy thất bại mà nản, chớ thấy đắc thắng mà kiêu”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong Thư gửi đồng bào Khu nào ?",
       "A": "Việt Bắc",
       "B": "2",
@@ -2277,7 +2277,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_254",
+      "ID": "254",
       "QUESTION": "“Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người”.\n Đây là lời của Chủ tịch Hồ Chí Minh khi Người đến dự và phát biểu tại “Lớp học chính trị của giáo viên cấp II, cấp III toàn miền Bắc” vào ngày bao nhiêu ?",
       "A": "05/09/1958",
       "B": "13/09/1958",
@@ -2286,7 +2286,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_255",
+      "ID": "255",
       "QUESTION": "“Cán bộ phải đi đúng đường lối quần chúng, dựa vào nhân dân; trước hết phải tin tưởng lực lượng và trí tuệ của nhân dân là vô cùng vô tận”. Đây là lời của Chủ tịch Hồ Chí Minh trích trong bài nói chuyện tại “Hội nghị thủy lợi toàn miền Bắc” diễn ra vào ngày bao nhiêu ?",
       "A": "11/09/1959",
       "B": "12/09/1959",
@@ -2295,7 +2295,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_256",
+      "ID": "256",
       "QUESTION": "Non sông Việt Nam có trở nên tươi đẹp hay không, dân tộc Việt Nam có bước tới đài vinh quang để sánh vai với các cường quốc năm châu được hay không, chính là nhờ một phần lớn ở công học tập của các em”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong Thư gửi học sinh nhân ngày khai trường năm bao nhiêu ?",
       "A": "1945",
       "B": "1950",
@@ -2304,7 +2304,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_257",
+      "ID": "257",
       "QUESTION": "“Không có việc gì khó,\n Chỉ sợ lòng không bền,\n Đào núi và lấp biển,\n Quyết chí ắt làm nên”.\n Được Bác Hồ viết tặng thanh niên xung phong trên đường đi chiến dịch nào ?",
       "A": "Việt Bắc",
       "B": "Biên giới",
@@ -2313,7 +2313,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_258",
+      "ID": "258",
       "QUESTION": "“Chúng ta không sợ có khuyết điểm, chúng ta chỉ sợ không có quyết tâm sửa đổi, chúng ta phải lấy lòng “chí công vô tư”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi các đồng chí tỉnh nhà” được Bác viết tại đâu ?",
       "A": "Hà Nội",
       "B": "Nghệ An",
@@ -2322,7 +2322,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_259",
+      "ID": "259",
       "QUESTION": "“Người cách mạng mẫu mực phải khiêm tốn, khoan hòa, lượng thứ, can đảm khi sa cơ, bình tĩnh khi thắng thế, không bao giờ được quên rằng cuộc đời mình và sự nghiệp của mình thuộc về toàn nhân loại chứ không thuộc về mình”.\n Nguyễn Ái Quốc viết bài “Người cách mạng mẫu mực”, đăng trên báo Thanh Niên, số 61, năm bao nhiêu ?",
       "A": "1924",
       "B": "1925",
@@ -2331,7 +2331,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_260",
+      "ID": "260",
       "QUESTION": "“Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong buổi nói chuyện với cán bộ, chiến sĩ Đại đoàn Quân Tiên Phong chuẩn bị về tiếp quản Thủ đô Hà Nội. Đại đoàn Quân Tiên Phong nay có phiên hiệu là gì ?",
       "A": "Sư đoàn 308/ Quân đoàn 1",
       "B": "Sư đoàn 301/ Bộ Tư lệnh Thủ đô",
@@ -2340,7 +2340,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_261",
+      "ID": "261",
       "QUESTION": "“Cán bộ cần hoan nghênh ý kiến và những lời phê bình của dân, để sửa chữa sai lầm”.\n Là lời căn dặn của Chủ tịch Hồ Chí Minh trích trong thư thăm hỏi các đại biểu và tất cả các cán bộ và nhân viên của ngành nào ?",
       "A": "Mặt trận",
       "B": "Dân vận",
@@ -2349,7 +2349,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_262",
+      "ID": "262",
       "QUESTION": "“Mỗi người sẽ tùy theo sức mình tham gia vào công cuộc xây dựng nước nhà”,\n Là lời dạy của Chủ tịch Hồ Chí Minh trong “Thư gửi bộ đội, cán bộ và gia đình cán bộ miền Nam ra Bắc” được đăng trên báo nào ?",
       "A": "Việt Nam độc lập",
       "B": "Quân đội Nhân dân",
@@ -2358,7 +2358,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_263",
+      "ID": "263",
       "QUESTION": "“Thanh niên phải luôn luôn rèn luyện đạo đức cách mạng ”.\n Đây là lời của Chủ tịch Hồ Chí Minh khi đến thăm và phát biểu tại “Hội nghị cán bộ Đoàn Thanh niên Lao động Việt Nam toàn miền Bắc” diễn ra vào ngày bao nhiêu ?",
       "A": "19/9/1962",
       "B": "20/9/1962",
@@ -2367,7 +2367,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_264",
+      "ID": "264",
       "QUESTION": "“Tập thể lãnh đạo và cá nhân phụ trách cần phải luôn luôn đi đôi với nhau”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Cách làm việc tập thể lãnh đạo cá nhân phụ trách” với bút danh gì ?",
       "A": "Q.T",
       "B": "A.T",
@@ -2376,7 +2376,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_265",
+      "ID": "265",
       "QUESTION": "“Trên mặt trận nông nghiệp, mỗi đồng bào nhà nông phải là một chiến sĩ xung phong.\n Chiến sĩ trước mặt trận thì xung phong giết giặc bằng súng đạn.\n Chiến sĩ nhà nông thì xung phong giết giặc bằng cày cuốc, nghĩa là phải xung phong tăng gia sản xuất, để giúp cho bộ đội đủ ăn đủ mặc để đánh giặc”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết nào ?",
       "A": "Phải sẵn sàng phòng, chống bão lụt",
       "B": "Thật là vẻ vang!",
@@ -2385,7 +2385,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_266",
+      "ID": "266",
       "QUESTION": "“Đã gọi là đoàn kết thì phải giúp đỡ nhau như anh em trong nhà”.\n Là lời dạy của Bác Hồ trong buổi nói chuyện với đồng bào tỉnh nào ?",
       "A": "Cao Bằng",
       "B": "Nam Định",
@@ -2394,7 +2394,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_267",
+      "ID": "267",
       "QUESTION": "“Không chịu tự phê bình, tự chỉ trích thì không bao giờ tấn tới được”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Muốn thành cán bộ tốt, phải có tinh thần tự chỉ trích”, đăng trên báo Cứu quốc, số 51, ngày 26 tháng 9 năm 1945, ký bút danh nào ?",
       "A": "Chiến sĩ",
       "B": "Tất Thành",
@@ -2403,7 +2403,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_268",
+      "ID": "268",
       "QUESTION": "“Xem xét nơi nào quân địch có thực lực mạnh để tránh và nơi nào quân địch yếu để tiến công, như thế là xem xét tình hình hư thực của bên địch. Biết rõ được thế hư thực của địch, mới có thể bày được mưu kế tiến thoái”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong bài viết giới thiệu “Binh pháp Tôn Tử” với nhan đề “Bàn về kế hư thực”, ký tên nào ?",
       "A": "Q.T",
       "B": "Q.Th",
@@ -2412,7 +2412,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_269",
+      "ID": "269",
       "QUESTION": "“Ngụy binh cũng là con dân nước Việt, nhưng vì dại mà đi lầm đường, cho nên tôi và Chính phủ sẵn sàng tha thứ những người sớm biết lỗi và quay về với đại gia đình kháng chiến”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong “Thư gửi các ngụy binh”, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Cứu Quốc",
@@ -2421,7 +2421,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_270",
+      "ID": "270",
       "QUESTION": "“Nước Việt Nam ta sau này thịnh hay suy, mạnh hay yếu, trách nhiệm ở toàn thể quốc dân“.\n Đây là lời của Chủ tịch Hồ Chí Minh trong văn bản nào ?",
       "A": "“Thư gửi một Việt kiều báo tin nước nhà đã độc lập”",
       "B": "Thư gửi mặt trận",
@@ -2430,7 +2430,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_271",
+      "ID": "271",
       "QUESTION": "“Học có tốt, hành mới tốt. Học và hành tốt mới làm trọn nhiệm vụ người thanh niên cách mạng”.\n Đây là lời dạy của Chủ tịch Hồ Chí Minh được trích trong “Bài nói chuyện tại Đại hội thanh niên Thủ đô”, ngày 30 tháng 9 năm 1964, đăng trên Báo nào ?",
       "A": "Nhân dân",
       "B": "Hà Nội mới",
@@ -2439,7 +2439,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_272",
+      "ID": "272",
       "QUESTION": "“Cái gì không có lợi cho địch là có lợi cho ta”.\n Đây là lời của Chủ tịch Hồ Chí Minh viết trong bài “Mười khó khăn của Pháp” vứoi bút danh nào ?",
       "A": "Q.T",
       "B": "Quyết Thắng",
@@ -2448,7 +2448,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_273",
+      "ID": "273",
       "QUESTION": "“Địch công thành, ta công tâm, phải lấy được lòng dân”.\n Đây là lời của Chủ tịch Hồ Chí Minh phát biểu tại cuộc họp nào bàn về cách mạng miền Nam ?",
       "A": "Ban chấp hành Trung ương",
       "B": "Ban Bí thư",
@@ -2457,7 +2457,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_274",
+      "ID": "274",
       "QUESTION": "“Về mặt văn hóa, thì dù ai mù quáng đến mấy cũng phải thấy rằng chế độ xã hội chủ nghĩa của ta thắng lợi vẻ vang.\n Chúng ta có quyền tự hào, nhưng chúng ta không được tự mãn”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong bài viết “Một thắng lợi vẻ vang” với bút danh nào ?",
       "A": "T.L",
       "B": "Q.T",
@@ -2466,7 +2466,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_275",
+      "ID": "275",
       "QUESTION": "“Cán bộ chăm chỉ làm việc chưa đủ, cần phải biết làm việc cho có phương pháp. Phải cần mà phải cẩn nữa”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong bài viết “Thiếu óc tổ chức - một khuyết điểm lớn trong các…\" Điền từ vào chỗ trống ?",
       "A": "Chi bộ",
       "B": "ủy ban hành chính",
@@ -2475,7 +2475,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_276",
+      "ID": "276",
       "QUESTION": "“… Không biết tự quyết, tự định cái gì, như vậy làm sao công tác phát triển được. Có mắt ta phải trông, có óc ta phải nghĩ, có tay ta phải làm chứ.\n Nhưng tự động không phải tự tiện”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong bài viết “Tinh thần chủ động trong Ủy ban nhân dân” với bút danh nào ?",
       "A": "T.L",
       "B": "Q.T",
@@ -2484,7 +2484,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_277",
+      "ID": "277",
       "QUESTION": "“Muốn cho danh chính, lợi chính, thì Danh, làm sao cho dân tộc mình có danh với thế giới, và Lợi, làm thế nào cho tranh được lợi với thế giới”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài “Nói chuyện với đại biểu các báo chí về nội trị, ngoại giao nước nhà trong những ngày vừa qua”, Người nói ngày 06 tháng 10 năm 1945 được đăng trên Báo nào ?",
       "A": "Cứu Quốc",
       "B": "Nhân dân",
@@ -2493,7 +2493,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_278",
+      "ID": "278",
       "QUESTION": "“Không phải đã hòa bình thì thỏa mãn mà còn phải đấu tranh phức tạp, gian khổ, lâu dài. Cách đấu tranh có thay đổi là đấu tranh trong hòa bình, mà đấu tranh trong hòa bình còn gian khổ phức tạp hơn thời kỳ chiến tranh”.\n Đây là lời của Chủ tịch Hồ Chí Minh phát biểu tại Hội nghị cán bộ ngày 07 tháng 10 năm bao nhiêu ?",
       "A": "1951",
       "B": "1952",
@@ -2502,7 +2502,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_279",
+      "ID": "279",
       "QUESTION": "“Phải chú trọng đào tạo, bồi dưỡng, cân nhắc cán bộ miền núi”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong buổi nói chuyện tại Hội nghị tổng kết cuộc vận động hợp tác hóa nông nghiệp, phát triển sản xuất, kết hợp hoàn thành cải cách dân chủ ở miền núi. Bác nói ngày 08 tháng 10 năm 1961 được đăng trên báo nào ?",
       "A": "Cứu Quốc",
       "B": "Nhân dân",
@@ -2511,7 +2511,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_280",
+      "ID": "280",
       "QUESTION": "“Chúng ta phải hết sức khôn khéo, đứng trước bất kỳ kẻ thù nào, người cách mạng cũng phải hiểu rõ chúng là ai; mạnh yếu chỗ nào, tranh thủ và cô lập ai?...”.\n Đây là lời của Chủ tịch Hồ Chí Minh khi trả lời các vấn đề đối ngoại của chính phủ mới với Đoàn đại biểu công nhân ở đâu ?",
       "A": "Nhà máy sợi Nam Định",
       "B": "Thành Hoàng Diệu",
@@ -2520,7 +2520,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_281",
+      "ID": "281",
       "QUESTION": "“Cả nước nhìn về Thủ đô ta. Thế giới trông vào Thủ đô ta. Tất cả chúng ta phải ra sức giữ gìn trật tự, an ninh, làm cho Thủ đô ta thành một Thủ đô bình yên, tươi đẹp, mạnh khỏe cả về vật chất và tinh thần”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết đăng trên Báo Nhân dân, số 236, từ ngày 09 đến ngày 10 tháng 10 năm 1954, với bút danh nào ?",
       "A": "C.B",
       "B": "Q.T",
@@ -2529,7 +2529,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_282",
+      "ID": "282",
       "QUESTION": "“Khuyết điểm nặng nhất của cán bộ và nhân dân là …\"",
       "A": "Tự kiêu",
       "B": "Xa rời quần chúng",
@@ -2538,7 +2538,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_283",
+      "ID": "283",
       "QUESTION": "“Muốn cho dân yêu, muốn được lòng dân, việc gì có lợi cho dân phải hết sức làm, việc gì có hại cho dân phải hết sức tránh”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết nào ?",
       "A": "Thật là vẻ vang!",
       "B": "Sao cho được lòng dân",
@@ -2547,7 +2547,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_284",
+      "ID": "284",
       "QUESTION": "\"Việc nước và ... bao giờ cũng đi đôi với nhau\"",
       "A": "Việc dân vận",
       "B": "Việc nhà",
@@ -2556,7 +2556,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_285",
+      "ID": "285",
       "QUESTION": "“... hy sinh vì muốn loài người được tự do hạnh phúc, đồng bào ta cả lương cả giáo cũng vì tự do hạnh phúc cho toàn dân mà hy sinh phấn đấu”.",
       "A": "Thiên Chúa",
       "B": "Đức Giêsu",
@@ -2565,7 +2565,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_286",
+      "ID": "286",
       "QUESTION": "“Những người phụ trách dân vận cần phải óc nghĩ, mắt trông, tai nghe, chân đi, miệng nói, tay làm”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Dân vận”, ký tên nào ?",
       "A": "X.Y.Z",
       "B": "Q.T",
@@ -2574,7 +2574,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_287",
+      "ID": "287",
       "QUESTION": "“Dù khó khăn đến đâu cũng phải tiếp tục thi đua dạy tốt và học tốt”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi các cán bộ, cô giáo, thầy giáo, công nhân viên, học sinh, sinh viên nhân dịp bắt đầu năm học mới” vào năm bao nhiêu ?",
       "A": "1965",
       "B": "1966",
@@ -2583,7 +2583,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_288",
+      "ID": "288",
       "QUESTION": "“Nếu nước độc lập mà dân không hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi Ủy ban nhân dân các kỳ, tỉnh, huyện và làng\", ký tên gì ?",
       "A": "N.A.Q",
       "B": "Hồ Chí Minh",
@@ -2592,7 +2592,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_289",
+      "ID": "289",
       "QUESTION": "“Đồng bào chúng ta phải đoàn kết chặt chẽ, phải tranh đấu đến cùng để mưu tự do, hạnh phúc cho dân tộc”.\n Đây là lời của Hồ Chí Minh trong Thư gửi đồng bào tỉnh nào ?",
       "A": "Lào Cai",
       "B": "Yên Bái",
@@ -2601,7 +2601,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_290",
+      "ID": "290",
       "QUESTION": "“Từ xưa đến nay, từ Nam đến Bắc, từ trẻ đến già, phụ nữ Việt Nam ta thật là anh hùng”.\n Đây là lời khẳng định và khen tặng của Chủ tịch Hồ Chí Minh đối với phụ nữ Việt Nam trong bài phát biểu tại Lễ kỷ niệm lần thứ bao nhiêu Ngày thành lập Hội Liên hiệp phụ nữ Việt Nam ?",
       "A": "5",
       "B": "10",
@@ -2610,7 +2610,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_291",
+      "ID": "291",
       "QUESTION": "“Làm sao cho được ... người hiểu rõ, còn hơn là được ... người hiểu lờ mờ”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài “Lời căn dặn các đội viên tuyên truyền xung phong”. Điền từ vào chỗ trống.",
       "A": "10,100",
       "B": "20,200",
@@ -2619,7 +2619,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_292",
+      "ID": "292",
       "QUESTION": "“Dù là tên tuổi không đăng trên báo, không được thưởng huân chương, song những người thầy giáo tốt là những người anh hùng vô danh”.\n Khi người cùng vị nguyên thủ nào thăm Trường Đại học Sư phạm Hà Nội vào ngày 21 tháng 10 năm 1964.",
       "A": "Tổng thống Niu Di lân Mali Môđibô Câyta",
       "B": "Lãnh tụ Triều Tiên Kim Nhật Thành",
@@ -2628,7 +2628,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_293",
+      "ID": "293",
       "QUESTION": "“Đối với những người có thành tích, phải khen thưởng, đối với những người mắc sai lầm thì phải phê bình, kiểm thảo giúp họ sửa chữa. Khi cần thiết thì phải thi hành kỷ luật nghiêm minh, đúng mức”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài phát biểu tại Đại hội thi đua của ngành nào ?",
       "A": "Công an Nhân dân",
       "B": "Quân đội Nhân dân",
@@ -2637,7 +2637,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_294",
+      "ID": "294",
       "QUESTION": "“Một ngày mà Tổ quốc chưa thống nhất, đồng bào còn chịu khổ, là một ngày tôi ăn không ngon, ngủ không yên”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong “Lời tuyên bố với quốc dân” sau chuyến đi từ nước nào về ?",
       "A": "Liên Xô",
       "B": "Trung Quốc",
@@ -2646,7 +2646,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_295",
+      "ID": "295",
       "QUESTION": "“Đối với các em, việc giáo dục gồm có:\n Thể dục: Để làm cho thân thể mạnh khỏe, đồng thời cần giữ gìn vệ sinh riêng và vệ sinh chung.\n Trí dục: ôn lại những điều đã học, học thêm những tri thức thấy,\n Mỹ dục: để phân biệt cái gì là đẹp, cái gì là không đẹp.\n Đức dục: là yêu Tổ quốc, yêu nhân dân, yêu lao động, yêu khoa học, trọng của công”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong thư “Gửi các em học sinh”, nhân dịp khai giảng năm học mới, với bút danh nào ?",
       "A": "N.A.Q",
       "B": "C.B",
@@ -2655,7 +2655,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_296",
+      "ID": "296",
       "QUESTION": "“Quân sự mà không có chính trị như cây không có gốc, vô dụng lại có hại”.\n  Là lời huấn thị của Chủ tịch Hồ Chí Minh tại đâu ?",
       "A": "Trường quân chính kháng Nhật",
       "B": "Trường chính trị trung cấp Quân đội",
@@ -2664,7 +2664,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_297",
+      "ID": "297",
       "QUESTION": "“Các cán bộ các cấp phải lãnh đạo và phải làm kiểu mẫu trong việc kiểm thảo và tự phê bình.\n Làm như thế thì chúng ta sẽ phát triển thêm ưu điểm, sửa chữa sạch khuyết điểm. Đánh thắng khuyết điểm của ta tức là đã một lần đánh thắng quân địch”.\n  Đây là lời huấn thị của Chủ tịch Hồ Chí Minh trong “Lời kêu gọi và khuyên nhủ các chiến sĩ” được đăng trên báo nào ?",
       "A": "Nhân dân",
       "B": "Việt Nam độc lập",
@@ -2673,7 +2673,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_298",
+      "ID": "298",
       "QUESTION": "“Các cán bộ các cấp phải lãnh đạo và phải làm kiểu mẫu trong việc kiểm thảo và tự phê bình.\n Làm như thế thì chúng ta sẽ phát triển thêm ưu điểm, sửa chữa sạch khuyết điểm. Đánh thắng khuyết điểm của ta tức là đã một lần đánh thắng quân địch”.\n  Đây là lời huấn thị của Chủ tịch Hồ Chí Minh trong “Lời kêu gọi và khuyên nhủ các chiến sĩ” sau chiến thắng nào ?",
       "A": "Việt Bắc",
       "B": "Biên Giới",
@@ -2682,7 +2682,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_299",
+      "ID": "299",
       "QUESTION": "“Mệnh lệnh cấp trên đưa xuống thì phải tuyệt đối phục tùng và triệt để thi hành”.\n Là lời huấn thị của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Hội nghị tổng kết chiến dịch nào ?",
       "A": "Quang Trung",
       "B": "Hoàng Hoa Thám",
@@ -2691,7 +2691,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_300",
+      "ID": "300",
       "QUESTION": "“Cán bộ phải thương yêu đội viên. Đối với anh em ốm yếu, thương tật, cán bộ phải trông nom, thăm hỏi.”\n Là lời huấn thị của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Hội nghị tổng kết chiến dịch Lê Hồng Phong II, họp từ ngày 23 đến ngày 28 tháng 10 năm 1950 tại đâu ?",
       "A": "Đông Khê",
       "B": "Thất Khê",
@@ -2700,7 +2700,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_301",
+      "ID": "301",
       "QUESTION": "“Không quân đội nào, không khí giới nào có thể đánh ngã được tinh thần hy sinh của toàn thể một dân tộc”.\n  Đây là lời của Chủ tịch Hồ Chí Minh được trích trong văn bản nào ?",
       "A": "Lời kêu gọi toàn quốc kháng chiến",
       "B": "Lời kêu gọi đẩy mạnh kháng chiến chống Mỹ",
@@ -2709,7 +2709,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_302",
+      "ID": "302",
       "QUESTION": "“Dân quân du kích ta có truyền thống rất vẻ vang: già trẻ, gái trai, đều anh dũng đánh giặc, cứu nước cứu nhà; tài giỏi mưu trí, lấy ít thắng nhiều”.",
       "A": "Dân tộc ta",
       "B": "Dân quân du kích ta",
@@ -2718,7 +2718,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_303",
+      "ID": "303",
       "QUESTION": "“Chi bộ là gốc rễ của Đảng ở trong quần chúng. Chi bộ tốt thì mọi chính sách của Đảng đều được thi hành tốt, mọi công việc đều tiến bộ không ngừng”.\n Là lời của Chủ tịch Hồ Chí Minh trong bài viết “Những chi bộ tốt và chi bộ chưa tốt” với bút danh là gì ?",
       "A": "T.L",
       "B": "T.T",
@@ -2727,7 +2727,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_304",
+      "ID": "304",
       "QUESTION": "“…Chỉ có sự lãnh đạo của một đảng biết vận dụng một cách sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước mình thì mới có thể đưa cách mạng giải phóng dân tộc đến thắng lợi và cách mạng xã hội chủ nghĩa đến thành công”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài “Cách mạng Tháng Mười vĩ đại mở ra con đường giải phóng cho các dân tộc”, gửi cho báo nào ?",
       "A": "L' Humanité",
       "B": "La Vie d'Ouvriers",
@@ -2736,7 +2736,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_305",
+      "ID": "305",
       "QUESTION": "“… chớ nên cái gì tốt thì dành cho mình, xấu để cho người khác”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài nói tại hội nghị rút kinh nghiệm công tác quản lý hợp tác xã nông nghiệp toàn miền Bắc, đăng trên báo nào ?",
       "A": "Cứu Quốc",
       "B": "Thanh niên",
@@ -2745,7 +2745,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_306",
+      "ID": "306",
       "QUESTION": "“… Hễ còn một tên xâm lược trên đất nước ta, thì ta còn phải tiếp tục chiến đấu, quét sạch nó đi…” là lời của Bác trong văn bản nào ?",
       "A": "Lời kêu gọi toàn quốc kháng chiến",
       "B": "Lời kêu gọi cả nước tiến lên đánh thắng giặc Mỹ xâm lược",
@@ -2754,7 +2754,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_307",
+      "ID": "307",
       "QUESTION": "“… Muốn thắng, thì ta phải tích cực, tự động, bí mật, mau chóng, kiên quyết, dẻo dai. Chắc thắng mới đánh. Nhưng tuyệt đối chớ chủ quan khinh địch...”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi các cán bộ, chiến sĩ chủ lực và dân quân du kích trong Chiến dịch ...” Điền từ vào chỗ trống.",
       "A": "Hoàng Hoa Thám",
       "B": "Quang Trung",
@@ -2763,7 +2763,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_308",
+      "ID": "308",
       "QUESTION": "“…Giao thông vận tải là mạch máu của tổ chức. Giao thông tốt thì các việc đều dễ dàng. Giao thông xấu thì các việc đình trễ”.\n Là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Công việc khẩn cấp bây giờ” được Người viết vào năm nào ?",
       "A": "1945",
       "B": "1946",
@@ -2772,7 +2772,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_309",
+      "ID": "309",
       "QUESTION": "“… Khen, chê phải đúng mức. Khen nhưng khen quá lời, “suy tôn” người được khen thì chính người được khen xấu hổ. Đập nhưng đập bậy thì người ta không phục...”.\n Đây là lời của Chủ tịch Hồ Chí Minh trong một buổi họp của Bộ Chính trị tiếp tục cho ý kiến về nội dung nào ?",
       "A": "Đại hội thi đua yêu nước lần thứ I",
       "B": "Đại hội thành lập Mặt trận Tổ quốc Việt Nam",
@@ -2781,7 +2781,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_310",
+      "ID": "310",
       "QUESTION": "“… Nhờ Cách mạng Tháng Mười thành công mà một thế giới mới đã ra đời và ngày càng phồn vinh, càng mạnh mẽ như hoa nở mùa Xuân”.\n Đây là sự đánh giá, ghi nhận về thắng lợi vĩ đại cuộc Cách mạng Tháng Mười Nga của Chủ tịch Hồ Chí Minh, trích trong bài viết “Vui vẻ kỷ niệm Cách mạng Tháng Mười” gửi báo nào ?",
       "A": "L' Humanité",
       "B": "La Vie d'Ouvriers",
@@ -2790,7 +2790,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_311",
+      "ID": "311",
       "QUESTION": "“... nguy hiểm hơn nạn chiến tranh”. Điền từ vào chỗ trống.",
       "A": "Nạn đói kém",
       "B": "Nạn dốt",
@@ -2799,7 +2799,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_312",
+      "ID": "312",
       "QUESTION": "“…Phải ra sức thi đua:\n Luyện tập thân thể cho mạnh mẽ.\n Nghiên cứu kỹ thuật cho thông thạo.\n Trau dồi tinh thần cho vững chắc.\n Hun đúc đạo đức của người quân nhân cách mạng cho vững vàng”.\n Đây là lời huấn thị của Chủ tịch Hồ Chí Minh trong Thư gửi lớp “Chuẩn bị tổng phản công” Trường Trung học Lục quân Trần Quốc Tuấn vào năm bao nhiêu ?",
       "A": "1948",
       "B": "1949",
@@ -2808,7 +2808,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_313",
+      "ID": "313",
       "QUESTION": "“… Cán bộ và bộ đội nhất định phải đi sát với nhân dân vì lực lượng của nhân dân là vô cùng mạnh mẽ…”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong Thư gửi đồng bào và bộ đội Vệ Quốc quân và dân quân du kích vùng nào ?",
       "A": "Việt Bắc",
       "B": "Liên khu 1",
@@ -2817,7 +2817,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_314",
+      "ID": "314",
       "QUESTION": "“Phải luôn thi đua học tập và công tác, mở rộng tự phê bình và phê bình để tiến bộ mãi, để làm cho bộ đội ta càng thêm hùng mạnh, chính quyền ta càng thêm vững chắc”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong “Thư khen các chiến sĩ và cán bộ của các đơn vị tiếp quản Thủ đô”, đăng trên Báo Nhân dân, số 260, ra ngày bao nhiêu ?",
       "A": "10/11/1954",
       "B": "11/11/1954",
@@ -2826,7 +2826,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_315",
+      "ID": "315",
       "QUESTION": "“Cán bộ và chiến sĩ đoàn kết chặt chẽ, thì chúng ta nhất định vượt được khó khăn, sửa được sai lầm, giành được thắng lợi\".\n Đây là lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện tại “Hội nghị cán bộ trung, cao cấp quân đội”, tháng 11 năm bao nhiêu ?",
       "A": "1954",
       "B": "1955",
@@ -2835,7 +2835,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_316",
+      "ID": "316",
       "QUESTION": "“Học hành là vô cùng. Học càng nhiều biết càng nhiều càng tốt...”. \n Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong “Thư gửi đồng bào xã nào của huyện Tiên Hưng, tỉnh Thái Bình ?",
       "A": "An Châu",
       "B": "Bắc Sơn",
@@ -2844,7 +2844,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_317",
+      "ID": "317",
       "QUESTION": "“Những ai đã lầm đường mà nay hối cải thì sẽ được khoan thứ.”\n Đây là lời khẳng định của Chủ tịch Hồ Chí Minh trong Công điện số 508/D ngày 14 tháng 11 năm 1950 “Điện gửi đồng bào ...” Điền vào chỗ trống.",
       "A": "Ba Tơ",
       "B": "Mộ Đức",
@@ -2853,7 +2853,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_318",
+      "ID": "318",
       "QUESTION": "“… Đã tự kiêu, tự ái thì không thể đoàn kết. Không đoàn kết tức là cô độc. Đã cô độc thì chẳng việc gì thành công”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Bệnh tự kiêu, tự ái” được viết với bút danh gì ?",
       "A": "T.L",
       "B": "T.T",
@@ -2862,7 +2862,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_319",
+      "ID": "319",
       "QUESTION": "“Quân dân đoàn kết một lòng,\n Kháng chiến thắng lợi, cờ hồng tung bay”.\n Câu thơ trên trích trong bài thơ bào của Bác ?",
       "A": "Công nhân",
       "B": "Gửi Nông dân",
@@ -2871,7 +2871,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_320",
+      "ID": "320",
       "QUESTION": "“Để đánh thắng kẻ thù chung, chúng ta nhất định phải đoàn kết chặt chẽ. Đoàn kết là sức mạnh vô địch của chúng ta”.\n Đây là khẳng định của Chủ tịch Hồ Chí Minh trong bài phát biểu tại Hội nghị quốc tế nào ?",
       "A": "Đại hội thành lập Đảng Xã hội Pháp",
       "B": "Đại hội thành lập Quốc tế III",
@@ -2880,7 +2880,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_321",
+      "ID": "321",
       "QUESTION": "“… Muốn có hòa bình thật sự thì phải có độc lập thật sự...”.\n Đây là lời khẳng định của Chủ tịch Hồ Chí Minh trong nội dung trả lời phỏng vấn nhà báo nào ?",
       "A": "S.Êli Mâysi",
       "B": "France Soir",
@@ -2889,7 +2889,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_322",
+      "ID": "322",
       "QUESTION": "“… Rất mong các đồng chí chiến sĩ và cán bộ ta hết sức cẩn trọng trong mọi cử chỉ, để cho thế giới đều thấy rằng “Quân đội Cụ Hồ có khác!”.\n Lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài viết nào ?",
       "A": "Quân đội nhân dân",
       "B": "Nhân dân với Quân đội",
@@ -2898,7 +2898,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_323",
+      "ID": "323",
       "QUESTION": "“… Rất mong các đồng chí chiến sĩ và cán bộ ta hết sức cẩn trọng trong mọi cử chỉ, để cho thế giới đều thấy rằng “Quân đội Cụ Hồ có khác!”.\n Lời dạy của Chủ tịch Hồ Chí Minh được trích trong bài viết “Nhân dân với Quân đội”, đăng trên báo nào ?",
       "A": "Quân đội Nhân dân",
       "B": "Nhân dân",
@@ -2907,7 +2907,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_324",
+      "ID": "324",
       "QUESTION": "“Đoàn kết là sức mạnh. Toàn Đảng, toàn quân, toàn dân đoàn kết chặt chẽ xung quanh ...”.\n Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong bài nói chuyện tại “Hội nghị cán bộ trung, cao cấp quân đội”, tháng 11 năm 1956.",
       "A": "Đảng",
       "B": "Bộ Chính trị",
@@ -2916,7 +2916,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_325",
+      "ID": "325",
       "QUESTION": "“… Kháng chiến của ta nhất định thắng lợi, nhưng phải trường kỳ, gian khổ, tự lực cánh sinh.”\n Lời của Chủ tịch Hồ Chí Minh viết trong Thư gửi quân và dân nơi nào ?",
       "A": "Việt Bắc",
       "B": "Tây Bắc",
@@ -2925,7 +2925,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_326",
+      "ID": "326",
       "QUESTION": "“Anh hùng thật là những người bất cứ việc to việc nhỏ, luôn luôn cố gắng, vượt qua khó khăn, làm tròn nhiệm vụ”.\n Đây là lời của Chủ tịch Hồ Chí Minh trích trong bài “Anh hùng giả và anh hùng thật”, đăng trên Báo Nhân dân, số 149, từ ngày 21 đến ngày 25 tháng 11 năm bao nhiêu ?",
       "A": "1951",
       "B": "1952",
@@ -2934,7 +2934,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_327",
+      "ID": "327",
       "QUESTION": "“… Noi gương oanh liệt của Khởi nghĩa Nam bộ, chúng ta phải đoàn kết chặt chẽ và kháng chiến mạnh mẽ lên mãi để phá âm mưu của giặc: lấy chiến tranh nuôi chiến tranh, dùng người Việt đánh người Việt, đánh đuổi quân xâm lược ra khỏi đất nước, giành độc lập và thống nhất thực sự cho Tổ quốc”.\n Đây là lời căn dặn, nhắc nhở của Bác viết trong “Thư gửi cán bộ, chiến sĩ và đồng bào Nam Bộ” nhân kỷ niệm bao nhiêu năm Ngày Khởi nghĩa Nam Bộ ?",
       "A": "9",
       "B": "10",
@@ -2943,7 +2943,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_328",
+      "ID": "328",
       "QUESTION": "“Nếu chính quyền biết lãnh đạo và khuyến khích, khen cái nên khen, thưởng việc nên thưởng, thì không những người lớn mà các trẻ em cũng hăng làm việc có lợi”.\n Đây là 1/5 việc nhỏ, ý nghĩa to trong bài viết “Việc nhỏ, ý nghĩa to” của Chủ tịch Hồ Chí Minh đăng báo Nhân dân, số 272, ngày 24 tháng 11 năm 1954, với bút danh nào ?",
       "A": "T.L",
       "B": "T.T",
@@ -2952,7 +2952,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_329",
+      "ID": "329",
       "QUESTION": "“Mỗi người yêu nước đều phải làm tuyên truyền. Mỗi cử chỉ, mỗi hành động của chúng ta có thể là một công tác tuyên truyền”.\n Đây là khẳng định của Chủ tịch Hồ Chí Minh trong bài viết “Tuyên truyền”, đăng Báo Nhân dân, số 273, ngày 25 tháng 11 năm 1954, với bút danh nào ?",
       "A": "T.L",
       "B": "C.B",
@@ -2961,7 +2961,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_330",
+      "ID": "330",
       "QUESTION": "“Nhờ ai ta có hòa bình?\n Nhờ người chiến sĩ quên mình vì dân”.\n Câu thơ trên của Chủ tịch Hồ Chí Minh trong bài viết “Nhờ ai ta có hòa bình” với bút danh \"C.B\", báo Nhân dân, số 273, ngày 26 tháng 11 năm bao nhiêu ?",
       "A": "1954",
       "B": "1960",
@@ -2970,7 +2970,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_331",
+      "ID": "331",
       "QUESTION": "“... Các chú đã đánh bật giặc ra khỏi Lào Cai. Bác vui lòng thay mặt Chính phủ khen ngợi các chú. Sau đây là những việc cần phải làm ngay: …Thực hành chính sách toàn dân đại đoàn kết”.\n Đây là lời thứ mấy trong 6 việc quan trọng cần phải làm ngay theo chỉ huấn của Chủ tịch Hồ Chí Minh trong “Thư gửi chiến sĩ và cán bộ Lào Cai”, ngày 27 tháng 11 năm 1950",
       "A": "1",
       "B": "2",
@@ -2979,7 +2979,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_332",
+      "ID": "332",
       "QUESTION": "“… Chỉ có hai hạng người không mắc khuyết điểm: là đứa bé còn ở trong bụng mẹ và người đã chết bỏ vào quan tài. Có hoạt động thì khó tránh khỏi khuyết điểm. Nhưng khi có khuyết điểm thì phải thật thà tự phê bình, hoan nghênh người khác phê bình và kiên quyết sửa chữa”.\n Là lời huấn thị của Chủ tịch Hồ Chí Minh trong bài nói tại Hội nghị nghiên cứu Lịch sử Đảng của cơ quan nào tổ chức vào ngày 28 tháng 11 năm 1959.",
       "A": "Ban Nội chính Trung ương",
       "B": "Ban Tổ chức Trung ương",
@@ -2988,7 +2988,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_333",
+      "ID": "333",
       "QUESTION": "“... là một lực lượng rất to lớn của dân tộc, một đồng minh rất trung thành của giai cấp công nhân”.\n Điền từ vào chỗ ...",
       "A": "Nông dân",
       "B": "Tiểu tư sản",
@@ -2997,7 +2997,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_334",
+      "ID": "334",
       "QUESTION": "“Nông dân là một lực lượng rất to lớn của dân tộc, một đồng minh rất trung thành của giai cấp công nhân”.\n Đây là khẳng định của Chủ tịch Hồ chí Minh trong thư gửi Hội nghị cán bộ nông dân cứu quốc toàn quốc mà Người viết tháng 11 năm bao nhiêu ?",
       "A": "1945",
       "B": "1949",
@@ -3006,7 +3006,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_335",
+      "ID": "335",
       "QUESTION": "“… Chính sách đúng là nguồn gốc thắng lợi”.\n Đây là khẳng định của Chủ tịch Hồ Chí Minh mở đầu cho bài viết “Một việc mà các cơ quan lãnh đạo cần thực hành ngay”, đăng trên Báo Sự thật, số 103, dưới bút danh nào ?",
       "A": "T.L",
       "B": "C.B",
@@ -3015,7 +3015,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_336",
+      "ID": "336",
       "QUESTION": "“Để làm tròn nhiệm vụ cao quý của mình, văn nghệ sĩ cần phải rèn luyện đạo đức cách mạng, nâng cao tinh thần phục vụ nhân dân, giữ gìn thái độ khiêm tốn; phải thật sự hòa mình với quần chúng, cố gắng học tập chính trị, trau dồi nghề nghiệp; phải hết lòng giúp đỡ thanh niên, làm cho văn nghệ nước nhà ngày càng thêm trẻ thêm xuân”.\n Đây là lời căn dặn của Chủ tịch Hồ Chí Minh được trích trong bài nói tại Đại hội Văn nghệ toàn quốc lần thứ mấy diễn ra vào ngày 01 tháng 12 năm 1962?",
       "A": "I",
       "B": "III",
@@ -3024,7 +3024,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_337",
+      "ID": "337",
       "QUESTION": "“Bộ đội phải kính trọng dân, giúp đỡ dân. Dân phải thương yêu bộ đội, ủng hộ bộ đội. Quân và dân phải luôn luôn đoàn kết ….” Điền vào chỗ trống ?",
       "A": "Một lòng",
       "B": "Nhất trí",
@@ -3033,7 +3033,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_338",
+      "ID": "338",
       "QUESTION": "“Nhờ sức đoàn kết tranh đấu chung của tất cả các dân tộc, nước Việt Nam ngày nay được độc lập, các dân tộc thiểu số được bình đẳng cùng dân tộc Việt Nam, tất cả đều như anh chị em trong một nhà, không còn có sự phân chia nòi giống, tiếng nói gì nữa. Trước kia các dân tộc để giành độc lập phải đoàn kết, bây giờ để giữ lấy nền độc lập càng cần đoàn kết hơn nữa”.\n Lời căn dặn trên được Chủ tịch Hồ Chí Minh nói tại Hội nghị đại biểu các dân tộc thiểu số Việt Nam vào ngày mấy ?",
       "A": "03/12/1945",
       "B": "04/12/1945",
@@ -3042,7 +3042,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_339",
+      "ID": "339",
       "QUESTION": "“Khi phải đương đầu với kẻ địch hung ác, một dân tộc dù bé nhỏ, nếu luôn luôn cảnh giác, đoàn kết nhất trí, kiên quyết và bền bỉ đấu tranh, thì cuối cùng nhất định thắng lợi”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Ủng hộ Cuba chống đế quốc Mỹ” với bút danh nào ?",
       "A": "T.L",
       "B": "C.B",
@@ -3051,7 +3051,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_340",
+      "ID": "340",
       "QUESTION": "“Việc to cũng như việc nhỏ. Đảng và Chính phủ ta đều lo phục vụ lợi ích của nhân dân”.\n Lời căn dặn trên của Chủ tịch Hồ Chí Minh được trích trong bài viết “Cần phải nâng cao chất lượng hàng hóa” với bút danh nào ?",
       "A": "T.L",
       "B": "C.B",
@@ -3060,7 +3060,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_341",
+      "ID": "341",
       "QUESTION": "“Điều kiện trừ diệt địch quân phải là điều kiện nhân hòa. Trong hai phe giao chiến, phe nào có đầy đủ điều kiện nhân hòa là phe ấy thắng. Chỉ phe nào vì chính nghĩa mà chiến đấu, phe ấy mới có đủ điều kiện nhân hòa”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài “Chiến đấu vì chính nghĩa”, đăng trên báo nào ?",
       "A": "Nhân dân",
       "B": "Cứu Quốc",
@@ -3069,7 +3069,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_342",
+      "ID": "342",
       "QUESTION": "\"chủ nghĩa ... là như con “ác vàng” đã ngả về tây. Chủ nghĩa xã hội là như mặt trời mới mọc”. Điền vào chỗ trống.",
       "A": "Tư bản",
       "B": "Phát xít",
@@ -3078,7 +3078,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_343",
+      "ID": "343",
       "QUESTION": "“Trong bầu trời không gì quý bằng nhân dân. Trong thế giới, không gì mạnh bằng lực lượng đoàn kết của nhân dân”.\n Đây là lời khẳng định của Chủ tịch Hồ Chí Minh được trích trong “Bài nói chuyện tại lớp nghiên cứu chính trị khóa 2 của Trường Đại học nào ?",
       "A": "Đại học Tổng hợp Hà Nội",
       "B": "Đại học Sư phạm Hà Nội",
@@ -3087,7 +3087,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_344",
+      "ID": "344",
       "QUESTION": "“Khi phát triển Đảng cần phải chọn lọc rất cẩn thận, phải xem trọng chất lượng quyết không nên làm một cách ồ ạt, không nên … \"",
       "A": "quá nhiều",
       "B": "tham nhiều",
@@ -3096,7 +3096,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_345",
+      "ID": "345",
       "QUESTION": "“Đảng viên, đoàn viên thanh niên lao động phải là những người xung phong gương mẫu trong mọi mặt sản xuất, công tác, học tập, đoàn kết”.\n Lời căn dặn trên của Chủ tịch Hồ Chí Minh được trích trong “Bài nói chuyện với cán bộ và xã viên hợp tác xã nào của tỉnh Nghệ An?",
       "A": "Vĩnh Thành",
       "B": "Vĩnh Chương",
@@ -3105,7 +3105,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_346",
+      "ID": "346",
       "QUESTION": "“Chúng ta thường than phiền không đủ thời giờ để làm việc và học tập. Đó là vì chưa biết quý trọng thời giờ, sắp đặt thời giờ cho hợp lý, còn lãng phí nhiều thời giờ”.\n Đây là lời của Chủ tịch Hồ Chí Minh được trích trong bài viết “Một phút đồng hồ”, đăng trên Báo Nhân dân, số 153, ra từ ngày 11 đến ngày 15 tháng mấy năm 1953?",
       "A": "3",
       "B": "6",
@@ -3114,7 +3114,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_347",
+      "ID": "347",
       "QUESTION": "\" … Sau đây tôi có mấy lời dặn đồng bào và cán bộ ghi nhớ và làm cho đúng: (1) Đoàn kết, thân ái giúp đỡ lẫn nhau. (2) Giúp đỡ bộ đội diệt phỉ, trừ gian, giữ gìn trật tự. (3) Ra sức tăng gia sản xuất để mọi người được ấm no. (4) Hết sức trung thành với Tổ quốc và Chính phủ Việt Nam dân chủ Cộng hòa. Còn đối với những người trước đây đã lầm đường theo giặc nếu trở về Tổ quốc thì Chính phủ sẽ khoan hồng.\n Cán bộ thì phải thật sự gần gũi giúp đỡ nhân dân, đặt lợi ích của nhân dân lên trên hết.\n Chúc đồng bào và cán bộ mạnh khỏe và cố gắng\".\n Là nội dung Thư của Chủ tịch Hồ Chí Minh thay mặt Chính phủ, gửi lời hỏi thăm đồng bào và cán bộ tỉnh nào ?",
       "A": "Điện Biên",
       "B": "Lào Cai",
@@ -3123,7 +3123,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_348",
+      "ID": "348",
       "QUESTION": "\"Tinh thần trách nhiệm là gì? Là khi Đảng, Chính phủ hoặc cấp trên giao cho ta việc gì, bất kỳ to hay nhỏ, khó hay dễ, ta cũng đưa cả tinh thần, lực lượng ra làm cho đến nơi, đến chốn, vượt mọi khó khăn, làm cho thành công. Làm một cách cẩu thả, làm cho có chuyện, dễ làm khó bỏ, đánh trống bỏ dùi, gặp sao làm vậy, vv… là không có tinh thần trách nhiệm\". Đó là lời của Bác Hồ trong Bài viết về \"Tinh thần trách nhiệm\" được đăng trên báo nào ?",
       "A": "Nhân dân",
       "B": "Hợp tác xã",
@@ -3132,7 +3132,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_349",
+      "ID": "349",
       "QUESTION": "\"Chúng ta không sợ sai lầm, chỉ sợ phạm sai lầm mà không quyết tâm sửa chữa. Muốn sửa chữa cho tốt thì phải sẵn sàng nghe quần chúng phê bình và thật thà tự phê bình. Không chịu nghe phê bình và không tự phê bình thì nhất định lạc hậu, thoái bộ. Lạc hậu và thoái bộ thì sẽ bị quần chúng bỏ rơi. Đó là kết quả tất nhiên của chủ nghĩa cá nhân\"là lời của Chủ tịch Hồ Chí Minh viết trong Tác phẩm nào ?",
       "A": "Bàn về đạo đức cách mạng",
       "B": "Nông thôn đổi mới",
@@ -3141,7 +3141,7 @@
       "ANSWER": "A"
     },
     {
-      "ID": "DE_6_350",
+      "ID": "350",
       "QUESTION": "\"Người cách mạng phải có đạo đức cách mạng làm nền tảng mới hoàn thành được nhiệm vụ cách mạng vẻ vang\".\n Là lời của Chủ tịch Hồ Chí Minh trong tác phẩm bàn về đạo đức cách mạng, được viết vào tháng 12 năm bào nhiêu ?",
       "A": "1956",
       "B": "1957",
@@ -3150,7 +3150,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_351",
+      "ID": "351",
       "QUESTION": "\"Chịu khó, chịu khổ: Muốn giữ vững tinh thần chiến đấu, muốn dẻo dai trong lúc tác chiến, ngay bây giờ bộ đội phải tập ăn uống kham khổ, chịu đựng sự thiếu thốn cho quen; tập đi bộ, tập đi nặng, làm việc tỉ mỉ… Chịu khó, chịu khổ là phương thuốc bổ cho tinh thần và lực lượng bộ đội\".\n Là lời Hồ Chủ tịch khuyên răn bộ đội, đăng trên báo nào ?",
       "A": "Nhân dân",
       "B": "Chiến thắng",
@@ -3159,7 +3159,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_352",
+      "ID": "352",
       "QUESTION": "\"Đạo đức cách mạng không phải từ trên trời sa xuống. Nó do đấu tranh rèn luyện bền bỉ hằng ngày mà phát triển và củng cố. Cũng như ngọc càng mài càng sáng, vàng càng luyện càng trong\".\n Là lời Chủ tịch Hồ Chí Minh viết trong Tác phẩm \"Đạo đức cách mạng\", đăng trên đâu ?",
       "A": "Báo Nhân dân",
       "B": "Báo Chiến thắng",
@@ -3168,7 +3168,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_353",
+      "ID": "353",
       "QUESTION": "\"Nhiệm vụ của Quân đội hiện nay là phải cố gắng tiến lên chính quy. Đây là nhiệm vụ mới. Không nên vì hòa bình mà xao lãng ….\"",
       "A": "Rèn luyện",
       "B": "Nghiên cứu",
@@ -3177,7 +3177,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_354",
+      "ID": "354",
       "QUESTION": "\"… Chúng ta muốn hòa bình, chúng ta phải nhân nhượng, nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới, vì chúng quyết tâm cướp nước ta một lần nữa.\n Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ …\".\n Đó là lời của Chủ tịch Hồ Chí Minh, thay mặt Trung ương Đảng và Chính phủ ta, ra lời kêu gọi toàn quốc kháng chiến được phát đi vào thời điểm nào ?",
       "A": "Sáng 19/12/1946",
       "B": "Trưa 19/12/1946",
@@ -3186,7 +3186,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_355",
+      "ID": "355",
       "QUESTION": "\"Thanh niên ta có vinh dự to thì cũng có trách nhiệm lớn. Để làm tròn trách nhiệm, thanh niên ta phải nâng cao tinh thần làm chủ tập thể, trừ bỏ chủ nghĩa cá nhân, chớ phô trương hình thức, chớ kiêu ngạo tự mãn. Phải thấm nhuần đạo đức cách mạng tức là học tập, lao động, sinh hoạt theo đúng đạo đức của thanh niên xã hội chủ nghĩa\".\n Là lời của Bác Hồ trong bài nói chuyện tại Đại hội toàn quốc lần thứ mấy của Hội liên hiệp Thanh niên Việt Nam ?",
       "A": "I",
       "B": "II",
@@ -3195,7 +3195,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_356",
+      "ID": "356",
       "QUESTION": "Nâng cao trình độ văn hóa của nhân dân là một việc làm cần thiết để xây dựng nước ta thành một nước hòa bình, thống nhất độc lập, dân chủ và giàu mạnh\".\n Là lời của Chủ tịch Hồ Chí Minh trong Thư gửi đồng bào Thị xã nào ?",
       "A": "Sơn Tây",
       "B": "Ba Vì",
@@ -3204,7 +3204,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_357",
+      "ID": "357",
       "QUESTION": "“Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập, tự do của Tổ quốc, vì chủ nghĩa xã hội, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”.\n Đây là lời khen tặng của Chủ tịch Hồ Chí Minh dành cho Quân đội nhân dân Việt Nam nhân kỷ niệm lần thứ bao nhiêu ngày thành lập ?",
       "A": "10",
       "B": "15",
@@ -3213,7 +3213,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_358",
+      "ID": "358",
       "QUESTION": "“Dân ta phải giữ nước ta,\n  Dân là con nước, nước là mẹ chung”.\n Là câu thơ do Chủ tịch Hồ Chí Minh làm và đọc chiều ngày 23 tháng 12 năm 1946 trong văn kiện nào ?",
       "A": "Trả lời bạn đọc",
       "B": "Hỏi và trả lời",
@@ -3222,7 +3222,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_359",
+      "ID": "359",
       "QUESTION": "...“Chúng ta toàn dân, giáo cũng như lương, đoàn kết kháng chiến để Tổ quốc được độc lập, tôn giáo được tự do”.\n Là lời của Chủ tịch Hồ Chí Minh trong thư gửi đồng bào công giáo nhân dịp Lễ Noen năm bao nhiêu ?",
       "A": "1945",
       "B": "1946",
@@ -3231,7 +3231,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_360",
+      "ID": "360",
       "QUESTION": "“Tư tưởng thông suốt thì mọi việc làm đều tốt. Phải làm cho tư tưởng xã hội chủ nghĩa hoàn toàn thắng, tư tưởng cá nhân hoàn toàn thất bại” .\n Đây là lời huấn thị của Chủ tịch Hồ Chí Minh, tối ngày 25 tháng 12 năm 1958 nhân dịp Người về thăm và nói chuyện với cán bộ, công nhân nhà máy nào ?",
       "A": "Nhà máy sợi Nam Định",
       "B": "Nhà máy điện Yên Phụ",
@@ -3240,7 +3240,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_361",
+      "ID": "361",
       "QUESTION": "“Thực lực là cái chiêng mà ngoại giao là cái tiếng. Chiêng có to tiếng mới lớn”.\n Là lời khẳng định của Chủ tịch Hồ Chí Minh về vị trí, vai trò của công tác nào ?",
       "A": "Đối Ngoại",
       "B": "Ngoại giao",
@@ -3249,7 +3249,7 @@
       "ANSWER": "B"
     },
     {
-      "ID": "DE_6_362",
+      "ID": "362",
       "QUESTION": "“Các cấp, các ngành và mỗi cán bộ, đảng viên cần phải nâng cao hơn nữa tinh thần trách nhiệm trong việc sử dụng sức người, sức của của nhân dân”.\n Là lời căn dặn của Chủ tịch Hồ Chí Minh trong phát biểu phiên họp bế mạc Hội nghị lần thứ mấy của Ban Chấp hành Trung ương Đảng khóa III tại Hà Nội, ngày 27 tháng 12 năm 1965 ?",
       "A": "10",
       "B": "11",
@@ -3258,7 +3258,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_363",
+      "ID": "363",
       "QUESTION": "“Gia đình là hạt nhân của xã hội”\n Trích trong bài viết “Phải thật sự bảo đảm quyền lợi của phụ nữ” Hồ Chí Minh viết, đăng trên Báo Nhân dân, số 3199, ngày 28 tháng 12 năm bao nhiêu ?",
       "A": "1960",
       "B": "1961",
@@ -3267,7 +3267,7 @@
       "ANSWER": "C"
     },
     {
-      "ID": "DE_6_364",
+      "ID": "364",
       "QUESTION": "“Trong công tác lưu thông phân phối, có hai điều quan trọng phải luôn luôn nhớ:\n - Không sợ thiếu, chỉ sợ không công bằng,\n - Không sợ nghèo, chỉ sợ lòng dân không theo”.\n Ngày 29 tháng 12 năm 1966, tại phiên họp cuối năm của cơ quan nào vào năm 1966 ?",
       "A": "Ủy ban tài chính - vật giá",
       "B": "Ủy ban kháng chiến - kiến quốc",
@@ -3276,7 +3276,7 @@
       "ANSWER": "D"
     },
     {
-      "ID": "DE_6_365",
+      "ID": "365",
       "QUESTION": "“Đạo đức cách mạng là vô luận trong hoàn cảnh nào, người đảng viên cũng phải đặt lợi ích của Đảng lên trên hết”.\n Chủ tịch Hồ Chỉ minh viết trong bài “Đạo đức cách mạng” đăng trên tạp chí nào ?",
       "A": "Tạp chí kiểm tra",
       "B": "Tạp chí xây dựng Đảng",
