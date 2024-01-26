@@ -2,37 +2,37 @@
   {
     "title": "Sĩ quan, quân nhân chuyên nghiệp",
     "description": "Sĩ quan, quân nhân chuyên nghiệp",
-    "url": "/cat_SQ_QNCN.json",
+    "path": "cat_SQ_QNCN.json",
     "colorCode":"#2B8661"
   },
   {
     "title": "Dân quân tự vệ",
     "description": "Dân quân tự vệ",
-    "url": "/cat_DQTV.json",
+    "path": "cat_DQTV.json",
     "colorCode":"#C4673F"
   },
   {
     "title": "GDQP & An ninh",
     "description": "Giáo dục quốc phòng & an ninh",
-    "url": "/cat_GDQP_AN.json",
+    "path": "cat_GDQP_AN.json",
     "colorCode":"#4BD29B"
   },
   {
     "title": "Dự bị động viên",
     "description": "Dự bị động viên",
-    "url": "/cat_DBDV.json",
+    "path": "cat_DBDV.json",
     "colorCode":"#FCB89A"
   },
   {
     "title": "Đoàn viên",
     "description": "Đoàn viên",
-    "url": "/cat_DoanVien.json",
+    "path": "cat_DoanVien.json",
     "colorCode":"#D25E61"
   },
   {
     "title": "Lời Bác Hồ dạy",
     "description": "Lời Bác Hồ dạy",
-    "url": "/cat_LoiBacHoDay.json",
+    "path": "cat_LoiBacHoDay.json",
     "colorCode":"#206A67"
   }
 ]
