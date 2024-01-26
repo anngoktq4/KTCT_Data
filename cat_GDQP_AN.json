@@ -1,6 +1,6 @@
 [
     {
-        "ID": "DE_3_1",
+        "ID": "1",
         "QUESTION": "Luật Giáo dục quốc phòng và an ninh có hiệu lực thi hành từ thời gian nào?",
         "A": "Ngày 13 tháng 6 năm 2013",
         "B": "Ngày 26 tháng 3 năm 2013",
@@ -9,7 +9,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_2",
+        "ID": "2",
         "QUESTION": "Luật Giáo dục quốc phòng và an ninh có hiệu lực thi hành từ thời gian nào?",
         "A": "Ngày 01 tháng 01 năm 2014",
         "B": "Ngày 01 tháng 01 năm 2015",
@@ -18,7 +18,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_3",
+        "ID": "3",
         "QUESTION": "Thẩm quyền công nhận tuyên truyền viên giáo dục quốc phòng và an ninh?",
         "A": "Bộ Quốc phòng",
         "B": "Chủ tịch Ủy ban nhân dân thành phố",
@@ -27,7 +27,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_4",
+        "ID": "4",
         "QUESTION": "Cơ quan nào quy định mẫu giấy chứng nhận hoàn thành chương trình bồi dưỡng kiến thức quốc phòng và an ninh?",
         "A": "Chính phủ",
         "B": "Bộ Quốc Phòng",
@@ -36,7 +36,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_5",
+        "ID": "5",
         "QUESTION": "Hội đồng giáo dục quốc phòng và an ninh được thành lập tại đâu? 1. Trung ương 2. Quân khu 3. Cấp tỉnh 4. Cấp huyện 5. Cấp xã",
         "A": "1 và 2",
         "B": "1, 2 và 3",
@@ -45,7 +45,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_6",
+        "ID": "6",
         "QUESTION": "Nghị định số 13/2014/NĐ-CP về quy định chi tiết và biện pháp thi hành Luật Giáo dục quốc phòng và an ninh có hiệu lực thi hành từ thời gian nào?",
         "A": "Ngày 01 tháng 01 năm 2014",
         "B": "Ngày 13 tháng 6 năm 2013",
@@ -54,7 +54,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_7",
+        "ID": "7",
         "QUESTION": "Thẩm quyền phê duyệt kế hoạch bồi dưỡng kiến thức quốc phòng và an ninh cho đối tượng cán bộ, công chức, viên chức quản lý, đảng viên Đảng Cộng sản Việt Nam trong cơ quan, tổ chức thuộc quận?",
         "A": "Chủ tịch Hội đồng giáo dục quốc phòng và an ninh thành phố.",
         "B": "Chủ tịch Hội đồng giáo dục quốc phòng và an ninh quận.",
@@ -63,7 +63,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_8",
+        "ID": "8",
         "QUESTION": "Thời gian bồi dưỡng kiến thức quốc phòng và an ninh cho chức việc tôn giáo, già làng, trưởng họ tộc?",
         "A": "2 ngày",
         "B": "3 ngày",
@@ -72,7 +72,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_9",
+        "ID": "9",
         "QUESTION": "Tổ chức bồi dưỡng kiến thức quốc phòng và an ninh cho chức việc tôn giáo, già làng, trưởng họ tộc trên địa bàn tại cơ sở nào?",
         "A": "Trường quân sự cấp tỉnh.",
         "B": "Hội trường Ban chỉ huy quân sự cấp huyện.",
@@ -81,7 +81,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_10",
+        "ID": "10",
         "QUESTION": "Thẩm quyền phê duyệt kế hoạch bồi dưỡng kiến thức quốc phòng và an ninh cho đối tượng đại biểu Hội đồng nhân dân phường?",
         "A": "Chủ tịch Hội đồng giáo dục quốc phòng và an ninh thành phố.",
         "B": "Chủ tịch Hội đồng giáo dục quốc phòng và an ninh quận",
@@ -90,7 +90,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_11",
+        "ID": "11",
         "QUESTION": "Giáo dục quốc phòng và an ninh trong nhà trường nào?",
         "A": "Trường tiểu học, trung học cơ sở, cao đẳng nghề, cơ sở giáo dục đại học",
         "B": "Trường trung học phổ thông, trung cấp chuyên nghiệp, trung cấp nghề",
@@ -99,7 +99,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_12",
+        "ID": "12",
         "QUESTION": "Đối tượng bồi dưỡng kiến thức quốc phòng và an ninh bao gồm bao nhiêu đối tượng?",
         "A": "3 đối tượng",
         "B": "4 đối tượng",
@@ -108,7 +108,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_13",
+        "ID": "13",
         "QUESTION": "Thẩm quyền triệu tập bồi dưỡng kiến thức quốc phòng và an ninh cho người quản lý doanh nghiệp ngoài khu vực nhà nước hoạt động phục vụ quốc phòng và an ninh, doanh nghiệp hoạt động ở vùng sâu, vùng xa, biên giới, hải đảo?",
         "A": "Chủ tịch Ủy ban nhân dân cấp tỉnh.",
         "B": "Chủ tịch Hội đồng giáo dục quốc phòng và an ninh cấp tỉnh",
@@ -117,7 +117,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_14",
+        "ID": "14",
         "QUESTION": "Thẩm quyền cấp giấy chứng nhận đã hoàn thành chương trình bồi dưỡng kiến thức quốc phòng và an ninh cho đối tượng 4 thuộc cơ quan, tổ chức của quận?",
         "A": "Chủ tịch Hội đồng giáo dục quốc phòng và an ninh thành phố",
         "B": "Giám đốc Trung tâm bồi dưỡng chính trị quận",
@@ -126,7 +126,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_15",
+        "ID": "15",
         "QUESTION": "Thời gian bồi dưỡng kiến thức quốc phòng và an ninh cho đối tượng 4 và tương đương?",
         "A": "3 ngày",
         "B": "3,5 ngày",
@@ -135,7 +135,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_16",
+        "ID": "16",
         "QUESTION": "Cơ quan nào quy định tiêu chuẩn tuyên truyền viên giáo dục quốc phòng và an ninh?",
         "A": "Chính phủ",
         "B": "Chủ tịch nước",
@@ -144,7 +144,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_17",
+        "ID": "17",
         "QUESTION": "Quyền và trách nhiệm của công dân về giáo dục quốc phòng và an ninh?",
         "A": "Học tập để nắm vững kiến thức quốc phòng và an ninh",
         "B": "nghiên cứu để nắm vững kiến thức quốc phòng và an ninh.",
@@ -153,7 +153,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_18",
+        "ID": "18",
         "QUESTION": "Quyền và trách nhiệm của công dân về giáo dục quốc phòng và an ninh?",
         "A": "Phát huy tinh thần yêu nước, truyền thống dựng nước và giữ nước",
         "B": "nâng cao ý thức, trách nhiệm, tự giác thực hiện nhiệm vụ quốc phòng và an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
@@ -162,7 +162,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_19",
+        "ID": "19",
         "QUESTION": "Cơ quan nào quy định tiêu chuẩn tuyên truyền viên giáo dục quốc phòng và an ninh?",
         "A": "Bộ Chỉ huy quân sự cấp tỉnh",
         "B": "Ban Chỉ huy quân sự cấp huyện",
@@ -171,7 +171,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_20",
+        "ID": "20",
         "QUESTION": "Từ nay đến khoảng giữa thê kỷ 21, ba nước lớn có vai trò mang tính quyết định đến tình hình cục diện thế giới?",
         "A": "Mỹ, Nga, Đức",
         "B": "Nga, Anh, Pháp",
@@ -180,7 +180,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_21",
+        "ID": "21",
         "QUESTION": "Trong 3 nước lớn: Mỹ, Nga Trung Quốc; có 2 mối quan hệ cơ bản nhất?",
         "A": "Mỹ - Nga và Mỹ - Trung",
         "B": "Nga - Mỹ và Nga - Trung",
@@ -189,7 +189,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_22",
+        "ID": "22",
         "QUESTION": "Trong 3 nước lớn: Mỹ, Nga Trung Quốc; mối quan hệ phát sinh là giữa 2 nước nào?",
         "A": "Trung - Mỹ",
         "B": "Nga - Mỹ",
@@ -198,7 +198,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_23",
+        "ID": "23",
         "QUESTION": "Trong mối quan hệ 3 nước lớn: Mỹ, Nga, Trung; quan hệ giữa 2 nước nào tác động mạng mẽ nhất đến an ninh và phát triển của Việt Nam",
         "A": "Mỹ - Nga",
         "B": "Mỹ - Trung",
@@ -207,7 +207,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_24",
+        "ID": "24",
         "QUESTION": "Trước năm 1991, Mỹ và Liên Xô đối đầu về an ninh mà người ta gọi là?",
         "A": "Chiến tranh không tiếng súng",
         "B": "Chiến tranh lạnh",
@@ -216,7 +216,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_25",
+        "ID": "25",
         "QUESTION": "Tổng thống Putin của Nga lãnh đạo đất nước từ năm?",
         "A": "1995 đến nay",
         "B": "2000 đến nay",
@@ -225,7 +225,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_26",
+        "ID": "26",
         "QUESTION": "Tổng thống liên bang Nga nhậm chức ngày 10.7.1991",
         "A": "Putin",
         "B": "B.Eltsin",
@@ -234,7 +234,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_27",
+        "ID": "27",
         "QUESTION": "Ai chọn Putin làm tổng thống Nga ?",
         "A": "Goocbachop",
         "B": "E.Primacop",
@@ -243,7 +243,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_28",
+        "ID": "28",
         "QUESTION": "Putin nắm quyền lực Nga từ lúc",
         "A": "trưa ngày 30.12.1999",
         "B": "trưa ngày 31.12.1991",
@@ -252,7 +252,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_29",
+        "ID": "29",
         "QUESTION": "Người Nga có tính cách:",
         "A": "không bao giờ chịu đề người khác xem thường, lăng nhục mình",
         "B": "không bao giờ chịu khuất phục",
@@ -261,7 +261,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_30",
+        "ID": "30",
         "QUESTION": "Sắc lệnh xấu nhất Mỹ chống Nga (ký ngày 2/8/2017)",
         "A": "HR 3364",
         "B": "HR3365",
@@ -270,7 +270,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_31",
+        "ID": "31",
         "QUESTION": "Năm 2018, tổng thống Putin tặng tổng thống Trump món quà gì?",
         "A": "Chiếc lược",
         "B": "Quả bóng",
@@ -279,7 +279,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_32",
+        "ID": "32",
         "QUESTION": "Nga sáp nhập Krym ( còn gọi là Crimea) năm nào",
         "A": "2012",
         "B": "2013",
@@ -288,7 +288,7 @@
         "ANSWER": "C"
     },
     {
-        "ID": "DE_3_33",
+        "ID": "33",
         "QUESTION": "Cuộc gặp đầu tiên của Putin và Trump là tại",
         "A": "Hội nghị thượng đỉnh G20 tại Đức 2017",
         "B": "Hội nghị thượng đỉnh ở Phần Lan",
@@ -297,7 +297,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_34",
+        "ID": "34",
         "QUESTION": "Nước Cộng hòa nhân dân trung Hoa ra đời?",
         "A": "01/01/1949",
         "B": "11/01/1949",
@@ -306,7 +306,7 @@
         "ANSWER": "A"
     },
     {
-        "ID": "DE_3_35",
+        "ID": "35",
         "QUESTION": "Trung Quốc thiết lập vùng nhận dậng phòng không ADIZ trên biển Đông vi phạm luật pháp quốc tế và xâm phạm chủ quyền của Nhật Bản, Hàn Quốc vào thời gian nào?",
         "A": "11/10/2013",
         "B": "23/11/2013",
@@ -315,7 +315,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_36",
+        "ID": "36",
         "QUESTION": "Quan hệ Mỹ - Trung là đối đầu, Trung Quốc ở thế bị động đối phó Mỹ là thời kỳ nào?",
         "A": "Thời kỳ Đặng Tiểu Bình ( 1978-2012)",
         "B": "Thời kỳ Mao Trạch Đông ( 1949-1967)",
@@ -324,7 +324,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_37",
+        "ID": "37",
         "QUESTION": "Quan hệ Mỹ - Trung vừa hợp tác, vừa cạnh tranh, hợp tác là chủ đạo, nhờ hợp tác với Mỹ mà Trung Quốc tạo bước phát triển thần kỳ?",
         "A": "Thời kỳ Đặng Tiểu Bình ( 1978-2012)",
         "B": "Thời kỳ Mao Trạch Đông ( 1949-1967)",
@@ -333,7 +333,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_38",
+        "ID": "38",
         "QUESTION": "về công khai, Nga - Trung Quốc thiết lập quan hệ gì?",
         "A": "Đối tác",
         "B": "đối tác chiến lược",
@@ -342,7 +342,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_39",
+        "ID": "39",
         "QUESTION": "Thiết lập quan hệ ngoại giao Việt Nam - Trung Quốc vào năm nào?",
         "A": "18/1/1949",
         "B": "18/1/1950",
@@ -351,7 +351,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_40",
+        "ID": "40",
         "QUESTION": "Hiệp định biên giới trên đất liền Việt Nam - Trung Quốc ký vào thời gian nào?",
         "A": "20/12/1999",
         "B": "30/12/1999",
@@ -360,7 +360,7 @@
         "ANSWER": "B"
     },
     {
-        "ID": "DE_3_41",
+        "ID": "41",
         "QUESTION": "Trong giải quyết những mâu thuẫn trên biển hiện nay cần thực hiện tốt?",
         "A": "3 Không",
         "B": "4 Tránh",
@@ -369,7 +369,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_42",
+        "ID": "42",
         "QUESTION": "Bản chất của Lập luận \"Tứ Sa\" của Trung Quốc?",
         "A": "Thực chất phản ảnh tham vọng không thay đổi của Trung Quốc",
         "B": "Yêu sách và cơ sở pháp lý của Trung Quốc đưa ra với \"Tứ Sa\" là không mới",
@@ -378,7 +378,7 @@
         "ANSWER": "D"
     },
     {
-        "ID": "DE_3_43",
+        "ID": "43",
         "QUESTION": "Trung Quốc thừa nhân trong sách trắng 2016 rằng?",
         "A": "nhiều cấu trúc tại các quần đảo có điều kiện tự nhiên khác nhau",
         "B": "cấu trúc các quần đảo bao gồm: đá ngầm, bãi cạn, cồn cát…",
