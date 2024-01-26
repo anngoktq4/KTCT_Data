@@ -1,6 +1,6 @@
 [
   {
-   "ID": "DE_0_1",
+   "ID": "1",
    "QUESTION": "Theo Công văn 963/CT-TC ngày 07/6/2019 của Tổng Cục Chính trị, Ngày Chính trị văn hoá tinh thần trong Quân đội được tổ chức định kỳ như thế nào?",
    "A": "Vào thứ năm hàng tuần.",
    "B": "Mỗi tháng 1 lần, vào thứ năm tuần đầu tháng.",
@@ -9,7 +9,7 @@
    "ANSWER": "B"
   },
   {
-   "ID": "DE_0_2",
+   "ID": "2",
    "QUESTION": "“Huy chương Chiến sĩ vẻ vang” Hạng Nhất được xét tặng cho cá nhân có đủ bao nhiêu năm công tác trở lên?",
    "A": "25 năm.",
    "B": "20 năm.",
@@ -18,7 +18,7 @@
    "ANSWER": "B"
   },
   {
-   "ID": "DE_0_3",
+   "ID": "3",
    "QUESTION": "Quần đảo Trường Sa và quần đảo Hoàng Sa thuộc quản lý của các địa phương nào?",
    "A": "Trường Sa - Tỉnh Khánh Hòa; Hoàng Sa - Tỉnh Bình Thuận.",
    "B": "Trường Sa - Tỉnh Khánh Hòa; Hoàng Sa - Thành phố Đà Nẵng.",
@@ -27,7 +27,7 @@
    "ANSWER": "B"
   },
   {
-   "ID": "DE_0_4",
+   "ID": "4",
    "QUESTION": "Nước ta có bao nhiêu tỉnh, thành phố giáp biển?",
    "A": "32 tỉnh, thành phố giáp biển",
    "B": "30 tỉnh, thành phố giáp biển",
@@ -36,7 +36,7 @@
    "ANSWER": "D"
   },
   {
-   "ID": "DE_0_5",
+   "ID": "5",
    "QUESTION": "Theo đồng chí, phương án nào sau đây là đúng?",
    "A": "Vùng nội thủy, là vùng biển ở phía trong của đường cơ sở.",
    "B": "Vùng nội thủy, là vùng biển ở phía ngoài của đường cơ sở.",
@@ -45,7 +45,7 @@
    "ANSWER": "A"
   },
   {
-   "ID": "DE_0_6",
+   "ID": "6",
    "QUESTION": "Cuộc cách mạng công nghiệp lần thứ tư được nhận diện lần đầu tiên vào năm nào?",
    "A": "2012",
    "B": "2014",
@@ -54,7 +54,7 @@
    "ANSWER": "A"
   },
   {
-   "ID": "DE_0_7",
+   "ID": "7",
    "QUESTION": "Nguyên tắc rèn luyện đạo đức cách mạng theo tư tưởng Hồ Chí Minh?",
    "A": "Tu dưỡng đạo đức suốt đời",
    "B": "Nói đi đôi với làm, phải nêu gương về đạo đức",
@@ -63,7 +63,7 @@
    "ANSWER": "D"
   },
   {
-   "ID": "DE_0_8",
+   "ID": "8",
    "QUESTION": "Điền vào chỗ trống phần còn thiếu lời dạy của Chủ tịch Hồ Chí Minh: “Dân ta phải biết sử ta, cho tường ………… nước nhà Việt Nam”",
    "A": "gốc gác",
    "B": "gốc tích",
@@ -72,7 +72,7 @@
    "ANSWER": "B"
   },
   {
-   "ID": "DE_0_9",
+   "ID": "9",
    "QUESTION": "Phương pháp công tác dân vận theo tư tưởng Hồ Chí Minh là gì?",
    "A": "Giúp đỡ dân, gương mẫu trước dân và quan tâm giải quyết lợi ích của dân.",
    "B": "Học hỏi ở nhân dân.",
@@ -81,7 +81,7 @@
    "ANSWER": "C"
   },
   {
-   "ID": "DE_0_10",
+   "ID": "10",
    "QUESTION": "“Tự diễn biến”, “tự chuyển hóa” có mối quan hệ như thế nào với “diễn biến hòa bình”?",
    "A": "Có mối quan hệ tương hỗ, tác động qua lại với nhau",
    "B": "Có mối quan hệ độc lập với nhau",
