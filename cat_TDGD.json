@@ -1,6 +1,6 @@
 [
   {
-    "ID": 1,
+    "ID": "1",
     "QUESTION": "Theo luật 10/59 của chính quyền Ngô Đình Diệm, chúng đã tuyên bố như thế nào với cách mạng tại Chợ Trung Hòa và chợ Củ Chi?",
     "A": "“Ai nuôi Cộng sản sẽ mất đầu”",
     "B": "“Ai liên quan đến Cộng sản sẽ mất đầu”",
@@ -9,7 +9,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 2,
+    "ID": "2",
     "QUESTION": "Những tên ác ôn khét tiếng nhất ở Củ Chi trong thực hiện luật 10/59 bao gồm những ai?",
     "A": "Huỳnh Ngọc Thạch, Ngô Bình và Nguyễn Lai",
     "B": "Ngô Bình, Nguyễn Phúc Nghiệp, Lê Ngọc Hai",
@@ -18,7 +18,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 3,
+    "ID": "3",
     "QUESTION": "Số cán bộ của ta đã bị giết hại dưới luật 10/59 của chính quyền Ngô Đình Diệm là bao nhiêu?",
     "A": "Lên tới 55%",
     "B": "Lên tới 65%",
@@ -27,7 +27,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 4,
+    "ID": "4",
     "QUESTION": "Vận dụng Nghị quyết 15 của BCH Trung ương Đảng khóa II, chủ trương lãnh đạo của Đảng bộ Sài Gòn – Gia Định là gì?",
     "A": "Đấu tranh chính trị kết hợp đấu tranh võ trang để phục vụ mục đích chính trị, đồng thời gấp rút chiến đấu mở rộng căn cứ",
     "B": "Đấu tranh chính trị, tạm dừng hoạt động đâu tranh võ trang",
@@ -36,7 +36,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 5,
+    "ID": "5",
     "QUESTION": "Theo Nghị quyết 15 của BCH Trung ương Đảng khóa II, con đường phát triển cơ bản của cách mạng ở miền Nam là gì?",
     "A": "Khởi nghĩa giành chính quyền về tay nhân dân",
     "B": "Đấu tranh bạo động toàn miền",
@@ -45,7 +45,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 6,
+    "ID": "6",
     "QUESTION": "Theo Nghị quyết 15 của BCH Trung ương Đảng khóa II, phương pháp đấu tranh cách mạng ở miền Nam là gì?",
     "A": "Dựa vào lực lượng võ trang để đấu tranh",
     "B": "Dựa vào lực lượng chính trị để đấu tranh",
@@ -54,7 +54,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 7,
+    "ID": "7",
     "QUESTION": "C13 ra đời vào thời gian nào?",
     "A": "30-04-1959",
     "B": "30-05-1959",
@@ -63,7 +63,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 8,
+    "ID": "8",
     "QUESTION": "C13 ra đời đã tác động như thế nào đến hoạt động đấu tranh cách mạng của tỉnh Gia Định?",
     "A": "Đưa hoạt động đấu tranh của tỉnh Gia Định ra công khai",
     "B": "Đưa hoạt động đấu tranh của tỉnh Gia Định vào bí mật",
@@ -72,7 +72,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 9,
+    "ID": "9",
     "QUESTION": "Khi mới thành lập C13 có bao nhiêu đồng chí?",
     "A": "10 đồng chí",
     "B": "11 đồng chí",
@@ -81,7 +81,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 10,
+    "ID": "10",
     "QUESTION": "Khi mới thành lập C13 được trang bị bao nhiêu khẩu súng?",
     "A": "2 khẩu súng",
     "B": "3 khẩu súng",
@@ -90,7 +90,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 11,
+    "ID": "11",
     "QUESTION": "Bộ Tư lệnh Quân khu chính thức quyết định đổi tên từ Đoàn Quyết Thắng thành Tiểu đoàn Quyết Thắng thời gian nào?",
     "A": "tháng 5 năm 1965",
     "B": "tháng 6 năm 1965",
@@ -99,7 +99,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 12,
+    "ID": "12",
     "QUESTION": "Tiểu đoàn Quyết Thắng ngày đầu thành lập được biên chế thành mấy đại đội?",
     "A": "3 Đại đội",
     "B": "4 Đại đội",
@@ -108,7 +108,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 13,
+    "ID": "13",
     "QUESTION": "Đồng chí nào là tiểu đoàn trưởng Tiểu đoàn Quyết Thắng đầu tiên?",
     "A": "Đồng chí Nguyễn Thành Nâu",
     "B": "Đồng chí Chính Câu",
@@ -117,7 +117,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 14,
+    "ID": "14",
     "QUESTION": "Đồng chí nào là chính trị viên Tiểu đoàn Quyết Thắng đầu tiên?",
     "A": "Đồng chí Nguyễn Thành Nâu",
     "B": "Đồng chí Chính Câu",
@@ -126,7 +126,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 15,
+    "ID": "15",
     "QUESTION": "Quân khu Sài Gòn - Gia Định tổ chức lễ ra mắt Tiểu đoàn Quyết Thắng tại đâu?",
     "A": "xóm Chùa, xã An Nhơn Tây",
     "B": "ấp Ba Sòng, xã An Nhơn Tây",
@@ -135,7 +135,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 16,
+    "ID": "16",
     "QUESTION": "Trận Bàu Lách diễn ra vào ngày tháng năm nào?",
     "A": "ngày 9-5-1966",
     "B": "ngày 9-5-1965",
@@ -144,7 +144,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 17,
+    "ID": "17",
     "QUESTION": "Trong trận Bàu Lách, Tiểu đoàn Quyết thắng đã tiêu diệt bao nhiêu tên địch?",
     "A": "350 tên",
     "B": "250 tên",
@@ -153,7 +153,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 18,
+    "ID": "18",
     "QUESTION": "Trong trận Bàu Lách, Tiểu đoàn Quyết thắng đã tiêu diệt bao nhiêu khẩu súng các loại ?",
     "A": "370 khẩu súng các loại",
     "B": "270 khẩu súng các loại",
@@ -162,7 +162,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 19,
+    "ID": "19",
     "QUESTION": "Với chiến thắng Bàu Lách, Tiểu đoàn Quyết Thắng đã được phong tặng giải thưởng gì?",
     "A": "Huân chương Quân công hạng Nhất",
     "B": "Huân chương Quân công hạng Nhì",
@@ -171,7 +171,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 20,
+    "ID": "20",
     "QUESTION": "Ngày truyền thống của Trung đoàn Gia Định là ngày bao nhiêu ?",
     "A": "30-9-1959",
     "B": "30-5-1949",
@@ -180,7 +180,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 21,
+    "ID": "21",
     "QUESTION": "Trung tuần tháng 11-1964, Trung ương Cục miền Nam, Bộ Tư lệnh Miền chỉ đạo cho Quân khu Sài Gòn - Gia Định (còn gọi là Quân khu 4) gấp rút thành lập thêm bao nhiêu tiểu đoàn bộ binh?",
     "A": "4",
     "B": "5",
@@ -189,7 +189,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 22,
+    "ID": "22",
     "QUESTION": "Tiểu đoàn hoạt động ở hai huyện nào?",
     "A": "Tân Phú và Gò Vấp",
     "B": "Gò Vấp và Hóc Môn",
@@ -198,7 +198,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 23,
+    "ID": "23",
     "QUESTION": "Trong vòng một tháng, Tiểu đoàn có 2 đại đội bộ binh, quân số mỗi đại đội là bao nhiêu đồng chí được huấn luyện chuyên môn binh chủng riêng?",
     "A": "120",
     "B": "110",
@@ -207,7 +207,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 24,
+    "ID": "24",
     "QUESTION": "Tiểu đoàn trưởng đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Trần Nhật Lệ",
     "B": "Đ/c Phạm Quang Thiệt",
@@ -216,7 +216,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 25,
+    "ID": "25",
     "QUESTION": "Tiểu đoàn phó đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Trần Nhật Lệ",
     "B": "Đ/c Phạm Quang Thiệt",
@@ -225,7 +225,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 26,
+    "ID": "26",
     "QUESTION": "Chính trị viên trưởng đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Thảo",
     "B": "Đ/c Nguyễn Ngọc Nhẫn",
@@ -234,7 +234,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 27,
+    "ID": "27",
     "QUESTION": "Tham mưu trưởng đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Thảo",
     "B": "Đ/c Sáu Thanh",
@@ -243,7 +243,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 28,
+    "ID": "28",
     "QUESTION": "Trợ lý chính trị đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Thảo",
     "B": "Đ/c Sáu Thanh",
@@ -252,7 +252,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 29,
+    "ID": "29",
     "QUESTION": "Trận đánh đầu đầu tiên của Tiểu đoàn 2 diễn ra vào thời gian nào?",
     "A": "09-11-1965",
     "B": "08-10-1964",
@@ -261,7 +261,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 30,
+    "ID": "30",
     "QUESTION": "Trận chiến đấu đầu tiên của Tiểu đoàn 2 diễn ra ở đâu?",
     "A": "Tân Phú Trung",
     "B": "An Hòa",
@@ -270,7 +270,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 31,
+    "ID": "31",
     "QUESTION": "Sau ngày giải phòng Sài Gòn – Gia Định, Trung đoàn Gia Định được cấp trên giao nhiệm vụ cấp bách gì?",
     "A": "Triển khai lực lượng tiếp quản chính quyền và tổ chức cho các đơn vị đứng chân trên các địa bàn được phân công, vừa truy quét tàn binh địch vừa bảo vệ các mục tiêu và làm công tác dân vận, xây dựng chính quyền và lực lượng võ trang cách mạng ở cơ sở.",
     "B": "Triển khai lực lượng tiếp quản chính quyền và tổ chức cho các đơn vị đứng chân trên các địa bàn được phân công, vừa truy quét tàn binh địch vừa bảo vệ các mục tiêu",
@@ -279,7 +279,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 32,
+    "ID": "32",
     "QUESTION": "Sau ngày giải phòng Sài Gòn – Gia Định, các đơn vị trực thuộc Trung đoàn Gia Định gồm?",
     "A": "Trung đoàn bộ, Tiểu đoàn 1, Tiểu đoàn 2, Đại đội pháo, Đại đội thông tin, Đại đội trinh sát",
     "B": "Trung đoàn bộ, Tiểu đoàn 1, Tiểu đoàn 2, Tiểu đoàn 3, Tiểu đoàn 4, Đại đội pháo, Đại đội thiết giáp",
@@ -288,7 +288,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 33,
+    "ID": "33",
     "QUESTION": "Đồng chí nào là Tư lệnh đầu tiên sau khi thành lập Bộ Tư lệnh Sài Gòn - Gia Định?",
     "A": "Thiếu tướng Trần Văn Danh",
     "B": "Thiếu tướng Trần Hải Phụng",
@@ -297,7 +297,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 34,
+    "ID": "34",
     "QUESTION": "Đồng chí nào là Chính ủy đầu tiên sau khi thành lập Bộ Tư lệnh Sài Gòn - Gia Định?",
     "A": "Đại tá Nguyễn Văn Tư",
     "B": "Đại tá Võ Văn Thạnh",
@@ -306,7 +306,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 35,
+    "ID": "35",
     "QUESTION": "Cuối năm 1975, đầu năm 1976, Trung đoàn Gia Định ra quân tham gia chiến dịch gì?",
     "A": "Chiến dịch phá gỡ bom mìn, giải phóng đất sản xuất và xây dựng công trình, bảo đảm sự an toàn đi lại làm ăn cho đồng bào",
     "B": "Chiến dịch phá gỡ bom mìn, giải phóng đất nông nghiệp và xây dựng công trình, bảo đảm sự an toàn đi lại làm ăn cho đồng bào",
@@ -315,7 +315,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 36,
+    "ID": "36",
     "QUESTION": "Kết quả trong các đợt ra quân hưởng ứng chiến dịch phá gỡ bom mìn của Trung đoàn như thế nào?",
     "A": "Tháo gỡ được 140.000 quả mìn, thu dọn gần 500 tấn bom đạn",
     "B": "Tháo gỡ được 150.000 quả mìn, thu dọn gần 500 tấn bom đạn",
@@ -324,7 +324,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 37,
+    "ID": "37",
     "QUESTION": "Trung đoàn Gia Định đã tham gia vào các chiến dịch X1, X2 cải tạo tư sản mại bản vào thời gian nào?",
     "A": "07-10-1975",
     "B": "08-10-1975",
@@ -333,7 +333,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 38,
+    "ID": "38",
     "QUESTION": "Trung đoàn Gia Định đã tham gia vào các chiến dịch X1, X2 cải tạo tư sản mại bản tại các khu vực nào?",
     "A": "Quận 5, Quận 6, Quận 8, Quận 10",
     "B": "Quận 5, Quận 6, Quận 9, Quận 11",
@@ -342,7 +342,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 39,
+    "ID": "39",
     "QUESTION": "Trung đoàn Gia Định đã tham gia bảo vệ ngày đổi tiền Ngân hàng Nhà nước Việt Nam lần thứ nhất vào thời gian nào?",
     "A": "29-02-1974",
     "B": "22-09-1974",
@@ -351,7 +351,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 40,
+    "ID": "40",
     "QUESTION": "Trung đoàn Gia Định đã tham gia bảo vệ bầu cử Quốc hội và Hội đồng nhân dân các cấp vào thời gian nào?",
     "A": "25-04-1975",
     "B": "25-04-1976",
@@ -360,7 +360,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 41,
+    "ID": "41",
     "QUESTION": "Ngay đầu năm 1968, Mỹ đã mở cuộc hành quân lớn mang tên gì lên vùng biên giới Tây Ninh?",
     "A": "Hòn đá vàng",
     "B": "Hòn ngọc vàng",
@@ -369,7 +369,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 42,
+    "ID": "42",
     "QUESTION": "Để chuẩn bị ráo riết kế hoạch phản công mùa khô lần thứ 3 (1967- 1968), mà trọng điểm là miền Đồng Nam Bộ , Mỹ đã điều lực lượng tương đương bao nhiêu sư đoàn?",
     "A": "Tương đương 7 sư đoàn",
     "B": "Tương đương 8 sư đoàn",
@@ -378,7 +378,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 43,
+    "ID": "43",
     "QUESTION": "Trong cuộc Tổng tiến công và nổi dậy xuân Mậu Thân 1968, Trung đoàn Quyết Thắng đảm nhiệm mũi chủ công của Phân khu nào? Đột phá từ hướng nào?",
     "A": "Phân khu 1, Từ hướng Tây Nam",
     "B": "Phân khu 2, Từ hướng Nam",
@@ -387,7 +387,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 44,
+    "ID": "44",
     "QUESTION": "Quân khu quyết định thành lập Trung đoàn Quyết Thắng vào tháng năm nào?",
     "A": "Tháng 1 năm 1968",
     "B": "Tháng 2 năm 1968",
@@ -396,7 +396,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 45,
+    "ID": "45",
     "QUESTION": "Trung đoàn trưởng đầu tiên của Trung đoàn Quyết Thắng là ai?",
     "A": "Đồng chí Lê Hoàng Phái.",
     "B": "Đồng chí Nguyễn Văn Lâu (Ba Dinh)",
@@ -405,7 +405,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 46,
+    "ID": "46",
     "QUESTION": "Chính ủy đầu tiên của Trung đoàn Quyết Thắng là ai?",
     "A": "Đồng chí Lê Hoàng Phái",
     "B": "Đồng chí Nguyễn Văn Lâu (Ba Dinh)",
@@ -414,7 +414,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 47,
+    "ID": "47",
     "QUESTION": "Trung đoàn Quyết Thắng khi mới thành lập gồm bao nhiêu Tiểu đoàn? Đó là Tiểu đoàn nào ?",
     "A": "1 Tiểu đoàn ( Tiểu đoàn 1)",
     "B": "2 Tiểu đoàn ( Tiểu đoàn 1, Tiểu đoàn Đặc Công)",
@@ -423,7 +423,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 48,
+    "ID": "48",
     "QUESTION": "Tiểu đoàn trưởng Tiểu đoàn 1 mới được thành lập là ai?",
     "A": "Đồng chí Tư Nhựt",
     "B": "Đồng chí Năm Triêu",
@@ -432,7 +432,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 49,
+    "ID": "49",
     "QUESTION": "Tiểu đoàn trưởng Tiểu đoàn 2 khi mới được thành lập là ai?",
     "A": "Đồng chí Tư Nhựt",
     "B": "Đồng chí Năm Triêu",
@@ -441,7 +441,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 50,
+    "ID": "50",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, Tiểu đoàn 1 – Trung đoàn Quyết Thắng đảm nhiệm tiến công vào căn cứ nào?",
     "A": "Căn cứ cổ Loa - Phù Đổng (Gò Vấp)",
     "B": "Sân bay Tân Sơn Nhất",
@@ -450,7 +450,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 51,
+    "ID": "51",
     "QUESTION": "Trung đoàn Gia Định tiền thân là C13 thành lập vào ngày tháng năm nào ?",
     "A": "Ngày 19/5/1945",
     "B": "Ngày 03/02/1945",
@@ -459,7 +459,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 52,
+    "ID": "52",
     "QUESTION": "Tiền thân của Trung đoàn Gia Định là tiểu đội nào ?",
     "A": "Tiểu đội Y4",
     "B": "Tiểu đội C13",
@@ -468,7 +468,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 53,
+    "ID": "53",
     "QUESTION": "Trung đoàn được thành lập trên mảnh đất nào của Miền Nam ?",
     "A": "Đất Thép – Thành Đồng (Củ Chi)",
     "B": "Tân Thạnh Đông (Củ Chi)",
@@ -477,7 +477,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 54,
+    "ID": "54",
     "QUESTION": "Khẩu hiệu của Trung đoàn là gì ?",
     "A": "Bám trụ kiên cường, đoàn kết kỉ cương, năng động sáng tạo, quyết chiến quyết thắng",
     "B": "Đi là đánh thắng, đánh là dứt điểm",
@@ -486,7 +486,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 55,
+    "ID": "55",
     "QUESTION": "Ý nghĩa của đơn vị C13 là gì ?",
     "A": "Tiểu đội có 10 đồng chí và 3 khẩu súng",
     "B": "Tiểu đội có 3 cán bộ và 10 chiến sĩ",
@@ -495,7 +495,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 56,
+    "ID": "56",
     "QUESTION": "Vào đầu năm 1969 Trung đoàn tham gia kháng chiến chống chiến lược nào của Mỹ- Nguỵ?",
     "A": "Chiến lược “Chiến tranh cục bộ”.",
     "B": "Chiến lược “Chiến tranh đặc biệt”.",
@@ -504,7 +504,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 57,
+    "ID": "57",
     "QUESTION": "Trong giai đoạn năm 1969, Trung đoàn mang tên gọi là gì ?",
     "A": "Đoàn Quyết Thắng",
     "B": "Tiểu Đoàn Quyết Thắng",
@@ -513,7 +513,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 58,
+    "ID": "58",
     "QUESTION": "Trong giai đoạn 1969, Trung đoàn có bao nhiêu đơn vị trực thuộc phân cấp?",
     "A": "4 Tiểu đoàn gồm Tiểu đoàn 1 ,Tiểu đoàn 2, Tiểu đoàn 3, Tiểu đoàn 4",
     "B": "3 Tiểu đoàn gồm Tiểu đoàn 1, Tiểu đoàn 2 và Tiểu đoàn 4",
@@ -522,7 +522,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 59,
+    "ID": "59",
     "QUESTION": "Ban Chỉ huy Trung đoàn trong giai đoạn 1969 gồm những đồng chí nào ?",
     "A": "Trung đoàn trưởng Đồng chí Năm Tiều, Chính uỷ Đồng chí Liêm, Trung đoàn phó Đồng chí Ba Dũng, Tham mưu trưởng Đồng chí Ba Nhẩn",
     "B": "Trung đoàn trưởng Đồng chí Năm Thơi, Chính uỷ Đồng chí Liêm, Trung đoàn phó Đồng chí Ba Dũng, Tham mưu trưởng Đồng chí Ba Nhẩn",
@@ -531,7 +531,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 60,
+    "ID": "60",
     "QUESTION": "Năm 1970, trên địa bàn Củ Chi Đoàn Quyết Thắng phát động quần chúng đấu tranh chống lại chiến sách nào của địch ?",
     "A": "Ấp chiến lược",
     "B": "Bình định thần tốc",
@@ -540,7 +540,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 61,
+    "ID": "61",
     "QUESTION": "Cuộc chiến đấu bảo vệ biên giới Tây Nam của Tổ quốc được tiến hành trong khoảng thời gian nào ?",
     "A": "1964 – 1966",
     "B": "1974 – 1976",
@@ -549,7 +549,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 62,
+    "ID": "62",
     "QUESTION": "Từ khi nào Khơ me đỏ trở cờ phản bội lại cách mạng và nhân dân Campuchia ?",
     "A": "Tháng 4 năm 1968",
     "B": "Tháng 4 năm 1975",
@@ -558,7 +558,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 63,
+    "ID": "63",
     "QUESTION": "Ai đã gây ra tội ác tàn sát hơn hai triệu người dân Campuchia vô tội?",
     "A": "Việt Tân",
     "B": "Pôn Pốt – Iêng Xari",
@@ -567,17 +567,17 @@
     "ANSWER": "A"
   },
   {
-    "ID": 64,
+    "ID": "64",
     "QUESTION": "Sau chiến thắng mùa xuân năm 1975, Trung đoàn Gia Định có nhiệm vụ chính trị là gì?",
     "A": "Huấn luyện sẵn sàng chiến đấu",
     "B": "Là đơn vị cơ động",
     "C": "Làm nhiệm vụ bảo vệ thành phố trong thời kỳ hòa bình và cơ động cho Quân khu và Thành phố",
-    "D": "Đấu tranh từng vùng tiến tới phát triển cách mạng toàn miền",
+    "D": "Đấu tranh từng vùng tiến tới \n phát triển cách mạng toàn miền",
     "ANSWER": "D"
   },
   {
-    "ID": 65,
-    "QUESTION": ". Trước diễn biến phức tạp ở tuyến biến giới Tây Nam, Bộ Tư lệnh Thành phố đã chỉ thị điều động đơn vị nào đi thực hiện nhiệm vụ?",
+    "ID": "65",
+    "QUESTION": "Trước diễn biến phức tạp ở tuyến biến giới Tây Nam, Bộ Tư lệnh Thành phố đã chỉ thị điều động đơn vị nào đi thực hiện nhiệm vụ?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
     "C": "Tiểu đoàn 3",
@@ -585,7 +585,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 66,
+    "ID": "66",
     "QUESTION": "Từ thời gian nào Quân khu 7 trực tiếp điều động Trung đoàn đi làm nhiệm vụ ở biên giới Tây Nam?",
     "A": "Sau gần một tháng Tiểu đoàn 1 thực hiện nhiệm vụ",
     "B": "Sau khi bị địch tấn công theo chiến thuật du kích",
@@ -594,7 +594,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 67,
+    "ID": "67",
     "QUESTION": "Ban chỉ huy Trung đoàn chỉ huy thực hiện nhiệm vụ trong chiến dịch bảo vệ biên giới phía Nam lần thứ 1 gồm bao nhiêu đồng chí?",
     "A": "5 đồng chí",
     "B": "6 đồng chí",
@@ -603,7 +603,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 68,
+    "ID": "68",
     "QUESTION": "Đồng chí Đại úy Phan Trung Kiên đảm nhiệm chức vụ nào trong chiến dịch bảo vệ biên giới phía Nam lần thứ 1?",
     "A": "Trung đoàn trưởng",
     "B": "Chính ủy",
@@ -612,7 +612,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 69,
+    "ID": "69",
     "QUESTION": "Tiền phương Quân khu giao nhiệm vụ cho Trung đoàn tiến công địch ở chốt Vacxa – Láng cát gồm bao nhiêu bước ?",
     "A": "2 bước",
     "B": "3 bước",
@@ -621,7 +621,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 70,
+    "ID": "70",
     "QUESTION": "Ý định chiến đấu của Bộ chỉ huy tiền phương trong chiến đấu bảo vệ biên giới Tây Nam là gì?",
     "A": "Bí mật, bất ngờ, buộc địch rối loạn phải tháo chạy",
     "B": "Bí mật, bất ngờ, buộc địch hoang mang tan rã",
@@ -630,7 +630,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 71,
+    "ID": "71",
     "QUESTION": "Tập đoàn phản động ở Campuchia tên là gì?",
     "A": "Pôn Pốt- Iêng Xari",
     "B": "Pôn Pốt – Iêng Xeri",
@@ -639,7 +639,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 72,
+    "ID": "72",
     "QUESTION": "Hiệp định hòa bình hữu nghị và hợp tác toàn diện giữa hai nước Việt Nam và Campuchia được ký kết vào thời gian nào ?",
     "A": "Ngày 7/1/1979",
     "B": "Ngày 7/2/1979",
@@ -648,7 +648,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 73,
+    "ID": "73",
     "QUESTION": "Trung đoàn đi làm nhiệm vụ quốc tế lần thứ nhất vào thời gian nào?",
     "A": "Ngày 20/8/1984",
     "B": "Ngày 22/8/1984",
@@ -657,7 +657,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 74,
+    "ID": "74",
     "QUESTION": "Giai đoạn 1984 - 1986, Trung đoàn trưởng của Trung đoàn Gia Định là ai ?",
     "A": "Thiếu tá Bùi Huy Cầu",
     "B": "Thiếu tá Phan Văn Tìm",
@@ -666,7 +666,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 75,
+    "ID": "75",
     "QUESTION": "Trung đoàn làm nhiệm vụ quốc tế lần thứ nhất với bao nhiêu lực lượng ?",
     "A": "2 tiểu đoàn, 6 đại đội trực thuộc và 4 cơ quan chuyên môn",
     "B": "2 tiểu đoàn, 7 đại đội trực thuộc và 4 cơ quan chuyên môn",
@@ -675,7 +675,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 76,
+    "ID": "76",
     "QUESTION": "Lực lượng địch đối đầu với ta trên mặt trận 779 lần thứ nhất là lực lượng nào ?",
     "A": "Sư đoàn 164 và 170",
     "B": "Sư đoàn 290 và 310",
@@ -684,7 +684,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 77,
+    "ID": "77",
     "QUESTION": "Khu vực chủ yếu nào được Trung đoàn bảo vệ ở Mặt trận 779 ?",
     "A": "Bảo vệ an toàn trục lộ 13",
     "B": "Bảo vệ an toàn trục lộ 10",
@@ -693,7 +693,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 78,
+    "ID": "78",
     "QUESTION": "Trung đoàn tiếp nhận nhiệm vụ xây dựng, củng cố lại cơ cấu khum Tucơrơn vào thời gian nào ?",
     "A": "Ngày 19/12/1984",
     "B": "Ngày 18/12/1984",
@@ -702,7 +702,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 79,
+    "ID": "79",
     "QUESTION": "Trung đoàn tổ chức tiến hành đột nhập phum Tucơrơn vào thời điểm nào ?",
     "A": "6 giờ sáng ngày 22/2/1984",
     "B": "6 giờ sáng ngày 22/2/1985",
@@ -711,7 +711,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 80,
+    "ID": "80",
     "QUESTION": "Kết quả của cuộc đột nhập phum Tucơrơn của Trung đoàn như thế nào ?",
     "A": "Diệt 17 tên, thu 5 súng và nhiều đồ dùng quân sự",
     "B": "Diệt 16 tên, thu 5 súng và nhiều đồ dùng quân sự",
@@ -720,7 +720,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 81,
+    "ID": "81",
     "QUESTION": "“Nâng cao chất lượng tổng hợp và sức mạnh chiến đấu của Trung đoàn trong giai đoạn mới.” Vậy trong câu trên, giai đoạn mới là mốc thời gian nào?",
     "A": "1975 – 1989",
     "B": "1990 – 2005",
@@ -729,7 +729,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 82,
+    "ID": "82",
     "QUESTION": "Tứ giác kinh tế phát triển mạnh của cả nước bao gồm các tỉnh thành nào?",
     "A": "Thành phố Hồ Chí Minh, Bình Dương, Long An, Bình Phước",
     "B": "Thành phố Hồ Chí Minh, Đồng Nai, Bình Phước, Bình Dương",
@@ -738,7 +738,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 83,
+    "ID": "83",
     "QUESTION": "Chiến lược nào được Chủ nghĩa đế quốc và các thế lực thù địch đẩy mạnh áp dụng vào nước ta trong thời kỳ mới?",
     "A": "“Diễn biến hòa bình” dẫn đến “Bạo loạn lật đổ”",
     "B": "Chiến tranh “Quy ước” truyền thống",
@@ -747,7 +747,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 84,
+    "ID": "84",
     "QUESTION": "Có bao nhiêu nội dung mà Đảng ủy – Bộ chỉ huy Quân sự Thành phố đã lãnh đạo, chỉ đạo lực lượng võ trang thành phố phải thực hiện trước tình hình diễn biến phức tạp của thời kỳ mới ?",
     "A": 5,
     "B": 4,
@@ -756,7 +756,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 85,
+    "ID": "85",
     "QUESTION": "Phương hướng, mục tiêu Đảng bộ Trung đoàn xác định từ năm 2000 đến năm 2002 là gì?",
     "A": "Phát huy truyền thống trung đoàn Anh hùng với những kết quả đạt được, tập trung sức xây dựng Đảng bộ Trung đoàn trong sạch vững mạnh, xây dựng đan vị vững mạnh toàn diện, có sức cơ động cao, nề nếp chính quy tốt, chấp hành nghiêm kỷ luật, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao",
     "B": "Phát huy truyền thống trung đoàn Anh hùng với những kết quả đạt được, tập trung sức xây dựng Đảng bộ Trung đoàn trong sạch vững mạnh, xây dựng đan vị vững mạnh toàn diện, có sức cơ động cao, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao",
@@ -765,7 +765,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 86,
+    "ID": "86",
     "QUESTION": "Có bao nhiêu nhiệm vụ, mục tiêu cụ thể Trung đoàn phải tập trung lãnh đạo thực hiện được phương hướng, mục tiêu được Đảng bộ Trung đoàn xác định từ năm 2000 đến năm 2002 ?",
     "A": 3,
     "B": 6,
@@ -774,7 +774,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 87,
+    "ID": "87",
     "QUESTION": "Phương châm huấn luyện Đảng ủy Trung đoàn xác định trong giai đoạn từ năm 2000 đến năm 2002 là?",
     "A": "Cơ bản, thiết thực",
     "B": "Cơ bản, thiết thực, vững chắc",
@@ -783,7 +783,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 88,
+    "ID": "88",
     "QUESTION": "Ai là Trung đoàn trưởng Trung Đoàn Gia Định vào năm 2000?",
     "A": "Đồng chí Nguyễn Văn Nam",
     "B": "Đồng chí Châu Văn Hùng",
@@ -792,7 +792,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 89,
+    "ID": "89",
     "QUESTION": "Chủ đề trong Đại hội Đảng bộ nhiệm kỳ lần thứ IX nhiệm kỳ (2000-2002) là?",
     "A": "Đoàn kết, dân chủ, kiên định, đổi mới, tiến bộ",
     "B": "Đoàn kết, dân chủ, đổi mới, kiên định",
@@ -801,7 +801,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 90,
+    "ID": "90",
     "QUESTION": "Đại hội đã ra nghị quyết về phương hướng nhiệm vụ nhiệm kỳ 2000 -2002, tập trung vào mấy nhiệm vụ lãnh đạo chủ yếu?",
     "A": 2,
     "B": 3,
@@ -810,7 +810,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 91,
+    "ID": "91",
     "QUESTION": "Ban Chỉ huy Trung đoàn giai đoạn 1990 - 2000 gồm các đồng chí nào?",
     "A": "Thiếu tá Võ Thành Thật - Trung đoàn trưởng. Thiếu tá Nguyễn Hữu Tính - Phó Trung đoàn trưởng về Chính trị. Trung tá Phan Văn Tìm - Phó Trung đoàn trưởng về Chính trị. Thiếu tá Nguyễn Đình Nhơn - Phó Trung đoàn truởng, Tham mưu trưởng. Thiếu tá Nguyễn Trọng Vân - Phó Trung đoàn trưởng. Đại úy Lê Văn Nam - Phó Trung đoàn trưởng về Hậu cần",
     "B": "Thiếu tá Nguyễn Hữu Tính - Trung đoàn trưởng. Thiếu tá Võ Thành Thật - Phó Trung đoàn trưởng về Chính trị. Trung tá Phan Văn Tìm - Phó Trung đoàn trưởng về Chính trị. Thiếu tá Nguyễn Đình Nhơn - Phó Trung đoàn truởng, Tham mưu trưởng. Thiếu tá Nguyễn Trọng Vân - Phó Trung đoàn trưởng. Đại úy Lê Văn Nam - Phó Trung đoàn trưởng về Hậu cần",
@@ -819,7 +819,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 92,
+    "ID": "92",
     "QUESTION": "Nhiệm vụ chủ yếu của Trung đoàn trong giai đoạn 1990-2000 là gì ?",
     "A": "Nhanh chóng kiện toàn tổ chức biên chế, bước vào huấn luyện nâng cao trình độ kỹ, chiến thuật, sẵn sàng làm nhiệm vụ cơ động cho thành phố và Quân khu, đồng thời đảm nhiệm quản lý quân dự bị động viên. Riêng Tiểu đoàn 1 là ra công tác tập huấn cán bộ chuẩn bị cho nhiệm vụ huấn luyện chiến sĩ mới đợt 1 năm 1991",
     "B": "Nhanh chóng kiện toàn tổ chức biên chế, bước vào huấn luyện nâng cao trình độ kỹ, chiến thuật, sẵn sàng làm nhiệm vụ cơ động cho thành phố và Quân khu, đồng thời đảm nhiệm quản lý quân dự bị động viên. Riêng Tiểu đoàn 1 là ra công tác tập huấn cán bộ chuẩn bị cho nhiệm vụ huấn luyện chiến sĩ mới đợt 1 năm 1990",
@@ -828,7 +828,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 93,
+    "ID": "93",
     "QUESTION": "Thiếu tướng Nguyễn Răng - Chỉ huy trưởng Bộ Chỉ huy Quân sự thành phố ký quyết định số 03/QĐ có những nội dụng gì ?",
     "A": "Phục hồi biên chế Tiểu đoàn 2, gồm khung cán bộ Tiểu đoàn và 3 Đại đội (5, 6, 7)",
     "B": ". Phục hồi biên chế Tiểu đoàn 2, chỉ có khung cán bộ Tiểu đoàn",
@@ -837,7 +837,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 94,
+    "ID": "94",
     "QUESTION": "Theo quyết định số 03/QĐ số cán bộ điều động cho Tiểu đoàn 2 được huy động từ đơn vị nào?",
     "A": "Từ các trường sĩ quan về Trung đoàn",
     "B": "Tiểu đoàn 1 và các cơ quan, đơn vị cùng với số mới được đào tạo từ các trường sĩ quan về Trung đoàn",
@@ -846,7 +846,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 95,
+    "ID": "95",
     "QUESTION": "Trong giai đoạn 1990-2000 Tiểu đoàn 3 được củng cố về biên chế vào ngày tháng năm nào?",
     "A": "Ngày 10 tháng 1 năm 1993",
     "B": "Ngày 11 tháng 1 năm 1993",
@@ -855,7 +855,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 96,
+    "ID": "96",
     "QUESTION": "Tính từ năm 1990 đến năm 1995, Trung đoàn đã huấn luyện được bao nhiêu đợt với tổng số bao nhiêu chiến sĩ mới?",
     "A": "10 đợt với tổng số gần 4.000 chiến sĩ mới",
     "B": "12 đợt với tổng số gần 3.000 chiến sĩ mới",
@@ -864,7 +864,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 97,
+    "ID": "97",
     "QUESTION": "Giai đoạn từ năm 1989 đến 1995, phát triển được bao nhiêu đảng viên?",
     "A": "54 đảng viên",
     "B": "55 đảng viên",
@@ -873,7 +873,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 98,
+    "ID": "98",
     "QUESTION": "Giai đoạn từ năm 1990 đến đầu năm 1995, đã kết nạp được bao nhiêu đoàn viên?",
     "A": "1.538 đoàn viên",
     "B": "1.583 đoàn viên",
@@ -882,7 +882,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 99,
+    "ID": "99",
     "QUESTION": "Từ năm 1990 đến đầu năm 1995 là năm thứ mấy liên tiếp Đoàn cơ sở Trung đoàn đạt danh hiệu “Tổ chức Đoàn vững mạnh xuất sắc”?",
     "A": "Liên tục 3 năm",
     "B": "Liên tục 5 năm",
@@ -891,7 +891,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 100,
+    "ID": "100",
     "QUESTION": "Chấp hành sự lãnh đạo, chỉ đạo của Đảng ủy - Bộ Chỉ huy Quân sự thành phố, năm 1995, cán bộ, chiến sĩ Trung đoàn tập trung thực hiện các nhiệm vụ trọng tâm nào ?",
     "A": "Thường xuyên nâng cao cảnh giác cách mạng, chủ động theo dõi nắm chắc các hoạt động của lực lượng thù địch, sẵn sàng chiến đấu cao, phối hợp cùng các lực lượng đóng quân trên địa bàn làm thất bại âm mưu hoạt động của chiến lược ‘‘diễn biến hòa bình”, gây bạo loạn lật đổ của địch, sẵn sàng ứng phó và chiến đấu thắng lợi với mọi tình huống khi có lệnh của cấp trên",
     "B": "Tập trung huấn luyện đơn vị nâng cao chất lượng tổng hợp, lấy xây dựng chính trị làm trọng tâm, tăng cường khả năng cơ động, sức bền, đáp ứng mọi tình huống",
@@ -900,7 +900,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 101,
+    "ID": "101",
     "QUESTION": "Trong năm 2003, Thành tích của Trung đoàn tại Hội thao súng máy phòng không 12,7mm (do Quân khu tổ chức) đạt được là ?",
     "A": "Hạng ba",
     "B": "Hạng nhất",
@@ -909,7 +909,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 102,
+    "ID": "102",
     "QUESTION": "Ngày 25 tháng 6 năm 1986, Bộ Tư lệnh Quân khu 7 ban hành Quyết định số 10/QĐ/86 đổi phiên hiệu Trung đoàn Gia Định thành ?",
     "A": "Trung đoàn 741",
     "B": "Trung đoàn 742",
@@ -918,7 +918,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 103,
+    "ID": "103",
     "QUESTION": "Năm 1987, khi đang thực hiện nhiệm vụ quốc tế trên đất Campuchia, đồng chí Thiếu tướng Lê Minh Thắng- nguyên Phó Tư lệnh Quân khu 7, lúc bấy giờ được bổ nhiệm chức vụ nào sau đây tại Trung đoàn ?",
     "A": "Trung đoàn trưởng",
     "B": "Phó trung đoàn trưởng hậu cần",
@@ -927,7 +927,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 104,
+    "ID": "104",
     "QUESTION": "Ngày 25 tháng 6 năm 1986, Bộ Tư lệnh Quân khu 7 ban hành Quyết định số 10/QĐ/86, bàn giao Trung đoàn Gia Định cho mặt trận nào sau đây ?",
     "A": "Mặt trận 779",
     "B": "Mặt trận 479",
@@ -936,7 +936,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 105,
+    "ID": "105",
     "QUESTION": "Ngày 25 tháng 6 năm 1986, Bộ Tư lệnh Quân khu 7 ban hành Quyết định số 10/QĐ/86, bàn giao Trung đoàn Gia Định cho đơn vị nào sau đây ?",
     "A": "Sư đoàn 302",
     "B": "Sư đoàn 367",
@@ -945,7 +945,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 106,
+    "ID": "106",
     "QUESTION": "Đầu tháng 6 năm 1986, Trung đoàn Gia Định vừa được tăng cường thực hiện nhiệm vụ quốc tế trên đất Campuchia, vừa có nhiệm vụ xây dựng, huấn luyện trung đoàn dự bị động viên, anh hùng lực lượng vũ trang nhân dân nào sau đây được bổ nhiệm chức vụ Phó Trung đoàn trưởng Hậu cần – Kỹ Thuật ?",
     "A": "Phan Trung Kiên",
     "B": "Tô Hoài Đức",
@@ -954,7 +954,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 107,
+    "ID": "107",
     "QUESTION": "Trong chiến dịch Tết Mậu Thân 1968, lần đầu tiên đơn vị được phát triển thành quy mô cấp trung đoàn, với 3 tiểu đoàn chủ công Tiểu đoàn 1 Quyết Thắng, Tiểu đoàn 2 Gò Môn, Tiểu đoàn 3 Dĩ An. Chính ủy Trung đoàn lúc này là đồng chí ?",
     "A": "Lê Hoàng Phái",
     "B": "Nguyễn Văn Lâu",
@@ -963,7 +963,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 108,
+    "ID": "108",
     "QUESTION": "Trung đoàn Gia Định đã chiến đấu 27 trận, đánh chiếm 3 phân chi khu, tiêu diệt và gọi hàng hơn 5.000 tên địch; thu hàng ngàn súng các loại, 7 xe GMC, 3 xe Jeep, 13 máy thông tin PRC là thành tích của Trung đoàn trong chiến dịch nào?",
     "A": "Chiến dịch Chiến dịch Lam Sơn 719",
     "B": "Chiến dịch Tết Mậu Thân",
@@ -972,7 +972,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 109,
+    "ID": "109",
     "QUESTION": "Lần đầu tiên một tiểu đoàn ta đánh thắng một trung đoàn ngụy sừng sỏ là trận đánh nào?",
     "A": "Trận Bàu Lách",
     "B": "Trận An Nhơn",
@@ -981,7 +981,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 110,
+    "ID": "110",
     "QUESTION": "Tiểu đoàn 2 Gò Môn được ra đời vào năm?",
     "A": "1964",
     "B": "1968",
@@ -990,7 +990,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 111,
+    "ID": "111",
     "QUESTION": "Trung đoàn Gia định thành lập vào ngày tháng năm nào?",
     "A": "30-05-1959",
     "B": "30-05-1949",
@@ -999,7 +999,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 112,
+    "ID": "112",
     "QUESTION": "Trung đoàn Gia định được tặng danh hiệu ANH HÙNG LỰC LƯỢNG VŨ TRANG NHÂN DÂN vào ngày tháng năm nào?",
     "A": "29-03-1996",
     "B": "29-01-1997",
@@ -1008,7 +1008,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 113,
+    "ID": "113",
     "QUESTION": "Trung đoàn Gia định có bao nhiêu cá nhân được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân?",
     "A": "8",
     "B": "5",
@@ -1017,7 +1017,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 114,
+    "ID": "114",
     "QUESTION": "Đại đội nào của Trung đoàn Gia định được phong tặng danh hiệu Anh hùng LLVTND vào ngày 20/12/1973?",
     "A": "Đại đội 2",
     "B": "Đại đội 5",
@@ -1026,7 +1026,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 115,
+    "ID": "115",
     "QUESTION": "Có tổng cộng bao nhiêu cán bộ chiến sĩ của Trung đoàn Gia định được tặng thưởng Huân chương chiến công các loại?",
     "A": "264",
     "B": "265",
@@ -1035,7 +1035,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 116,
+    "ID": "116",
     "QUESTION": "Huân chương Bảo vệ Tổ quốc hạng Nhất do Nhà nước nào tặng?",
     "A": "Campuchia",
     "B": "Lào",
@@ -1044,7 +1044,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 117,
+    "ID": "117",
     "QUESTION": "Tiểu đoàn 1 Quyết thắng được phong tặng danh hiệu AHLLVTND vào ngày tháng năm nào?",
     "A": "28-01-2000",
     "B": "01-02-2001",
@@ -1053,7 +1053,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 118,
+    "ID": "118",
     "QUESTION": "Tiểu đoàn 2 Gò Môn được phong tặng danh hiệu AHLLVTND vào ngày tháng năm nào?",
     "A": "20-12-1973",
     "B": "21-12-1973",
@@ -1062,7 +1062,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 119,
+    "ID": "119",
     "QUESTION": "Anh hùng LLVTND Tô Hoài Đức giữ chức Phó trung đoàn trưởng vào thời gian nào?",
     "A": "8/1984 – 6/1986",
     "B": "7/1984 – 6/1988",
@@ -1071,7 +1071,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 120,
+    "ID": "120",
     "QUESTION": "Ai là người giữ chức Trung đoàn trưởng đầu tiên của Trung đoàn Gia Định?",
     "A": "Đồng chí Nguyễn Văn Ga",
     "B": "Đồng chí Tô Hoài Đức",
@@ -1080,7 +1080,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 121,
+    "ID": "121",
     "QUESTION": "Nhiệm vụ trọng yếu của C13 là gì?",
     "A": "Bảo vệ căn cứ Củ Chi",
     "B": "Bảo vệ tỉnh Gia Định",
@@ -1089,7 +1089,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 122,
+    "ID": "122",
     "QUESTION": "C13 được tổ chức thành bao nhiêu trung đội?",
     "A": "1 Trung đội",
     "B": "2 Trung đội",
@@ -1098,7 +1098,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 123,
+    "ID": "123",
     "QUESTION": "Trên địa bàn xã An Nhơn Tây, xã Phú Mỹ Hưng và xã Nhuận Đức do Trung đội nào đảm nhiệm hoạt động?",
     "A": "Trung đội 1",
     "B": "Trung đội 2",
@@ -1107,7 +1107,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 124,
+    "ID": "124",
     "QUESTION": "Trong trận đầu ra quân phục kích địch trên quốc lộ 1 (12- 1959) do đồng chí trung đội trưởng nào chỉ huy?",
     "A": "Đồng chí Chín Thùng",
     "B": "Đồng chí Sáu Ly",
@@ -1116,7 +1116,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 125,
+    "ID": "125",
     "QUESTION": "Tham gia phong trào Đồng Khởi 1960, C13 đã tiêu diệt 2 đồn nào của địch?",
     "A": "Đồn An Trung và đồn Láng The",
     "B": "Đồn An Hòa và Đồn Láng Hạ",
@@ -1125,7 +1125,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 126,
+    "ID": "126",
     "QUESTION": "Trong phong trào Đồng Khởi, trung đội được thành lập trên vùng căn cứ Củ Chi có tên là gì?",
     "A": "Cao Hòa Bình",
     "B": "Hòa Bình",
@@ -1134,7 +1134,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 127,
+    "ID": "127",
     "QUESTION": "Giữa năm 1960, khi Khu ủy quyết định thành lập đại đội tập trung cơ động, Đại đội trưởng và Chính trị viên là ai?",
     "A": "Đồng chí Nguyễn Văn Cần và đồng chí Bảy Nô",
     "B": "Đồng chí Chín Thùng và đồng chí Trần Quang Minh",
@@ -1143,7 +1143,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 128,
+    "ID": "128",
     "QUESTION": "Trong buổi lễ ra mắt của Đại đội 13 tại mật khu Hố Bò, đồng chí Chủ tịch Ủy ban Mặt trận giải phóng dân tộc Khu Sài Gòn - Gia Định đã giao cho đơn vị bao nhiêu nhiệm vụ.",
     "A": "3 nhiệm vụ",
     "B": "4 nhiệm vụ",
@@ -1152,7 +1152,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 129,
+    "ID": "129",
     "QUESTION": "Vào tháng 8/1961, C13 được kiện toàn biên chế với bao nhiêu trung đội?",
     "A": "4 trung đội",
     "B": "5 trung đội",
@@ -1161,7 +1161,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 130,
+    "ID": "130",
     "QUESTION": "Sau khi kiện toàn vào tháng 8/1961, C13 do ai làm Đại đội trưởng và Chính trị viên?",
     "A": "Đồng chí Mười Phước và đồng chí Hai Hiền.",
     "B": "Đồng chí Chín Thùng và đông chí Mười Phước",
@@ -1170,7 +1170,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 131,
+    "ID": "131",
     "QUESTION": "Thời điểm cuối năm 1964, Tiểu đoàn Quyết Thắng gồm mấy Đại đội",
     "A": "3 Đại đội",
     "B": "4 Đại đội",
@@ -1179,7 +1179,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 132,
+    "ID": "132",
     "QUESTION": "Đồng chí nào là chính trị viên phó Tiểu đoàn Quyết Thắng đầu tiên ?",
     "A": "Đồng chí Nguyễn Thành Nâu",
     "B": "Đồng chí Chính Câu",
@@ -1188,7 +1188,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 133,
+    "ID": "133",
     "QUESTION": "Đồng chí Phạm Văn Cội được phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân năm bao nhiêu?",
     "A": "1967",
     "B": "1968",
@@ -1197,7 +1197,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 134,
+    "ID": "134",
     "QUESTION": "Trong trận Bàu Lách Sở chỉ huy Tiều đoàn Quyết Thắng đóng quân tại địa điểm nào ?",
     "A": "ấp Ba Sòng, xã An Nhơn Tây",
     "B": "ấp Bàu Lách, xã Nhuận Đức",
@@ -1206,7 +1206,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 135,
+    "ID": "135",
     "QUESTION": "Trong trận Bàu Lách, Đại đội 1, Tiều đoàn Quyết Thắng đóng quân tại địa điểm nào ?",
     "A": "ấp Ba Sòng, xã An Nhơn Tây",
     "B": "ấp Bàu Lách, xã Nhuận Đức",
@@ -1215,7 +1215,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 136,
+    "ID": "136",
     "QUESTION": "Trong trận Bàu Lách, Đại đội 2, Tiều đoàn Quyết Thắng đóng quân tại địa điểm nào ?",
     "A": "ấp Ba Sòng, xã An Nhơn Tây",
     "B": "ấp Bàu Lách, xã Nhuận Đức",
@@ -1224,7 +1224,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 137,
+    "ID": "137",
     "QUESTION": "Trong trận Bàu Lách, Đại đội 3, Tiều đoàn Quyết Thắng đóng quân tại địa điểm nào ?",
     "A": "ấp Ba Sòng, xã An Nhơn Tây",
     "B": "ấp Bàu Lách, xã Nhuận Đức",
@@ -1233,7 +1233,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 138,
+    "ID": "138",
     "QUESTION": "Tiểu đoàn trưởng Tiểu đoàn Quyết thắng trong trận Bàu Lách là ai ?",
     "A": "Đồng chí Trần Châm",
     "B": "Đồng chí Chính Câu",
@@ -1242,7 +1242,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 139,
+    "ID": "139",
     "QUESTION": "Đại đội trưởng Đại đội 1, Tiểu đoàn trưởng Tiểu đoàn Quyết thắng trong trận Bàu Lách là ai ?",
     "A": "Đồng chí Trần Châm",
     "B": "Đồng chí Chính Câu",
@@ -1251,7 +1251,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 140,
+    "ID": "140",
     "QUESTION": "Trong trận Bàu Lách đồng chí Trần Châm - Tiểu đoàn trưởng, được tặng thưởng danh hiệu gì ?",
     "A": "Huân chương Quân công hạng Nhất",
     "B": "Huân chương Quân công hạng Nhì",
@@ -1260,7 +1260,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 141,
+    "ID": "141",
     "QUESTION": "Trận đánh ngày 11/8/1965, ai là người bắn rơi 2 chiếc trực thăng HU1B?",
     "A": "Đồng chí Trần Văn Triệu",
     "B": "Đồng chí Nguyễn Văn Thạnh",
@@ -1269,7 +1269,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 142,
+    "ID": "142",
     "QUESTION": "Trận đánh ngày 11/8/1965, Ta đã tiêu diệt được tổng cộng bao nhiêu tên địch?",
     "A": "69",
     "B": "67",
@@ -1278,7 +1278,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 143,
+    "ID": "143",
     "QUESTION": "Trận đánh ngày 11/8/1965, Ta hi sinh bao nhiêu đồng chí?",
     "A": "2",
     "B": "3",
@@ -1287,7 +1287,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 144,
+    "ID": "144",
     "QUESTION": "Tiểu đoàn 2 hành quân về ấp Phú Hiệp, xã Phú Hòa Đông vào thời gian nào?",
     "A": "08-12-1965",
     "B": "13-8-1965",
@@ -1296,7 +1296,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 145,
+    "ID": "145",
     "QUESTION": "Cuối tháng 3-1966, đơn vị nào của Tiểu đoàn 2 lần đầu tiên đưa quân vượt lộ 8, qua sông Rạch Dứa, xuống xã Bình Mỹ B?",
     "A": "Đại đội 1",
     "B": "Đại đội 2",
@@ -1305,7 +1305,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 146,
+    "ID": "146",
     "QUESTION": "Sau trận đánh vào cuối tháng 3/1966, ai là người được tặng Huân chương Chiến công hạng Ba?",
     "A": "Đồng chí Mười Hóa",
     "B": "Đồng chí Trần Văn Triệu",
@@ -1314,7 +1314,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 147,
+    "ID": "147",
     "QUESTION": "Cuối tháng 4 năm 1966, trong trận đánh xe Mỹ ở Đồng Dù, trung đội 2 Đại đội 2 bắn cháy bao nhiêu xe tăng và xe bọc thép của địch?",
     "A": "5;6",
     "B": "6;6",
@@ -1323,7 +1323,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 148,
+    "ID": "148",
     "QUESTION": "Sáng ngày 5 tháng 6 năm 1966, Tiểu đoàn 2 đánh một trận phục kích tiêu biểu và được tăng cường thêm bao nhiêu quân?",
     "A": "15 chiến sĩ",
     "B": "20 chiến sĩ",
@@ -1332,7 +1332,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 149,
+    "ID": "149",
     "QUESTION": "Trận đánh ngày 5/6/1966, ta đã tiêu diệt tổng cộng bao nhiêu tên địch?",
     "A": "56",
     "B": "46",
@@ -1341,7 +1341,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 150,
+    "ID": "150",
     "QUESTION": "Ai là người xuất sắc bắn 4 phát đạn B40, cháy 4 tàu, xuồng địch trong trận đánh ngày 8/6/1966?",
     "A": "Đồng chí Mến",
     "B": "Đồng chí Gùi",
@@ -1350,7 +1350,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 151,
+    "ID": "151",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, Tiểu đoàn 2 – Trung đoàn Quyết Thắng đảm nhiệm tiến công vào căn cứ nào?",
     "A": "Dinh Độc Lập",
     "B": "Sứ quán Mỹ",
@@ -1359,7 +1359,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 152,
+    "ID": "152",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, giờ G tiến công của Trung đoàn Quyết Thắng là mấy giờ?",
     "A": "Trước giao thừa 2 tiếng đồng hồ",
     "B": "Trước giao thừa 1 tiếng đồng hồ",
@@ -1368,7 +1368,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 153,
+    "ID": "153",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, mũi tiến công của Tiểu đoàn 2 – Trung đoàn Quyết Thắng vào cổng số 5 phía bắc Bộ tổng tham mưu ngụy do đồng chí nào chỉ huy?",
     "A": "Đồng chí Tư Nhựt",
     "B": "Đồng chí Tám Lệ",
@@ -1377,7 +1377,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 154,
+    "ID": "154",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, vào đêm mùng 7 tết, Tiểu đoàn 1 – Trung đoàn Quyết Thắng đã chuyển đội hình về đâu?",
     "A": "Xóm đạo sát chợ An Nhơn",
     "B": "Xóm Mới, An Nhơn",
@@ -1386,7 +1386,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 155,
+    "ID": "155",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, Tiểu đoàn 2 – Trung đoàn Quyết Thắng đã tổ chức cho đơn vị ăn Tết sớm vào ngày nào?",
     "A": "Ngày 27 tháng Chạp",
     "B": "Ngày 28 tháng Chạp",
@@ -1395,7 +1395,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 156,
+    "ID": "156",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, đêm 29 tháng Chạp, Tiểu đoàn 2 – Trung đoàn Quyết Thắng đã hành quân về đâu?",
     "A": "An Phú Đông",
     "B": "Sân bay Tân Sơn Nhất",
@@ -1404,7 +1404,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 157,
+    "ID": "157",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, Tiểu đoàn 2 – Trung đoàn Quyết Thắng đã tổ chức cho đơn vị ăn Tết sớm vào ngày 29 tháng Chạp ở đâu?",
     "A": "An Phú Đông",
     "B": "Bình Mỹ A",
@@ -1413,7 +1413,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 158,
+    "ID": "158",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, ngày mùng 3 tết, Tiểu đoàn 2 – Trung đoàn Quyết Thắng đã đánh địch tại khu vực nào?",
     "A": "Ngã năm Bình Hòa, khu chuồng ngựa",
     "B": "Bộ tổng tham mưu ngụy",
@@ -1422,7 +1422,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 159,
+    "ID": "159",
     "QUESTION": "Trong Cuộc tổng tiến công và nổi dậy xuân 1968, ngày mùng 4 tết, Tiểu đoàn 2 – Trung đoàn Quyết Thắng đã đánh địch tại khu vực nào?",
     "A": "Ngã năm Bình Hòa",
     "B": "Chợ Cây Quéo",
@@ -1431,7 +1431,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 160,
+    "ID": "160",
     "QUESTION": "Qua những trận chiến ở khu vực ngoại ô Sài Gòn năm 1968, Tiểu đoàn 1 và Tiểu đoàn 2 - Trung đoàn Quyết Thắng nổi rõ lên những ưu điểm nào?",
     "A": "Giỏi tác chiến chống càn và trên địa hình đồng nước",
     "B": "Phát huy được sở trường đánh hóa trang trong đô thị",
@@ -1440,7 +1440,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 161,
+    "ID": "161",
     "QUESTION": "Những chiến dịch mà Mỹ nguỵ đã không thể thực hiện được trên địa bàn Củ Chi?",
     "A": "Chiến dịch “quét giữ”, “bình định cấp tốc”, “bình định phát triển”, “bình định trọng điểm”.",
     "B": "Chiến dịch “tìm diệt”,, “tia chớp nhiệt đới”, “bình định phát triển”, “bình định trọng điểm”.",
@@ -1449,7 +1449,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 162,
+    "ID": "162",
     "QUESTION": "Trận phòng ngự Suối Sâu do Đại đội nào của Trung đoàn Quyết thắng làm nhiệm vụ bảo vệ ?",
     "A": "Đại đội 2, Tiểu đoàn Quyết Thắng",
     "B": "Đại đội 1, Tiểu đoàn Quyết Thắng",
@@ -1458,7 +1458,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 163,
+    "ID": "163",
     "QUESTION": "Trận Suối Sâu mở màn vào ngày tháng năm nào?",
     "A": "Ngày 13 tháng 5 năm 1972",
     "B": "Ngày 12 tháng 4 năm 1972",
@@ -1467,7 +1467,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 164,
+    "ID": "164",
     "QUESTION": "Chiến dịch Xuân – hè 1972 còn có tên gọi khác là gì?",
     "A": "Chiến dịch Hồ Chí Minh",
     "B": "Chiến dịch Trường Sơn",
@@ -1476,7 +1476,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 165,
+    "ID": "165",
     "QUESTION": "Chiến dịch Xuân – hè 1972 thể hiện di chúc của Chủ tịch Hồ Chí Minh gì ?",
     "A": "Đánh cho Mỹ cút, đánh cho nguỵ nhào",
     "B": "Việc to cũng như việc nhỏ. Đảng và Chính phủ ta đều lo phục vụ lợi ích của dân",
@@ -1485,7 +1485,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 166,
+    "ID": "166",
     "QUESTION": "Đêm 24 – 4 – 1972, Tiểu đoàn Quyết Thắng 1 phối hợp với Đại đội 7 huyện Củ Chi tiến công ấp chiến lược nào ?",
     "A": "Ấp chiến lược Trung Hoà",
     "B": "Ấp chiến lược Trung Lập Thượng",
@@ -1494,7 +1494,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 167,
+    "ID": "167",
     "QUESTION": "Đại đội 1 và Đại đội 3 đã lập những thành tích nào trong ngày 6 – 6 – 1972?",
     "A": "Diệt 80 tên, bắn hỏng 3 xe quân sự",
     "B": "Diệt 45 tên dân vệ bảo an, 1 đại đội trinh sát thuộc sư đoàn 25 nguỵ, bắn rơi 1 máy bay L19",
@@ -1503,7 +1503,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 168,
+    "ID": "168",
     "QUESTION": "Trong trận phòng ngự phản kích ngày 27 – 10 – 1972, đồng chí nào đã được nhà nước tuyên dương Anh hùng Lực lượng vũ trang với chiến công đẩy lùi 8 đợt phản kích của địch và diệt 27 tên nguỵ quân?",
     "A": "Đồng chí Nguyễn Anh Nhiễu",
     "B": "Đồng chí Nguyễn Minh Thắng",
@@ -1512,7 +1512,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 169,
+    "ID": "169",
     "QUESTION": "Hiệp định Paris kí kết vào năm nào? Và bên nào đã cố tình vi phạm Hiệp ước?",
     "A": "Hiệp định Paris kí kết vào ngày 27 – 1 – 1973, Mỹ đã tiếp nhúng tay vào cuộc chiến và vi phạm hiệp ước",
     "B": "Hiệp định Paris kí kết vào ngày 6 – 4 – 1973, Mỹ cho quân chi viện cho Nguỵ quân tiếp tục chống phá cách mạng Việt Nam",
@@ -1521,7 +1521,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 170,
+    "ID": "170",
     "QUESTION": "Trận đánh mở màn đầu tiên sau ngày thực hiện Hiệp định Paris là trận đánh nào?",
     "A": "Trận đánh ngày 20 – 3 – 1973 \n ở căn cứ Đồng Dù",
     "B": "Trận đánh ngày 20 – 3 – 1973 ở Đồng Dù, Trung Hoà, Đồng Chùa",
@@ -1530,7 +1530,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 171,
+    "ID": "171",
     "QUESTION": "Tiểu đoàn 1, Trung đoàn Gia Định vinh dự được Nhà nước tuyên dương danh hiệu Đơn vị Anh hùng lực lượng vũ trang nhân dân vào ngày tháng năm nào?",
     "A": "19-02-1975",
     "B": "09-12-1975",
@@ -1539,7 +1539,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 172,
+    "ID": "172",
     "QUESTION": "Ngày 20/02/1976, Trung đoàn Gia Định làm lễ ra quân thực hiện nhiệm vụ gì?",
     "A": "Xây dựng con đê cầu An Hạ",
     "B": "Xây dựng cầu An Hạ",
@@ -1548,7 +1548,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 173,
+    "ID": "173",
     "QUESTION": "Khi thực hiện nhiệm vụ tại cánh đồng An Hạ, những đơn vị nào của Trung đoàn Gia Định đạt năng suất cao nhất?",
     "A": "Đại đội pháo, Đại đội thông tin, Đại đội 3, Đại đội 4",
     "B": "Đại đội trinh sát, Đại đội thông tin, Đại đội 3, Đại đội 4",
@@ -1557,7 +1557,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 174,
+    "ID": "174",
     "QUESTION": "Thời gian Trung đoàn Gia Định hoàn tất con kênh mới tại cánh đồng An Hạ?",
     "A": "Từ tháng 02 đến tháng 4 năm 1976",
     "B": "Từ tháng 02 đến tháng 5 năm 1976",
@@ -1566,7 +1566,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 175,
+    "ID": "175",
     "QUESTION": "Trung đoàn Gia Định được giao nhiệm vụ rà, gỡ bom mìn, xây dựng doanh trại tại căn cứ Tống Lê Chân thuộc tỉnh Bình Phước vào thời gian nào?",
     "A": "Tháng 9 năm 1976",
     "B": "Tháng 10 năm 1976",
@@ -1575,7 +1575,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 176,
+    "ID": "176",
     "QUESTION": "Trung đoàn Gia Định giao nhiệm vụ bảo vệ cầu Chữ Y, nhà đèn chợ Quán ở Quận 5 cho đơn vị nào?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
@@ -1584,7 +1584,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 177,
+    "ID": "177",
     "QUESTION": "Trung đoàn Gia Định được Quân khu 7 giao nhiệm vụ cơ động 2 cấp Thành phố và Quân khu từ năm nào?",
     "A": "Năm 1975",
     "B": "Năm 1976",
@@ -1593,7 +1593,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 178,
+    "ID": "178",
     "QUESTION": "Nhiệm vụ cơ động 2 cấp Thành phố và Quân khu của Trung đoàn gồm?",
     "A": "Vừa làm nhiệm vụ bảo vệ Quân khu lại vừa sẵn sàng nhận lệnh điều động theo yêu cầu nhiệm vụ của thành phố",
     "B": "Vừa làm nhiệm vụ phát triển kinh tế cho thành phố lại vừa sẵn sàng nhận lệnh điều động theo yêu cầu nhiệm vụ của Quân khu",
@@ -1602,7 +1602,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 179,
+    "ID": "179",
     "QUESTION": "Trung đoàn Gia Định tham gia diễu binh mừng chiến thắng trước quảng trường Dinh Độc Lập (nay là Hội trường Thống Nhất) vào thời gian nào?",
     "A": "Ngày 05/5/1975",
     "B": "Ngày 15/5/1975",
@@ -1611,7 +1611,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 180,
+    "ID": "180",
     "QUESTION": "Tháng 6 năm 1975, nhiệm vụ hàng đầu của lực lượng võ trang thành phố là gì?",
     "A": "Vận động ngụy quân, ngụy quyền ra trình diện, phối hợp với các cơ quan xây dựng chính quyền cách mạng",
     "B": "Cải tạo ngụy quân, ngụy quyền, phối hợp với các Quân khu khác xây dựng chính quyền cách mạng",
@@ -1620,7 +1620,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 181,
+    "ID": "181",
     "QUESTION": "Trận đánh nào là trận đánh xuất sắc nhất của Trung đoàn Gia Định trong chiến đấu bảo vệ biên giới?",
     "A": "Trận đánh ở khu vực Xa Mát",
     "B": "Trận đánh Mai Mốt – Xoài Riêng",
@@ -1629,7 +1629,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 182,
+    "ID": "182",
     "QUESTION": "Trong một trận đánh ở cầu KatĐai, trung đoàn đã đạt được chiến công gì?",
     "A": "Loại khỏi vòng chiến đấu 30 tên địch, đánh bật chúng ra khỏi chốt 300 – 500 mét",
     "B": "Loại khỏi vòng chiến đấu 30 tên địch, đánh bật chúng ra khỏi chốt 400 – 600 mét",
@@ -1638,7 +1638,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 183,
+    "ID": "183",
     "QUESTION": "Trong trận chiến đấu ở Cầu KatĐai, đồng chí nào đã thay cho Ban chỉ huy Đại đội chỉ huy Đại đội chiến đấu thắng lợi và được Nhà nước tuyên dương là Anh hùng Lực lượng vũ trang nhân dân?",
     "A": "Đồng chí Đại đội trưởng Nguyễn Anh Nhiễn",
     "B": "Đồng chí Tham mưu trưởng Phan Trung Kiên",
@@ -1647,7 +1647,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 184,
+    "ID": "184",
     "QUESTION": "Với thành tích nổi bật trong chiến dịch mùa khô và đặc biệt là trận KatĐai, đơn vị nào được tặng thưởng Huân chương Chiến công hạng Nhì tại mặt trận?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
@@ -1656,7 +1656,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 185,
+    "ID": "185",
     "QUESTION": "Sau chiến dịch mùa khô, Trung đoàn được Bộ tư lệnh Quân khu tặng thưởng bức trướng gồm bao nhiêu chữ vàng?",
     "A": "6 chữ vàng “Đoàn kết tốt, Kỷ luật nghiêm”",
     "B": "9 chữ vàng “Đoàn kết tốt, Kỷ luật nghiêm, Chiến đấu giỏi”",
@@ -1665,7 +1665,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 186,
+    "ID": "186",
     "QUESTION": "Vào thời gian nào Trung đoàn được lệnh trở về làm nhiệm vụ bảo vệ thành phố Hồ Chí Minh?",
     "A": "Ngày 08 tháng 01 năm 1978",
     "B": "Tháng 2 năm 1978",
@@ -1674,7 +1674,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 187,
+    "ID": "187",
     "QUESTION": "Nhiệm vụ trọng tâm của Trung đoàn sau khi trở về bảo vệ Thành phố là gì?",
     "A": "Bảo vệ các mục tiêu trọng yếu trong thành phố",
     "B": "Chống địch gây bạo loạn",
@@ -1683,7 +1683,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 188,
+    "ID": "188",
     "QUESTION": "Trước tình hình biên giới ngày một căng thẳng, Tiểu đoàn 5 được thành lập gồm những đơn vị nào?",
     "A": "Đơn vị Hóc Môn",
     "B": "Đơn vị Bình Thạnh",
@@ -1692,7 +1692,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 189,
+    "ID": "189",
     "QUESTION": "Vào ngày tháng năm nào, Trung đoàn Gia Định vinh dự nhận trọng trách lên đường trở lại mặt trận biên giới để chiến đấu?",
     "A": "Ngày 25 tháng 9 năm 1978",
     "B": "Ngày 4 tháng 10 năm 1978",
@@ -1701,7 +1701,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 190,
+    "ID": "190",
     "QUESTION": "Đồng chí hãy cho biết phương châm đánh địch của ta khi tham gia chiến đấu trên địa bàn biên giới?",
     "A": "Đánh chắc tiến chắc, bảo vệ an toàn lực lượng",
     "B": "Đánh đến đâu giữ chắc đến đó, bảo vệ địa bàn vững chắc",
@@ -1710,7 +1710,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 191,
+    "ID": "191",
     "QUESTION": "Trung đoàn giao nhiệm vụ cho Tiểu đoàn 1 đánh vào khu vực TàbengChơnông vào thời gian nào?",
     "A": "Ngày 2/5/1985",
     "B": "Ngày 26/3/1985",
@@ -1719,7 +1719,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 192,
+    "ID": "192",
     "QUESTION": "Trung đoàn Gia Định được lệnh rút quân về nước vào thời gian nào?",
     "A": "Ngày 16/3/1985",
     "B": "Ngày 16/4/1985",
@@ -1728,7 +1728,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 193,
+    "ID": "193",
     "QUESTION": "Trong suốt giai đoạn mùa khô năm 1984-1985, Trung đoàn đã thực hiện bao nhiêu trận đánh ?",
     "A": "10 lần cơ động chiến đấu, 5 trận cấp Tiểu đoàn, 4 trận cấp Trung đoàn và 11 lần trung đội trinh sát phối thuộc với đơn vị lực lượng Campuchia",
     "B": "10 lần cơ động chiến đấu, 4 trận cấp Tiểu đoàn, 5 trận cấp Trung đoàn và 11 lần trung đội trinh sát phối thuộc với đơn vị lực lượng Campuchia",
@@ -1737,7 +1737,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 194,
+    "ID": "194",
     "QUESTION": "Trung đoàn đã tổ chức được bao nhiêu khóa huấn luyện quân sự với số lượng bao nhiêu ?",
     "A": "7 khóa huấn luyện quan sự cho 663 người và lập 2 đại đội du kích tập trung gồm 136 chiến sĩ, củng cố 4 đội du kịch khum",
     "B": "8 khóa huấn luyện quan sự cho 663 người và lập 3 đại đội du kích tập trung gồm 136 chiến sĩ, củng cố 4 đội du kịch khum",
@@ -1746,7 +1746,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 195,
+    "ID": "195",
     "QUESTION": "Trung đoàn tổ chức rút quân từ Côngpôngthom về hậu cứ Quang Trung, Thành phố Hồ Chí Minh vào khoảng thời gian nào?",
     "A": "Từ ngày 15 đến 24 tháng 6 năm 1985",
     "B": "Từ ngày 16 đến 25 tháng 6 năm 1985",
@@ -1755,7 +1755,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 196,
+    "ID": "196",
     "QUESTION": "Trung đoàn Gia Định được lệnh chuẩn bị tiếp tục quay lại Mặt trận 779 làm nhiệm vụ ở địa bàn Côngpôngthom vào thời gian nào?",
     "A": "Đầu tháng 7/1985",
     "B": "Đầu tháng 8/1985",
@@ -1764,7 +1764,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 197,
+    "ID": "197",
     "QUESTION": "Lực lượng nào của Trung đoàn Gia Định được lệnh chuẩn bị quay lại thực hiện nhiệm vụ ở Mặt trận 779 vào thời điểm tháng 7 năm 1985?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
@@ -1773,7 +1773,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 198,
+    "ID": "198",
     "QUESTION": "Quân số ban đầu của Tiểu đoàn 3 khi nhận lệnh quay lại Mặt trận 779 là bao nhiêu?",
     "A": "225 đồng chí",
     "B": "180 đồng chí",
@@ -1782,7 +1782,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 199,
+    "ID": "199",
     "QUESTION": "Tiểu đoàn 3, Trung đoàn Gia Định tiến hành lên đường thực hiện nhiệm vụ vào thời gian nào?",
     "A": "22-07-1985",
     "B": "21-07-1985",
@@ -1791,7 +1791,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 200,
+    "ID": "200",
     "QUESTION": "Tiểu đoàn 3, Trung đoàn Gia Định được lệnh rút về thành phố vào thời gian nào?",
     "A": "Tháng 11/1985",
     "B": "Tháng 12/1985",
@@ -1800,7 +1800,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 201,
+    "ID": "201",
     "QUESTION": "Đại hội Đảng bộ Trung đoàn lần thứ 9, nhiệm kỳ 1996-1998 khai mạc vào thời gian nào?",
     "A": "Ngày 1 tháng 1 năm 1996",
     "B": "Ngày 2 tháng 1 năm 1996",
@@ -1809,7 +1809,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 202,
+    "ID": "202",
     "QUESTION": "Đại hội Đảng bộ Trung đoàn lần thứ 9, nhiệm kỳ 1996-1998 khai mạc. Đại hội đánh giá “Đảng bộ Trung đoàn đã hoàn thành …… nhiệm vụ chính trị, đã triển khai và thực hiện đầy đủ các nội dung lớn của các cuộc …… “Xây dựng đơn vị vững mạnh toàn diện”, “Xây dựng nề nếp chính qui và môi trường văn hóa lành mạnh”? Chọn đáp án đúng vào chỗ trống?",
     "A": "Xuất sắc - vận động",
     "B": "Tốt – thi đua",
@@ -1818,7 +1818,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 203,
+    "ID": "203",
     "QUESTION": "Tháng 4-1996, tại Sở Chỉ huy Trung đoàn tại huyện Hóc Môn (quận 12 ngày nay), cán bộ, chiến sĩ Trung đoàn long trọng làm lễ đón nhận danh hiệu gì ?",
     "A": "“Đơn vị Huấn luyện giỏi”",
     "B": "“Cờ thi đua của Bộ Quốc phòng”",
@@ -1827,7 +1827,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 204,
+    "ID": "204",
     "QUESTION": "Ngoài nhiệm vụ xây dưng đơn vị điểm của Quân khu và thành phố thực hiện 4 nội dung cuộc vận động “Xây dựng tổ chức cơ sở Đảng trong sạch vững mạnh, xây dựng đơn vị vững mạnh toàn diện, thực hiện nề nếp chính qui, xây dựng môi trường văn hóa lành mạnh”, trong chỉ thị nào?",
     "A": "Chỉ thị 1021/CT-QP về xây dựng đơn vị vững mạnh toàn diện của Bộ Quốc phòng",
     "B": "Chỉ thị 2011/CT-QP về xây dựng đơn vị vững mạnh toàn diện của Bộ Quốc phòng",
@@ -1836,7 +1836,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 205,
+    "ID": "205",
     "QUESTION": "Trong hai năm 1996, 1997, Trung đoàn đã tập huấn được bao nhiêu tiểu đội trưởng, bao nhiêu trung đội trưởng và bao nhiêu cán bộ đại đội?",
     "A": "330 tiểu đội trưởng, 114 trung đội trưởng và 134 cán bộ đại đội",
     "B": "335 tiểu đội trưởng, 114 trung đội trưởng và 134 cán bộ đại đội",
@@ -1845,7 +1845,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 206,
+    "ID": "206",
     "QUESTION": "Trong năm 1997, Trung đoàn đã thực hiện bao nhiêu đợt hoạt động cao điểm sẵn sàng chiến đấu?",
     "A": "5",
     "B": "3",
@@ -1854,7 +1854,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 207,
+    "ID": "207",
     "QUESTION": "Về công tác huấn luyện trong 2 năm 1996, 1997, tại hội nghị công tác huấn luyện năm 1997 do Thành phố tổ chức đã đánh giá?",
     "A": "Trung đoàn “đã có nhiều nỗ lực vượt khó, sáng tạo nhiều mô hình, học cụ. Tổ chức tốt khâu chọn cán bộ có kinh nghiệm huấn luyện, phát huy được thế mạnh của cơ quan, đơn vị, nâng cao được trình độ chỉ huy, kỹ năng nghiệp vụ chính trị, quân sự cho đội ngũ cán bộ, chiến sĩ được rèn luyện thử thách thực tế, nắm vững kỹ chiến thuật cá nhân và phân đội. Gắn huấn luyện cơ bản, với nhiệm vụ sẵn sàng chiến đấu, với dỉễn tập khu vực phòng thủ trên địa bàn thành phố. Công tác huấn luyện từng bước đi vào chiều sâu, đạt mục tiêu đề ra, đáp ứng yêu cầu sẵn sàng chiến đấu khi có lệnh”",
     "B": "Trung đoàn “đã có nhiều nỗ lực vượt khó, sáng tạo nhiều mô hình, học cụ. Tổ chức tốt khâu chọn cán bộ có kinh nghiệm huấn luyện, phát huy được thế mạnh của cơ quan, đơn vị, nâng cao được trình độ chỉ huy, kỹ năng nghiệp vụ chính trị, quân sự cho đội ngũ cán bộ, chiến sĩ được rèn luyện thử thách thực tế, nắm vững kỹ chiến thuật cá nhân và phân đội. Gắn huấn luyện cơ bản, với nhiệm vụ sẵn sàng chiến đấu, với dỉễn tập khu vực phòng thủ trên địa bàn thành phố''",
@@ -1863,7 +1863,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 208,
+    "ID": "208",
     "QUESTION": "Nhiệm kỳ 1996-1997 Công tác phát triển Đảng có chuyển biến tích cực, năm 1997 đã tạo nguồn phát triển được bao nhiêu đồng chí, đạt bao nhiêu% chỉ tiêu?",
     "A": "10 đồng chí, đạt 100%",
     "B": "20 đồng chí, đạt 100%.",
@@ -1872,7 +1872,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 209,
+    "ID": "209",
     "QUESTION": "Đến cuối năm 1998, Trung đoàn đã hoàn thành việc thực hiện Quyết định số 52/QĐ-TTM ngày 12 tháng 2 năm 1997 của Bộ Tổng tham mưu về biên chế tổ chức đủ đầu mối đơn vị và vũ khí trang bị của Trung đoàn, quân số Trung đoàn đạt bao nhiêu % so với biên chế?",
     "A": 1,
     "B": "92,6%",
@@ -1881,7 +1881,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 210,
+    "ID": "210",
     "QUESTION": "Trong năm 1998, Trung đoạn tham cuộc thi “Tuyên truyền viên miệng giỏi” đã đạt được thành tích gì?",
     "A": "19 cán bộ chính trị đại đội, tiểu đoàn và cơ quan chính trị trung đoàn đã tham gia và đạt được thành tích tốt; cá nhân đạt giải nhì và ba; đồng đội; nhất toàn đoàn",
     "B": "20 cán bộ chính trị đại đội, tiểu đoàn và cơ quan chính trị trung đoàn đã tham gia và đạt được thành tích tốt; cá nhân đạt giải nhì và ba; đồng đội; nhất toàn đoàn",
@@ -1890,7 +1890,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 211,
+    "ID": "211",
     "QUESTION": "Đại hội Đảng bộ Trung đoàn lần thứ XII bầu Ban chấp hành Đảng bộ Trung đoàn gồm bao nhiêu đồng chí?",
     "A": "10",
     "B": "11",
@@ -1899,7 +1899,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 212,
+    "ID": "212",
     "QUESTION": "Đại hội Đảng bộ Trung đoàn lần thứ XI bầu ai là Bí thư Đảng ủy?",
     "A": "Đồng chí Nguyễn Văn Hoàng",
     "B": "Đồng chí Nguyễn Văn Nam",
@@ -1908,7 +1908,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 213,
+    "ID": "213",
     "QUESTION": "Trong các năm 2000, 2001, 2002, ngoài tập trung lãnh đạo nhiệm vụ sẵn sàng chiến đấu, lãnh đạo xây dựng lực lượng, Đảng ủy - Ban Chỉ huy Trung đoàn còn tập trung lãnh đạo?",
     "A": "Nâng cao đời sống cho cán bộ, chiến sĩ",
     "B": "Xây dựng cảnh quan, môi trường",
@@ -1917,7 +1917,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 214,
+    "ID": "214",
     "QUESTION": "Tiểu đoàn bộ binh 2 Trung đoàn Gia Định đón nhận danh hiệu “Đơn vị Anh hùng lực lượng vũ trang nhân dân” vào năm nào?",
     "A": "1999",
     "B": "2000",
@@ -1926,7 +1926,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 215,
+    "ID": "215",
     "QUESTION": "Cuối năm 2002 ai được bổ nhiệm chức vụ Trung đoàn trưởng?",
     "A": "Đồng chí Châu Văn Hùng",
     "B": "Đồng chí Nguyễn Văn Hoàng",
@@ -1935,7 +1935,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 216,
+    "ID": "216",
     "QUESTION": "Ngày 13-3-2003, Đại hội Đảng bộ Trung đoàn lần thứ XII nhiệm kỳ 2003-2005 khai mạc. Phương hướng, mục tiêu chung trong nhiệm kỳ là?",
     "A": "“Phát huy truyền thống Trung đoàn Anh hùng và kết quả đạt được trong nhiệm kỳ XI, tập trung sức xây dựng Đảng bộ Trung đoàn trong sạch vững mạnh, là một Đảng bộ mạnh của Đảng bộ Quân sự thành phố, vì vậy Đảng bộ phải tập trung xây dựng Trung đoàn vững mạnh toàn diện, nề nếp chính quy tốt, chấp hành nghiêm kỷ luật, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao”",
     "B": "“Phát huy truyền thống Trung đoàn Anh hùng và kết quả đạt được trong nhiệm kỳ XI, tập trung sức xây dựng Đảng bộ Trung đoàn trong sạch vững mạnh, là một Đảng bộ mạnh của Đảng bộ Quân sự thành phố, vì vậy Đảng bộ phải tập trung xây dựng Trung đoàn vững mạnh toàn diện, có sức cơ động cao, nề nếp chính quy tốt, chấp hành nghiêm kỷ luật, sẵn sàng nhận và hoàn thành xuất sắc mọi nhiệm vụ được giao”",
@@ -1944,7 +1944,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 217,
+    "ID": "217",
     "QUESTION": "Đại hội Đảng bộ Trung đoàn lần thứ XII bầu ai là Bí thư Đảng ủy?",
     "A": "Đồng chí Trương Văn Bảy",
     "B": "Đồng chí Nguyễn Văn Nam",
@@ -1953,7 +1953,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 218,
+    "ID": "218",
     "QUESTION": "Đồng chí Trung tá Nguyễn Văn Dũng được bổ nhiệm giữ chức Trung đoàn trưởng vào tháng, năm nào?",
     "A": "Tháng 10-2003",
     "B": "Tháng 11-2003",
@@ -1962,7 +1962,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 219,
+    "ID": "219",
     "QUESTION": "Trong huấn luyện, luôn bám sát “3 quan điểm, 8 nguyên tắc và 6 mối kết hợp”. Với phương châm nào?",
     "A": "Cơ bản, thiết thực, kiên định",
     "B": "Cơ bản, thiết thực, vững chắc",
@@ -1971,7 +1971,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 220,
+    "ID": "220",
     "QUESTION": "Trung đoàn tổ chức Hội nghị “Tổng kết công tác tư tưởng - lý luận thời kỳ đổi mới (1986-2004)”. Trong hội nghị ý kiến nào là đánh giá không đúng?",
     "A": "Gần 20 năm công tác tư tưởng lý luận đã được cấp ủy, chi huy các cấp nhận thức đúng vai trò, tầm quan trọng của công tác tư tưởng, chủ động tuyên truyền giáo dục, phổ biến các chỉ thị của Đảng, chính sách, pháp luật Nhà nước và những thành tựu của công cuộc đổi mới của đất nước",
     "B": "Đảng ủy Trung đoàn cũng như cấp ủy, chỉ huy các cấp đã kịp thời thông tin, làm rõ những sự kiện thời sự nổi bật trên thế giới, khu vực và trong nước, định hướng nhận thức đúng cho cán bộ, chiến sĩ, góp phần đấu tranh làm thất bại các luận điệu xuyên tạc phản động của kẻ thù, bảo vệ chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, xây dựng trận địa tư tưởng vững chắc",
@@ -1980,7 +1980,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 221,
+    "ID": "221",
     "QUESTION": "Đồng chí nào của Tiểu đoàn Quyết Thắng trở thành người đầu tiên của Tiểu đoàn diệt cơ giới & diệt Mỹ ?",
     "A": "Nguyễn Văn Cuộc",
     "B": "Nguyễn Văn Đực",
@@ -1989,7 +1989,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 222,
+    "ID": "222",
     "QUESTION": "Đồng chí nào là Tiểu đoàn trưởng Tiểu đoàn Quyết Thắng trong trận Bàu Lách, được tặng thưởng Huân chương Chiến công hạng Nhất sau trận Bàu Lách ?",
     "A": "Nguyễn Văn Cuộc",
     "B": "Nguyễn Văn Đực",
@@ -1998,7 +1998,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 223,
+    "ID": "223",
     "QUESTION": "Trong chiến dịch Hồ Chí Minh lịch sử, đồng chí Phan Trung Kiên đảm nhiệm chức vụ nào sau đây ?",
     "A": "Trung đoàn trưởng",
     "B": "Trung đoàn phó, Tham mưu trưởng",
@@ -2007,7 +2007,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 224,
+    "ID": "224",
     "QUESTION": "Tháng 5-1964, Bộ Tư lệnh Quân khu chính thức quyết định đổi tên Đoàn Quyết Thắng thành Tiểu đoàn Quyết Thắng với quân số ?",
     "A": "440 đ/c",
     "B": "458 đ/c",
@@ -2016,7 +2016,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 225,
+    "ID": "225",
     "QUESTION": "Đ/c hãy cho biết thứ tự các phiên hiệu của Trung đoàn Gia Định từ lúc thành lập đến khi có phiên hiệu Trung đoàn Gia Định ?",
     "A": "C13 – Y4 – K17 – Đoàn Quyết Thắng – Tiểu đoàn Quyết Thắng – Trung đoàn Quyết Thắng – Trung đoàn Gia Định",
     "B": "C13 – K17 – Y4 – Đoàn Quyết Thắng – Tiểu đoàn Quyết Thắng – Trung đoàn Quyết Thắng – Trung đoàn Gia Định",
@@ -2025,7 +2025,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 226,
+    "ID": "226",
     "QUESTION": "Năm 2007, Trung đoàn tham gia hội thi mô hình học cụ do thành phố tổ chức, đạt thành tích như thế nào?",
     "A": "giải nhất",
     "B": "giải nhì",
@@ -2034,7 +2034,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 227,
+    "ID": "227",
     "QUESTION": "Năm 2007, Trung đoàn tham gia hội thi Trung đoàn trưởng, Chính ủy, Tham mưu trưởng do Quân khu tổ chức đạt giải gì ?",
     "A": "Giải nhất toàn đoàn",
     "B": "Giải nhì toàn đoàn",
@@ -2043,7 +2043,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 228,
+    "ID": "228",
     "QUESTION": "Năm 2007, Trung đoàn tham gia hội thao đại đội trưởng pháo binh, đạt thành tích gì ?",
     "A": "Giải nhất cá nhân",
     "B": "Giải nhì cá nhân",
@@ -2052,7 +2052,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 229,
+    "ID": "229",
     "QUESTION": "Năm 2007, Trung đoàn tham gia hội thi súng máy phòng không 12,7mm khối quân sự địa phương, đạt thành tích gì ?",
     "A": "Giải nhất quân khu",
     "B": "Giải nhì quân khu",
@@ -2061,7 +2061,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 230,
+    "ID": "230",
     "QUESTION": "Đoàn Quyết Thắng ngày đầu thành lập được biên chế quân số thành ?",
     "A": "3 đại đội, 2 tiểu đội văn phòng",
     "B": "2 đại đội, 1 tiểu đội văn phòng",
@@ -2070,7 +2070,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 231,
+    "ID": "231",
     "QUESTION": "Trung đoàn Gia định được tặng bao nhiêu huân chương Thành Đồng?",
     "A": "2",
     "B": "1",
@@ -2079,7 +2079,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 232,
+    "ID": "232",
     "QUESTION": "Đồng chí Lê Xuân Thế giữ chức Trung đoàn trưởng Trung đoàn Gia định từ tháng năm nào?",
     "A": "01-2010",
     "B": "01-2011",
@@ -2088,7 +2088,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 233,
+    "ID": "233",
     "QUESTION": "Chỉ huy trưởng đầu tiên của C13 là ai?",
     "A": "Đồng chí Mười Phước",
     "B": "Đồng chí Sáu Trung",
@@ -2097,7 +2097,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 234,
+    "ID": "234",
     "QUESTION": "Chính trị viên đầu tiên của C13 là ai?",
     "A": "Đồng chí Tư Nhựt",
     "B": "Đồng chí Trần Quang Minh",
@@ -2106,7 +2106,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 235,
+    "ID": "235",
     "QUESTION": "Tiểu đoàn trưởng đầu tiên của Tiểu đoàn Quyết thắng là ai?",
     "A": "Đồng chí Trần Châm",
     "B": "Đồng chí Nguyễn Thành Nâu",
@@ -2115,7 +2115,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 236,
+    "ID": "236",
     "QUESTION": "Chính ủy đầu tiên của Trung đoàn Quyết thắng là ai?",
     "A": "Đồng chí Phạm Quang Thiệt",
     "B": "Đồng chí Sáu Trung",
@@ -2124,7 +2124,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 237,
+    "ID": "237",
     "QUESTION": "Trung đoàn Gia định có bao nhiêu đơn vị kết nghĩa?",
     "A": "20",
     "B": "19",
@@ -2133,7 +2133,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 238,
+    "ID": "238",
     "QUESTION": "Trung đoàn Gia định có bao nhiêu đơn vị được tuyên dương AHLLVTND?",
     "A": "6",
     "B": "7",
@@ -2142,7 +2142,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 239,
+    "ID": "239",
     "QUESTION": "Trung đoàn Gia định được tuyên dương AHLLVTND vào ngày tháng năm nào?",
     "A": "29-01-1996",
     "B": "29-02-1996",
@@ -2151,7 +2151,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 240,
+    "ID": "240",
     "QUESTION": "Tiểu đoàn Đặc công Gia định 4 được tuyên dương AHLLVTND vào ngày tháng năm nào?",
     "A": "22-02-2010",
     "B": "22-01-2011",
@@ -2160,7 +2160,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 241,
+    "ID": "241",
     "QUESTION": "Trong trận Bàu Lách đồng chí Tư Nhựt – Đại đội trưởng, Đại đội 1, được tặng thưởng danh hiệu gì ?",
     "A": "Huân chương Chiến công hạng Nhì",
     "B": "Huân chương Quân công hạng Nhì",
@@ -2169,7 +2169,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 242,
+    "ID": "242",
     "QUESTION": "cuộc càn Grimp tháng 1 năm 1966. Địch huy động lực lượng gồm bao nhiêu quân ?",
     "A": "22.000 quân",
     "B": "12.000 quân",
@@ -2178,7 +2178,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 243,
+    "ID": "243",
     "QUESTION": "Cuộc càn Grimp diễn ra trong thời gian nào ?",
     "A": "Từ 8-1-1967 đến 19-1-1967",
     "B": "Từ 8-1-1966 đến 19-1-1966",
@@ -2187,7 +2187,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 244,
+    "ID": "244",
     "QUESTION": "Trong cuộc càn Grimp. Tiểu đoàn Quyết thắng đã tiêu diệt bao nhiêu tên địch ?",
     "A": "Hơn 1000 tên địch",
     "B": "Hơn 500 tên địch",
@@ -2196,7 +2196,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 245,
+    "ID": "245",
     "QUESTION": "Cuộc càn Grimp diễn ra tại đâu ?",
     "A": "ấp Ba Sòng, xã An Nhơn Tây",
     "B": "xã Phú Mỹ Hưng, xã Nhuận Đức",
@@ -2205,7 +2205,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 246,
+    "ID": "246",
     "QUESTION": "Trận càn Xê-đa-phôn diễn ra trong thời gian nào ?",
     "A": "Từ 8-1-1965 đến 26-1-1965",
     "B": "Từ 8-1-1966 đến 26-1-1966",
@@ -2214,7 +2214,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 247,
+    "ID": "247",
     "QUESTION": "Trong trận càn Xê-đa-phôn 1966, địch huy động lực lượng gồm bao nhiêu quân ?",
     "A": "25.000 quân",
     "B": "30.000 quân",
@@ -2223,7 +2223,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 248,
+    "ID": "248",
     "QUESTION": "Trận chiến đấu tiêu diệt Tiểu đoàn “ Cọp đen” diễn ra vào thời gian nào?",
     "A": "ngày 23 tháng 6 năm 1967",
     "B": "ngày 23 tháng 8 năm 1967",
@@ -2232,7 +2232,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 249,
+    "ID": "249",
     "QUESTION": "Trong trận chiến đấu tiêu diệt Tiểu đoàn “ Cọp đen”. Tiểu đoàn Quyết Thắng đã tiêu diệt được bao nhiêu tên địch” ?",
     "A": "300 tên địch",
     "B": "500 tên địch",
@@ -2241,7 +2241,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 250,
+    "ID": "250",
     "QUESTION": "Trung ương Cục miền Nam quyết định thành lập Trung đoàn Quyết Thắng thời gian nào?",
     "A": "Tháng 11 năm 1967",
     "B": "Tháng 10 năm 1967",
@@ -2250,7 +2250,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 251,
+    "ID": "251",
     "QUESTION": "Sau ngày củng cố lực lượng, C13 đã ra quân tấn công đánh thắng đồn nào của địch?",
     "A": "Đồn Trung Thượng",
     "B": "Đồn Trung Hạ",
@@ -2259,7 +2259,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 252,
+    "ID": "252",
     "QUESTION": "Chủ trương xây dựng và phát triển lực lượng trong giai đoạn 1961-1962 của Khu ủy là gì?",
     "A": "Tập trung xây dựng lực lượng cơ động",
     "B": "Củng cố lực lượng tập trung cơ động",
@@ -2268,7 +2268,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 253,
+    "ID": "253",
     "QUESTION": "C13 được đổi tên thành K17 vào thời gian nào?",
     "A": "Tháng 2/1962",
     "B": "Tháng 3/1962",
@@ -2277,7 +2277,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 254,
+    "ID": "254",
     "QUESTION": "Lúc được thành lập, K17 có bao nhiêu đơn vị trực thuộc?",
     "A": "3 đơn vị",
     "B": "4 đơn vị",
@@ -2286,7 +2286,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 255,
+    "ID": "255",
     "QUESTION": "Trận ra quân đầu tiên của K17 được diễn ra ở đâu?",
     "A": "Trận phục kích ở rạch cây Trâm",
     "B": "Trận tập kích ở Phước Vĩnh An",
@@ -2295,7 +2295,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 256,
+    "ID": "256",
     "QUESTION": "Vào tháng 5-1962, K17 đã cơ động về hoạt động ở đâu?",
     "A": "Phía Đông Củ Chi",
     "B": "Phía Tây Củ Chi",
@@ -2304,7 +2304,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 257,
+    "ID": "257",
     "QUESTION": "Trong chiến lược “chiến tranh đặc biệt”, tại huyện Củ Chi nhằm tăng cường lực lượng bảo vệ “ấp chiến lược” địch đã thành lập tổ chức nào?",
     "A": "Thanh niên bảo vệ",
     "B": "Thanh niên chiến lược",
@@ -2313,7 +2313,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 258,
+    "ID": "258",
     "QUESTION": "Trước tình hình địch triển khai hệ thống “ấp chiên lược” ồ ạt, Khu ủy đã đề ra chủ trương như thế nào?",
     "A": "Kết hợp đấu tranh chính trị với đấu tranh võ trang 3 thứ quân",
     "B": "Kết hợp đấu tranh chính trị với đấu tranh võ trang 3 thứ quân, chú trọng lực lượng tập trung và binh chủng chuyên môn",
@@ -2322,7 +2322,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 259,
+    "ID": "259",
     "QUESTION": "Trước yêu cầu nhiệm vụ mới, Đoàn Quyết Thắng được thành lập trên cơ sở hợp nhất các đơn vị vào thời gian nào?",
     "A": "Đầu năm 1963",
     "B": "Đầu năm 1964",
@@ -2331,7 +2331,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 260,
+    "ID": "260",
     "QUESTION": "Trong chỉ thị của Tỉnh ủy Gia Định, chức năng của Đoàn Quyết Thắng được thể hiện như thế nào?",
     "A": "“Phải là đơn vị tập trung cơ động của chiến trường, vừa chiến đấu vừa công tác vận động quần chúng…”",
     "B": ". “Phải là đơn vị tại chỗ của chiến trường, vừa chiến đấu vừa công tác vận động quần chúng…”",
@@ -2340,7 +2340,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 261,
+    "ID": "261",
     "QUESTION": "“Trâu điên” là tên gọi đơn vị nào của địch?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
@@ -2349,7 +2349,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 262,
+    "ID": "262",
     "QUESTION": "Trận đánh “PHƯỢNG HOÀNG VỒ MỒI’ của Đại đội 1 diễn ra ở đâu?",
     "A": "Bình Mỹ",
     "B": "Nhị Bình",
@@ -2358,7 +2358,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 263,
+    "ID": "263",
     "QUESTION": "Năm 1966, Tiểu đoàn 2 bám trụ vững trên đất Gò Môn, đã chiến đấu được bao nhiêu trận lớn, nhỏ?",
     "A": "54",
     "B": "55",
@@ -2367,7 +2367,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 264,
+    "ID": "264",
     "QUESTION": "Tiểu đoàn Quyết Thắng 1 được điều động xuống xã Trung An để thích nghi chiến trường vào thời gian nào?",
     "A": "07-1967",
     "B": "08-1967",
@@ -2376,7 +2376,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 265,
+    "ID": "265",
     "QUESTION": "Sau trận đánh ở ấp An Định xã Trung An, Đại đội 1 Tiểu đoàn 2 xuống Bình Mỹ, ai là người về đảm nhiệm Đại đội trưởng?",
     "A": "Đ/c Ba Sinh",
     "B": "Đ/c Trần Văn Triệu",
@@ -2385,7 +2385,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 266,
+    "ID": "266",
     "QUESTION": "Trận tua Cây Dương, xã Bình Mỹ A ngày 18 tháng 12 năm 1965, diệt bao nhiêu tên dân vệ?",
     "A": "28",
     "B": "29",
@@ -2394,7 +2394,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 267,
+    "ID": "267",
     "QUESTION": "Bộ Tư lệnh Quân khu 4 điều động Đại đội bảo vệ J75 của Quân khu về bổ sung cho Tiểu đoàn 2 mang phiên hiệu là Đại đội 3 vào thời gian nào?",
     "A": "05-1967",
     "B": "06-1967",
@@ -2403,7 +2403,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 268,
+    "ID": "268",
     "QUESTION": "Đại đội 3, Tiểu đoàn 2 do đồng chí nào làm Chính trị viên?",
     "A": "Đồng chí Năm Thạnh",
     "B": "Đồng chí Bảy Trí",
@@ -2412,7 +2412,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 269,
+    "ID": "269",
     "QUESTION": "Sau trận đánh ngày 29/7/1967 đơn vị nào đã được tặng Huân chương Chiến công hạng nhất?",
     "A": "Đại đội 1, Tiểu đoàn 2",
     "B": "Đại đội 2, Tiểu đoàn 2",
@@ -2421,7 +2421,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 270,
+    "ID": "270",
     "QUESTION": "Sau trận đánh ngày 29/7/1967, ai đã được tặng thưởng Huân chương Chiến công hạng nhì?",
     "A": "Đồng chí Năm Thạnh",
     "B": "Đồng chí Bảy Trí",
@@ -2430,7 +2430,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 271,
+    "ID": "271",
     "QUESTION": "Qua những trận chiến ở khu vực ngoại ô Sài Gòn năm 1968, Tiểu đoàn 4 - Trung đoàn Quyết Thắng nổi rõ lên những ưu điểm nào ?",
     "A": "Giỏi tác chiến chống càn và trên địa hình đồng nước",
     "B": "Phát huy được sở trường đánh hóa trang trong đô thị",
@@ -2439,7 +2439,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 272,
+    "ID": "272",
     "QUESTION": "Trong trận vận động chống càn trên nhánh lộ 13, đoạn giữa Rạch Quản và cầu Ông Đụng đã diễn ra kịch chiến giữa Tiểu đoàn 1 – Trung đoàn Quyết Thắng với tiểu đoàn nào của quân ngụy ?",
     "A": "Tiểu đoàn “ Bò điên”",
     "B": "Tiểu đoàn “Trâu điên”",
@@ -2448,7 +2448,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 273,
+    "ID": "273",
     "QUESTION": "Trong trận vận động chống càn trên nhánh lộ 13, đoạn giữa Rạch Quản và cầu Ông Đụng Tiểu đoàn 1 – Trung đoàn Quyết Thắng được Bộ Tư lệnh Miền trao thưởng huân chương nào ?",
     "A": "Huân chương Quân công hạng Nhất",
     "B": "Huân chương Chiến công hạng Nhất",
@@ -2457,7 +2457,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 274,
+    "ID": "274",
     "QUESTION": "Đợt đệm giữ “bàn đạp” ven đô ở 4 xã thuộc Gò Vấp, Hóc Môn của Tiểu đoàn Quyết Thắng 1 và Tiểu đoàn 9 Trung đoàn 16 đã diễn ra trong bao nhiêu ngày đêm?",
     "A": "80 ngày đêm",
     "B": "90 ngày đêm",
@@ -2466,7 +2466,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 275,
+    "ID": "275",
     "QUESTION": "Đợt đệm giữ “bàn đạp” ven đô ở 4 xã thuộc Gò Vấp, Hóc Môn. Tiểu đoàn Quyết Thắng 1 đã đánh bao nhiêu trận?",
     "A": "Gần 80 trận lớn nhỏ",
     "B": "Gần 90 trận lớn nhỏ",
@@ -2475,7 +2475,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 276,
+    "ID": "276",
     "QUESTION": "Tháng 5 năm 1968, Hội nghị Trung ương Cục mở đợt tiến công cao điểm 2 của đợt 2. Tiểu đoàn Quyết Thắng 1 và 2 có nhiệm vụ đánh vào khu vực nào?",
     "A": "Tỉnh lỵ Gia Định",
     "B": "Ngã tư Bảy Hiền",
@@ -2484,7 +2484,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 277,
+    "ID": "277",
     "QUESTION": "Trong Tổng tiến công và nổi dậy mùa Xuân 1968, đợt tiến công thứ 2 Tiểu đoàn Quyết Thắng 1 và 2 đã đánh địch trong bao nhiêu ngày đêm?",
     "A": "15 ngày đêm",
     "B": "16 ngày đêm",
@@ -2493,7 +2493,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 278,
+    "ID": "278",
     "QUESTION": "Tháng 6-1968, sau khi rút quân về địa bàn Củ Chi, Ban Chỉ huy Trung đoàn Quyết Thắng gồm 3 đồng chí nào?",
     "A": "Bảy Gấm, Năm Thiệt, Năm Dũng",
     "B": "Bảy Gấm, Năm Thiệt, Ba Tài",
@@ -2502,7 +2502,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 279,
+    "ID": "279",
     "QUESTION": "Tháng 6-1968, sau khi rút quân về địa bàn Củ Chi, Ban Chỉ huy Tiểu đoàn 1 – Trung đoàn Quyết Thắng gồm mấy đồng chí?",
     "A": "3 đồng chí",
     "B": "4 đồng chí",
@@ -2511,7 +2511,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 280,
+    "ID": "280",
     "QUESTION": "Tháng 6-1968, sau khi rút quân về địa bàn Củ Chi, Ban Chỉ huy Tiểu đoàn 2 – Trung đoàn Quyết Thắng gồm mấy đồng chí?",
     "A": "3 đồng chí",
     "B": "4 đồng chí",
@@ -2520,7 +2520,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 281,
+    "ID": "281",
     "QUESTION": "Trong thời gian tháng 6-1968, đơn vị nào của Trung đoàn nhận chỉ thị, nghị quyết của Phân khu uỷ, Đảng uỷ Bộ Chỉ huy Phân khu 1 về “Đấu tranh thi hành hiệp định đi đôi với củng cố thực lực, tạo điền cho một thời cơ mới”?",
     "A": "Tiểu đoàn 1 và Tiểu đoàn 4",
     "B": "Đại đội 3 và Tiểu đoàn 4",
@@ -2529,7 +2529,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 282,
+    "ID": "282",
     "QUESTION": "Phương châm của Đảng uỷ Bộ chỉ huy Phân khu 1 gửi đến các đơn vị nhận chỉ thị, nghị quyết thời điểm tháng 6-1968 là gì?",
     "A": "Đứng vững trên thế võ trang, tiến công mạnh về chính trị",
     "B": "Binh vận và dựa vào pháp lý của hiệp định; tiến công phải đi đôi với xây dựng và bảo toàn lực lượng",
@@ -2538,7 +2538,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 283,
+    "ID": "283",
     "QUESTION": "Sư đoàn 25 quân nguỵ đã càn quét những địa phương nào của ta trong thời gian sau khi kí kết hiệp định paris?",
     "A": "Củ Chi, Trảng Bàng",
     "B": "Bình Phước, Long An",
@@ -2547,7 +2547,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 284,
+    "ID": "284",
     "QUESTION": "Quân ta mở cuộc trả đũa Sư đoàn 25 quân nguỵ vi phạm Hiệp định Pari vào ngày tháng năm nào do đồng chí nào chỉ huy tập kích địch?",
     "A": "Đồng chí Mười Nhẫn – Chính trị viên, trực tiếp điều nghiên và vạch kế hoạch chiến đấu, vào 23 giờ 15 phút, ngày 6 – 4 – 1973, tổ đồng chí Hoảng nổ súng mở đầu trận đánh",
     "B": "Đồng chí Ba Thọ – Chính trị viên, trực tiếp điều nghiên và vạch kế hoạch chiến đấu, vào 23 giờ 15 phút, ngày 6 – 4 – 1973, tổ đồng chí Hoảng nổ súng mở đầu trận đánh",
@@ -2556,16 +2556,16 @@
     "ANSWER": "C"
   },
   {
-    "ID": 285,
+    "ID": "285",
     "QUESTION": "Chiến tích bắn rơi nhiều máy báy trực thăng đỗ bộ trên lộ 7 do các đồng chí nào lập nên?",
     "A": "Đồng chí Học (Trung đội trưởng) và đồng chí Thắng (Trung đội phó)",
-    "B": "Đồng chí Hùng (Đại đội trưởng) và đồng chí Học (Trung đội trưởng)",
+    "B": "Đồng chí Hùng (Đại đội trưởng) và đồng chí Học (Trung đội trưởng).",
     "C": "Đồng chí Tám Thương (Tiểu đoàn trưởng) và đồng chí Hai Thành (Chính trị viên)",
     "D": "Đồng chí Học (Trung đội trưởng) và đồng chí Nguyễn Đình Khơi (Trung đội phó)",
     "ANSWER": "D"
   },
   {
-    "ID": 286,
+    "ID": "286",
     "QUESTION": "Âm mưu của Mỹ, nguỵ bị vạch trần rõ ràng nhất qua sự kiện gì?",
     "A": "Các tù binh bị bắt sau đợt pháo kích của Tiểu đoàn Quyết Thắng được phỏng vấn qua Đài Phát thanh Giải phóng đã thủ nhận âm mưu của Mỹ, nguỵ",
     "B": "Ngày 6 – 4 – 1973, Nguỵ quân mở cuộc càn quét đánh phá Gò Đình xã Nhuận Đức, 6 xe tăng M113 và M41 chạy ra cụm ở đồng ruộng Bầu Sình, áp Lào Táo xã Trung Lập Thượng",
@@ -2574,7 +2574,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 287,
+    "ID": "287",
     "QUESTION": "Trận đánh đêm ngày 5 – 9 – 1973, Tiểu đoàn Quyết thắng đã cùng Đại đội 7 bộ đội địa phương đã ghi những chiến tích nào?",
     "A": "Với lối đánh táo bạo Tiểu đoàn đã diệt gọn 2 đại đội nguỵ, bắn cháy 6 xe tăng. Hoả lực Tiểu đoàn chế áp cụm pháo địch làm hòng một khẩu 105 ly, chết 5 tên. Trận đánh gây tiếng vang lớn trên chiến trường Củ Chi và đã bẻ gãy ý định cuộc càn lớn của địch",
     "B": "Với lối đánh táo bạo Tiểu đoàn đã diệt gọn 3 đại đội nguỵ, bắn cháy 6 xe tăng. Hoả lực Tiểu đoàn chế áp cụm pháo địch làm hòng một khẩu 105 ly, chết 5 tên. Trận đánh gây tiếng vang lớn trên chiến trường Củ Chi và đã bẻ gãy ý định cuộc càn lớn của địch",
@@ -2583,7 +2583,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 288,
+    "ID": "288",
     "QUESTION": "Thành tích tập thể của trung đoàn đạt được sau đại hội thi đua quyết thắng quân khu khai mạc ngày 21 – 5 – 1973 đã đạt được gì ?",
     "A": "Biểu dương thành tích Đại đội 3, TIểu đoàn Quyết Thắng và 4 điển hình cá nhân là Nguyễn Văn Hai, Nguyễn Đình Khơi, Nguyễn Anh Nhiễn và Thân Trọng Tuệ",
     "B": "Biểu dương thành tích Đại đội 7, TIểu đoàn Quyết Thắng và 4 điển hình cá nhân là Nguyễn Văn Hai, Nguyễn Đình Khơi, Nguyễn Anh Nhiễn và Thân Trọng Tuệ",
@@ -2592,7 +2592,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 289,
+    "ID": "289",
     "QUESTION": "Trong Nghị quyết 21 của Thành uỷ, Tiểu đoàn Quyết thắng đã thực hiện chủ trương gì ?",
     "A": "Án ngữ ở khu vực Phú Hoà Đông và chi khu Trung Hoà",
     "B": "Tập trung huấn luyện, luyện tập các chiến thuật trong thời gian chờ chỉ thị hành động từ Quân khu và Phân Khu",
@@ -2601,7 +2601,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 290,
+    "ID": "290",
     "QUESTION": "Năm 1974, đơn vị ra quân đánh thắng trận đầu tiên vào ngày mấy, tại địa điểm nào, do đồng chí nào chỉ huy tác chiến?",
     "A": "Ngày 20 – 1, tại Bàu Lách do đồng chí Nguyễn Tấn Thành, Chính trị viên Tiểu đoàn và đồng chí Tám Thương chỉ huy",
     "B": "Ngày 19 – 1, tại Bàu Tràm do đồng chí Nguyễn Văn Chiến, Chính trị viên Tiểu đoàn và đồng chí Tám Thương chỉ huy",
@@ -2610,16 +2610,16 @@
     "ANSWER": "D"
   },
   {
-    "ID": 291,
+    "ID": "291",
     "QUESTION": "Đại đội 3, Tiểu đoàn 1, Trung đoàn Gia Định đã ra quân thực hiện nhiệm vụ xây dựng củng cố chính quyền cơ sở với khẩu hiệu gì?",
-    "A": "“Quân đội cầm lái; Chính quyền cầm chèo; Xây dựng địa phương giành chiến thắng\"",
+    "A": "“Quân đội cầm lái; Chính quyền cầm chèo; Xây dựng địa phương giành chiến thắng\".",
     "B": "“Cán bộ cầm lái; Chiến sĩ cầm chèo; Xuất quân giành chiến thắng\"",
-    "C": "“Chi bộ cầm lái; Đảng viên cầm chèo; Ra quân giành chiến thắng\"",
+    "C": "“Chi bộ cầm lái; Đảng viên cầm chèo; Ra quân giành chiến thắng\".",
     "D": "“Quân đội cầm lái; Nhân dân cầm chèo; Xây dựng chính quyền thành công\"",
     "ANSWER": "C"
   },
   {
-    "ID": 292,
+    "ID": "292",
     "QUESTION": "Một số kết quả tiêu biểu trong công tác dân vận của Trung đoàn Gia Định năm 1975?",
     "A": "Tạo được niềm tin yêu của nhân dân địa phương. Có việc gì khúc mắc, bà con tìm đến bộ đội",
     "B": "Nhiều bà con thông báo cho đơn vị những tin tức có giá trị và nhiệt tình giúp đơn vị trong nhiệm vụ truy quét địch, giữ gìn trật tự trị an cơ sở",
@@ -2628,7 +2628,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 293,
+    "ID": "293",
     "QUESTION": "Cuối năm 1975, đầu năm 1976, Trung đoàn ra quân tham gia chiến dịch phá gỡ bom mìn ở đâu?",
     "A": "Củ Chi, Hóc Môn, Nhà Bè, Bình Tân",
     "B": "Củ Chi, Hóc Môn, Nhà Bè, Bình Chánh",
@@ -2637,7 +2637,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 294,
+    "ID": "294",
     "QUESTION": "Đầu năm 1976, trong nhiệm vụ làm kinh tế xây dựng thành phố, Trung đoàn Gia Định đã tham gia với bao nhiêu quân số?",
     "A": "400 cán bộ, chiến sĩ",
     "B": "500 cán bộ, chiến sĩ",
@@ -2646,7 +2646,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 295,
+    "ID": "295",
     "QUESTION": "Lực lượng cán bộ, chiến sĩ tham gia nhiệm vụ làm kinh tế xây dựng thành phố của Trung đoàn Gia Định do ai trực tiếp chỉ huy?",
     "A": "Đồng chí Hai Thành và đồng chí Ba Ngân",
     "B": "Đồng chí Hai Thanh và đồng chí Bá Ngân",
@@ -2655,7 +2655,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 296,
+    "ID": "296",
     "QUESTION": "Trung đoàn Gia Định giao nhiệm vụ rà, gỡ bom mìn, xây dựng doanh trại tại căn cứ Tống Lê Chân thuộc tỉnh Bình Phước cho đơn vị nào?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
@@ -2664,7 +2664,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 297,
+    "ID": "297",
     "QUESTION": "Cuối năm 1976 - 1977, Trung đoàn Gia Định được bổ sung thêm đơn vị nào?",
     "A": "01 Đại đội thiết giáp",
     "B": "01 Đại đội pháo",
@@ -2673,7 +2673,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 298,
+    "ID": "298",
     "QUESTION": "Trung đoàn Gia Định được Bộ Tư lệnh thành phố quan tâm chỉ đạo xây dựng “đơn vị điểm” về nội dung gì?",
     "A": "Công tác quản lý, xây dựng, huấn luyện và chiến đấu",
     "B": "Công tác xây dựng chính quy, chấp hành kỷ luật, huấn luyện nghiêm và chiến đấu giỏi",
@@ -2682,7 +2682,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 299,
+    "ID": "299",
     "QUESTION": "Để thực hiện tốt nhiệm vụ cơ động 2 cấp Thành phố và Quân khu, Trung đoàn Gia Định đã chú trọng thực hiện những nội dung gì?",
     "A": "Giáo dục chính trị tư tưởng",
     "B": "Huấn luyện, nâng cao trình độ kỹ thuật, chiến thuật",
@@ -2691,7 +2691,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 300,
+    "ID": "300",
     "QUESTION": "Quán triệt tình hình nhiệm vụ truy quét ngụy quân, ngụy quyền chưa ra trình diện, phối hợp với các cơ quan xây dựng chính quyền cách mạng, Đảng ủy và Ban chỉ huy Trung đoàn Gia Định giáo dục cán bộ, chiến sĩ những nội dung gì?",
     "A": "Không mất cảnh giác. Không phá tài sản nơi đóng quân",
     "B": "Không tiếp xúc quan hệ với ngụy quân, ngụy quyền khi chưa có lệnh. Không sa ngã đồi trụy. Không tham ô thu vén cá nhân",
@@ -2700,7 +2700,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 301,
+    "ID": "301",
     "QUESTION": "Đồng chí cho biết đồng chí Phan Trung Kiên đảm nhận chức vụ gì trong chiến dịch bảo vệ biên giới lần thứ hai?",
     "A": "Trung đoàn trưởng",
     "B": "Chính ủy",
@@ -2709,7 +2709,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 302,
+    "ID": "302",
     "QUESTION": "Đồng chí hãy cho biết thời gian nào Trung đoàn được Bộ chỉ huy quân sự tỉnh Tây Ninh giao nhiệm vụ?",
     "A": "Trung tuần tháng 8 năm 1978",
     "B": "Trung tuần tháng 9 năm 1978",
@@ -2718,7 +2718,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 303,
+    "ID": "303",
     "QUESTION": "Kết thúc giai đoạn 1 trong cuộc chiến tranh bảo vệ biên giới Tây Nam lần thứ hai, Trung đoàn đã đạt được những kết quả gì?",
     "A": "Tiêu diệt 30 tên lính, thu 5 súng và bàn giao địa bàn cho Tiểu đoàn 14",
     "B": "Tiêu diệt 40 tên lính, thu 10 súng và bàn giao địa bàn cho Tiểu đoàn 14",
@@ -2727,7 +2727,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 304,
+    "ID": "304",
     "QUESTION": "Vào thời gian nào Trung đoàn nhận nhiệm vụ phối thuộc cùng lực lượng của Sư đoàn 302 trong cuộc chiến tranh bảo vệ biên giới Tây Nam lần thứ hai?",
     "A": "Cuối tháng 9 năm 1978",
     "B": "Cuối tháng 10 năm 1978",
@@ -2736,7 +2736,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 305,
+    "ID": "305",
     "QUESTION": "Dưới sự giúp đỡ của quân tình nguyện Việt Nam, Mặt trân đoàn kết dân tộc cứu nước Campuchia được thành lập vào ngày tháng năm nào?",
     "A": "Ngày 20 tháng 10 năm 1978",
     "B": "Ngày 7 tháng 1 năm 1979",
@@ -2745,7 +2745,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 306,
+    "ID": "306",
     "QUESTION": "Từ mốc thời gian nào, dưới sự giúp đỡ của quân tình nguyện Việt Nam cách mạng Campuchia bước sang thời kỳ mới?",
     "A": "Ngày 2 tháng 12 năm 1978",
     "B": "Ngày 7 tháng 1 năm 1979",
@@ -2754,7 +2754,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 307,
+    "ID": "307",
     "QUESTION": "Với thành tích cao và ý chí chiến đấu dũng cảm trên chiến trường biên giới Tây Nam, Trung đoàn được cấp trên đánh giá như thế nào?",
     "A": "Là đơn vị Chiến đấu giỏi",
     "B": "Là đơn vị Giữ nghiêm kỷ luật chiến trường",
@@ -2763,7 +2763,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 308,
+    "ID": "308",
     "QUESTION": "Sau khi được lệnh hành quân trở lại Thành phố Hồ Chí Minh. Vào ngày 24 tháng 01 năm 1979, Trung đoàn nhận nhiệm vụ đột xuất gì?",
     "A": "Giải phóng đồi Xa Mát",
     "B": "Giải phóng thị xã Tà Keo",
@@ -2772,7 +2772,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 309,
+    "ID": "309",
     "QUESTION": "Đầu năm 1984, Trung đoàn nhận được nhiệm vụ gì?",
     "A": "Cơ động giải phóng thị xã Tà Keo",
     "B": "Bảo vệ các mục tiêu",
@@ -2781,7 +2781,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 310,
+    "ID": "310",
     "QUESTION": "Đồng chí cho biết nội dung Chỉ thị số 751/CT/1982 của Tư lệnh Quân khu ?",
     "A": "Tổ chức diễn tập cho Bộ Chỉ huy quân sự Thành phố",
     "B": "Tăng cường rèn luyện, quản lý kỷ luật",
@@ -2790,7 +2790,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 311,
+    "ID": "311",
     "QUESTION": "Lực lượng nào của Trung đoàn được Bộ chỉ huy Quân sự thành phố giao nhiệm quốc tế giúp bạn Campuchia vào ngày 11/2/1986 ?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 3",
@@ -2799,7 +2799,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 312,
+    "ID": "312",
     "QUESTION": "Trung đoàn đi làm nhiệm vụ quốc tế lần thứ hai vào thời gian nào ?",
     "A": "Ngày 27/2/1986",
     "B": "Ngày 26/2/1986",
@@ -2808,7 +2808,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 313,
+    "ID": "313",
     "QUESTION": "Trung đoàn làm nhiệm vụ quốc tế lần thứ hai với bao nhiêu lực lượng ?",
     "A": "2 tiểu đoàn, 7 đại đội trực thuộc và 4 cơ quan chuyên môn",
     "B": "2 tiểu đoàn, 8 đại đội trực thuộc và 4 cơ quan chuyên môn",
@@ -2817,7 +2817,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 314,
+    "ID": "314",
     "QUESTION": "Lực lượng địch chủ yếu đối đầu với ta trên Mặt trận 779 lần thứ hai là lực lượng nào ?",
     "A": "Sư đoàn 801",
     "B": "Sư đoàn 330",
@@ -2826,7 +2826,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 315,
+    "ID": "315",
     "QUESTION": "Quyết định số 10/QĐ/86 cỉa Bộ Tư lệnh Quân khu 7 vào ngày 25/6/1986 đã đổi phiên hiệu của Trung đoàn Gia Định thành gì ?",
     "A": "Trung đoàn 742",
     "B": "Trung đoàn 472",
@@ -2835,7 +2835,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 316,
+    "ID": "316",
     "QUESTION": "Trung đoàn cùng các đơn vị của Mặt trận lên đường hành quân về nước vào thời gian nào?",
     "A": "29-09-1989",
     "B": "28-09-1989",
@@ -2844,7 +2844,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 317,
+    "ID": "317",
     "QUESTION": "Trung đoàn 742 trở lại phiên hiệu Trung đoàn Gia Định vào thời gian nào ?",
     "A": "Tháng 9/1989",
     "B": "Tháng 11/1989",
@@ -2853,7 +2853,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 318,
+    "ID": "318",
     "QUESTION": "Trung đoàn được Nhà nước Campuchia tặng huân chương gì ?",
     "A": "Huân chương Bảo vệ Tổ quốc hạng Nhất",
     "B": "Huân chương Bảo vệ Tổ quốc hạng Hai",
@@ -2862,7 +2862,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 319,
+    "ID": "319",
     "QUESTION": "Trung đoàn Gia Định được Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam trao tặng huân chương gì ?",
     "A": "Huân chương Bảo vệ Tổ quốc hạng Nhất",
     "B": "Huân chương Bảo vệ Tổ quốc hạng Hai",
@@ -2871,7 +2871,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 320,
+    "ID": "320",
     "QUESTION": "Trung đoàn Gia Định được Bộ Quốc Phòng Campuchia tặng phần thưởng gì ?",
     "A": "Huân chương Ăngko",
     "B": "Cờ Hữu Nghị",
@@ -2880,7 +2880,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 321,
+    "ID": "321",
     "QUESTION": "Cuối năm 1998, tổng số đảng viên của Trung đoàn là bao nhiêu đồng chí, tỷ lệ lãnh đạo so với tổng quân số là bao nhiêu %?",
     "A": "140 đồng chí và 10,15%.",
     "B": "141 đồng chí và 10,15%",
@@ -2889,7 +2889,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 322,
+    "ID": "322",
     "QUESTION": "Trong năm 1998 Trung đoàn đã hưởng ứng những phong trào nào?",
     "A": "Phong trào “Quân nhân giúp nhau vượt khó” và phong trào “Quỹ tình thương đồng đội”.",
     "B": "Phong trào “Quân nhân giúp nhau vượt khó”.",
@@ -2898,7 +2898,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 323,
+    "ID": "323",
     "QUESTION": "Trong năm 1998, tham gia hội thao cấp thành phố và Quân khu, Trung đoàn đã đạt được những thành tích gì?",
     "A": "Đạt giải nhất đồng đội, 6 giải nhất, 2 giải nhì và 3 giải ba cá nhân cấp thành phố. Hội thao Quân khu về súng máy 12,7 ly đạt giải nhất toàn đoàn, giải nhất khẩu đội, giải nhất khẩu đội trưởng, giải nhất xạ thủ số 1, xạ thủ số 2",
     "B": "Đạt giải nhì đồng đội, 6 giải nhất, 2 giải nhì và 3 giải ba cá nhân cấp thành phố. Hội thao Quân khu về súng máy 12,7 ly đạt giải nhì toàn đoàn, giải nhất khẩu đội, giải nhất khẩu đội trưởng, giải nhất xạ thủ số 1, xạ thủ số 2",
@@ -2907,7 +2907,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 324,
+    "ID": "324",
     "QUESTION": "Ngày 28-8-1998, Đại hội Đảng bộ Trung đoàn lần thứ X, nhiệm kỳ 1998-2000, khai mạc. Đại hội đã biểu quyết phương hướng, nhiệm vụ của Đảng bộ trong nhiệm kỳ là?",
     "A": "Tập trung xây dựng nâng cao năng lực lãnh đạo sức chiến đấu của Đảng bộ. Tiếp tục hoàn thiện hệ thống tổ chức, kiện toàn vững chắc đội ngũ cán bộ đảng viên, phát huy được năng lực lãnh đạo của các cấp ủy đảng, chi bộ, huy động được sức mạnh của tổ chức quần chúng, xây dựng chi bộ, đảng bộ trong sạch vững mạnh",
     "B": "Đẩy mạnh việc tổ chức thực hiện tốt Chỉ thị 1020, Chỉ thị 917, Quyết định 2530 của Bộ Quốc phòng và cuộc vận động xây dựng tổ chức Đảng trong sạch vững mạnh, xây dựng đơn vị nề nếp chính quy, môi trường văn hóa lành mạnh. Tiếp tục xây dựng đơn vị theo hướng “cách mạng, chính quy, tinh nhuệ, từng bước hiện đại”, xây dựng đơn vị có khả năng cơ động sẵn sàng chiến đấu tốt",
@@ -2916,7 +2916,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 325,
+    "ID": "325",
     "QUESTION": "Năm 1998 trung đoàn tổ chức nhận bao nhiêu chiến sĩ mới, huấn luyện trong thời gian bao nhiêu ngày?",
     "A": "900 chiến sĩ mới, 60 ngày",
     "B": "600 chiến sĩ mới, 90 ngày",
@@ -2925,7 +2925,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 326,
+    "ID": "326",
     "QUESTION": "Tháng 9-1999, Trung đoàn Gia Định đã kiện toàn củng cố về tổ chức biên chế đủ đầu mối đơn vị, vũ khí trang bị đúng quy định theo Quyết định số 52/QĐ-TMT của Bộ Tổng Tham mưu, đạt bao nhiêu % so với biên chế qui định?",
     "A": "91%.",
     "B": 0.9,
@@ -2934,7 +2934,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 327,
+    "ID": "327",
     "QUESTION": "Đảng ủy Trung đoàn tổ chức Hội nghị sơ kết 6 năm xây dựng Đảng bộ trong sạch vững mạnh và phân tích chất lượng đảng viên (1993-1999) vào ngày tháng năm nào?",
     "A": "Ngày 29-8-1999",
     "B": "Ngày 22-9-1999",
@@ -2943,7 +2943,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 328,
+    "ID": "328",
     "QUESTION": "Tại Hội nghị tổng kết 10 năm làm công tác dân vận của lực lượng võ trang Quân khu, Trung đoàn được Quân khu tặng bằng khen ?",
     "A": "“Đơn vị làm tốt công tác dân vận 10 năm (1990-1999)”",
     "B": "“Đơn vị làm tốt công tác chính sách 10 năm (1990-1999)”",
@@ -2952,7 +2952,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 329,
+    "ID": "329",
     "QUESTION": "Năm 1999, công tác chính sách, dân vận tuyên truyền đặc biệt đã được các cấp ủy Đảng coi trọng và có nhiều việc làm thiết thực. Trung đoàn đã kết hợp với chính quyền địa phương xây dựng tặng bao nhiêu căn nhà ?",
     "A": "2 căn nhà tình thương cho gia đình chính sách có hoàn cảnh khó khăn và 6 căn nhà tình nghĩa ở địa bàn thành phố",
     "B": "2 căn nhà tình thương cho gia đình chính sách có hoàn cảnh khó khăn và 4 căn nhà tình nghĩa ở địa bàn thành phố",
@@ -2961,7 +2961,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 330,
+    "ID": "330",
     "QUESTION": "Trong năm 1999, Trung đã tổ chức bảo nhiêu đợt hoạt động cao điểm theo kế hoạch?",
     "A": "6 đợt hoạt động cao điểm theo kế hoạch",
     "B": "5 đợt hoạt động cao điểm theo kế hoạch",
@@ -2970,7 +2970,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 331,
+    "ID": "331",
     "QUESTION": "Sau khi rút ra những nguyên nhân mạnh, yếu và những bài học kinh nghiệm, Trung đoàn đã đề ra phương hướng, mục tiêu, nhiệm vụ công tác tư tưởng, lý luận từ năm bao nhiêu?",
     "A": "Năm 2004 đến năm 2009",
     "B": "Năm 2004 đến năm 2010",
@@ -2979,7 +2979,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 332,
+    "ID": "332",
     "QUESTION": "Ngoài các hoạt động lập thành tích chào mừng các ngày lễ lớn của đất nước, Trung đoàn đã phát động 4 đợt thi đua lớn với chủ đề gì?",
     "A": "“Mừng Đảng, mừng Xuân, ra quân quyết thắng”, “Tự hào chiến sĩ Thành phố Bác Hồ”, “Tự hào miền Đông, huấn luyện giỏi, rèn luyện nghiêm”, “Phất cao cờ hồng tháng 8”",
     "B": "“Mừng Đảng, mừng Xuân, ra quân quyết thắng”, “Tự hào chiến sĩ Thành phố Bác Hồ”, “Tháng 5 lập công dâng Bác”, “Phất cao cờ hồng tháng 8”",
@@ -2988,7 +2988,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 333,
+    "ID": "333",
     "QUESTION": "Đại hội đại biểu Đảng bộ Trung đoàn Gia Định lần thứ 13, về phương hướng xây dựng Đảng bộ nhiệm kỳ 2005-2008, Đảng bộ tập trung vào mấy nhiệm vụ chủ yếu?",
     "A": "4",
     "B": "5",
@@ -2997,7 +2997,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 334,
+    "ID": "334",
     "QUESTION": "Nhiệm vụ nào không có trong phương hướng xây dựng Đảng bộ nhiệm kỳ 2005-2008?",
     "A": "Quán triệt thực hiện tốt các nghị quyết, chỉ thị của trên. Tiếp tục đổi mới và nâng cao hiệu quả công tác tư tưởng, văn hóa, tích cực học tập chủ nghĩa Mác- Lênin, tư tưởng Hồ Chí Minh về vấn đề xây dựng Đảng, xây dựng nền Quốc phòng toàn dân. Kiên quyết đấu tranh làm thất bại mọi âm mưu thủ đoạn “diễn biến hòa bình”, gây bạo loạn, lật đổ của các thế lực thù địch",
     "B": "Chấp hành nghiêm các nguyên tắc sinh hoạt của Đảng. Tích cực tự phê bình và phê bình, duy trì nề nếp chế độ lãnh đạo của các cấp ủy Đảng, thực hiện đúng qui chế làm việc. Tập trung nâng cao chất lượng sinh hoạt của các cấp ủy, chi bộ, khắc phục những hạn chế để xây dựng Đảng bộ trong sạch vững mạnh, giữ vững chỉ tiêu 100% chi bộ đại đội có cấp ủy và đạt chi bộ trong sạch vững mạnh, Đảng bộ trung đoàn đạt trong sạch vững mạnh",
@@ -3006,7 +3006,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 335,
+    "ID": "335",
     "QUESTION": "Đại hội Đảng bộ Trung đoàn Gia Định lần thứ 13 đã bầu Ban chấp hành Đảng bộ Trung đoàn nhiệm kỳ 2005-2008 gồm 11 ủy viên. Ai là Bí thư Đảng ủy?",
     "A": "Đồng chí Trương Văn Bảy",
     "B": "Đồng chí Nguyễn Văn Dũng",
@@ -3015,7 +3015,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 336,
+    "ID": "336",
     "QUESTION": "Năm 2007, ai được bổ nhiệm giữ chứ Trung đoàn trưởng?",
     "A": "Đồng chí Châu Văn Hùng",
     "B": "Đồng chí Trương Văn Bảy",
@@ -3024,7 +3024,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 337,
+    "ID": "337",
     "QUESTION": "Trong năm 2007, ai giữ chức vĩ Chính ủy Trung đoàn?",
     "A": "Đồng chí Châu Văn Hùng",
     "B": "Đồng chí Trương Văn Bảy",
@@ -3033,7 +3033,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 338,
+    "ID": "338",
     "QUESTION": "Từ năm 1995 đến nay, được sự quan tâm của lãnh đạo và chỉ huy các cấp, công tác thi đua đã có những hoạt động sôi nổi, khởi sắc, phong phú về nội dung, đúng hướng, phục vụ thiết thực cho nhiệm vụ chính trị, góp phần thực hiện thắng lợi mấy nội dung cuộc vận động có hiệu quả cao?",
     "A": "3",
     "B": "4",
@@ -3042,7 +3042,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 339,
+    "ID": "339",
     "QUESTION": "Những tập thể tiêu biểu trong phong trào thi đua quyết thắng năm 2007 là đơn vị nào?",
     "A": "Tiểu đoàn 1, Ban Hậu cần, đại đội thông tin",
     "B": "Tiểu đoàn 2, Ban Hậu cần, đại đội thông tin",
@@ -3051,7 +3051,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 340,
+    "ID": "340",
     "QUESTION": "Cuối năm 2007, Trung đoàn đã thực hiện chỉ thị số 10 của Tư lệnh Quân khu, đạt được “3 không” là gì?",
     "A": "không mua thịt, cá, rau",
     "B": "không mua thịt, cá, rau gia vị",
@@ -3060,7 +3060,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 341,
+    "ID": "341",
     "QUESTION": "Đoàn Quyết Thắng thời gian đầu thành lập, chủ yếu đóng quân ở 3 xã",
     "A": "Nhuận Đức, Phú Mỹ Hưng, An Nhơn Tây",
     "B": "Phú Mỹ Hưng, An Nhơn Tây, Trung Lập Thượng",
@@ -3069,7 +3069,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 342,
+    "ID": "342",
     "QUESTION": "Chiến thuật chủ yếu mà Tiểu đoàn Quyết Thắng áp dụng để ngăn cản Cuộc càn Grimp (Chiến dịch Cái bẫy) mà quân Mỹ đổ bộ xuống Củ Chi là ?",
     "A": "Vườn không nhà trống",
     "B": "Lối đánh du kích",
@@ -3078,7 +3078,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 343,
+    "ID": "343",
     "QUESTION": "Có bao nhiêu đơn vị thuộc Trung đoàn Gia Định được tuyên dương Anh hùng lực lượng vũ trang nhân dân ?",
     "A": "04 đơn vị",
     "B": "05 đơn vị",
@@ -3087,7 +3087,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 344,
+    "ID": "344",
     "QUESTION": "Từ khi thành lập Trung đoàn Gia Định đến nay, có bao nhiêu đồng chí được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân?",
     "A": "06 cá nhân",
     "B": "08 cá nhân",
@@ -3096,7 +3096,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 345,
+    "ID": "345",
     "QUESTION": "Từ khi thành lập Trung đoàn Gia Định đến nay, có bao nhiêu liệt sĩ đã hy sinh trong cuộc kháng chiến chống Mỹ cứu nước và bảo vệ Biên giưới Tây Nam của Tổ quốc và giúp nhân dân Campuchia thoát khỏi họa diệt chủng Pôn Pốt lêng – Xari ?",
     "A": "1899 liệt sĩ",
     "B": "1988 liệt sĩ",
@@ -3105,7 +3105,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 346,
+    "ID": "346",
     "QUESTION": "Trong chiến dịch Hồ Chí Minh lịch sử, Trung đoàn Gia Định được giao nhiệm vụ tiến công đột phá vào hướng nào ?",
     "A": "tây, tây bắc Sài Gòn",
     "B": "tây, tây nam Sài Gòn",
@@ -3114,7 +3114,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 347,
+    "ID": "347",
     "QUESTION": "Năm 1977, Bộ Tư lệnh Quân khu điều động toàn bộ Trung đoàn Gia Định lên vùng biên giới Tây Nam chiến đấu Pôn Pốt. Thời gian này, Tham mưu trưởng Trung đoàn là đồng chí ?",
     "A": "Đoàn Minh Chiến",
     "B": "Trần Ngọc Kiểm",
@@ -3123,7 +3123,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 348,
+    "ID": "348",
     "QUESTION": "Năm 1977, Bộ Tư lệnh Quân khu điều động toàn bộ Trung đoàn Gia Định lên vùng biên giới Tây Nam chiến đấu Pôn Pốt. Thời gian này, Trung đoàn trưởng là đồng chí ?",
     "A": "Đoàn Minh Chiến",
     "B": "Trần Ngọc Kiểm",
@@ -3132,7 +3132,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 349,
+    "ID": "349",
     "QUESTION": "“Hành khúc Trung đoàn Gia Định” do ai sáng tác?",
     "A": "Nhạc sĩ Thế Hiển",
     "B": "Nhạc sĩ Kim Long",
@@ -3141,7 +3141,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 350,
+    "ID": "350",
     "QUESTION": "“Hành khúc Trung đoàn Gia Định” được sáng tác năm nào?",
     "A": "2007",
     "B": "2009",
@@ -3150,7 +3150,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 351,
+    "ID": "351",
     "QUESTION": "Tiểu đoàn bộ binh 3 được tuyên dương AHLLVTND vào ngày tháng năm nào?",
     "A": "27-04-2012",
     "B": "27-02-2012",
@@ -3159,7 +3159,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 352,
+    "ID": "352",
     "QUESTION": "Trung đoàn Gia định kết nghĩa với Mặt trận Tổ quốc Việt Nam Thành phố Hồ Chí Minh từ năm nào?",
     "A": "1975",
     "B": "1976",
@@ -3168,7 +3168,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 353,
+    "ID": "353",
     "QUESTION": "Đơn vị đầu tiên của Trung đoàn Gia định là đơn vị nào?",
     "A": "C13",
     "B": "Tiểu đội bào vệ Y4",
@@ -3177,7 +3177,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 354,
+    "ID": "354",
     "QUESTION": "Lối đánh “ Nở hoa trong lòng địch” được Tiểu đoàn 1 Quyết thắng sử dụng trong trận đánh nào?",
     "A": "Chiến thắng Gò Môn",
     "B": "Chiến thắng Gò Nổi",
@@ -3186,7 +3186,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 355,
+    "ID": "355",
     "QUESTION": "Trung đoàn Gia Định đã đón nhận Huân chương bảo vệ Tổ quốc hạng Ba của Chủ tịch nước tặng thưởng vào năm nào?",
     "A": "2018",
     "B": "2019",
@@ -3195,7 +3195,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 356,
+    "ID": "356",
     "QUESTION": "Đồng chí Nguyễn Văn Hoàng giữ chức Trung đoàn trưởng Trung đoàn Gia định vào năm nào?",
     "A": "2000 - 2002",
     "B": "2000 - 2003",
@@ -3204,7 +3204,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 357,
+    "ID": "357",
     "QUESTION": "Ngày tháng năm nào Trung đoàn Gia định chính thức được mang tên là Trung đoàn Gia định?",
     "A": "04-01-1975",
     "B": "05-01-1975",
@@ -3213,7 +3213,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 358,
+    "ID": "358",
     "QUESTION": "Trung đoàn Gia định được tặng những huân chương nào?",
     "A": "1 Huân chương Thành đồng, 9 Huân chương Quân công các loại, 1 Huân chương bảo vệ Tổ quốc",
     "B": "1 Huân chương Thành đồng1 Huân chương bảo vệ Tổ quốc",
@@ -3222,7 +3222,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 359,
+    "ID": "359",
     "QUESTION": "Đồng chí Trần Vinh Ngọc giữ chức Phó chính ủy Trung đoàn vào thời gian nào?",
     "A": "2006 - 2007",
     "B": "2006 – 2008",
@@ -3231,7 +3231,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 360,
+    "ID": "360",
     "QUESTION": "Đồng chí Huỳnh Việt Tâm giữ chức Trung đoàn Trưởng từ tháng năm nào?",
     "A": "Từ 5/2020",
     "B": "Từ 4/2017",
@@ -3240,7 +3240,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 361,
+    "ID": "361",
     "QUESTION": "Tiểu đoàn 1 mới thành lập được hơn nửa năm đã đánh quỵ đơn vị nào của ngụy?",
     "A": "trung đoàn 8 sư đoàn 5 ngụy",
     "B": "trung đoàn 7 sư đoàn 5 ngụy",
@@ -3249,7 +3249,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 362,
+    "ID": "362",
     "QUESTION": "Theo yêu cầu nhiệm vụ ,Trung ương Cục miền Nam và Bộ Chỉ huy Miền chỉ đạo Quân khu Sài Gòn – Gia Định khẩn trương thành lập bao nhiêu tiểu đoàn bộ binh để làm nhiệm vụ chiến đấu và xây đựng địa bàn?",
     "A": "6 tiểu đoàn",
     "B": "5 tiểu đoàn",
@@ -3258,7 +3258,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 363,
+    "ID": "363",
     "QUESTION": "Tiểu đoàn 2 được thành lập vào thời gian nào?",
     "A": "tháng 1-1965",
     "B": "tháng 2-1965",
@@ -3267,7 +3267,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 364,
+    "ID": "364",
     "QUESTION": "Tiểu đoàn 2 sau khi được thành lập có bao nhiêu đại đội bộ binh?",
     "A": "2 đại đội",
     "B": "3 đại đội",
@@ -3276,7 +3276,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 365,
+    "ID": "365",
     "QUESTION": "Tiểu đoàn ra quân, đánh thắng trận đầu tại ấp An Hòa, xã Trung An vào thời gian nào?",
     "A": "Ngày 11-8-1965",
     "B": "Ngày 11-8-1966",
@@ -3285,7 +3285,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 366,
+    "ID": "366",
     "QUESTION": "Tiểu đoàn đã tiêu diệt được bao nhiêu tên bắn cháy bao nhiêu xe bọc thép M113 và bao nhiêu trực thăng HU1A?",
     "A": "Tiêu diệt 68 tên bắn cháy 2 xe bọc thép M113 và 3 trực thăng HU1A",
     "B": "Tiêu diệt 69 tên bắn cháy 2 xe bọc thép M113 và 3 trực thăng HU1A",
@@ -3294,7 +3294,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 367,
+    "ID": "367",
     "QUESTION": "Tiểu đoàn 2 được sáp nhập với Tiểu đoàn 1 Quyết Thắng ,lấy phiên hiệu là Trung đoàn Quyết Thắng để chuẩn bị lực lượng tham gia Tổng tiến công và nổi dậy xuân Mậu Thân 1968?",
     "A": "Tháng 10-1967",
     "B": "Tháng 9-1967",
@@ -3303,7 +3303,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 368,
+    "ID": "368",
     "QUESTION": "Ngoài nhiệm vụ chiến đấu giữ vững địa bàn, Trung đoàn đã góp công cùng với quân và dân Củ Chi bẻ gẫy bao nhiêu cuộc hành quân càn quét lớn?",
     "A": "2 cuộc hành quân càn quét lớn",
     "B": "3 cuộc hành quân càn quét lớn",
@@ -3312,7 +3312,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 369,
+    "ID": "369",
     "QUESTION": "Trung đoàn đã hoàn thành xuất sắc nhiệm vụ đột phá đánh chiếm một số mục tiêu quan trọng ở nội thành Sài Gòn và kiên cường bám trụ đánh địch phản kích trong bao nhiêu ngày đêm?",
     "A": "100 ngày đêm",
     "B": "150 ngày đêm",
@@ -3321,7 +3321,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 370,
+    "ID": "370",
     "QUESTION": "Trung đoàn hoàn thành xuất sắc nhiệm vụ đánh chiếm nhiều vị trí then chốt ở phía bắc và tây bắc, mở cửa cho Quân đoàn 3 và các binh đoàn tiến vào giải phóng Sài Gòn vào năm nào?",
     "A": "1975",
     "B": "1976",
@@ -3330,7 +3330,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 371,
+    "ID": "371",
     "QUESTION": "Trung đoàn làm nhiệm vụ đánh địch trên tuyến xung yếu ở tỉnh Tây Ninh , giành thắng lợi giòn giã trong trận mở màn chiến dịch mùa khô năm bao nhiêu?",
     "A": "1977-1978",
     "B": "1978-1979",
@@ -3339,7 +3339,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 372,
+    "ID": "372",
     "QUESTION": "Trận chiến cuối cùng kết thúc cuộc chiến tranh Tây Nam kéo dài và kết thúc vào thời gian nào?",
     "A": "kéo dài từ tháng 9-1977 đến tháng 1-1979",
     "B": "kéo dài từ tháng 9-1977 đến tháng 2-1979",
@@ -3348,7 +3348,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 373,
+    "ID": "373",
     "QUESTION": "Đại đội 5 Tiểu đoàn 4 Gia Định được khen thưởng Danh Hiệu Anh Hùng Lực Lượng Vũ Trang Nhân Dân vào thời gian nào?",
     "A": "Ngày 20-12-1973",
     "B": "Ngày 20-12-1974",
@@ -3357,7 +3357,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 374,
+    "ID": "374",
     "QUESTION": "Tiểu đoàn 1 Quyết Thắng được khen thưởng Danh Hiệu Anh Hùng Lực Lượng Vũ Trang Nhân Dân vào thời gian nào?",
     "A": "Ngày 2-9-1976",
     "B": "Ngày 2-9-1977",
@@ -3366,7 +3366,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 375,
+    "ID": "375",
     "QUESTION": "Trung đoàn Gia Định được khen thưởng Danh Hiệu Anh Hùng Lực Lượng Vũ Trang Nhân Dân vào thời gian nào?",
     "A": "Ngày 29-1-1996",
     "B": "Ngày 29-1-1997",
@@ -3375,7 +3375,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 376,
+    "ID": "376",
     "QUESTION": "Tiểu đoàn 2 Gò Môn được khen thưởng Danh Hiệu Anh Hùng Lực Lượng Vũ Trang Nhân Dân vào thời gian nào?",
     "A": "Ngày 28-12-2000",
     "B": "Ngày 28-12-2001",
@@ -3384,7 +3384,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 377,
+    "ID": "377",
     "QUESTION": "Trung đoàn được tặng thưởng bao nhiêu Huân chương Thành Đồng?",
     "A": "1 Huân chương Thành Đồng",
     "B": "2 Huân chương Thành Đồng",
@@ -3393,7 +3393,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 378,
+    "ID": "378",
     "QUESTION": "Trung đoàn được tặng thưởng bao nhiêu Huân chương Quân công các hạng?",
     "A": "9 Huân chương Quân công các hạng",
     "B": "8 Huân chương Quân công các hạng",
@@ -3402,7 +3402,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 379,
+    "ID": "379",
     "QUESTION": "Trung đoàn được tặng thưởng bao nhiêu Huân chương Bảo vệ Tổ quốc hạng Nhất do Nhà nước Campuchia tặng?",
     "A": "1 Huân chương Bảo vệ Tổ quốc hạng Nhất do Nhà nước Campuchia tặng",
     "B": "2 Huân chương Bảo vệ Tổ quốc hạng Nhất do Nhà nước Campuchia tặng",
@@ -3411,7 +3411,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 380,
+    "ID": "380",
     "QUESTION": "Trung đoàn có bao nhiêu cán bộ , chiến sĩ được tặng thưởng Huân chương Chiến công các loại?",
     "A": "264 cán bộ , chiến sĩ được tặng thưởng Huân chương Chiến công các loại",
     "B": "265 cán bộ , chiến sĩ được tặng thưởng Huân chương Chiến công các loại",
@@ -3420,7 +3420,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 381,
+    "ID": "381",
     "QUESTION": "Trung đoàn đã thực hiện nhiệm vụ giúp nhân dân Campuchia bảo vệ đất nước vào khoảng thời gian nào?",
     "A": "giai đoạn 1984-1989",
     "B": "giai đoạn 1984-1990",
@@ -3429,7 +3429,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 382,
+    "ID": "382",
     "QUESTION": "Đơn vị đã phát triển lên thành Trung đoàn chủ công của thành phố , Quân khu và của Miền vào khoảng thời gian nào?",
     "A": "Những năm cuối của thập niên 50",
     "B": "Những năm cuối của thập niên 60",
@@ -3438,7 +3438,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 383,
+    "ID": "383",
     "QUESTION": "Khoảng thời gian huấn luyện để tiểu đoàn nhận nhiệm vụ hành quân xuống chiến trường hoạt động chiến đấu là bao nhiêu tháng?",
     "A": "Sau 4 tháng huấn luyện",
     "B": "Sau 5 tháng huấn luyện",
@@ -3447,7 +3447,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 384,
+    "ID": "384",
     "QUESTION": "Tiểu đoàn nhận nhiệm vụ hành quân xuống chiến trường hoạt động chiến đấu và bám trụ tại 2 huyện nào?",
     "A": "Gò Vấp và Hóc Môn",
     "B": "Thạnh Lộc và Hóc Môn",
@@ -3456,7 +3456,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 385,
+    "ID": "385",
     "QUESTION": "Tiểu đoàn đoàn nào khi mới thành lập được hơn nửa năm đã đánh quỵ trung đoàn 8 sư đoàn 5 ngụy?",
     "A": "Tiểu đoàn 1",
     "B": "Tiểu đoàn 2",
@@ -3465,7 +3465,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 386,
+    "ID": "386",
     "QUESTION": "Thực hiện theo sự chỉ đạo của cấp trên , tháng 1-1965 Tiểu đoàn nào được thành lập?",
     "A": "Tiểu đoàn 2",
     "B": "Tiểu đoàn 1",
@@ -3474,7 +3474,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 387,
+    "ID": "387",
     "QUESTION": "Ngày 11-8-1965, đơn vị ra quân, đánh thắng trận đầu tại đâu?",
     "A": "ấp An Hòa, xã Trung An",
     "B": "ấp An Hòa, xã Nhị Bình",
@@ -3483,7 +3483,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 388,
+    "ID": "388",
     "QUESTION": "Giai đoạn nào quân số của Tiểu đoàn thiếu không có nguồn bổ sung , mỗi đại đội chỉ còn 20 tay súng?",
     "A": "Giai đoạn cuối năm 1966",
     "B": "Giai đoạn cuối năm 1967",
@@ -3492,7 +3492,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 389,
+    "ID": "389",
     "QUESTION": "Giai đoạn cuối năm 1966 quân số của Tiểu đoàn thiếu không có nguồn bổ sung , mỗi đại đội chỉ còn bao nhiêu tay súng?",
     "A": "20 tay súng",
     "B": "21 tay súng",
@@ -3501,7 +3501,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 390,
+    "ID": "390",
     "QUESTION": "Tháng 10-1967 Tiểu đoàn 2 được sáp nhập với Tiểu đoàn nào,lấy phiên hiệu là Trung đoàn Quyết Thắng để chuẩn bị lực lượng tham gia Tổng tiến công và nổi dậy xuân Mậu Thân 1968?",
     "A": "Tiểu đoàn 1 Quyết Thắng",
     "B": "Tiểu đoàn 3",
@@ -3510,7 +3510,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 391,
+    "ID": "391",
     "QUESTION": "Sắp tới dịp Tết cổ truyền thì địch có những hành động gì?",
     "A": "Tăng cường quân chia thành 2 mũi ồ ạt tiến vào vùng giải phóng, đốt phá nhà cửa của dân ở vùng Xóm Trại, Giàn Bầu là vùng dân mới trở về đất cũ xây cất nhà cửa sinh sống",
     "B": "Đi đôi với càn quét, địch dùng bom pháo đánh phá dữ dội các xóm ấp, vùng giáp ranh, gây cảnh tang thương cho đồng bào",
@@ -3519,7 +3519,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 392,
+    "ID": "392",
     "QUESTION": "Hành động của Trung đoàn trong Tổng tiến công và nổi dậy xuân Mậu Thân 1968 là gì?",
     "A": "Chấp hành mệnh lệnh cấp trên, Tiểu đoàn 1, Tiểu đoàn 2 vừa tổ chức chiến đấu ngăn chặn tiêu hao, tiêu diệt địch",
     "B": "Chấp hành mệnh lệnh cấp trên, Tiểu đoàn 1, Tiểu đoàn 4 vừa tổ chức chiến đấu ngăn chặn tiêu hao, tiêu diệt địch, vừa giúp dân sơ tán tránh bom đạn",
@@ -3528,7 +3528,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 393,
+    "ID": "393",
     "QUESTION": "Thành tích của trung đoàn tính từ Hiệp định Paris đến tháng 2 – 1974?",
     "A": "Tiểu đoàn 1 đánh thắng 11 trận, diệt 182 tên, bắt sống 20 tên, diệt gọn 2 trung đội, đánh thiệt hại nặng 3 đại đội chủ lực, 3 tiểu đoàn bảo an, bắn cháy 3 máy bay, 7 xe tăng,… 146 lần võ trang tuyên truyền trong các ấp chiến lược, vận động 24 gia đình có con em trong hàng ngũ địch trở về với nhân dân",
     "B": "Tiểu đoàn 2 đánh thắng 13 trận, trừng trị địch phas hoại Hiệp định lấn chiếm vùng giải phóng, giành dân gom vào ấp chiến lược. Tiểu đoàn đã tiêu diệt và làm bị thương hàng trăm tên, bắn rơi 2 máy bay HU1A, 3 xe M113, thu hàng chục súng các loại.",
@@ -3537,8 +3537,8 @@
     "ANSWER": "D"
   },
   {
-    "ID": 394,
-    "QUESTION": "Bài thơ sau do ai sáng tác?\n “Quyết Thắng ra quân diệt đồn thù\n Rực lửa chiến công, rộn chiến khu\n Ngổn ngang xác lính trong công sự\n Hết đời ngang ngược lũ giặc thù\n Hai bót kế bên đều hoảng vía\n Quân lính trong đêm chạy sạch bu”",
+    "ID": "394",
+    "QUESTION": "Bài thơ sau do ai sáng tác?\n“Quyết Thắng ra quân diệt đồn thù\n Rực lửa chiến công, rộn chiến khu\n Ngổn ngang xác lính trong công sự\n Hết đời ngang ngược lũ giặc thù\n Hai bót kế bên đều hoảng vía\n Quân lính trong đêm chạy sạch bu”",
     "A": "Một công dân viết gửi",
     "B": "Một nông dân viết gửi",
     "C": "Một chiến sĩ viết gửi",
@@ -3546,7 +3546,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 395,
+    "ID": "395",
     "QUESTION": "Tiểu đoàn Quyết Thắng đã hoàn thành xuất sắc nhiệm vụ mà Thành đội giao trong đợt hoạt động cao điểm, có tác động đối với Bắc Gia Định, giáng mạnh một đòn vào nơi xuất phát hành quân của địch lấn chiếm vùng giải phóng là trận đánh nào?",
     "A": "Trận phòng ngự đồn Dân Hàn",
     "B": "Trận công kiên đồn Dân Hàn",
@@ -3555,7 +3555,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 396,
+    "ID": "396",
     "QUESTION": "Ngày 5 – 2 – 1975, Đại đội 1 đã kết hợp với Đại đội nào đánh bọn địch ủi phá địa hình ở An Nhơn Tây, truy kích chúng đến lộ 7, bắn cháy 2 xe ủi đất, bắt 1 tù binh, thu 1 súng?",
     "A": "Đại đội 3",
     "B": "Đại đội 4 hoả lực",
@@ -3564,7 +3564,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 397,
+    "ID": "397",
     "QUESTION": "Khẩu hiệu sau đây của Tiểu đoàn Quyết Thắng bước vào củng cố và chuẩn bị ra quân đầu năm nào?\n Đảng viên cầm lái\n Đoàn viên cầm chèo\n Tất cả nhổ neo\n Ra khơi quyết thắng",
     "A": "1972",
     "B": "1973",
@@ -3573,7 +3573,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 398,
+    "ID": "398",
     "QUESTION": "Hoà nhịp với Chiến dịch Tây Nguyên, Tiểu đoàn Quyết Thắng phối hợp với Đại đội 7 địa bàn Củ Chi đã đánh một trận hiệu quả ở địa điểm nào sau đây?",
     "A": "Bàu Tre",
     "B": "Cây Trôm",
@@ -3582,7 +3582,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 399,
+    "ID": "399",
     "QUESTION": "Quân ta trong Chiến dịch Tây Nguyên 3 – 1973 đã giải phóng được những vùng nào khỏi tay của bọn nguỵ quân?",
     "A": "Tây Nguyên, Kon Tum",
     "B": "Tây Nguyên, Đà Nẵng, Kon Tum",
@@ -3591,7 +3591,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 400,
+    "ID": "400",
     "QUESTION": "Trung đoàn từ Tiểu đoàn Quyết Thắng trở thành Trung đoàn Gia Định vào ngày tháng năm nào?",
     "A": "01-04-1975",
     "B": "30-05-1959",
@@ -3600,7 +3600,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 401,
+    "ID": "401",
     "QUESTION": "Trung đoàn trưởng và Chính uỷ trong giai đoạn Trung đoàn từ Tiểu đoàn Quyết Thắng trở thành Trung đoàn Gia Định là những đồng chí nào?",
     "A": "Đồng chí Phạm Tấn Thành (Trung đoàn trưởng), đồng chí Võ Xây Lăng (Chính uỷ)",
     "B": "Đồng chí Mười Quân (Trung đoàn trưởng), đồng chí Nguyễn Văn Ngân",
@@ -3609,7 +3609,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 402,
+    "ID": "402",
     "QUESTION": "Trung đoàn được thành lập tại đâu trên mảnh đất Củ Chi?",
     "A": "Rừng Làng xã An Nhơn Tây, huyện Củ Chi",
     "B": "Trung Hoà, xã Trung Lập Thượng, huyện Củ Chi",
@@ -3618,7 +3618,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 403,
+    "ID": "403",
     "QUESTION": "Sau trận đánh vào cuối tháng 3/1966, ai là người được tặng Huân chương Chiến công hạng Ba?",
     "A": "Đồng chí Mười Hóa",
     "B": "Đồng chí Trần Văn Triệu",
@@ -3627,7 +3627,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 404,
+    "ID": "404",
     "QUESTION": "Cuối tháng 4 năm 1966, trong trận đánh xe Mỹ ở Đồng Dù, trung đội 2 Đại đội 2 bắn cháy bao nhiêu xe tăng và xe bọc thép của địch?",
     "A": "5;6",
     "B": "6;6",
@@ -3636,7 +3636,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 405,
+    "ID": "405",
     "QUESTION": "Trung đoàn nhận lệnh tham gia Chiến dịch Hồ Chí Minh vào ngày nào?",
     "A": "08-04-1975",
     "B": "18-04-1975",
@@ -3645,7 +3645,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 406,
+    "ID": "406",
     "QUESTION": "Trung tuần tháng 11-1964, Trung ương Cục miền Nam, Bộ Tư lệnh Miền chỉ đạo cho Quân khu Sài Gòn - Gia Định (còn gọi là Quân khu 4) gấp rút thành lập thêm bao nhiêu tiểu đoàn bộ binh?",
     "A": "4",
     "B": "5",
@@ -3654,7 +3654,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 407,
+    "ID": "407",
     "QUESTION": "Trung tuần tháng 11-1964, Tiểu đoàn hoạt động ở hai huyện nào?",
     "A": "Tân Phú và Gò Vấp",
     "B": "Gò Vấp và Hóc Môn",
@@ -3663,7 +3663,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 408,
+    "ID": "408",
     "QUESTION": "Trong vòng một tháng, Tiểu đoàn có 2 đại đội bộ binh, quân số mỗi đại đội là bao nhiêu đồng chí được huấn luyện chuyên môn binh chủng riêng?",
     "A": "120",
     "B": "110",
@@ -3672,7 +3672,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 409,
+    "ID": "409",
     "QUESTION": "Tiểu đoàn trưởng đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Trần Nhật Lệ",
     "B": "Đ/c Phạm Quang Thiệt",
@@ -3681,7 +3681,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 410,
+    "ID": "410",
     "QUESTION": "Tiểu đoàn phó đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Trần Nhật Lệ",
     "B": "Đ/c Phạm Quang Thiệt",
@@ -3690,7 +3690,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 411,
+    "ID": "411",
     "QUESTION": "Chính trị viên trưởng đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Thảo",
     "B": "Đ/c Nguyễn Ngọc Nhẫn",
@@ -3699,7 +3699,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 412,
+    "ID": "412",
     "QUESTION": "Tham mưu trưởng đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Thảo",
     "B": "Đ/c Sáu Thanh",
@@ -3708,7 +3708,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 413,
+    "ID": "413",
     "QUESTION": "Trợ lý chính trị đầu tiên của Tiểu đoàn 2 là đồng chí nào?",
     "A": "Đ/c Thảo",
     "B": "Đ/c Sáu Thanh",
@@ -3717,7 +3717,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 414,
+    "ID": "414",
     "QUESTION": "Trận đánh đầu đầu tiên của Tiểu đoàn 2 diễn ra vào thời gian nào?",
     "A": "09-11-1965",
     "B": "08-10-1964",
@@ -3726,7 +3726,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 415,
+    "ID": "415",
     "QUESTION": "Trận chiến đấu đầu tiên của Tiểu đoàn 2 diễn ra ở đâu?",
     "A": "Tân Phú Trung",
     "B": "An Hòa",
@@ -3735,7 +3735,7 @@
     "ANSWER": "B"
   },
   {
-    "ID": 416,
+    "ID": "416",
     "QUESTION": "Trận đánh ngày 11/8/1965, ai là người bắn rơi 2 chiếc trực thăng HU1B?",
     "A": "Đồng chí Trần Văn Triệu",
     "B": "Đồng chí Nguyễn Văn Thạnh",
@@ -3744,7 +3744,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 417,
+    "ID": "417",
     "QUESTION": "Trận đánh ngày 11/8/1965, Ta đã tiêu diệt được tổng cộng bao nhiêu tên địch?",
     "A": "69",
     "B": "67",
@@ -3753,7 +3753,7 @@
     "ANSWER": "C"
   },
   {
-    "ID": 418,
+    "ID": "418",
     "QUESTION": "Trận đánh ngày 11/8/1965, Ta hi sinh bao nhiêu đồng chí?",
     "A": "2",
     "B": "3",
@@ -3762,7 +3762,7 @@
     "ANSWER": "A"
   },
   {
-    "ID": 419,
+    "ID": "419",
     "QUESTION": "Tiểu đoàn 2 hành quân về ấp Phú Hiệp, xã Phú Hòa Đông vào thời gian nào?",
     "A": "12-08-1965",
     "B": "13-08-1965",
@@ -3771,7 +3771,7 @@
     "ANSWER": "D"
   },
   {
-    "ID": 420,
+    "ID": "420",
     "QUESTION": "Cuối tháng 3-1966, đơn vị nào của Tiểu đoàn 2 lần đầu tiên đưa quân vượt lộ 8, qua sông Rạch Dứa, xuống xã Bình Mỹ B?",
     "A": "Đại đội 1",
     "B": "Đại đội 2",
