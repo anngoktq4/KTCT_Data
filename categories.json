@@ -34,5 +34,11 @@
     "description": "Lời Bác Hồ dạy",
     "path": "cat_LoiBacHoDay.json",
     "colorCode":"#206A67"
+  },
+  {
+    "title": "Trung đoàn Gia Định",
+    "description": "Trung đoàn Gia Định",
+    "path": "cat_TDGD.json",
+    "colorCode":"#475D8D"
   }
 ]
