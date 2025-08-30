@@ -1,8 +1,14 @@
 [
   {
-    "title": "Sĩ quan, quân nhân chuyên nghiệp",
-    "description": "Sĩ quan, quân nhân chuyên nghiệp",
-    "path": "cat_SQ_QNCN.json",
+    "title": "Sĩ quan, quân nhân chuyên nghiệp (1)",
+    "description": "Sĩ quan, quân nhân chuyên nghiệp (1)",
+    "path": "cat_SQ_QNCN_1.json",
+    "colorCode":"#2B8661"
+  },
+  {
+    "title": "Sĩ quan, quân nhân chuyên nghiệp (2)",
+    "description": "Sĩ quan, quân nhân chuyên nghiệp (2)",
+    "path": "cat_SQ_QNCN_2.json",
     "colorCode":"#2B8661"
   },
   {
