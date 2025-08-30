@@ -40,5 +40,23 @@
     "description": "Trung đoàn Gia Định",
     "path": "cat_TDGD.json",
     "colorCode":"#475D8D"
+  },
+  {
+    "title": "Giáo án Giáo Dục Chính Trị",
+    "description": "Giáo án Giáo Dục Chính Trị",
+    "path": "cat_GiaoAn_GDCT.json",
+    "colorCode":"#152A59"
+  },
+  {
+    "title": "Truyền thống lực lượng vũ trang TP HCM",
+    "description": "Truyền thống lực lượng vũ trang TP HCM",
+    "path": "cat_LLVT_TPHCM.json",
+    "colorCode":"#6C7FA7"
+  },
+  {
+    "title": "Hạ sĩ quan - Binh sĩ",
+    "description": "Hạ sĩ quan - Binh sĩ",
+    "path": "cat_HSQ_BS.json",
+    "colorCode":"#0D5350"
   }
 ]
