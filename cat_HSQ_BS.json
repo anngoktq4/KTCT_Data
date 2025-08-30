@@ -1,0 +1,4538 @@
+[
+ {
+  "ID": "1",
+  "QUESTION": "Ngày 07\/01\/1979 diễn ra sự kiện gì?",
+  "A": "Giải phóng miền Nam",
+  "B": "Giải phóng Campuchia",
+  "C": "Thành lập Quân khu 7",
+  "D": "LLVT TP đổi tên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "2",
+  "QUESTION": "Năm nào Bộ Chỉ huy Quân sự TP đổi tên thành Bộ Tư lệnh TP.HCM?",
+  "A": "2007",
+  "B": "2010",
+  "C": "2011",
+  "D": "2015",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "3",
+  "QUESTION": "Năm nào LLVT TP.HCM được phong tặng Anh hùng LLVTND lần thứ hai?",
+  "A": "2008",
+  "B": "2010",
+  "C": "2011",
+  "D": "2012",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "4",
+  "QUESTION": "Trong đại dịch Covid-19, LLVT TP.HCM được phong danh hiệu Anh hùng LLVTND lần thứ mấy?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "5",
+  "QUESTION": "Ngày 26\/12\/2024 LLVT TP.HCM được phong danh hiệu gì?",
+  "A": "Anh hùng Lao động",
+  "B": "Anh hùng LLVTND",
+  "C": "Huân chương Độc lập",
+  "D": "Huân chương Bảo vệ Tổ quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "6",
+  "QUESTION": "Phẩm chất nổi bật của LLVT TP trong thời kỳ mới là gì?",
+  "A": "Bám trụ kiên cường",
+  "B": "Quyết chiến quyết thắng",
+  "C": "Năng động sáng tạo",
+  "D": "Tất cả đáp án trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "7",
+  "QUESTION": "Bộ Chỉ huy Quân sự Thành phố được đổi tên thành Bộ Tư lệnh TP.HCM vào ngày nào?",
+  "A": "30\/4\/2011",
+  "B": "14\/01\/2011",
+  "C": "15\/5\/2010",
+  "D": "28\/4\/2011",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "8",
+  "QUESTION": "Trận chiến đấu tại cột cờ Thủ Ngữ xảy ra vào thời điểm nào?",
+  "A": "30\/4\/1975",
+  "B": "Những ngày đầu mới thành lập LLVT TP",
+  "C": "2\/9\/1945",
+  "D": "Tháng 5\/1946",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "9",
+  "QUESTION": "Cuộc kháng chiến chống Pháp kéo dài bao nhiêu ngày đêm?",
+  "A": "Hơn 3.000",
+  "B": "2000",
+  "C": "3000",
+  "D": "Gần 4000",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "10",
+  "QUESTION": "Bộ Tư lệnh Thành phố Hồ Chí Minh trực thuộc đơn vị nào?",
+  "A": "Bộ Quốc phòng",
+  "B": "Thành ủy TP.HCM",
+  "C": "Quân khu 7",
+  "D": "Chính phủ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "11",
+  "QUESTION": "Tiểu đội bảo vệ cột cờ Thủ Ngữ có bao nhiêu người?",
+  "A": "6",
+  "B": "9",
+  "C": "12",
+  "D": "8",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "12",
+  "QUESTION": "Quân địch trong trận cột cờ Thủ Ngữ thuộc lực lượng nào?",
+  "A": "Quân Pháp",
+  "B": "Quân Nhật",
+  "C": "Đáp án C28",
+  "D": "Quân Mỹ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "13",
+  "QUESTION": "Ai là người ra quyết định đổi tên Bộ Chỉ huy Quân sự thành Bộ Tư lệnh TP.HCM?",
+  "A": "Chủ tịch nước",
+  "B": "Tư lệnh Quân khu 7",
+  "C": "Bí thư Thành ủy",
+  "D": "Bộ trưởng Bộ Quốc phòng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "14",
+  "QUESTION": "Trận đánh ở cầu Lái Thiêu xảy ra vào ngày nào?",
+  "A": "26\/9\/1945",
+  "B": "28\/9\/1945",
+  "C": "27\/9\/1945",
+  "D": "1\/3\/1946",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "15",
+  "QUESTION": "Sau ngày 30\/4\/1975, nhiệm vụ đầu tiên của LLVT Thành phố là gì?",
+  "A": "Xây dựng nông trường mới",
+  "B": "Quản lý Thành phố (quân quản)",
+  "C": "Tổ chức lại quân đội",
+  "D": "Giúp Campuchia xây dựng lại đất nước",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "16",
+  "QUESTION": "LLVT đã phục kích đoàn xe quân Anh ở đâu vào ngày 27\/9\/1945?",
+  "A": "Cầu Lái Thiêu",
+  "B": "Cột cờ Thủ Ngữ",
+  "C": "An Phú Đông",
+  "D": "Nhà Làng – Hàng Xanh",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "17",
+  "QUESTION": "Dân số Thành phố sau giải phóng khoảng bao nhiêu người?",
+  "A": "2 triệu người",
+  "B": "4 triệu người",
+  "C": "5 triệu người",
+  "D": "3 triệu 400 ngàn người",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "18",
+  "QUESTION": "Số người thất nghiệp tại Thành phố sau giải phóng là bao nhiêu?",
+  "A": "500 ngàn người",
+  "B": "700 ngàn người",
+  "C": "Hơn 1 triệu người",
+  "D": "200 ngàn người",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "19",
+  "QUESTION": "LLVT TP.HCM được trao Quân kỳ Quyết thắng vào thời điểm nào?",
+  "A": "14\/02\/2011",
+  "B": "28\/4\/2011",
+  "C": "14\/01\/2011",
+  "D": "30\/4\/1989",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "20",
+  "QUESTION": "Ngày bắt đầu kháng chiến chống Pháp?",
+  "A": "19\/8\/1945",
+  "B": "2\/9\/1945",
+  "C": "23\/9\/1945",
+  "D": "20\/7\/1954",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "21",
+  "QUESTION": "Ngày kết thúc kháng chiến chống Pháp?",
+  "A": "30\/4\/1975",
+  "B": "20\/7\/1954",
+  "C": "23\/9\/1954",
+  "D": "27\/1\/1973",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "22",
+  "QUESTION": "Chiến sĩ LLVT Sài Gòn – Chợ Lớn – Gia Định chiến đấu với tinh thần nào?",
+  "A": "Quyết tử cho hòa bình",
+  "B": "Độc lập hay là chết",
+  "C": "Bất chiến tự nhiên thành",
+  "D": "Bảo vệ hậu phương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "23",
+  "QUESTION": "Ai là một trong những anh hùng tiêu biểu thời chống Pháp?",
+  "A": "Nguyễn Văn Trỗi",
+  "B": "Nguyễn Huệ",
+  "C": "Lê Duẩn",
+  "D": "Lê Văn Thọ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "24",
+  "QUESTION": "Lực lượng vũ trang đã phải đối phó với bao nhiêu tàn quân địch còn lẩn trốn?",
+  "A": "Khoảng 10.000",
+  "B": "5",
+  "C": "Trên 20.000",
+  "D": "30",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "25",
+  "QUESTION": "Tệ nạn xã hội sau giải phóng không bao gồm vấn đề nào sau đây?",
+  "A": "Mại dâm",
+  "B": "Buôn bán vàng",
+  "C": "Ma túy",
+  "D": "Cướp của giết người",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "26",
+  "QUESTION": "LLVT Sài Gòn – Gia Định phát triển mạnh sau sự kiện nào?",
+  "A": "Tết Mậu Thân",
+  "B": "Hiệp định Pari",
+  "C": "Cách mạng Tháng Tám",
+  "D": "Đồng khởi 1960",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "27",
+  "QUESTION": "LLVT TP.HCM được phong tặng danh hiệu Anh hùng LLVT nhân dân lần thứ hai vào dịp nào?",
+  "A": "28\/4\/2011",
+  "B": "2\/9\/2010",
+  "C": "30\/4\/2011",
+  "D": "22\/12\/2011",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "28",
+  "QUESTION": "Trận phục kích ở ngã ba Chú Ía nay thuộc khu vực nào?",
+  "A": "Bến Bạch Đằng",
+  "B": "Quận 4",
+  "C": "Bình Thạnh",
+  "D": "Gò Vấp",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "29",
+  "QUESTION": "C13 là tiền thân của đơn vị nào?",
+  "A": "Trung đoàn Rừng Sác",
+  "B": "Tiểu đoàn Quyết Thắng",
+  "C": "Lữ đoàn Đặc công",
+  "D": "Tiểu đoàn 307",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "30",
+  "QUESTION": "Ai đã ký quyết định phong tặng danh hiệu Anh hùng LLVT nhân dân cho LLVT TP.HCM?",
+  "A": "Thủ tướng",
+  "B": "Chủ tịch nước",
+  "C": "Chủ tịch Quốc hội",
+  "D": "Bộ trưởng Quốc phòng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "31",
+  "QUESTION": "Chiến thuật nào bị đánh bại ở Củ Chi?",
+  "A": "Bắn tỉa",
+  "B": "Hỏa công",
+  "C": "Diệt tận gốc",
+  "D": "Trực thăng vận – thiết xa vận",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "32",
+  "QUESTION": "Đến cuối năm 1945, LLVT TP được tổ chức thành mấy chi đội?",
+  "A": "2",
+  "B": "4",
+  "C": "5",
+  "D": "3",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "33",
+  "QUESTION": "LLVT Thành phố tổ chức đăng ký học tập cải tạo cho ai?",
+  "A": "Tù binh chiến tranh",
+  "B": "Quân đội nhân dân",
+  "C": "LLVT Thành phố tổ chức đăng ký học tập cải tạo cho ai?",
+  "D": "Quần chúng nhân dân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "34",
+  "QUESTION": "Tên của các chi đội LLVT TP cuối năm 1945 là gì?",
+  "A": "2, 3, 2004",
+  "B": "1, 2, 2003",
+  "C": "1, 2, 2003",
+  "D": "3, 4, 2005",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "35",
+  "QUESTION": "Lực lượng nào hoạt động ở nội thành từ 1963?",
+  "A": "Đặc công nước",
+  "B": "Biệt động",
+  "C": "Lính dù",
+  "D": "Lính dù",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "36",
+  "QUESTION": "Mỗi chi đội LLVT có khoảng bao nhiêu đại đội?",
+  "A": "1–2",
+  "B": "2–3",
+  "C": "4–5",
+  "D": "6–7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "37",
+  "QUESTION": "Ủy ban quân quản kết thúc nhiệm kỳ hoạt động vào ngày nào?",
+  "A": "30\/4\/1975",
+  "B": "1\/1\/1976",
+  "C": "4\/10\/1978",
+  "D": "21\/01\/1976",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "38",
+  "QUESTION": "Chỉ thị số 917 của Bộ Quốc phòng hiện nay được đổi thành chỉ thị số mấy?",
+  "A": "79",
+  "B": "78",
+  "C": "77",
+  "D": "80",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "39",
+  "QUESTION": "Mô hình “Địa phương phía sau hỗ trợ địa phương phía trước” nhằm mục đích gì?",
+  "A": "Phát triển kinh tế",
+  "B": "Xây dựng quốc phòng địa phương",
+  "C": "Hỗ trợ biên giới quốc tế",
+  "D": "Hợp tác quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "40",
+  "QUESTION": "Chiến công nào gây chấn động ngày 02\/5\/1964?",
+  "A": "Tấn công Đại sứ quán",
+  "B": "Đánh sập khách sạn Caravelle",
+  "C": "Đánh tàu Card",
+  "D": "Đánh kho xăng Nhà Bè",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "41",
+  "QUESTION": "Ban Chỉ huy Quân sự Sài Gòn – Chợ Lớn được thành lập năm nào?",
+  "A": "1944",
+  "B": "1946",
+  "C": "1945",
+  "D": "1947",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "42",
+  "QUESTION": "LLVT Thành phố phối hợp chặt chẽ với lực lượng nào để giữ gìn an ninh?",
+  "A": "Quân đội miền Bắc",
+  "B": "Công an và các đoàn thể",
+  "C": "Quốc tế",
+  "D": "Báo chí và truyền thông",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "43",
+  "QUESTION": "LLVT không làm nhiệm vụ nào sau đây sau khi Thành phố giải phóng?",
+  "A": "Truy quét tội phạm",
+  "B": "Tổ chức các buổi hòa nhạc",
+  "C": "Rà phá bom mìn",
+  "D": "Giúp đỡ gia đình hồi hương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "44",
+  "QUESTION": "LLVT TP.HCM hoàn thành bao nhiêu phần trăm chỉ tiêu giao quân hằng năm?",
+  "A": "90%",
+  "B": "95%",
+  "C": "98%",
+  "D": "100%",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "45",
+  "QUESTION": "Đoàn 10 Rừng Sác đánh chìm tàu Victoria ngày nào?",
+  "A": "3\/7\/1967",
+  "B": "0\/4\/1975",
+  "C": "24\/12\/1964",
+  "D": "23\/8\/1966",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "46",
+  "QUESTION": "Một mô hình LLVT TP.HCM triển khai để hỗ trợ đồng bào dân tộc, tôn giáo là gì?",
+  "A": "Gắn kết thân thiện, giúp đỡ đồng bào dân tộc, tôn giáo",
+  "B": "Tăng cường quốc phòng toàn dân",
+  "C": "Hợp tác phòng thủ dân sự",
+  "D": "Kết nghĩa với lực lượng nước ngoài",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "47",
+  "QUESTION": "Trận càn Crimp diễn ra vào thời gian nào?",
+  "A": "10-20\/01\/1967",
+  "B": "30-31\/01\/1968",
+  "C": "8-19\/01\/1966",
+  "D": "27\/01\/1973",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "48",
+  "QUESTION": "Trận càn Crimp chủ yếu đánh vào khu vực nào?",
+  "A": "Tam giác sắt",
+  "B": "Trảng Bàng",
+  "C": "Bình Dương",
+  "D": "Bắc Củ Chi",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "49",
+  "QUESTION": "Từ năm nào LLVT Thành phố bắt đầu thực hiện các nhiệm vụ trong bối cảnh đổi mới của Đảng?",
+  "A": "1975",
+  "B": "1995",
+  "C": "1985",
+  "D": "1989",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "50",
+  "QUESTION": "LLVT Thành phố đã góp phần bảo đảm điều gì trong quá trình thực hiện nhiệm vụ?",
+  "A": "An ninh chính trị và trật tự an toàn xã hội",
+  "B": "An ninh kinh tế",
+  "C": "Trật tự an toàn giao thông",
+  "D": "An toàn phòng cháy chữa cháy",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "51",
+  "QUESTION": "Tàu Victoria chở gì?",
+  "A": "100 thiết giáp, máy bay và lương thực",
+  "B": "100 xe tăng",
+  "C": "Gạo và xi măng",
+  "D": "Quân lính và vũ khí nhẹ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "52",
+  "QUESTION": "Đoàn 10 Rừng Sác phá kho xăng Nhà Bè năm nào?",
+  "A": "1964",
+  "B": "1966",
+  "C": "1968",
+  "D": "1967",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "53",
+  "QUESTION": "LLVT đã huy động bao nhiêu lượt cán bộ, chiến sĩ làm nhiệm vụ rà phá bom mìn?",
+  "A": "Trên 167.000",
+  "B": "Trên 100.000",
+  "C": "Trên 100.000",
+  "D": "50",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "54",
+  "QUESTION": "Số lượng quân Mỹ và Úc tham gia trận Crimp?",
+  "A": "12000",
+  "B": "6000",
+  "C": "10000",
+  "D": "15000",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "55",
+  "QUESTION": "LLVT thu gom được bao nhiêu tấn bom mìn, vật liệu nổ?",
+  "A": "200 tấn",
+  "B": "315 tấn",
+  "C": "415 tấn",
+  "D": "500 tấn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "56",
+  "QUESTION": "Thành phố Hồ Chí Minh là trung tâm lớn về mặt nào của cả nước?",
+  "A": "Quốc phòng",
+  "B": "Nhiều mặt",
+  "C": "Văn hóa – Thể thao",
+  "D": "Giao thông – Vận tải",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "57",
+  "QUESTION": "LLVT Thành phố sẵn sàng chiến đấu và chiến đấu thắng lợi trong:",
+  "A": "Hòa bình",
+  "B": "Thời bình",
+  "C": "LLVT Thành phố sẵn sàng chiến đấu và chiến đấu thắng lợi trong:",
+  "D": "Đối ngoại",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "58",
+  "QUESTION": "Sau ngày 30\/4\/1975, LLVT Thành phố bước vào giai đoạn cách mạng mới với nhiệm vụ gì?",
+  "A": "Thực hiện quân quản Thành phố",
+  "B": "Xây dựng chính quyền cơ sở",
+  "C": "Bảo vệ biên giới phía Bắc",
+  "D": "Tham gia sản xuất kinh tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "59",
+  "QUESTION": "Dân số Thành phố ngay sau ngày giải phóng là khoảng bao nhiêu?",
+  "A": "2 triệu",
+  "B": "3 triệu",
+  "C": "3 triệu 4 trăm ngàn",
+  "D": "4 triệu",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "60",
+  "QUESTION": "Đơn vị chủ lực của ta chống càn Crimp là?",
+  "A": "Biệt động Sài Gòn",
+  "B": "Tiểu đoàn 5 Tây Ninh",
+  "C": "Tiểu đoàn 1 Quyết Thắng",
+  "D": "Trung đoàn 9",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "61",
+  "QUESTION": "Thành phố có bao nhiêu người thất nghiệp sau giải phóng?",
+  "A": "1 triệu",
+  "B": "500000",
+  "C": "700000",
+  "D": "1 triệu 500 ngàn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "62",
+  "QUESTION": "Trận Cedar Falls diễn ra khi nào?",
+  "A": "8-19\/01\/1966",
+  "B": "8-26\/01\/1967",
+  "C": "30-31\/01\/1968",
+  "D": "27\/01\/1973",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "63",
+  "QUESTION": "Âm mưu nào của các thế lực thù địch được LLVT Thành phố xác định là nguy cơ?",
+  "A": "Đầu tư kinh tế",
+  "B": "Phát triển xã hội",
+  "C": "Diễn biến hòa bình, bạo loạn lật đổ",
+  "D": "Truyền bá văn hóa ngoại lai",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "64",
+  "QUESTION": "Chiến dịch Crimp diễn ra năm nào?",
+  "A": "1965",
+  "B": "1967",
+  "C": "1966",
+  "D": "1968",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "65",
+  "QUESTION": "Mục tiêu của Cedar Falls là gì?",
+  "A": "Đánh vào Bắc Củ Chi",
+  "B": "Đánh vào sân bay Tân Sơn Nhất",
+  "C": "Đánh vào tam giác sắt",
+  "D": "Đánh vào Phước Long",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "66",
+  "QUESTION": "Chiến dịch Cedar Falls kéo dài bao nhiêu ngày?",
+  "A": "10 ngày",
+  "B": "12 ngày",
+  "C": "18 ngày",
+  "D": "20 ngày",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "67",
+  "QUESTION": "LLVT Thành phố luôn thể hiện sự trung thành tuyệt đối với",
+  "A": "Đảng, chế độ xã hội chủ nghĩa, Nhân dân",
+  "B": "Chính phủ và Quân đội",
+  "C": "Lực lượng an ninh",
+  "D": "Hội đồng nhân dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "68",
+  "QUESTION": "Chiến thuật chủ yếu của Mỹ trong chiến tranh cục bộ là?",
+  "A": "Phá hoại miền Bắc",
+  "B": "Du kích chiến",
+  "C": "Đánh nhanh rút gọn",
+  "D": "Trực thăng vận, nhảy cóc, đổ chụp",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "69",
+  "QUESTION": "Mục tiêu chính của Cedar Falls?",
+  "A": "Xóa sổ “tam giác sắt”",
+  "B": "Cứu tù binh",
+  "C": "Đánh phá Bắc Bộ",
+  "D": "Tràn ngập miền Tây",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "70",
+  "QUESTION": "Lực lượng nào đánh vào Dinh Độc Lập Tết Mậu Thân?",
+  "A": "Tiểu đoàn Quyết Thắng",
+  "B": "Đặc công nước",
+  "C": "Biệt động Sài Gòn",
+  "D": "Trung đoàn 10",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "71",
+  "QUESTION": "Chiến dịch Mậu Thân diễn ra vào thời điểm nào?",
+  "A": "31\/12\/1967",
+  "B": "8-26\/01\/1967",
+  "C": "27\/01\/1973",
+  "D": "30-31\/01\/1968",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "72",
+  "QUESTION": "Cuộc tổng tiến công Tết Mậu Thân diễn ra năm nào?",
+  "A": "1967",
+  "B": "1969",
+  "C": "1970",
+  "D": "1968",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "73",
+  "QUESTION": "Ngày 14\/01\/2011, Bộ Chỉ huy Quân sự Thành phố được đổi tên thành gì?",
+  "A": "Quân khu Thành phố",
+  "B": "Sở Chỉ huy TP",
+  "C": "Bộ Tư lệnh Thành phố Hồ Chí Minh",
+  "D": "Lực lượng An ninh Thành phố",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "74",
+  "QUESTION": "Tàn quân địch còn lẩn trốn tại Thành phố sau giải phóng có khoảng",
+  "A": "10000",
+  "B": "15000",
+  "C": "20000",
+  "D": "25000",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "75",
+  "QUESTION": "Lực lượng Biệt động tiến công vào mục tiêu nào trong Mậu Thân?",
+  "A": "Dinh Độc Lập",
+  "B": "Đài truyền hình Huế",
+  "C": "Phủ Chủ tịch",
+  "D": "Bộ Quốc phòng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "76",
+  "QUESTION": "Bộ Tư lệnh Thành phố Hồ Chí Minh trực thuộc đơn vị nào?",
+  "A": "Quân khu 9",
+  "B": "Bộ Quốc phòng",
+  "C": "Thành ủy",
+  "D": "Quân khu 7",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "77",
+  "QUESTION": "Danh hiệu Anh hùng LLVTND lần thứ hai được trao cho LLVT Thành phố vào năm nào?",
+  "A": "2005",
+  "B": "2010",
+  "C": "2015",
+  "D": "2011",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "78",
+  "QUESTION": "Sau Mậu Thân, Mỹ buộc phải làm gì?",
+  "A": "Tăng quân",
+  "B": "Đàm phán ở Paris",
+  "C": "Tấn công Hà Nội",
+  "D": "Ký kết với ngụy quyền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "79",
+  "QUESTION": "Thành tích đặc biệt xuất sắc của LLVT TP trong đợt phong tặng lần 2 là gì?",
+  "A": "Xây dựng nhà tình nghĩa",
+  "B": "Huấn luyện chiến đấu",
+  "C": "Chiến đấu và phục vụ chiến đấu",
+  "D": "Hợp tác quốc tế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "80",
+  "QUESTION": "LLVT Thành phố xây dựng thế trận quốc phòng toàn dân gắn với thế trận gì?",
+  "A": "Thế trận an ninh nhân dân",
+  "B": "Thế trận biển đảo",
+  "C": "Thế trận phòng thủ kinh tế",
+  "D": "Thế trận văn hóa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "81",
+  "QUESTION": "Sau Mậu Thân 1968, Mỹ buộc phải làm gì?",
+  "A": "Đẩy mạnh chiến tranh",
+  "B": "Mở rộng chiến dịch",
+  "C": "Ngồi vào bàn đàm phán tại Paris",
+  "D": "Tăng viện binh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "82",
+  "QUESTION": "Hiệp định Paris ký ngày nào?",
+  "A": "30\/4\/1975",
+  "B": "27\/1\/1973",
+  "C": "2\/9\/1945",
+  "D": "20\/7\/1954",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "83",
+  "QUESTION": "Ai là nữ anh hùng tiêu biểu trong kháng chiến chống Pháp?",
+  "A": "Nguyễn Thị Bình",
+  "B": "Nguyễn Thị Định",
+  "C": "Võ Thị Sáu",
+  "D": "Nguyễn Thị Lan (Lan Mê Linh)",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "84",
+  "QUESTION": "Bộ trưởng Bộ Quốc phòng đã ra Quyết định số bao nhiêu về đổi tên Bộ Chỉ huy Quân sự TP?",
+  "A": "120\/QĐ-BQP",
+  "B": "150\/QĐ-BQP",
+  "C": "100\/QĐ-BQP",
+  "D": "160\/QĐ-BQP",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "85",
+  "QUESTION": "Một trong những nhiệm vụ LLVT Thành phố sau giải phóng là",
+  "A": "Bắt buôn lậu qua biên giới",
+  "B": "Xây dựng tuyến đường Hồ Chí Minh",
+  "C": "Dập tắt hành động phá hoại gây rối của các tổ chức phản động",
+  "D": "Ngăn chặn vượt biên",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "86",
+  "QUESTION": "Hiệp định Paris được ký vào ngày nào?",
+  "A": "30\/4\/1975",
+  "B": "2\/9\/1972",
+  "C": "27\/01\/1973",
+  "D": "19\/5\/1975",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "87",
+  "QUESTION": "Sau Hiệp định Paris, LLVT Thành phố làm gì?",
+  "A": "Rút lui về căn cứ",
+  "B": "Giữ thế chủ động, bảo vệ vùng giải phóng",
+  "C": "Ngừng chiến đấu",
+  "D": "Phá hoại hiệp định",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "88",
+  "QUESTION": "LLVT Thành phố đã thực hiện chương trình kết nghĩa với đơn vị quân đội nào?",
+  "A": "Myanmar",
+  "B": "Quân đội Hoàng gia Campuchia",
+  "C": "Thái Lan",
+  "D": "Lào",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "89",
+  "QUESTION": "Căn cứ Rừng Làng thuộc địa bàn nào?",
+  "A": "An Nhơn Tây – Củ Chi",
+  "B": "Trảng Bàng",
+  "C": "Phú Mỹ Hưng",
+  "D": "Tân Bình",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "90",
+  "QUESTION": "Nhiệm vụ chính của LLVT Thành phố trong chiến dịch Hồ Chí Minh?",
+  "A": "Gọi hàng, mở đường, phối hợp tiến công",
+  "B": "Đánh hậu phương địch",
+  "C": "Đưa quân ra miền Bắc",
+  "D": "Rút về phòng thủ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "91",
+  "QUESTION": "Ai là người phối hợp với nhân dân Củ Chi đánh bại \"trực thăng vận\"?",
+  "A": "Đơn vị C13",
+  "B": "Đoàn 10 Rừng Sác",
+  "C": "Tiểu đoàn 1 Quyết Thắng",
+  "D": "Đội biệt động",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "92",
+  "QUESTION": "Đơn vị nào có nghệ thuật đánh sáng tạo tại nội thành?",
+  "A": "Đặc công Rừng Sác",
+  "B": "Dân quân du kích",
+  "C": "Lữ đoàn phòng không",
+  "D": "Biệt động",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "93",
+  "QUESTION": "Tổng giá trị hỗ trợ từ LLVT TP cho dân trong đại dịch Covid-19 là bao nhiêu?",
+  "A": "100 tỷ",
+  "B": "300 tỷ",
+  "C": "200 tỷ",
+  "D": "400 tỷ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "94",
+  "QUESTION": "LLVT Thành phố đã được phong tặng danh hiệu Anh hùng LLVTND lần thứ 3 vào thời gian nào?",
+  "A": "2024",
+  "B": "2022",
+  "C": "2025",
+  "D": "2023",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "95",
+  "QUESTION": "Cuộc tấn công vào Đại sứ quán Mỹ diễn ra vào năm nào?",
+  "A": "1964",
+  "B": "1966",
+  "C": "1965",
+  "D": "1968",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "96",
+  "QUESTION": "LLVT TP đã hoàn thành bao nhiêu % chỉ tiêu giao quân hằng năm?",
+  "A": "100%",
+  "B": "90%",
+  "C": "95%",
+  "D": "98%",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "97",
+  "QUESTION": "Chỉ thị nào của Bộ trưởng Bộ Quốc phòng được LLVT Thành phố thực hiện?",
+  "A": "917 và 79",
+  "B": "88 và 101",
+  "C": "50 và 100",
+  "D": "70 và 75",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "98",
+  "QUESTION": "LLVT TP đã thực hiện mô hình giúp đỡ đồng bào nào?",
+  "A": "Dân tộc, tôn giáo",
+  "B": "Kiều bào",
+  "C": "Công nhân",
+  "D": "Ngư dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "99",
+  "QUESTION": "Tàu Victoria bị đánh chìm tại đâu?",
+  "A": "Sông Sài Gòn",
+  "B": "Nhà Bè",
+  "C": "Vàm Cống",
+  "D": "Biển Đông",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "100",
+  "QUESTION": "Nội dung nào được đổi mới trong huấn luyện?",
+  "A": "Phòng thủ dân sự, tìm kiếm cứu nạn",
+  "B": "Dạy tiếng Trung",
+  "C": "Xây dựng công trình giao thông",
+  "D": "Quản lý doanh nghiệp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "101",
+  "QUESTION": "Các mục tiêu trọng điểm được LLVT bảo vệ bao gồm",
+  "A": "Kho tàng, bến bãi, trụ sở chính quyền",
+  "B": "Trường học và bệnh viện",
+  "C": "Nhà máy và siêu thị",
+  "D": "Công viên và khu vui chơi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "102",
+  "QUESTION": "LLVT TP thường xuyên tuyên truyền về hình ảnh nào?",
+  "A": "Chiến sĩ cảnh sát",
+  "B": "Lực lượng phòng cháy chữa cháy",
+  "C": "Công nhân quốc phòng",
+  "D": "Bộ đội Cụ Hồ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "103",
+  "QUESTION": "Thời điểm cắm cờ lên dinh Độc Lập?",
+  "A": "10 giờ ngày 30\/4\/1975",
+  "B": "11 giờ ngày 29\/4\/1975",
+  "C": "11 giờ 30 phút ngày 30\/4\/1975",
+  "D": "12 giờ ngày 1\/5\/1975",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "104",
+  "QUESTION": "Trung đoàn nào thuộc LLVT Thành phố từng tham gia chiến đấu tại Campuchia?",
+  "A": "Trung đoàn 4 Quyết Thắng",
+  "B": "Trung đoàn 812",
+  "C": "Trung đoàn 742",
+  "D": "Trung đoàn Tây Sơn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "105",
+  "QUESTION": "Nhận thức và trách nhiệm của quân nhân đối với gia đình, đơn vị, đồng chí, đồng đội là:",
+  "A": "Các khái niệm riêng biệt",
+  "B": "Một chỉnh thể thống nhất hỗ trợ lẫn nhau",
+  "C": "Chỉ là nhiệm vụ cấp trên giao",
+  "D": "Chỉ mang tính cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "106",
+  "QUESTION": "Khi quân nhân có trách nhiệm với đơn vị thì",
+  "A": "Không cần quan tâm gia đình",
+  "B": "Tự động có trách nhiệm với đồng đội và gia đình",
+  "C": "Chỉ tập trung vào nhiệm vụ cá nhân",
+  "D": "Chỉ tuân theo cấp trên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "107",
+  "QUESTION": "Chủ thể nâng cao nhận thức, trách nhiệm cho quân nhân không bao gồm",
+  "A": "Cấp ủy, chỉ huy, chính ủy, chính trị viên",
+  "B": "Cơ quan chính trị và tổ chức trong đơn vị",
+  "C": "Bản thân quân nhân",
+  "D": "Bộ Quốc phòng trực tiếp gánh vác",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "108",
+  "QUESTION": "Vai trò của nâng cao nhận thức, trách nhiệm đối với đồng chí, đồng đội là",
+  "A": "Tăng cường năng lực cá nhân",
+  "B": "Tạo đoàn kết, yêu thương, giúp đỡ lẫn nhau",
+  "C": "Chỉ nhằm đáp ứng yêu cầu tổ chức",
+  "D": "Duy trì kỷ luật nghiêm ngặt",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "109",
+  "QUESTION": "Nâng cao trách nhiệm của quân nhân đối với gia đình giúp",
+  "A": "Tập trung vào nhiệm vụ đơn vị",
+  "B": "Xây dựng \"gia đình quân nhân văn hóa, hạnh phúc\"",
+  "C": "Bỏ bê cuộc sống sau chiến đấu",
+  "D": "Ưu tiên công việc cơ quan",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "110",
+  "QUESTION": "Ý nghĩa của gia đình, đơn vị, đồng đội đối với quân nhân xuất phát từ",
+  "A": "Quy định pháp luật",
+  "B": "Vị trí, vai trò quan trọng trong đời sống cá nhân",
+  "C": "Áp lực từ xã hội",
+  "D": "Yêu cầu học tập",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "111",
+  "QUESTION": "Việc nâng cao trách nhiệm quân nhân là yêu cầu từ",
+  "A": "Tình hình an ninh tĩnh tại",
+  "B": "Công tác xây dựng Quân đội trong tình hình mới",
+  "C": "Yêu cầu phát triển kinh tế",
+  "D": "Thay đổi chính sách quốc phòng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "112",
+  "QUESTION": "Hạn chế trong thực tế hiện nay KHÔNG phải là",
+  "A": "Ý thức tự giác chưa nghiêm",
+  "B": "Tâm lý quân nhân luôn mạnh mẽ",
+  "C": "Một số cán bộ mất phẩm chất đạo đức",
+  "D": "Lãnh đạo thiếu sát sao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "113",
+  "QUESTION": "Một trong những ưu điểm hiện tại là",
+  "A": "Quân nhân ít quan tâm đến chính trị",
+  "B": "Quân nhân giữ vững lý tưởng, sống giản dị, đặt lợi ích tập thể lên cá nhân",
+  "C": "Thiếu trách nhiệm xã hội",
+  "D": "Giao tiếp yếu với cấp trên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "114",
+  "QUESTION": "Nguyên nhân chủ yếu của hạn chế trên đến từ:",
+  "A": "Thiếu cơ sở vật chất",
+  "B": "Thiếu nhận thức, kỷ luật, sa ngã trước khó khăn",
+  "C": "Yếu tố khách quan bên ngoài",
+  "D": "Quân đội quá nặng về kỷ luật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "115",
+  "QUESTION": "Nâng cao nhận thức phải được gắn với:",
+  "A": "Giáo dục chính trị",
+  "B": "Sự giám sát của dân chúng",
+  "C": "Trừng phạt nghiêm khắc",
+  "D": "Tẩy chay riêng lẻ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "116",
+  "QUESTION": "Cần xác định rõ trách nhiệm của quân nhân đối với:",
+  "A": "Cấp trên và cá nhân",
+  "B": "Gia đình, đơn vị, đồng chí, đồng đội",
+  "C": "Đơn vị và nhiệm vụ chiến đấu",
+  "D": "Cá nhân và chiến trường",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "117",
+  "QUESTION": "Việc nâng cao nhận thức, trách nhiệm phải được tiến hành",
+  "A": "Định kỳ mỗi năm một lần",
+  "B": "Thường xuyên, lâu dài, dưới sự lãnh đạo cấp ủy",
+  "C": "Khi có vi phạm xảy ra",
+  "D": "Theo phong trào hoặc chiến dịch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "118",
+  "QUESTION": "Việc phối hợp để nâng cao nhận thức quân nhân nên kết hợp với",
+  "A": "Bộ Quốc phòng và Bộ Công an",
+  "B": "Địa phương và gia đình",
+  "C": "Tổ chức phi chính phủ",
+  "D": "Doanh nghiệp quốc phòng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "119",
+  "QUESTION": "Cần tăng cường lãnh đạo, chỉ đạo của",
+  "A": "Cấp ủy, tổ chức đảng, chính ủy, chính trị viên, người chỉ huy",
+  "B": "Bộ Quốc phòng",
+  "C": "Ban tổ chức Trung ương",
+  "D": "Các đoàn thể xã hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "120",
+  "QUESTION": "Nắm và giải quyết tư tưởng quân nhân:",
+  "A": "Qua báo chí quân đội",
+  "B": "Qua phương pháp thủ công",
+  "C": "Thường xuyên, tạo sự thống nhất trong cấp ủy, chỉ huy",
+  "D": "Khi xảy ra sự cố nghiêm trọng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "121",
+  "QUESTION": "Vai trò của lãnh đạo, chỉ huy trong giải pháp là",
+  "A": "Giám sát chặt chẽ tài chính",
+  "B": "Nêu gương, tạo nguồn cảm hứng cho quân nhân",
+  "C": "Cấm đoán mọi sai phạm",
+  "D": "Phân công gia đình quản lý",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "122",
+  "QUESTION": "Mối quan hệ cần xây dựng giữa đơn vị và:",
+  "A": "Công ty quân sự",
+  "B": "Media",
+  "C": "Địa phương và gia đình quân nhân",
+  "D": "Nghiệp đoàn người lao động",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "123",
+  "QUESTION": "Để nâng cao nhận thức cần",
+  "A": "Đặt trọng tâm vào ngôn từ, phát ngôn",
+  "B": "Xây dựng niềm tin, truyền cảm hứng, cổ vũ tự giác",
+  "C": "Áp đặt quy định nghiêm khắc",
+  "D": "Phát thưởng vật chất",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "124",
+  "QUESTION": "Môi trường văn hóa quân sự cần",
+  "A": "Mạnh mẽ, nghiêm khắc, lạnh lùng",
+  "B": "Trong sạch, lành mạnh, xây dựng \"gia đình quân nhân hạnh phúc bền vững\"",
+  "C": "Tập trung vào chiến đấu thuần túy",
+  "D": "Mang tính thương mại hóa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "125",
+  "QUESTION": "Khi quân nhân có trách nhiệm với đơn vị thì có ảnh hưởng đến trách nhiệm với gia đình như thế nào?",
+  "A": "Không ảnh hưởng",
+  "B": "Hỗ trợ nâng cao trách nhiệm với gia đình",
+  "C": "Là gánh nặng cho gia đình",
+  "D": "Giảm năng suất công tác",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "126",
+  "QUESTION": "Nếu thiếu lãnh đạo sâu sát từ cấp ủy… hậu quả có thể là",
+  "A": "Quân nhân lơ là nhiệm vụ",
+  "B": "Phát triển quá nhanh",
+  "C": "Tăng hiệu quả",
+  "D": "Được động viên mạnh mẽ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "127",
+  "QUESTION": "Tính tự giác của quân nhân cần được tăng cường bằng",
+  "A": "Giáo dục chính trị thường xuyên",
+  "B": "Phạt tiền",
+  "C": "Điềlyphù hợp thời",
+  "D": "Giảm trách nhiệm gia đình",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "128",
+  "QUESTION": "Vai trò của gia đình trong xây dựng nhân cách quân nhân là:",
+  "A": "Không quan trọng",
+  "B": "Hạt nhân nuôi dưỡng trách nhiệm",
+  "C": "Chỉ giáo dục trẻ nhỏ",
+  "D": "Tạo vấn đề phụ trợ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "129",
+  "QUESTION": "Một giải pháp tăng đoàn kết đồng đội là:",
+  "A": "Tổ chức thi đấu cá nhân",
+  "B": "Đào tạo chính trị viên",
+  "C": "Đẩy mạnh trách nhiệm nêu gương",
+  "D": "Giao trách nhiệm cha truyền con nối",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "130",
+  "QUESTION": "Thiếu cảm hứng, tự giác trong đơn vị dễ dẫn đến",
+  "A": "Phá kỷ luật, lỏng lẻo đồng đội",
+  "B": "Tăng đoàn kết",
+  "C": "Giáo dục chính trị mạnh",
+  "D": "Chấp hành nghiêm kỷ luật",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "131",
+  "QUESTION": "Khi có quân nhân gặp tâm lý yếu, đơn vị nên:",
+  "A": "Cách ly khỏi nhóm",
+  "B": "Hỗ trợ qua giáo dục, tâm lý",
+  "C": "Đuổi khỏi quân đội",
+  "D": "Bỏ qua",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "132",
+  "QUESTION": "Xây dựng \"gia đình quân nhân hạnh phúc bền vững\" giúp:",
+  "A": "Giảm chất lượng nhiệm vụ",
+  "B": "Tạo hậu phương vững chắc, tăng trách nhiệm",
+  "C": "Gây phân tán quân nhân",
+  "D": "Không ảnh hưởng gì",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "133",
+  "QUESTION": "Việc gắn kết với địa phương và gia đình giúp",
+  "A": "Tăng trách nhiệm đơn vị",
+  "B": "Xóa bỏ trách nhiệm cá nhân",
+  "C": "Giảm trọng trách quân sự",
+  "D": "Tạo nguồn cảm hứng lâu dài",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "134",
+  "QUESTION": "Giá trị lớn nhất cần xây dựng trong quân đội hiện nay là:",
+  "A": "Tinh thần chuyên môn",
+  "B": "Tinh thần trách nhiệm – đoàn kết – gia đình",
+  "C": "Kỷ luật nghiêm ngặt",
+  "D": "Chiến thuật hiện đại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "135",
+  "QUESTION": "Thiếu kiểm tra, giám sát tư tưởng dẫn đến",
+  "A": "Tăng minh bạch",
+  "B": "Xuống cấp về trách nhiệm",
+  "C": "Đổi mới sáng tạo",
+  "D": "Giảm áp lực nhân sự",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "136",
+  "QUESTION": "Khi xảy ra vi phạm, cấp ủy cần:",
+  "A": "Im lặng chờ phong trào qua",
+  "B": "Rút kinh nghiệm, đề ra giải pháp khắc phục",
+  "C": "Phạt nghiêm khắc ngay lập tức",
+  "D": "Tạm đình chỉ toàn đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "137",
+  "QUESTION": "Lãnh đạo cần đi đầu trong trách nhiệm và:",
+  "A": "Không cần gương mẫu",
+  "B": "Gương mẫu trong cuộc sống và công tác",
+  "C": "Chỉ lo hoàn thành nhiệm vụ",
+  "D": "Ưa thích cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "138",
+  "QUESTION": "Giáo dục chính trị cần",
+  "A": "Rập khuôn, kiểu mẫu",
+  "B": "Phù hợp đối tượng, sáng tạo và hiệu quả",
+  "C": "Chỉ cấp độ trung ương tự thực hiện",
+  "D": "Ghi trước rồi thực hiện sau",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "139",
+  "QUESTION": "Thiếu văn hóa quân sự trong đơn vị dễ gây ra:",
+  "A": "Môi trường tích cực",
+  "B": "Lãnh đạo thiếu phong cách",
+  "C": "Biểu hiện tâm lý yếu, vi phạm kỷ luật",
+  "D": "Tăng đoàn kết nội bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "140",
+  "QUESTION": "Quân nhân vắng trách nhiệm với gia đình có thể:",
+  "A": "Gây tâm lý hoang mang, ảnh hưởng nhiệm vụ",
+  "B": "Tăng hiệu quả chiến đấu",
+  "C": "Phát triển phong trào toàn quân",
+  "D": "Không ảnh hưởng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "141",
+  "QUESTION": "Một đơn vị có văn hóa quân sự lành mạnh sẽ:",
+  "A": "Tăng vi phạm nội bộ",
+  "B": "Tạo sức mạnh tổng hợp, khắc phục khó khăn",
+  "C": "Chỉ tập trung kỷ luật",
+  "D": "Thiếu sáng tạo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "142",
+  "QUESTION": "Quân nhân có trách nhiệm với đơn vị sẽ:",
+  "A": "Lơ là với đồng đội",
+  "B": "Tăng trách nhiệm với gia đình và đồng đội",
+  "C": "Bỏ bê địa phương",
+  "D": "Gây hại đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "143",
+  "QUESTION": "Tổ chức đảng trong đơn vị cần:",
+  "A": "Bỏ qua giáo dục chính trị",
+  "B": "Tăng cường lãnh đạo, kiểm tra thường xuyên",
+  "C": "Tin tưởng mọi thứ ổn định",
+  "D": "Phớt lờ khuyết điểm nhỏ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "144",
+  "QUESTION": "Giai đoạn hiện nay, quân nhân cần nhận thức rõ",
+  "A": "Chỉ cần làm nhiệm vụ đơn vị",
+  "B": "Có trách nhiệm cả với gia đình, đồng chí, đồng đội",
+  "C": "Gia đình là giới hạn cuối cùng",
+  "D": "Đồng đội không ảnh hưởng chính mình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "145",
+  "QUESTION": "“Hạt nhân” nuôi dưỡng trách nhiệm quân nhân là:",
+  "A": "Đảng bộ địa phương",
+  "B": "Bộ Quốc phòng",
+  "C": "Gia đình",
+  "D": "Đồng đội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "146",
+  "QUESTION": "Một biện pháp giúp quân nhân yên tâm công tác là:",
+  "A": "Nâng lương đơn thuần",
+  "B": "Lo hậu phương gia đình",
+  "C": "Hạn chế đi công tác",
+  "D": "Giảm trách nhiệm gia đình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "147",
+  "QUESTION": "\"Gia đình quân nhân hạnh phúc bền vững\" giúp",
+  "A": "Tăng áp lực nội bộ",
+  "B": "Tạo nền tảng tâm lý vững chắc",
+  "C": "Gây xáo trộn công việc",
+  "D": "Không liên quan đến quân đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "148",
+  "QUESTION": "Điều không thuộc yêu cầu nâng cao nhận thức là",
+  "A": "Gắn với giáo dục chính trị",
+  "B": "Xác định rõ trách nhiệm",
+  "C": "Thực hiện gián đoạn, ngắn hạn",
+  "D": "Phối hợp với địa phương, gia đình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "149",
+  "QUESTION": "Biện pháp không hiệu quả là",
+  "A": "Phát huy vai trò gương mẫu",
+  "B": "Tăng cường liên hệ đơn vị với địa phương",
+  "C": "Tập trung giáo dục thường xuyên",
+  "D": "Phớt lờ đời sống quân nhân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "150",
+  "QUESTION": "Để nâng cao trách nhiệm quân nhân cần",
+  "A": "Áp đặt quy định cứng nhắc",
+  "B": "Tạo động lực, cảm hứng và trách nhiệm tự giác",
+  "C": "Tuyển chọn mới hoàn toàn",
+  "D": "Phân tán tập trung quản lý",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "151",
+  "QUESTION": "Khi quân nhân còn yếu về tâm lý, đơn vị cần",
+  "A": "Để tự xử lý",
+  "B": "Giám sát, giúp đỡ và hỗ trợ",
+  "C": "Xây dựng luật cấm",
+  "D": "Loại khỏi quân đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "152",
+  "QUESTION": "Mối quan hệ “đơn vị – địa phương – gia đình” đóng vai trò:",
+  "A": "Phụ trợ bên lề",
+  "B": "Giúp quân nhân ổn định tư tưởng, hoàn thành nhiệm vụ",
+  "C": "Là nhiệm vụ thủ tục",
+  "D": "Không cần thiết",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "153",
+  "QUESTION": "Kỷ luật, trách nhiệm yếu có thể gây ra:",
+  "A": "Đoàn kết thăng hoa",
+  "B": "Vi phạm, mất an toàn",
+  "C": "Tăng sáng tạo",
+  "D": "Giao tiếp tốt hơn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "154",
+  "QUESTION": "Mục tiêu cuối cùng khi nâng cao nhận thức, trách nhiệm của quân nhân là",
+  "A": "Tăng doanh thu quân sự",
+  "B": "Xây dựng lực lượng vững mạnh, đáp ứng yêu cầu phát triển",
+  "C": "Phục vụ chính trị riêng lẻ",
+  "D": "Chuẩn hóa thủ tục hành chính",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "155",
+  "QUESTION": "Quân khu 7 có diện tích bao nhiêu km²?",
+  "A": "Hơn 40.000 km²",
+  "B": "Hơn 45.700 km²",
+  "C": "Hơn 50.000 km²",
+  "D": "Hơn 35.000 km²",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "156",
+  "QUESTION": "Quân khu 7 hiện gồm TP. Hồ Chí Minh và mấy tỉnh?",
+  "A": "7 tỉnh",
+  "B": "9 tỉnh",
+  "C": "8 tỉnh",
+  "D": "6 tỉnh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "157",
+  "QUESTION": "Quân khu 7 giáp biên giới với nước nào?",
+  "A": "Thái Lan",
+  "B": "Lào",
+  "C": "Campuchia",
+  "D": "Trung Quốc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "158",
+  "QUESTION": "Biên giới Quân khu 7 giáp Campuchia dài bao nhiêu km?",
+  "A": "527 km",
+  "B": "627 km",
+  "C": "717 km",
+  "D": "427 km",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "159",
+  "QUESTION": "Bờ biển Quân khu 7 dài bao nhiêu km?",
+  "A": "202 km",
+  "B": "302 km",
+  "C": "402 km",
+  "D": "502 km",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "160",
+  "QUESTION": "Quân khu 7 có bao gồm đảo nào sau đây?",
+  "A": "Hoàng Sa",
+  "B": "Côn Đảo",
+  "C": "Trường Sa",
+  "D": "Lý Sơn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "161",
+  "QUESTION": "Quân khu 7 có đầy đủ các vùng nào?",
+  "A": "Rừng núi và đồng bằng",
+  "B": "Đồng bằng và đô thị",
+  "C": "Rừng núi, đồng bằng và đô thị",
+  "D": "Trung du, đồng bằng và ven biển",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "162",
+  "QUESTION": "Miền Đông Nam Bộ được gọi là vùng đất như thế nào trong kháng chiến?",
+  "A": "Đi sau về trước",
+  "B": "Gian lao mà anh dũng",
+  "C": "Luôn tiên phong",
+  "D": "Bình yên và trù phú",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "163",
+  "QUESTION": "Quân khu 7 đóng góp bao nhiêu phần trăm ngân sách cả nước?",
+  "A": "31%",
+  "B": "35%",
+  "C": "41%",
+  "D": "45%",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "164",
+  "QUESTION": "Ngày truyền thống của Quân khu 7 là ngày nào?",
+  "A": "2\/9\/1945",
+  "B": "7\/5\/1954",
+  "C": "10\/12\/1945",
+  "D": "30\/4\/1975",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "165",
+  "QUESTION": "Năm 1961, thành lập Quân khu 7 và Quân khu nào khác?",
+  "A": "Quân khu 5",
+  "B": "Quân khu Sài Gòn – Gia Định",
+  "C": "Quân khu 9",
+  "D": "Quân khu Trị Thiên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "166",
+  "QUESTION": "Năm nào tái lập Quân khu 7 với địa bàn các tỉnh Đông Nam Bộ và Long An?",
+  "A": "1965",
+  "B": "1968",
+  "C": "1972",
+  "D": "1975",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "167",
+  "QUESTION": "Năm 1999, Quân khu 7 được bổ sung thêm những tỉnh nào?",
+  "A": "Lâm Đồng và Bình Phước",
+  "B": "Lâm Đồng và Bình Thuận",
+  "C": "Đắk Lắk và Lâm Đồng",
+  "D": "Bình Thuận và Bà Rịa – Vũng Tàu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "168",
+  "QUESTION": "Truyền thống của LLVT Quân khu 7 gồm mấy yếu tố tiêu biểu?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "169",
+  "QUESTION": "Một nét truyền thống tiêu biểu của LLVT Quân khu 7 là gì?",
+  "A": "Lùi bước trước khó khăn",
+  "B": "Tự lực, tự cường",
+  "C": "Dựa vào viện trợ nước ngoà",
+  "D": "Tập trung cục bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "170",
+  "QUESTION": "Truyền thống của LLVT Quân khu 7 là “Trung thành vô hạn, chủ động sáng tạo, tự lực tự cường, ...”",
+  "A": "Kỷ luật sắt đá",
+  "B": "Hợp tác phát triển",
+  "C": "Đoàn kết quyết thắng",
+  "D": "Chiến đấu liên tục",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "171",
+  "QUESTION": "Quân khu 7 đã làm gì để bảo vệ Tổ quốc từ sớm, từ xa?",
+  "A": "Giữ biên giới bằng rào chắn",
+  "B": "Hợp tác quốc tế, đặc biệt với Campuchia",
+  "C": "Giao thương xuyên quốc gia",
+  "D": "Cắt đứt liên lạc với nước ngoài",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "172",
+  "QUESTION": "Quân khu 7 từng chiến đấu trên chiến trường nào trong kháng chiến chống Mỹ?",
+  "A": "Chiến trường A",
+  "B": "Chiến trường C",
+  "C": "Chiến trường B2",
+  "D": "Chiến trường D",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "173",
+  "QUESTION": "Một trong các biện pháp phát triển LLVT Quân khu là gì?",
+  "A": "Giảm đào tạo cán bộ",
+  "B": "Giảm đào tạo cán bộ",
+  "C": "Xây dựng tinh thần “7 dám”",
+  "D": "Chỉ giữ bộ đội thường trực",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "174",
+  "QUESTION": "Đặc điểm của cán bộ đơn vị cơ sở là gì?",
+  "A": "Chủ yếu là cán bộ dân sự",
+  "B": "Tuổi trẻ, nhiệt huyết nhưng kinh nghiệm ít",
+  "C": "Chủ yếu là cán bộ dân sự",
+  "D": "Không tham gia quản lý đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "175",
+  "QUESTION": "Nét đặc trưng của LLVT Quân khu 7 trong kháng chiến chống Pháp là gì?",
+  "A": "Tập trung tinh nhuệ",
+  "B": "Lối đánh chính quy",
+  "C": "Tự lực, tự cường, sáng tạo",
+  "D": "Di chuyển cơ động theo vùng chiến lược",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "176",
+  "QUESTION": "Trong kháng chiến chống Mỹ, miền Đông Nam Bộ thuộc chiến trường nào?",
+  "A": "A",
+  "B": "C1",
+  "C": "B1",
+  "D": "B2",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "177",
+  "QUESTION": "Sự kiện nào đánh dấu sự thành lập chính thức của Khu 7?",
+  "A": "2\/9\/1945",
+  "B": "23\/9\/1945",
+  "C": "10\/12\/1945",
+  "D": "7\/5\/1954",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "178",
+  "QUESTION": "Quân khu 7 hiện nay bao gồm mấy tỉnh và thành phố?",
+  "A": "9",
+  "B": "8",
+  "C": "10",
+  "D": "11",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "179",
+  "QUESTION": "Biển đảo nào không thuộc địa bàn Quân khu 7?",
+  "A": "Côn Đảo",
+  "B": "Phú Quý",
+  "C": "Trường Sa",
+  "D": "Không có đảo nào",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "180",
+  "QUESTION": "Mục tiêu xuyên suốt của LLVT Quân khu 7 là gì?",
+  "A": "Bảo vệ vùng biển",
+  "B": "Phát triển kinh tế",
+  "C": "Độc lập dân tộc và CNXH",
+  "D": "Bảo vệ biên giới phía Bắc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "181",
+  "QUESTION": "Một biểu hiện của sự chủ động trong chỉ huy LLVT Quân khu là gì?",
+  "A": "Trực tiếp xin lệnh từ Bộ Quốc phòng",
+  "B": "Tự xây dựng phương án chiến đấu",
+  "C": "Lựa chọn vũ khí riêng biệt",
+  "D": "Không hành động nếu chưa có mệnh lệnh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "182",
+  "QUESTION": "LLVT Quân khu đã góp phần giúp nước bạn nào giữ vững độc lập?",
+  "A": "Lào",
+  "B": "Thái Lan",
+  "C": "Campuchia",
+  "D": "Philippines",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "183",
+  "QUESTION": "LLVT Quân khu đã nhiều lần được tặng thưởng gì?",
+  "A": "Bằng khen Thủ tướng",
+  "B": "Cờ thi đua",
+  "C": "Huân chương cao quý",
+  "D": "Danh hiệu doanh nghiệp anh hùng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "184",
+  "QUESTION": "Một trong những nhiệm vụ trọng tâm của LLVT Quân khu trong giai đoạn hiện nay là gì?",
+  "A": "Phát triển giao thương",
+  "B": "Bảo vệ chủ quyền biển đảo",
+  "C": "Chống dịch",
+  "D": "Bảo vệ an ninh trật tự đô thị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "185",
+  "QUESTION": "Cán bộ cơ sở là người chịu trách nhiệm trực tiếp về?",
+  "A": "Trang bị kỹ thuật",
+  "B": "Chỉ huy, quản lý đơn vị cơ sở",
+  "C": "Tuyển chọn chiến sĩ mới",
+  "D": "Tổ chức cấp chiến dịch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "186",
+  "QUESTION": "Một yêu cầu trong xây dựng cán bộ cơ sở là gì?",
+  "A": "Phải có bằng thạc sĩ",
+  "B": "Có kinh nghiệm 20 năm trở lên",
+  "C": "Có đạo đức, bản lĩnh chính trị vững vàng",
+  "D": "Phải có trình độ tiếng Anh thành thạo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "187",
+  "QUESTION": "Cán bộ cơ sở thường có độ tuổi thế nào?",
+  "A": "Trung bình 50 tuổi",
+  "B": "Tuổi trẻ, năng động",
+  "C": "Ngoài 60 tuổi mới được bổ nhiệm",
+  "D": "Tuổi nghỉ hưu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "188",
+  "QUESTION": "Nâng cao năng lực cán bộ phải gắn liền với việc gì?",
+  "A": "Cải tổ chính sách cấp Bộ",
+  "B": "Giảm biên chế toàn lực lượng",
+  "C": "Tổ chức rút kinh nghiệm thực tế",
+  "D": "Rèn luyện theo tinh thần \"7 dám\"",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "189",
+  "QUESTION": "Một biểu hiện của năng lực chỉ huy là gì?",
+  "A": "Sở hữu bằng cấp cao",
+  "B": "Có nhiều thành tích cá nhân",
+  "C": "Trình độ, kỹ năng, thái độ chỉ huy",
+  "D": "Biết cách xin hỗ trợ từ cấp trên",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "190",
+  "QUESTION": "Việc tạo môi trường tốt cho cán bộ cơ sở giúp gì?",
+  "A": "Thăng tiến nhanh hơn",
+  "B": "Giảm sai sót trong huấn luyện",
+  "C": "Tự nâng cao năng lực",
+  "D": "Cải cách tài chính quốc phòng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "191",
+  "QUESTION": "Một phương pháp nâng cao năng lực cán bộ hiệu quả là gì?",
+  "A": "Học lý thuyết trên lớp",
+  "B": "Được bổ nhiệm cấp cao",
+  "C": "Kết hợp lý thuyết với thực tiễn",
+  "D": "Không cần học chính trị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "192",
+  "QUESTION": "Nội dung nào sau đây không phải là yêu cầu trong rèn luyện cán bộ cơ sở?",
+  "A": "Gắn bó với đơn vị",
+  "B": "Xây dựng đội nhóm",
+  "C": "Tư duy chiến lược cấp Bộ",
+  "D": "Chấp hành tốt kỷ luật",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "193",
+  "QUESTION": "Cán bộ cơ sở cần phát huy yếu tố nào để phù hợp với xu thế hiện đại?",
+  "A": "Ngoại ngữ và công nghệ",
+  "B": "Truyền thống gia đình",
+  "C": "Địa phương chủ nghĩa",
+  "D": "Kinh nghiệm truyền miệng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "194",
+  "QUESTION": "Một yếu tố giúp duy trì tổ chức đơn vị vững mạnh là gì?",
+  "A": "Quy trình phê duyệt chính sách",
+  "B": "Sự đồng thuận giữa chỉ huy và chiến sĩ",
+  "C": "Kiểm soát vũ khí hiện đại",
+  "D": "Giảm ngân sách quốc phòng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "195",
+  "QUESTION": "Theo Hồ Chí Minh, dân chủ trong quân đội phải đi kèm với điều gì?",
+  "A": "Thưởng phạt nghiêm minh",
+  "B": "Tự phê bình thường xuyên",
+  "C": "Kỷ luật, tổ chức, tập trung",
+  "D": "Hạn chế tranh luận công khai",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "196",
+  "QUESTION": "Hồ Chí Minh nhấn mạnh cán bộ phải làm gì để thực hiện dân chủ?",
+  "A": "Giao việc cho cấp dưới",
+  "B": "Tăng cường mệnh lệnh",
+  "C": "Làm gương mẫu",
+  "D": "Nâng cao cấp bậc quân hàm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "197",
+  "QUESTION": "Một trong những nguyên nhân làm dân chủ – kỷ luật chưa hiệu quả là gì?",
+  "A": "Đơn vị quá đông",
+  "B": "Chưa có quy trình cụ thể",
+  "C": "Cán bộ, chiến sĩ thiếu tự giác",
+  "D": "Thiếu nguồn tài chính",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "198",
+  "QUESTION": "Việc duy trì quy chế dân chủ giúp gì cho quân đội?",
+  "A": "Cắt giảm ngân sách",
+  "B": "Giảm khủng hoảng nội bộ",
+  "C": "Tăng cường đoàn kết, đồng thuận nội bộ",
+  "D": "Dễ kiểm soát truyền thông nội bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "199",
+  "QUESTION": "Để thực hành dân chủ nghiêm túc, cần tăng cường vai trò của ai?",
+  "A": "Báo chí quân đội",
+  "B": "Hội đồng nhân dân",
+  "C": "Cấp ủy, tổ chức Đảng, chỉ huy",
+  "D": "Bộ tài chính",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "200",
+  "QUESTION": "Một hình thức dân chủ hiệu quả được áp dụng hiện nay là gì?",
+  "A": "Phổ biến công khai kế hoạch chiến đấu",
+  "B": "Đường dây nóng, diễn đàn nội bộ",
+  "C": "Họp kín với cấp trên",
+  "D": "Tự đánh giá kín giữa cán bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "201",
+  "QUESTION": "Tư tưởng Hồ Chí Minh về dân chủ – kỷ luật nhấn mạnh yếu tố nào là cốt lõi?",
+  "A": "Tính dân chủ hơn kỷ luật",
+  "B": "Sức mạnh đoàn kết",
+  "C": "Cân bằng dân chủ và kỷ luật",
+  "D": "Áp dụng dân chủ theo xu hướng phương Tây",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "202",
+  "QUESTION": "Một biểu hiện dân chủ cực đoan là gì?",
+  "A": "Tự phê bình tích cực",
+  "B": "Khiếu kiện vượt cấp, nặc danh",
+  "C": "Đề xuất cải tiến công tác",
+  "D": "Tham gia diễn đàn góp ý",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "203",
+  "QUESTION": "Theo Hồ Chí Minh, điều gì đi liền với tự phê bình?",
+  "A": "Phê bình người khác",
+  "B": "Kỷ luật nghiêm",
+  "C": "Phê bình và khắc phục khuyết điểm",
+  "D": "Giữ thể diện lãnh đạo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "204",
+  "QUESTION": "Một môi trường văn hóa quân sự tốt sẽ giúp gì?",
+  "A": "Tạo điều kiện thi đua lành mạnh",
+  "B": "Giảm ngân sách hành chính",
+  "C": "Tăng quyền tự quyết đơn vị",
+  "D": "Bãi bỏ một số nguyên tắc kỷ luật",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "205",
+  "QUESTION": "Theo Điều 1 của Quy định 144‑QĐ\/TW, cán bộ đảng viên cần đặt ưu tiên lên trên hết điều gì?",
+  "A": "Sự thăng tiến cá nhân",
+  "B": "Lợi ích quốc gia – dân tộc",
+  "C": "Ý kiến của bạn bè",
+  "D": "Biên chế đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "206",
+  "QUESTION": "Theo Điều 2, chuẩn mực “bản lĩnh, đổi mới, sáng tạo, hội nhập” KHÔNG bao gồm yếu tố nào sau đây?",
+  "A": "Kiên định mục tiêu độc lập dân tộc và CNXH",
+  "B": "Tự phong là chuyên gia không cần học hỏi",
+  "C": "Dám chịu trách nhiệm, dám đương đầu với thách thức",
+  "D": "Chủ động nâng cao năng lực, làm việc trong môi trường quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "207",
+  "QUESTION": "Điều 3 – “Cần, kiệm, liêm, chính, chí công vô tư” ưu tiên tiêu chí nào?",
+  "A": "Quản lý tài sản công thoải mái",
+  "B": "Tiết kiệm và sử dụng hiệu quả tài nguyên công",
+  "C": "Theo đuổi danh tiếng cá nhân",
+  "D": "Phát biểu công khai, không cần kiểm chứng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "208",
+  "QUESTION": "Theo Điều 4 về “đoàn kết, kỷ cương, tình thương, trách nhiệm”, điều nào sau đây là vi phạm nguyên tắc?",
+  "A": "Tổ chức kỷ luật, kỷ cương nghiêm minh",
+  "B": "Tôn trọng đồng chí và giúp đỡ đồng nghiệp",
+  "C": "Đùn đẩy trách nhiệm và làm việc cầm chừng",
+  "D": "Giữ gìn sự thống nhất trong chi bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "209",
+  "QUESTION": "Trong Điều 5 – “gương mẫu, khiêm tốn, tu dưỡng, học tập suốt đời”, cán bộ cần gì?",
+  "A": "Ghi lý thuyết nhưng không áp dụng thực tiễn",
+  "B": "Cóp nhặt phong cách lãnh đạo từ phim ảnh",
+  "C": "Gọi điện tự chúc mừng thành tích",
+  "D": "Tích cực học tập, khiêm tốn và nói đi đôi với làm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "210",
+  "QUESTION": "Chuẩn mực đạo đức cách mạng bao gồm yếu tố nào liên kết với nhân dân?",
+  "A": "Che giấu sai sót, không thừa nhận khuyết điểm",
+  "B": "Tự tách mình khỏi dân, làm việc riêng lẻ",
+  "C": "Tôn trọng, gần gũi, chăm lo đời sống nhân dân",
+  "D": "Chỉ quan tâm đến danh vọng cá nhân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "211",
+  "QUESTION": "Theo Quy định mới, “liêm” yêu cầu cán bộ phải làm gì?",
+  "A": "Chấp nhận tham nhũng nhỏ miễn là có lợi",
+  "B": "Phạm lỗi nhưng xin sau đó",
+  "C": "Trong sạch, không tham ô, chống suy thoái đạo đức",
+  "D": "Từ chối phê bình bản thân và người khác",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "212",
+  "QUESTION": "“Đoàn kết” đòi hỏi cán bộ, đảng viên cần tránh điều nào sau đây?",
+  "A": "Bé mảnh, bè cánh, chia rẽ trong đơn vị",
+  "B": "Giữ vững thống nhất trong chi bộ",
+  "C": "Xây dựng và chỉnh đốn Đảng vững mạnh",
+  "D": "Đối xử chân thành và giúp đỡ đồng chí",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "213",
+  "QUESTION": "Nội dung nào KHÔNG thuộc “Cần, kiệm, liêm, chính, chí công vô tư”?",
+  "A": "Phê bình cùng lành mạnh; nói sai không báo cáo",
+  "B": "Tiết kiệm ngân sách và tài sản công",
+  "C": "Không để gia đình trục lợi từ chức vụ",
+  "D": "Không để gia đình trục lợi từ chức vụ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "214",
+  "QUESTION": "Điều nào thể hiện tinh thần “bản lĩnh, đổi mới, sáng tạo, hội nhập”?",
+  "A": "Sợ thay đổi, chỉ theo lối cũ",
+  "B": "Không học tập để tham gia hội nhập",
+  "C": "Dám nghĩ, dám làm, dám chịu trách nhiệm, dám sáng tạo",
+  "D": "Chỉ dựa vào lệnh cấp trên, không chủ động",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "215",
+  "QUESTION": "Theo Điều 1, đảng viên cần thành thật phục vụ ai?",
+  "A": "Tổ quốc và Nhân dân",
+  "B": "Đồng chí",
+  "C": "Tổ chức",
+  "D": "Cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "216",
+  "QUESTION": "“Việc gì có hại đến dân phải hết sức tránh” là nội dung thuộc điều nào?",
+  "A": "Điều 2",
+  "B": "Điều 1 (nhân dân)",
+  "C": "Điều 4",
+  "D": "Điều 3",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "217",
+  "QUESTION": "Lợi ích nào phải được đặt lên trên hết, theo điểm 3 Điều 1?",
+  "A": "Lợi ích cá nhân",
+  "B": "Lợi ích quốc gia – dân tộc",
+  "C": "Lợi ích doanh nghiệp",
+  "D": "Lợi ích địa phương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "218",
+  "QUESTION": "Yếu tố nào không thuộc bản lĩnh cán bộ theo Điều 2?",
+  "A": "Dám nghĩ, dám làm",
+  "B": "Dám kiên trì, dám sáng tạo",
+  "C": "Dám trốn tránh trách nhiệm",
+  "D": "Dám đương đầu thử thách",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "219",
+  "QUESTION": "Theo Điều 2, đảng viên phải làm gì để hội nhập hiệu quả?",
+  "A": "Tránh giao lưu quốc tế",
+  "B": "Chủ động nâng cao kiến thức và kỹ năng trong môi trường quốc tế",
+  "C": "Không học ngoại ngữ",
+  "D": "Tập trung vào công việc nội bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "220",
+  "QUESTION": "“Tiết kiệm và sử dụng tài sản công hiệu quả” là thuộc chuẩn mực nào?",
+  "A": "Điều 1",
+  "B": "Điều 2",
+  "C": "Điều 3",
+  "D": "Điều 5",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "221",
+  "QUESTION": "Điều nào nhấn mạnh đảng viên không được tham nhũng, tiêu cực?",
+  "A": "Điều 1",
+  "B": "Điều 4",
+  "C": "Điều 3",
+  "D": "Điều 5",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "222",
+  "QUESTION": "Đấu tranh “tự diễn biến, tự chuyển hóa” là nội dung của điều nào?",
+  "A": "Điều 4",
+  "B": "Điều 3",
+  "C": "Điều 2",
+  "D": "Điều 5",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "223",
+  "QUESTION": "Hành vi nào đi ngược Điều 3 “cần, kiệm, liêm, chính”?",
+  "A": "Quản lý tài sản công hợp lý",
+  "B": "Tích cực học tập chính trị",
+  "C": "Lãng phí thời gian, tiền bạc",
+  "D": "Phục vụ dân chủ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "224",
+  "QUESTION": "Theo Điều 3, đảng viên cần trung thực và không làm gì?",
+  "A": "Tránh hình thức minh bạch",
+  "B": "Tự phê bình, phê bình, không giấu khuyết điểm",
+  "C": "Phủ nhận sai lầm",
+  "D": "Vui vẻ khi bị phê bình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "225",
+  "QUESTION": "Điều nào gồm “văn hóa từ chức khi không đủ khả năng”?",
+  "A": "Điều 3",
+  "B": "Điều 5",
+  "C": "Điều 4",
+  "D": "Điều 6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "226",
+  "QUESTION": "“Giữ gìn phẩm giá không bị cám dỗ tiêu cực” thuộc phần nào?",
+  "A": "Điều 1",
+  "B": "Điều 3",
+  "C": "Điều 2",
+  "D": "Điều 4",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "227",
+  "QUESTION": "Chuẩn mực nào đòi hỏi đảng viên “khiêm tốn, giản dị, cầu thị”?",
+  "A": "Điều 3",
+  "B": "Điều 4",
+  "C": "Điều 5",
+  "D": "Điều 2",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "228",
+  "QUESTION": "“Nói đi đôi với làm” là nội dung của điều nào?",
+  "A": "Điều 1",
+  "B": "Điều 5",
+  "C": "Điều 4",
+  "D": "Điều 3",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "229",
+  "QUESTION": "Đảng viên phải vận động ai chấp hành chủ trương Đảng?",
+  "A": "Bạn bè",
+  "B": "Gia đình, người thân",
+  "C": "Đồng nghiệp",
+  "D": "Đối thủ chính trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "230",
+  "QUESTION": "“Đoàn kết và đấu tranh với bè phái” thuộc điều mấy?",
+  "A": "Điều 2",
+  "B": "Điều 3",
+  "C": "Điều 4",
+  "D": "Điều 5",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "231",
+  "QUESTION": "Nêu cao kỷ luật, nhất là kỷ luật phát ngôn là chuẩn mực nào?",
+  "A": "Điều 1",
+  "B": "Điều 4",
+  "C": "Điều 2",
+  "D": "Điều 5",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "232",
+  "QUESTION": "Theo Điều 1, “phải hết lòng phụng sự…” ai?",
+  "A": "Bạn bè",
+  "B": "Tổ quốc và Nhân dân",
+  "C": "Truyền thông",
+  "D": "Đối tượng ký lệnh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "233",
+  "QUESTION": "Chuẩn mực về “ý chí vươn lên, tự cường” thuộc điều nào?",
+  "A": "Điều 5",
+  "B": "Điều 1",
+  "C": "Điều 2",
+  "D": "Điều 3",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "234",
+  "QUESTION": "Điều nào đề cập “giúp đỡ đồng chí, đồng nghiệp theo lẽ phải”?",
+  "A": "Điều 4",
+  "B": "Điều 3",
+  "C": "Điều 2",
+  "D": "Điều 5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "235",
+  "QUESTION": "Nỗ lực hoàn thành nhiệm vụ là nội dung của điều nào?",
+  "A": "Điều 5",
+  "B": "Điều 4",
+  "C": "Điều 3",
+  "D": "Điều 1",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "236",
+  "QUESTION": "Địa chỉ nào có bản lĩnh chính trị vững vàng trước thử thách là nội dung của điều nào?",
+  "A": "Điều 1",
+  "B": "Điều 2",
+  "C": "Điều 3",
+  "D": "Điều 4",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "237",
+  "QUESTION": "“Không nói sai sự thật” thuộc chuẩn mực nào?",
+  "A": "Điều 4",
+  "B": "Điều 3",
+  "C": "Điều 2",
+  "D": "Điều 1",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "238",
+  "QUESTION": "Đảng viên phải đấu tranh chống biểu hiện gì?",
+  "A": "Tự diễn biến, tự chuyển hóa",
+  "B": "Tự hào dân tộc",
+  "C": "Học tập suốt đời",
+  "D": "Phê bình và tự phê bình",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "239",
+  "QUESTION": "“Gương mẫu trong công tác và sinh hoạt” là nội dung của điều nào?",
+  "A": "Điều 1",
+  "B": "Điều 4",
+  "C": "Điều 5",
+  "D": "Điều 3",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "240",
+  "QUESTION": "Chuẩn mực “khi chức vụ càng cao càng phải gương mẫu” thuộc điều nào?",
+  "A": "Điều 3",
+  "B": "Điều 2",
+  "C": "Điều 5",
+  "D": "Điều 1",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "241",
+  "QUESTION": "Theo Điều 5, cán bộ cần gì để nâng cao phẩm chất, năng lực?",
+  "A": "Tự học, tu dưỡng, giản dị",
+  "B": "Tựa vào người khác",
+  "C": "Không thay đổi lề thói",
+  "D": "Chỉ nói, không làm nên",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "242",
+  "QUESTION": "“Các cấp ủy… lãnh đạo, chỉ đạo triển khai phù hợp…” là nội dung của điều nào?",
+  "A": "Điều 3",
+  "B": "Điều 6",
+  "C": "Điều 2",
+  "D": "Điều 1",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "243",
+  "QUESTION": "Điều mấy quy định trách nhiệm quán triệt, kiểm tra, tổng kết việc thực hiện chuẩn mực?",
+  "A": "Điều 6",
+  "B": "Điều 5",
+  "C": "Điều 4",
+  "D": "Điều 3",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "244",
+  "QUESTION": "Nguồn nào giúp cấp ủy tham mưu tổ chức quán triệt quy định này?",
+  "A": "Ban Tổ chức TW",
+  "B": "Ban Kiểm tra TW",
+  "C": "Ban Nội chính TW",
+  "D": "Ban Tuyên giáo TW và các cơ quan phối hợp",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "245",
+  "QUESTION": "Theo Điều 1, cán bộ, đảng viên phải đặt điều gì lên trên hết, trước hết?",
+  "A": "Lợi ích cá nhân",
+  "B": "Lợi ích đơn vị",
+  "C": "Lợi ích gia đình",
+  "D": "Lợi ích quốc gia – dân tộc, lợi ích của Đảng, Nhà nước và Nhân dân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "246",
+  "QUESTION": "Trong Điều 2, cán bộ, đảng viên cần làm gì để thể hiện tinh thần “bản lĩnh, đổi mới, sáng tạo, hội nhập”?",
+  "A": "Tránh giao lưu quốc tế",
+  "B": "Không sáng tạo, giữ nguyên lối cũ",
+  "C": "Chủ động nâng cao kiến thức, kỹ năng và tham gia hội nhập quốc tế",
+  "D": "Tập trung làm việc nội bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "247",
+  "QUESTION": "Điều 3 của Quy định nhấn mạnh nội dung gì về “cần, kiệm, liêm, chính”?",
+  "A": "Chi tiêu rộng rãi, xa hoa",
+  "B": "Lãng phí thời gian, tiền bạc",
+  "C": "Quản lý tài sản công tiết kiệm, hiệu quả; không lãng phí, xa hoa",
+  "D": "Không cần tu dưỡng bản thân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "248",
+  "QUESTION": "Theo Điều 3, cán bộ, đảng viên phải tuyệt đối không làm gì?",
+  "A": "Giấu khuyết điểm, nói sai sự thật",
+  "B": "Tự phê bình và phê bình",
+  "C": "Thực hành tiết kiệm",
+  "D": "Trong sạch, không tham ô, tiêu cực",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "249",
+  "QUESTION": "Điều 4 đề cập đến yếu tố nào khi xây dựng đoàn kết?",
+  "A": "Phân biệt vùng miền",
+  "B": "Lợi ích nhóm",
+  "C": "Kiên quyết đấu tranh với bè phái, chia rẽ và lợi ích nhóm",
+  "D": "Tạo khoảng cách với đồng chí",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "250",
+  "QUESTION": "Theo Điều 4, cán bộ, đảng viên cần thể hiện trách nhiệm như thế nào trong công việc?",
+  "A": "Né tránh trách nhiệm",
+  "B": "Làm việc cầm chừng",
+  "C": "Sẵn sàng đảm nhận và hoàn thành tốt nhiệm vụ, kiên quyết chống trung bình chủ nghĩa",
+  "D": "Bỏ qua nghĩa vụ đối với gia đình và xã hội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "251",
+  "QUESTION": "Trong Điều 5, “gương mẫu” được hiểu là gì?",
+  "A": "Không cần phê bình",
+  "B": "Làm giống cấp dưới",
+  "C": "Cán bộ chức vụ càng cao càng phải gương mẫu, trước cấp dưới và quần chúng",
+  "D": "Phát biểu nhiều, không cần làm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "252",
+  "QUESTION": "Điều 5 còn nhấn mạnh phẩm chất gì cần có đối với cán bộ?",
+  "A": "Khoa trương, hình thức",
+  "B": "Xa hoa, phô trương",
+  "C": "Khiêm tốn, giản dị, liên tục học tập và nói đi đôi với làm",
+  "D": "Chỉ nói, không làm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "253",
+  "QUESTION": "Theo Điều 6, ai có trách nhiệm triển khai, quán triệt và giám sát việc thực hiện Quy định 144?",
+  "A": "Mỗi cá nhân tự làm theo",
+  "B": "Mặt trận Tổ quốc",
+  "C": "Các cấp ủy, tổ chức đảng và người đứng đầu có trách nhiệm lãnh đạo và chỉ đạo phù hợp tình hình địa phương, đơn vị",
+  "D": "Cá nhân tự quyết định",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "254",
+  "QUESTION": "Nội dung nào dưới đây không phải là một trong 5 chuẩn mực đạo đức theo Quy định 144?",
+  "A": "Yêu nước, tôn trọng nhân dân, trung thành với Đảng, Tổ quốc",
+  "B": "Bản lĩnh, đổi mới, sáng tạo, hội nhập",
+  "C": "Tham ô, lãng phí, vô trách nhiệm",
+  "D": "Đoàn kết, kỷ cương, tình thương, trách nhiệm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "255",
+  "QUESTION": "“Theo văn bản, cán bộ, đảng viên cần đặt lợi ích nào lên trên hết?”",
+  "A": "Lợi ích cá nhân",
+  "B": "Lợi ích của đồng đội",
+  "C": "Lợi ích của Đảng và Tổ quốc",
+  "D": "Lợi ích của cấp ủy",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "256",
+  "QUESTION": "“Nghị quyết và quy định nào sau đây liên quan đến việc ngăn chặn biểu hiện ‘tự diễn biến’, ‘tự chuyển hóa’?”",
+  "A": "Nghị quyết 04-NQ\/TW",
+  "B": "Kết luận 21-KL\/TW",
+  "C": "Quy định 37-QĐ\/TW",
+  "D": "Chỉ thị 2423-CT\/QUTW",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "257",
+  "QUESTION": "Đạo đức cách mạng theo Hồ Chí Minh là gì?",
+  "A": "Đấu tranh cho tự do cá nhân",
+  "B": "Quyết tâm suốt đời đấu tranh cho Đảng, phục vụ nhân dân",
+  "C": "Ưu tiên lợi ích cá nhân",
+  "D": "Theo đuổi danh vọng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "258",
+  "QUESTION": "Theo Hồ Chí Minh, đâu là “gốc” của người cách mạng?",
+  "A": "Tài năng",
+  "B": "Năng lực lãnh đạo",
+  "C": "Đạo đức cách mạng",
+  "D": "Trí thức",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "259",
+  "QUESTION": "Chuẩn mực đạo đức cách mạng “Trung với nước, hiếu với dân” nghĩa là gì?",
+  "A": "Trung thành với người thân",
+  "B": "Trung với Đảng, tận hiếu với nhân dân",
+  "C": "Trung thành với cấp trên",
+  "D": "Trung với chính sách",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "260",
+  "QUESTION": "Hồ Chí Minh nhấn mạnh phẩm chất nào sau đây cho cán bộ đảng viên?",
+  "A": "Tham vọng, quyền lực",
+  "B": "Cần, kiệm, liêm, chính, chí công vô tư",
+  "C": "Sáng tạo vô tổ chức",
+  "D": "Kỹ năng lãnh đạo mềm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "261",
+  "QUESTION": "Theo Người, “Cần, kiệm, liêm, chính” là gì?",
+  "A": "Hành động ngắn hạn",
+  "B": "Gốc rễ của “chính”",
+  "C": "Tiêu chuẩn thời trang",
+  "D": "Phương pháp trao đổi công việc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "262",
+  "QUESTION": "“Chí công vô tư” là gì?",
+  "A": "Làm việc vì lợi ích bản thân",
+  "B": "Làm việc vì Tổ quốc, không tư lợi",
+  "C": "Làm việc không kế hoạch",
+  "D": "Làm việc độc lập",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "263",
+  "QUESTION": "Theo Hồ Chí Minh, cán bộ phải thể hiện trách nhiệm như thế nào khi gặp khó khăn?",
+  "A": "Rút lui để bảo toàn",
+  "B": "Dũng cảm vượt qua, không sợ khó nhọc",
+  "C": "Lao động cường độ cao",
+  "D": "Dùng quyền lực",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "264",
+  "QUESTION": "Việc gì cần có lời nói đi đôi với hành động?",
+  "A": "Nội dung đào tạo",
+  "B": "Ma trận chiến lược",
+  "C": "Phong cách lãnh đạo",
+  "D": "Văn hóa ứng xử",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "265",
+  "QUESTION": "“Xây” đi đôi với “chống” nghĩa là gì trong đạo đức cách mạng?",
+  "A": "Đầu tư phát triển – chống sửa lỗi",
+  "B": "Xây dựng đạo đức – chống biểu hiện sai trái",
+  "C": "Xây dựng cơ sở vật chất – chống đình trệ",
+  "D": "Xây dựng nhân tố mới – đối đầu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "266",
+  "QUESTION": "Nội dung chính của Chỉ thị 05‑CT\/TW (ngày 15\/5\/2016) là gì?",
+  "A": "Tăng cường quốc phòng",
+  "B": "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "C": "Phát triển kinh tế",
+  "D": "Đào tạo quân đội chuyên nghiệp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "267",
+  "QUESTION": "Trong chuẩn mực “Cần, Kiệm, Liêm, Chính”, khái niệm “Cần” được Hồ Chí Minh hiểu là:",
+  "A": "Làm việc theo giờ giấc cố định",
+  "B": "Siêng năng với kế hoạch để bền bỉ, hiệu quả dài lâu",
+  "C": "Chỉ làm việc lớn, phô trương",
+  "D": "Tập trung làm việc một lần hết sức",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "268",
+  "QUESTION": "Theo Hồ Chí Minh, lười biếng được xem là",
+  "A": "Một sự cẩn trọng",
+  "B": "Tà",
+  "C": "Kẻ thù lớn nhất của “Cần”",
+  "D": "Biểu hiện của sáng tạo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "269",
+  "QUESTION": "Chuẩn mực “Trung với nước, hiếu với dân” được Hồ Chí Minh xem như:",
+  "A": "Phẩm chất phụ",
+  "B": "Nội dung truyền thống phong kiến",
+  "C": "Phẩm chất cao quý nhất và bao trùm nhất",
+  "D": "Phương pháp làm việc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "270",
+  "QUESTION": "Quan niệm về “đức là gốc”, Hồ Chí Minh cho rằng",
+  "A": "Có tài không cần đức vẫn lãnh đạo được",
+  "B": "Đức không cần tài vẫn làm việc tốt",
+  "C": "Có đức mà không có tài thì khó hoàn thành nhiệm vụ",
+  "D": "Đức và tài không liên quan",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "271",
+  "QUESTION": "Theo Hồ Chí Minh, liêm là:",
+  "A": "Nghiêm khắc với người khác",
+  "B": "Không tham lam, trong sạch, không xâm phạm của công",
+  "C": "Có quyền dùng của công",
+  "D": "Hiệu quả trong làm việc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "272",
+  "QUESTION": "Chính trong chuẩn mực đạo đức là:",
+  "A": "Ngụy biện khéo léo",
+  "B": "Thẳng thắn, đứng đắn với mình, người, việc",
+  "C": "Chấp nhận sai lệch nếu lợi ích lớn",
+  "D": "Nịnh hót cấp trên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "273",
+  "QUESTION": "Kiệm theo Hồ Chí Minh nghĩa là:",
+  "A": "Chi tiêu thoải mái để động viên",
+  "B": "Tiết kiệm sức lao động, thời gian, vật chất tất cả từ nhỏ đến lớn",
+  "C": "Không có trách nhiệm công",
+  "D": "Chỉ làm việc nhỏ, không dám làm việc lớn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "274",
+  "QUESTION": "Tinh thần “lo trước thiên hạ, vui sau thiên hạ” là biểu hiện của:",
+  "A": "Chủ nghĩa cá nhân",
+  "B": "Chí công vô tư",
+  "C": "Thiếu liêm chính",
+  "D": "Tự phục vụ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "275",
+  "QUESTION": "“Người cách mạng không có đạo đức thì dù tài giỏi mấy…”:",
+  "A": "Vẫn lãnh đạo được dân",
+  "B": "Dễ bị thay thế",
+  "C": "Cũng không lãnh đạo được nhân dân",
+  "D": "Không quan trọng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "276",
+  "QUESTION": "Theo Hồ Chí Minh, đạo đức cách mạng là:",
+  "A": "Cái có sẵn trong mỗi người",
+  "B": "Qua rèn luyện, giáo dục bền bỉ",
+  "C": "Do truyền thống giáo dục phong kiến",
+  "D": "Không cần tu dưỡng suốt đời",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "277",
+  "QUESTION": "Hồ Chí Minh nhấn mạnh: “Một tấm gương sống có giá trị hơn một trăm bài diễn văn”, nghĩa là:",
+  "A": "Hình thức quan trọng hơn hành động",
+  "B": "Lý luận không cần áp dụng",
+  "C": "Người cán bộ phải gương mẫu, làm trước để dân theo",
+  "D": "Nói nhiều hơn làm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "278",
+  "QUESTION": "“Xây đi đôi với chống” trong tư tưởng Hồ Chí Minh là:",
+  "A": "Xây dựng và chống tiêu cực song song",
+  "B": "Chống xây dựng sai trái",
+  "C": "Xây dựng không cần chống đối",
+  "D": "Chống độc lập sau xây dựng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "279",
+  "QUESTION": "Theo Người, “chủ nghĩa cá nhân” là:",
+  "A": "Phong cách sống cá nhân lành mạnh",
+  "B": "Giặc nội xâm, gây tệ nạn bành trướng",
+  "C": "Biển diễn nhất thời",
+  "D": "Không liên quan đến đạo đức",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "280",
+  "QUESTION": "Hồ Chí Minh từng nói, tiêu cực như tham ô, lãng phí, quan liêu là:",
+  "A": "Đồng minh của nhân dân",
+  "B": "Loại tệ nạn bình thường",
+  "C": "Là “kẻ thù nội xâm” nguy hiểm như Việt gian",
+  "D": "Không đáng lo ngại",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "281",
+  "QUESTION": "Theo tư tưởng Người, mỗi cán bộ, đảng viên phải là",
+  "A": "Người lãnh đạo quyền lực",
+  "B": "Đầy tớ trung thành của nhân dân",
+  "C": "Tận dụng quyền uy cho cá nhân",
+  "D": "Không cần gắn bó với dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "282",
+  "QUESTION": "Hồ Chí Minh căn dặn không để lợi ích cá nhân trên:",
+  "A": "Lợi ích của Đảng và dân tộc",
+  "B": "Lợi ích gia đình",
+  "C": "Lợi ích nhóm",
+  "D": "Lợi ích kinh tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "283",
+  "QUESTION": "Mục đích của Người khi học tập tinh thần quốc tế là:",
+  "A": "Hội nhập kinh tế thế giới",
+  "B": "Đoàn kết quốc tế vô sản, vì hòa bình, công lý, tiến bộ xã hội",
+  "C": "Thống trị các dân tộc",
+  "D": "Mở rộng ảnh hưởng chính trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "284",
+  "QUESTION": "Theo Hồ Chí Minh, \"người tốt, việc tốt\" nên được",
+  "A": "Giấu kín",
+  "B": "Chỉ nói miệng",
+  "C": "Cổ vũ, nêu gương để lan tỏa đạo đức",
+  "D": "Không cần quan tâm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "285",
+  "QUESTION": "“Đặt lợi ích của Đảng và nhân dân lên trên lợi ích cá nhân” là chuẩn mực trong tác phẩm “Đạo đức cách mạng” (1958). Người yêu cầu cán bộ phải:",
+  "A": "Quan tâm bản thân trước",
+  "B": "Phục vụ cách mạng một cách mù quáng",
+  "C": "Hết lòng phục vụ nhân dân, quên mình vì Đảng",
+  "D": "Phạm sai không sao",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "286",
+  "QUESTION": "Hồ Chí Minh từng nhấn mạnh suốt đời phấn đấu vì mục tiêu nào?",
+  "A": "Vì lợi ích bản thân",
+  "B": "Vì dân, Tổ quốc, độc lập và hạnh phúc nhân dân",
+  "C": "Vì đánh mất chính phủ",
+  "D": "Vì danh vọng cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "287",
+  "QUESTION": "Đạo đức cách mạng cần được tự giác tu dưỡng mạnh mẽ vì",
+  "A": "Nó từ trời rơi xuống",
+  "B": "Người không cần phê bình",
+  "C": "Chỉ dành cho lãnh đạo cao cấp",
+  "D": "Phải cố gắng bền bỉ như mài ngọc, luyện vàng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "288",
+  "QUESTION": "Đấu tranh loại bỏ chủ nghĩa cá nhân, Hồ Chí Minh đề cao công cụ nào nhất?",
+  "A": "Phê bình và tự phê bình",
+  "B": "Cách ly kẻ sai trái",
+  "C": "Triệt sản quyền lực",
+  "D": "Im lặng phản đối",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "289",
+  "QUESTION": "Ý nghĩa của câu: “Người trước phải chính mới giúp người khác chính” là:",
+  "A": "Hướng dẫn không cần tự rèn luyện",
+  "B": "Gương mẫu là yếu tố then chốt của giáo dục",
+  "C": "Không cần nghĩ đến hành động cá nhân",
+  "D": "Miệng nói, tay làm khác nhau mới càng hiệu quả",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "290",
+  "QUESTION": "“Lo trước thiên hạ, vui sau thiên hạ” phản ánh tố chất gì?",
+  "A": "Tư lợi cá nhân",
+  "B": "Tinh thần chí công vô tư",
+  "C": "Chủ nghĩa dân túy",
+  "D": "Tinh thần hưởng thụ là chủ đạo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "291",
+  "QUESTION": "Theo Hồ Chí Minh, “việc gì có hại cho dân” thì:",
+  "A": "Nên làm nếu lợi ích cao hơn",
+  "B": "Cần hết sức tránh",
+  "C": "Cứ làm nhưng phải kín",
+  "D": "Được phép khi cần tiết kiệm nguồn lực",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "292",
+  "QUESTION": "“Cây có gốc, sông có nguồn” là ví von để nhấn mạnh:",
+  "A": "Tôn trọng truyền thống hơn đổi mới",
+  "B": "Đức cần là nền tảng của tài, đạo đức là sức mạnh",
+  "C": "Chỉ cảnh quan đẹp mới bền vững",
+  "D": "ài năng là gốc của lãnh đạo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "293",
+  "QUESTION": "Người xem kiểm tra và kiểm soát là phương tiện",
+  "A": "Phá hoại nghị quyết",
+  "B": "Để biết đường lối được thi hành đúng hay không",
+  "C": "Để biết đường lối được thi hành đúng hay không",
+  "D": "Không nên dùng vì mất lòng tin",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "294",
+  "QUESTION": "Hồ Chí Minh cảnh báo: những biểu hiện như kiêu ngạo, xa xỉ, tham ô khi có quyền, là:",
+  "A": "Biểu hiện cách mạng chân chính",
+  "B": "Sai lầm nghiêm trọng, phản cách mạng",
+  "C": "Vấn đề cá nhân, không hệ trọng",
+  "D": "Được miễn trừ phê phán",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "295",
+  "QUESTION": "“Lý luận mà không áp dụng vào công việc thực tế là lý luận suông” nhấn mạnh điều gì?",
+  "A": "Nói hay hơn làm",
+  "B": "Học chỉ để tuyên truyền",
+  "C": "Lý luận cần phải được áp dụng vào thực tiễn",
+  "D": "Hành động trước rồi mới học",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "296",
+  "QUESTION": "Theo Hồ Chí Minh, bản thân cán bộ đảng viên phải là:",
+  "A": "Người nói trước người làm sau",
+  "B": "Người gương mẫu để người khác noi theo",
+  "C": "Người lãnh đạo xa dân",
+  "D": "Người chỉ dùng lý luận thay hành động",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "297",
+  "QUESTION": "Khẩu hiệu “xây đi đôi với chống” trong tư tưởng Hồ Chí Minh nhằm:",
+  "A": "Truyền thống xưa",
+  "B": "Chỉ trích người xấu",
+  "C": "Kết hợp xây dựng đạo đức và chống tiêu cực",
+  "D": "Tập trung xây dựng mà không cần tương tác",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "298",
+  "QUESTION": "Hồ Chí Minh ví đạo đức như gốc cây và nguồn nước để nhấn mạnh rằng",
+  "A": "Tài năng còn quan trọng hơn đạo đức",
+  "B": "Một người giỏi chưa chắc có đạo đức",
+  "C": "Đức là nền tảng vững chắc để cán bộ vững vàng",
+  "D": "Nguồn nước quan trọng hơn cây",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "299",
+  "QUESTION": "Theo Người, phẩm chất “Trung với nước, hiếu với dân” là:",
+  "A": "Phương pháp lãnh đạo",
+  "B": "Biến thể của đạo đức phong kiến",
+  "C": "Phẩm chất chủ chốt của đạo đức cách mạng",
+  "D": "Được áp dụng tùy trường hợp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "300",
+  "QUESTION": "Hồ Chí Minh nhấn mạnh rằng cán bộ phải là người vừa “hồng” vừa “chuyên”, nghĩa là:",
+  "A": "Nhiệt tình cách mạng và giỏi chuyên môn",
+  "B": "Năng động và không cần chuyên môn",
+  "C": "Có tài nhưng không cần đạo đức",
+  "D": "Không yêu công việc",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "301",
+  "QUESTION": "Theo tư tưởng Hồ Chí Minh, chống chủ nghĩa cá nhân đồng nghĩa với",
+  "A": "Loại bỏ hết mọi cá nhân",
+  "B": "Nêu cao đấu tranh công khai",
+  "C": "Không nhân rộng lợi ích cá nhân đến khi trái lợi ích chung",
+  "D": "Thừa nhận mọi quyền cá nhân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "302",
+  "QUESTION": "Để rèn luyện đạo đức cách mạng, Người ví như",
+  "A": "Kim loại, không cần mài giũa",
+  "B": "Ngọc càng mài càng sáng, vàng càng luyện càng trong",
+  "C": "Đá chỉ càng chịu nhiệt mới bền",
+  "D": "Gỗ còn mục khi tiếp xúc với nước",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "303",
+  "QUESTION": "Nêu gương đạo đức trong cán bộ, theo Hồ Chí Minh, là",
+  "A": "Nói nhiều, hành động ít",
+  "B": "Miệng nói một đằng, hành động khác",
+  "C": "Hành động đi trước để người khác noi theo",
+  "D": "Ưu tiên giáo điều hơn thực hành",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "304",
+  "QUESTION": "Trong tư tưởng Hồ Chí Minh, “là đầy tớ trung thành của dân” ám chỉ cán bộ, đảng viên phải:",
+  "A": "Tách rời dân",
+  "B": "Phục vụ quy trình, không phục vụ nhân dân",
+  "C": "Phục vụ lợi ích tập thể và vì dân",
+  "D": "Thay thế quyền lợi dân bằng luật pháp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "305",
+  "QUESTION": "Xu thế nổi bật của cục diện thế giới hiện nay là gì?",
+  "A": "Đơn cực",
+  "B": "Đa cực, đa trung tâm, đa tầng lớp",
+  "C": "Chỉ có 2 cực: Mỹ và Trung Quốc",
+  "D": "Toàn cầu hóa tuyệt đối",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "306",
+  "QUESTION": "Cuộc cạnh tranh chiến lược gay gắt nhất hiện nay diễn ra chủ yếu giữa:",
+  "A": "Mỹ và các nước đang phát triển",
+  "B": "Nga và các nước ASEAN",
+  "C": "Mỹ, NATO với Nga và Trung Quốc",
+  "D": "Mỹ với Nhật Bản",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "307",
+  "QUESTION": "Một bên trong phân tuyến toàn cầu hiện nay gồm Mỹ, NATO và…",
+  "A": "ASEAN",
+  "B": "Các nước phương Tây",
+  "C": "Chỉ có EU",
+  "D": "Chỉ có Nhật Bản và Hàn Quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "308",
+  "QUESTION": "Chỉ có Nhật Bản và Hàn Quốc",
+  "A": "Thu hẹp phạm vi sử dụng",
+  "B": "Hạ thấp ngưỡng sử dụng hạt nhân",
+  "C": "Loại bỏ vũ khí hạt nhân chiến thuật",
+  "D": "Chỉ sử dụng khi bị tấn công bằng hạt nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "309",
+  "QUESTION": "Nga tuyên bố khả năng răn đe hạt nhân sẽ mở rộng bảo vệ quốc gia nào?",
+  "A": "Kazakhstan",
+  "B": "Belarus",
+  "C": "Triều Tiên",
+  "D": "Iran",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "310",
+  "QUESTION": "Cuộc chiến Nga – Ukraine sau 3 năm có điểm đặc biệt gì so với chiến tranh truyền thống?",
+  "A": "Chủ yếu dùng hải quân",
+  "B": "Sử dụng công nghệ cao, kỹ thuật số, vũ khí tự động",
+  "C": "Không có chiến tranh trên mạng",
+  "D": "Không dùng vũ khí hiện đại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "311",
+  "QUESTION": "Sau 3 năm chiến tranh, kết quả của Nga và Ukraine là",
+  "A": "Nga thắng hoàn toàn",
+  "B": "Ukraine thắng hoàn toàn",
+  "C": "Cả hai đều thắng và thua",
+  "D": "Cả hai đều hòa hoãn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "312",
+  "QUESTION": "Cuộc xung đột Nga – Ukraine gây tác động lớn nhất nào cho thế giới?",
+  "A": "Thúc đẩy du lịch",
+  "B": "Gây khủng hoảng năng lượng, kinh tế toàn cầu",
+  "C": "Tăng hợp tác Nga – Mỹ",
+  "D": "Ổn định an ninh châu Âu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "313",
+  "QUESTION": "Một hệ quả nhân đạo từ xung đột Nga – Ukraine là:",
+  "A": "Di cư ồ ạt, khủng hoảng nhân đạo",
+  "B": "Tăng trưởng dân số ở châu Âu",
+  "C": "Người Ukraine di cư sang Mỹ nhiều hơn Việt Nam",
+  "D": "Người Nga di cư hết sang châu Á",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "314",
+  "QUESTION": "Mỹ và phương Tây viện trợ cho Ukraine với mục tiêu chiến lược kép là gì?",
+  "A": "Vừa giúp Ukraine, vừa kiềm chế Nga",
+  "B": "Giúp Ukraine giành toàn bộ lãnh thổ",
+  "C": "Hỗ trợ để Nga sớm thắng",
+  "D": "Chỉ nhằm giúp Mỹ bán vũ khí",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "315",
+  "QUESTION": "Phương Tây áp đặt bao nhiêu lệnh cấm vận kinh tế với Nga?",
+  "A": "5000",
+  "B": "10000",
+  "C": "Hơn 17000",
+  "D": "20000",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "316",
+  "QUESTION": "Nga nhận được sự hỗ trợ từ các quốc gia nào trong xung đột?",
+  "A": "Mỹ, Nhật Bản",
+  "B": "Trung Quốc, Triều Tiên",
+  "C": "Hàn Quốc, Ấn Độ",
+  "D": "Iran, Pháp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "317",
+  "QUESTION": "Mỹ viện trợ vũ khí tầm xa cho Ukraine nhằm mục đích gì?",
+  "A": "Tăng khả năng phòng thủ trên biển",
+  "B": "Mở rộng chiến tranh không gian mạng",
+  "C": "Hạn chế khả năng tiến công trên bộ của Nga",
+  "D": "Giúp Ukraine kiểm soát Crimea ngay lập tức",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "318",
+  "QUESTION": "Một trong những thay đổi quan trọng trong học thuyết hạt nhân của Nga là:",
+  "A": "Chỉ tấn công hạt nhân khi bị tấn công hạt nhân",
+  "B": "Có thể tấn công cả quốc gia phi hạt nhân nếu họ tham gia cùng cường quốc hạt nhân",
+  "C": "Loại bỏ hoàn toàn vũ khí hạt nhân chiến thuật",
+  "D": "Chỉ bảo vệ lãnh thổ Nga",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "319",
+  "QUESTION": "Ukraine đã đưa chiến tranh sang lãnh thổ Nga bằng cách nào?",
+  "A": "Không kích Moscow thường xuyên",
+  "B": "Tấn công hạ tầng và mục tiêu quân sự bên trong lãnh thổ Nga",
+  "C": "Chiếm đóng một phần lãnh thổ Nga",
+  "D": "Tấn công trực tiếp Điện Kremlin",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "320",
+  "QUESTION": "Tình hình nội bộ Nga trong xung đột chủ yếu gặp thách thức gì?",
+  "A": "Bất ổn chính trị, thay đổi nhân sự cấp cao",
+  "B": "Thất bại hoàn toàn về quân sự",
+  "C": "Nga mất hết đồng minh",
+  "D": "Kinh tế tăng trưởng mạnh mẽ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "321",
+  "QUESTION": "Nội bộ Ukraine bị tác động như thế nào sau chiến tranh?",
+  "A": "Được tái thiết toàn diện",
+  "B": "Hứng chịu tổn thất lớn về kinh tế, cơ sở hạ tầng và dân cư",
+  "C": "Dân số tăng đột biến",
+  "D": "Trở thành quốc gia giàu có nhất châu Âu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "322",
+  "QUESTION": "Mỹ và phương Tây kéo dài chiến tranh với Nga nhằm:",
+  "A": "Giúp Nga tăng trưởng kinh tế",
+  "B": "Làm suy kiệt kinh tế Nga",
+  "C": "Mở rộng NATO sang châu Á",
+  "D": "Gây khủng hoảng ở Trung Đông",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "323",
+  "QUESTION": "Cuộc chiến Nga – Ukraine phản ánh xu thế gì trong chiến tranh hiện đại?",
+  "A": "Chủ yếu dùng lực lượng bộ binh truyền thống",
+  "B": "Công nghệ, tài chính, truyền thông và vũ khí hiện đại quyết định",
+  "C": "Không còn vai trò của không quân",
+  "D": "Chiến tranh hạt nhân không quan trọng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "324",
+  "QUESTION": "Một hệ quả địa – chính trị từ xung đột Nga – Ukraine là:",
+  "A": "Thúc đẩy hòa bình lâu dài ở châu Âu",
+  "B": "Làm thay đổi cục diện quan hệ quốc tế, phân tuyến rõ ràng hơn",
+  "C": "Giảm căng thẳng Mỹ – Trung",
+  "D": "Tạo ra Liên minh mới Nga – NATO",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "325",
+  "QUESTION": "Cuộc xung đột Israel – Hamas chủ yếu bùng phát ở đâu?",
+  "A": "Gaza",
+  "B": "Crimea",
+  "C": "Donbass",
+  "D": "Syria",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "326",
+  "QUESTION": "Nguyên nhân chính gây căng thẳng Israel – Hamas?",
+  "A": "Tranh chấp lãnh thổ, sắc tộc, tôn giáo",
+  "B": "Khủng hoảng năng lượng",
+  "C": "Tranh chấp Biển Đông",
+  "D": "NATO mở rộng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "327",
+  "QUESTION": "Cuộc xung đột Israel – Hamas ảnh hưởng trực tiếp đến:",
+  "A": "Thị trường dầu mỏ Trung Đông",
+  "B": "Xuất khẩu gạo Việt Nam",
+  "C": "Công nghệ châu Âu",
+  "D": "Kinh tế Mỹ Latinh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "328",
+  "QUESTION": "Xu thế nổi bật trong quân sự thế giới hiện nay:",
+  "A": "Giảm chi ngân sách quốc phòng",
+  "B": "Tăng ngân sách, hiện đại hóa quân đội",
+  "C": "Không đầu tư vũ khí hạt nhân",
+  "D": "Hạn chế phát triển công nghệ quân sự",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "329",
+  "QUESTION": "Nguy cơ nào gia tăng mạnh trong thời gian gần đây?",
+  "A": "Dịch bệnh",
+  "B": "Vũ khí hạt nhân và hủy diệt hàng loạt",
+  "C": "Xung đột thương mại",
+  "D": "Thiếu nước sạch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "330",
+  "QUESTION": "Một số nước đang tập trung vào thế hệ vũ khí nào?",
+  "A": "Vũ khí cổ điển",
+  "B": "Vũ khí công nghệ cao, trí tuệ nhân tạo",
+  "C": "Vũ khí sinh học truyền thống",
+  "D": "Vũ khí bằng gỗ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "331",
+  "QUESTION": "Kinh tế thế giới năm 2024 có đặc điểm nào?",
+  "A": "Phục hồi nhanh, đồng đều",
+  "B": "Phục hồi tiệm tiến, còn nhiều rủi ro",
+  "C": "Không bị ảnh hưởng bởi chiến tranh",
+  "D": "Tăng trưởng vượt bậc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "332",
+  "QUESTION": "Thách thức chính của kinh tế thế giới hiện nay là gì?",
+  "A": "Tăng trưởng chậm, phân mảnh",
+  "B": "Tăng trưởng quá nóng",
+  "C": "Thiếu tài nguyên thiên nhiên",
+  "D": "Quá nhiều lao động giá rẻ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "333",
+  "QUESTION": "Nguyên nhân khiến kinh tế toàn cầu phục hồi chậm?",
+  "A": "Hòa bình ổn định",
+  "B": "Tác động của Covid-19 và xung đột vũ trang",
+  "C": "Do đầu tư tăng mạnh",
+  "D": "Do quá nhiều công nghệ mới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "334",
+  "QUESTION": "Đại dịch Covid-19 để lại hệ quả gì lâu dài?",
+  "A": "Không ảnh hưởng gì",
+  "B": "Làm gián đoạn chuỗi cung ứng, tăng phân mảnh kinh tế",
+  "C": "Giúp tăng trưởng toàn cầu",
+  "D": "Xóa bỏ nợ công",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "335",
+  "QUESTION": "Một yếu tố góp phần gây bất ổn kinh tế thế giới là:",
+  "A": "Xung đột Nga – Ukraine và Trung Đông",
+  "B": "Thị trường chứng khoán tăng mạnh",
+  "C": "Giá vàng giảm",
+  "D": "Phát triển du lịch",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "336",
+  "QUESTION": "Đặc điểm chính của kinh tế thế giới 2024–2025?",
+  "A": "Tăng trưởng cao",
+  "B": "Tiềm ẩn nhiều rủi ro, bất ổn",
+  "C": "Không bị ảnh hưởng bởi chính trị",
+  "D": "Đồng đều giữa các khu vực",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "337",
+  "QUESTION": "Toàn cầu hiện nay đang đối diện nguy cơ nào về an ninh năng lượng?",
+  "A": "Nguồn cung ổn định",
+  "B": "Giá dầu và khí đốt biến động do chiến tranh",
+  "C": "Dư thừa năng lượng",
+  "D": "Chỉ phụ thuộc năng lượng sạch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "338",
+  "QUESTION": "Một tác động xã hội từ chiến tranh ở Trung Đông là:",
+  "A": "Ổn định dân số",
+  "B": "Khủng hoảng di cư và nhân đạo",
+  "C": "Thúc đẩy văn hóa",
+  "D": "Tăng cường du lịch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "339",
+  "QUESTION": "Xu hướng chung của các nước lớn trong chính trị quốc tế là:",
+  "A": "Độc lập tuyệt đối",
+  "B": "Vừa hợp tác, vừa đấu tranh, kiềm chế lẫn nhau",
+  "C": "Không can dự nước khác",
+  "D": "Không cần liên minh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "340",
+  "QUESTION": "Một hình thức can dự phổ biến của các nước lớn là:",
+  "A": "Viện trợ nhân đạo đơn thuần",
+  "B": "Can thiệp, chi phối nội bộ nước khác",
+  "C": "Thúc đẩy thể thao quốc tế",
+  "D": "Xây dựng cộng đồng văn hóa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "341",
+  "QUESTION": "Điểm nóng an ninh quốc tế nổi bật hiện nay:",
+  "A": "Bắc Âu",
+  "B": "Biển Đông, Ukraine, Trung Đông",
+  "C": "Nam Mỹ",
+  "D": "Bắc Cực",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "342",
+  "QUESTION": "Sự gia tăng chạy đua vũ trang chủ yếu nhằm mục đích:",
+  "A": "Tăng trưởng du lịch",
+  "B": "Đảm bảo răn đe và cạnh tranh chiến lược",
+  "C": "Xây dựng văn hóa",
+  "D": "Kiểm soát khí hậu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "343",
+  "QUESTION": "Sự phát triển vũ khí hạt nhân tạo ra nguy cơ gì?",
+  "A": "Tăng thương mại toàn cầu",
+  "B": "Chiến tranh hạt nhân và khủng hoảng an ninh",
+  "C": "Tăng hòa bình thế giới",
+  "D": "Giảm chi phí quân sự",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "344",
+  "QUESTION": "Một hệ quả quan trọng của cạnh tranh chiến lược Mỹ – Trung là:",
+  "A": "Kinh tế toàn cầu ổn định",
+  "B": "Gây căng thẳng khu vực châu Á – Thái Bình Dương",
+  "C": "Mỹ rút khỏi khu vực",
+  "D": "Trung Quốc từ bỏ Biển Đông",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "345",
+  "QUESTION": "Trung Quốc ở Biển Đông có hành động gì?",
+  "A": "Tuân thủ phán quyết PCA",
+  "B": "Tiếp tục khẳng định yêu sách chủ quyền phi lý",
+  "C": "Từ bỏ yêu sách đường lưỡi bò",
+  "D": "Thúc đẩy đàm phán công bằng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "346",
+  "QUESTION": "Năm 2016, PCA đã ra phán quyết gì?",
+  "A": "Công nhận yêu sách Trung Quốc",
+  "B": "Bác bỏ yêu sách đường lưỡi bò",
+  "C": "Giao Biển Đông cho Mỹ",
+  "D": "Trao quyền quản lý cho ASEAN",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "347",
+  "QUESTION": "Mỹ thúc đẩy hình thành mô hình gì ở châu Á để kiềm chế Trung Quốc?",
+  "A": "ASEAN+",
+  "B": "NATO châu Á",
+  "C": "Liên Hợp Quốc khu vực",
+  "D": "EU châu Á",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "348",
+  "QUESTION": "Nga cùng Trung Quốc có quan điểm gì về Biển Đông?",
+  "A": "Ủng hộ Mỹ can thiệp",
+  "B": "Chỉ các nước liên quan trực tiếp giải quyết, phản đối bên ngoài can thiệp",
+  "C": "Đề nghị LHQ quản lý",
+  "D": "Từ bỏ quan điểm về Biển Đông",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "349",
+  "QUESTION": "Nhật Bản, Úc, Ấn Độ… có hành động gì tại Biển Đông?",
+  "A": "Không can dự",
+  "B": "Gia tăng hiện diện quân sự, diễn tập",
+  "C": "Rút quân khỏi khu vực",
+  "D": "Nhường quyền cho Trung Quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "350",
+  "QUESTION": "ASEAN trong vấn đề Biển Đông chủ yếu:",
+  "A": "Mất đoàn kết",
+  "B": "Giữ lập trường chung, thúc đẩy đàm phán COC",
+  "C": "Ủng hộ yêu sách Trung Quốc",
+  "D": "Không quan tâm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "351",
+  "QUESTION": "Philippines thời gian gần đây có động thái gì?",
+  "A": "Xa rời Mỹ",
+  "B": "Đẩy mạnh quan hệ với Mỹ và đồng minh",
+  "C": "Hợp tác chặt chẽ với Nga",
+  "D": "Từ bỏ quan hệ với ASEAN",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "352",
+  "QUESTION": "Vùng biển Tây Nam Việt Nam tiếp giáp với nước nào KHÔNG đúng?",
+  "A": "Campuchia",
+  "B": "Thái Lan",
+  "C": "Malaysia",
+  "D": "Nhật Bản",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "353",
+  "QUESTION": "Một thành tựu nổi bật của Việt Nam năm 2024 là tăng trưởng GDP bao nhiêu?",
+  "A": "5%",
+  "B": "6%",
+  "C": "7.09%",
+  "D": "8%",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "354",
+  "QUESTION": "Thành tựu nổi bật về vị thế quốc tế của Việt Nam 2024 là gì?",
+  "A": "Suy giảm vị thế",
+  "B": "Gia tăng vị thế, uy tín quốc tế",
+  "C": "Không thay đổi",
+  "D": "Thụt lùi so với khu vực",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "355",
+  "QUESTION": "Việt Nam năm 2024 đã triển khai đồng bộ nghị quyết của Đảng về lĩnh vực nào?",
+  "A": "Nông nghiệp",
+  "B": "Quân đội tinh, gọn, mạnh",
+  "C": "Văn hóa",
+  "D": "Y tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "356",
+  "QUESTION": "Một thành tựu về chính trị năm 2024 là:",
+  "A": "Tăng trưởng công nghiệp",
+  "B": "Đổi mới, cải cách toàn diện hệ thống chính trị tinh gọn, hiệu quả",
+  "C": "Thắt chặt ngoại giao",
+  "D": "Chỉ tập trung kinh tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "357",
+  "QUESTION": "Việt Nam năm 2024 đã thông qua nhiều gì quan trọng?",
+  "A": "Chỉ tiêu kinh tế",
+  "B": "Luật, chủ trương mới",
+  "C": "Chỉ kế hoạch giáo dục",
+  "D": "Chính sách y tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "358",
+  "QUESTION": "Một đóng góp quốc tế của Quân đội Việt Nam là",
+  "A": "Đóng cửa với thế giới",
+  "B": "Đối ngoại quốc phòng linh hoạt, hiệu quả",
+  "C": "Hạn chế quan hệ quốc tế",
+  "D": "Chỉ hợp tác nội bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "359",
+  "QUESTION": "Năm 2024, Quân đội ta kỷ niệm bao nhiêu năm thành lập?",
+  "A": "70 năm",
+  "B": "75 năm",
+  "C": "80 năm",
+  "D": "85 năm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "360",
+  "QUESTION": "Ngày hội Quốc phòng toàn dân được kỷ niệm mấy năm?",
+  "A": "20 năm",
+  "B": "25 năm",
+  "C": "30 năm",
+  "D": "35 năm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "361",
+  "QUESTION": "Công tác hậu cần năm 2024 có điểm mới gì?",
+  "A": "Phụ thuộc nhập khẩu hoàn toàn",
+  "B": "Tự sản xuất nhiều vật tư, trang bị đặc chủng trong nước",
+  "C": "Không sản xuất gì",
+  "D": "Giảm chất lượng bảo đảm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "362",
+  "QUESTION": "Một sáng kiến trong hậu cần quân đội là sản xuất thực phẩm chuyên dùng cho:",
+  "A": "Bộ binh",
+  "B": "Thủy thủ tàu ngầm, đặc công người nhái",
+  "C": "Không quân",
+  "D": "Dân quân tự vệ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "363",
+  "QUESTION": "Hoạt động đối ngoại quốc phòng của Việt Nam 2024 được đánh giá:",
+  "A": "Thụ động",
+  "B": "Là điểm sáng, hiệu quả, thực chất",
+  "C": "Không có thành tựu",
+  "D": "Giảm uy tín quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "364",
+  "QUESTION": "Một trong những trụ cột đối ngoại của Việt Nam là:",
+  "A": "Ngoại giao nhân dân, Đảng, Nhà nước, quốc phòng",
+  "B": "Chỉ ngoại giao Đảng",
+  "C": "Chỉ ngoại giao Nhà nước",
+  "D": "Chỉ ngoại giao nhân dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "365",
+  "QUESTION": "Nhiệm vụ trọng tâm của Quân đội nhân dân Việt Nam năm 2024 – 2025 là gì?",
+  "A": "Kinh doanh",
+  "B": "Xây dựng quân đội cách mạng, chính quy, tinh nhuệ, hiện đại",
+  "C": "Xuất khẩu vũ khí",
+  "D": "Chỉ tập trung huấn luyện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "366",
+  "QUESTION": "Chủ trương xây dựng Quân đội ta hiện nay là:",
+  "A": "Tinh, gọn, mạnh",
+  "B": "Đông về số lượng",
+  "C": "Chỉ tập trung hải quân",
+  "D": "Chỉ tăng phòng không",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "367",
+  "QUESTION": "Đối tượng huấn luyện chính của Quân đội ta năm 2024 – 2025 là:",
+  "A": "Chỉ bộ binh",
+  "B": "Bộ đội chủ lực, bộ đội địa phương, dân quân tự vệ",
+  "C": "Dân thường",
+  "D": "Doanh nghiệp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "368",
+  "QUESTION": "Trong huấn luyện, Quân đội ta quán triệt phương châm nào?",
+  "A": "Cơ bản – thiết thực – vững chắc",
+  "B": "Nhanh chóng – tạm thời",
+  "C": "Chỉ lý thuyết",
+  "D": "Giảm thực hành",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "369",
+  "QUESTION": "Lực lượng dân quân tự vệ có vai trò gì?",
+  "A": "Bổ sung lực lượng sản xuất",
+  "B": "Lực lượng chính trị – quân sự tại chỗ, nòng cốt trong bảo vệ địa phương",
+  "C": "Lực lượng dự bị nông nghiệp",
+  "D": "Chỉ tham gia diễn tập",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "370",
+  "QUESTION": "Lực lượng dự bị động viên được xây dựng theo phương châm:",
+  "A": "Ẩn giấu, bí mật",
+  "B": "Hùng hậu, có chất lượng, sẵn sàng bổ sung cho thường trực",
+  "C": "Chỉ dự bị trên giấy tờ",
+  "D": "Không cần huấn luyện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "371",
+  "QUESTION": "Một trong những nhiệm vụ của Quân khu là:",
+  "A": "Phát triển công nghệ thông tin",
+  "B": "Chỉ lo kinh tế",
+  "C": "Quản lý, bảo vệ chủ quyền, an ninh trên địa bàn",
+  "D": "Không quản lý địa phương",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "372",
+  "QUESTION": "Công tác chính trị trong quân đội chủ yếu tập trung vào:",
+  "A": "Tuyên truyền, giáo dục, xây dựng bản lĩnh chính trị vững vàng",
+  "B": "Chỉ học ngoại ngữ",
+  "C": "Giảm giáo dục chính trị",
+  "D": "Chỉ văn nghệ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "373",
+  "QUESTION": "Một nội dung quan trọng trong công tác quốc phòng, an ninh ở địa phương là:",
+  "A": "Giáo dục quốc phòng – an ninh cho toàn dân",
+  "B": "Chỉ huấn luyện bộ đội chủ lực",
+  "C": "Chỉ huấn luyện dân quân",
+  "D": "Không quan tâm dân sự",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "374",
+  "QUESTION": "Công tác hậu cần của Quân khu hiện nay chú trọng điều gì?",
+  "A": "Đầu tư nước ngoài",
+  "B": "Bảo đảm tốt lương thực, thực phẩm, chăm sóc sức khỏe bộ đội",
+  "C": "Cắt giảm tối đa",
+  "D": "Chỉ nhập khẩu từ ngoài",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "375",
+  "QUESTION": "Trong xây dựng thế trận quốc phòng toàn dân, vai trò của nhân dân là gì?",
+  "A": "Chỉ tham gia kinh tế",
+  "B": "Nền tảng, sức mạnh chủ yếu bảo vệ Tổ quốc",
+  "C": "Không liên quan",
+  "D": "Chỉ ủng hộ tinh thần",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "376",
+  "QUESTION": "Công tác kỹ thuật quân sự có phương châm:",
+  "A": "Chủ động – sáng tạo – an toàn – tiết kiệm",
+  "B": "Thụ động – phụ thuộc",
+  "C": "Chỉ nhập khẩu",
+  "D": "Không sửa chữa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "377",
+  "QUESTION": "Một trọng tâm trong công tác kỹ thuật của Quân đội là:",
+  "A": "Nghiên cứu, cải tiến, sản xuất, sửa chữa vũ khí trang bị",
+  "B": "Chỉ bảo quản",
+  "C": "Giảm đầu tư",
+  "D": "Không phát triển công nghệ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "378",
+  "QUESTION": "Công tác huấn luyện, sẵn sàng chiến đấu năm 2024 gắn với:",
+  "A": "Thực hành, diễn tập, xử trí tình huống sát thực tế",
+  "B": "Chỉ học lý thuyết",
+  "C": "Không cần diễn tập",
+  "D": "Tập trung giải trí",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "379",
+  "QUESTION": "Công tác tuyển quân năm 2024 của Quân khu được đánh giá:",
+  "A": "Chỉ tiêu không đạt",
+  "B": "Hoàn thành 100% chỉ tiêu, chất lượng tốt",
+  "C": "Không tuyển",
+  "D": "Giảm chỉ tiêu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "380",
+  "QUESTION": "Công tác xây dựng chính quy trong Quân đội góp phần:",
+  "A": "Nâng cao sức mạnh tổng hợp, giữ nghiêm kỷ luật",
+  "B": "Chỉ để đẹp mắt",
+  "C": "Không có tác dụng",
+  "D": "Giảm sức chiến đấu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "381",
+  "QUESTION": "Một phong trào lớn trong Quân đội là:",
+  "A": "Thanh niên khởi nghiệp",
+  "B": "Thi đua Quyết thắng",
+  "C": "Thể thao toàn quốc",
+  "D": "Xây dựng nông thôn mới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "382",
+  "QUESTION": "Công tác phối hợp giữa Quân đội và Công an nhằm mục đích:",
+  "A": "Bảo đảm an ninh chính trị, trật tự an toàn xã hội",
+  "B": "Chỉ huấn luyện chung",
+  "C": "Chỉ kinh tế",
+  "D": "Không cần phối hợp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "383",
+  "QUESTION": "Một nội dung trong xây dựng khu vực phòng thủ tỉnh, thành là:",
+  "A": "Gắn phát triển kinh tế – xã hội với quốc phòng, an ninh",
+  "B": "Chỉ chú trọng kinh tế",
+  "C": "Bỏ qua an ninh",
+  "D": "Chỉ tập trung sản xuất",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "384",
+  "QUESTION": "Thế trận quốc phòng toàn dân phải gắn với thế trận nào?",
+  "A": "Kinh tế đối ngoại",
+  "B": "An ninh nhân dân",
+  "C": "Văn hóa xã hội",
+  "D": "Ngoại giao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "385",
+  "QUESTION": "Đảng Cộng sản Việt Nam ra đời năm nào?",
+  "A": "1925",
+  "B": "1930",
+  "C": "1945",
+  "D": "1941",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "386",
+  "QUESTION": "Người sáng lập và rèn luyện Đảng Cộng sản Việt Nam là ai?",
+  "A": "Trường Chinh",
+  "B": "Hồ Chí Minh",
+  "C": "Lê Duẩn",
+  "D": "Phạm Văn Đồng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "387",
+  "QUESTION": "Đại hội Đảng lần thứ II (1951) đã quyết định đổi tên Đảng thành gì?",
+  "A": "Đảng Lao động Việt Nam",
+  "B": "Đảng Dân chủ Việt Nam",
+  "C": "Đảng Xã hội Việt Nam",
+  "D": "Đảng Cộng sản Đông Dương",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "388",
+  "QUESTION": "Đại hội Đảng lần thứ III (1960) đề ra nhiệm vụ chiến lược nào?",
+  "A": "Công nghiệp hóa đất nước",
+  "B": "Xây dựng CNXH ở miền Bắc, đấu tranh giải phóng miền Nam",
+  "C": "Thống nhất đất nước",
+  "D": "Đổi mới toàn diện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "389",
+  "QUESTION": "Đại hội IV (1976) xác định nhiệm vụ chính là:",
+  "A": "Đổi mới",
+  "B": "Xây dựng CNXH trong cả nước, đưa đất nước đi lên CNXH",
+  "C": "Kháng chiến chống Mỹ",
+  "D": "Hòa bình lập lại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "390",
+  "QUESTION": "Đại hội VI (1986) có ý nghĩa gì?",
+  "A": "Thống nhất đất nước",
+  "B": "Đề ra đường lối đổi mới toàn diện",
+  "C": "Đánh Mỹ",
+  "D": "Chỉ tập trung quốc phòng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "391",
+  "QUESTION": "Đại hội VII (1991) lần đầu thông qua văn kiện nào quan trọng?",
+  "A": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH",
+  "B": "Tuyên ngôn độc lập",
+  "C": "Hiến pháp mới",
+  "D": "Luật quốc phòng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "392",
+  "QUESTION": "Đại hội IX (2001) xác định mục tiêu công nghiệp hóa, hiện đại hóa đến năm nào?",
+  "A": "2010",
+  "B": "2020",
+  "C": "2030",
+  "D": "2045",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "393",
+  "QUESTION": "Đại hội X (2006) nhấn mạnh nội dung gì?",
+  "A": "Chỉ phát triển nông nghiệp",
+  "B": "Nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng",
+  "C": "Giảm xây dựng CNXH",
+  "D": "Chỉ chú trọng quốc phòng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "394",
+  "QUESTION": "Đại hội XI (2011) thông qua văn kiện nào?",
+  "A": "Cương lĩnh 2011 (bổ sung, phát triển)",
+  "B": "Luật Đất đai",
+  "C": "Hiến pháp 1946",
+  "D": "Tuyên ngôn Độc lập",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "395",
+  "QUESTION": "Đại hội XII (2016) đề ra phương châm gì?",
+  "A": "Đoàn kết – Dân chủ – Kỷ cương – Đổi mới",
+  "B": "Độc lập – Tự do – Hạnh phúc",
+  "C": "Công bằng – Văn minh",
+  "D": "Thống nhất – Hy sinh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "396",
+  "QUESTION": "Đại hội XIII (2021) xác định mục tiêu đến năm 2045 là gì?",
+  "A": "Việt Nam thành nước phát triển, thu nhập cao",
+  "B": "Giữ nguyên trình độ hiện tại",
+  "C": "Đứng đầu châu Á",
+  "D": "Nước trung bình khá",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "397",
+  "QUESTION": "Đại hội XIII đề ra tầm nhìn đến năm 2030 là:",
+  "A": "Nước công nghiệp theo hướng hiện đại",
+  "B": "Nước phát triển thu nhập cao",
+  "C": "Nước đứng đầu thế giới",
+  "D": "Nước trung bình",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "398",
+  "QUESTION": "Đảng ta xác định xây dựng quân đội theo phương hướng:",
+  "A": "Cách mạng, chính quy, tinh nhuệ, hiện đại",
+  "B": "Số lượng đông đảo",
+  "C": "Số lượng đông đảo",
+  "D": "Giảm vũ khí",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "399",
+  "QUESTION": "Đại hội nào lần đầu tiên xác định nhiệm vụ đổi mới đất nước?",
+  "A": "Đại hội IV",
+  "B": "Đại hội VI",
+  "C": "Đại hội VIII",
+  "D": "Đại hội X",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "400",
+  "QUESTION": "Nguyên tắc tổ chức cơ bản của Đảng Cộng sản Việt Nam là:",
+  "A": "Dân chủ tập trung",
+  "B": "Tự do tuyệt đối",
+  "C": "Đa nguyên đa đảng",
+  "D": "Cạnh tranh phe phái",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "401",
+  "QUESTION": "Cơ quan lãnh đạo cao nhất của Đảng là:",
+  "A": "Bộ Chính trị",
+  "B": "Ban Chấp hành Trung ương",
+  "C": "Đại hội đại biểu toàn quốc",
+  "D": "Ban Tuyên giáo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "402",
+  "QUESTION": "Cơ quan lãnh đạo cao nhất của Đảng giữa hai kỳ Đại hội là:",
+  "A": "Ban Tổ chức",
+  "B": "Ban Chấp hành Trung ương",
+  "C": "Bộ Chính trị",
+  "D": "Ban Kiểm tra",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "403",
+  "QUESTION": "Người đứng đầu Ban Chấp hành Trung ương là ai?",
+  "A": "Thủ tướng",
+  "B": "Chủ tịch nước",
+  "C": "Tổng Bí thư",
+  "D": "Chủ tịch Quốc hội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "404",
+  "QUESTION": "Vai trò lãnh đạo của Đảng Cộng sản Việt Nam được khẳng định ở đâu?",
+  "A": "Hiến pháp",
+  "B": "Báo chí",
+  "C": "Văn học",
+  "D": "Pháp lệnh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "405",
+  "QUESTION": "Đồng chí nào là Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam?",
+  "A": "Lê Hồng Phong",
+  "B": "Nguyễn Văn Cừ",
+  "C": "Trần Phú",
+  "D": "Hà Huy Tập",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "406",
+  "QUESTION": "Đồng chí Lê Hồng Phong được bầu làm Tổng Bí thư vào năm nào?",
+  "A": "1930",
+  "B": "1935",
+  "C": "1936",
+  "D": "1938",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "407",
+  "QUESTION": "Đồng chí Hà Huy Tập được bầu làm Tổng Bí thư thay Lê Hồng Phong tại Hội nghị Trung ương họp ở đâu?",
+  "A": "Ma Cao (Trung Quốc)",
+  "B": "Hồng Kông",
+  "C": "Thượng Hải (Trung Quốc)",
+  "D": "Hà Nội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "408",
+  "QUESTION": "Ai là Tổng Bí thư được bầu thay đồng chí Hà Huy Tập vào năm 1938?",
+  "A": "Nguyễn Văn Cừ",
+  "B": "Lê Duẩn",
+  "C": "Trường Chinh",
+  "D": "Hồ Chí Minh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "409",
+  "QUESTION": "Năm 1941, đồng chí nào được cử làm Tổng Bí thư của Đảng tại Hội nghị Trung ương lần thứ 8?",
+  "A": "Hồ Chí Minh",
+  "B": "Nguyễn Văn Linh",
+  "C": "Trường Chinh",
+  "D": "Đỗ Mười",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "410",
+  "QUESTION": "Tại Đại hội II (1951), chức danh Chủ tịch Đảng được trao cho ai?",
+  "A": "Trường Chinh",
+  "B": "Hồ Chí Minh",
+  "C": "Lê Duẩn",
+  "D": "Nguyễn Văn Cừ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "411",
+  "QUESTION": "Đồng chí nào được bầu làm Bí thư thứ nhất tại Đại hội III (1960)?",
+  "A": "Hồ Chí Minh",
+  "B": ". Trường Chinh",
+  "C": "Lê Duẩn",
+  "D": "Phạm Văn Đồng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "412",
+  "QUESTION": "Từ Đại hội IV (1976), chức danh nào được khôi phục thay cho “Bí thư thứ nhất”?",
+  "A": "Chủ tịch Đảng",
+  "B": "Tổng Bí thư",
+  "C": "Chủ tịch Hội đồng Nhà nước",
+  "D": "Tổng Chủ tịch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "413",
+  "QUESTION": "Ai là Tổng Bí thư kế nhiệm Lê Duẩn sau khi đồng chí qua đời năm 1986?",
+  "A": "Đỗ Mười",
+  "B": "Nguyễn Văn Linh",
+  "C": "Trường Chinh",
+  "D": "Lê Khả Phiêu",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "414",
+  "QUESTION": "Đồng chí Nguyễn Văn Linh giữ chức Tổng Bí thư bắt đầu từ Đại hội nào?",
+  "A": "VI (1986)",
+  "B": "VII (1991)",
+  "C": "VIII (1996)",
+  "D": "IX (2001)",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "415",
+  "QUESTION": "Đồng chí Đỗ Mười lần đầu được bầu làm Tổng Bí thư tại Đại hội nào?",
+  "A": "VI",
+  "B": "VII",
+  "C": "VIII",
+  "D": "IX",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "416",
+  "QUESTION": "Ai kế nhiệm Đỗ Mười làm Tổng Bí thư vào năm 1997?",
+  "A": "Nông Đức Mạnh",
+  "B": "Lê Khả Phiêu",
+  "C": "Nguyễn Phú Trọng",
+  "D": "Nguyễn Văn Linh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "417",
+  "QUESTION": "Đồng chí Nông Đức Mạnh xuất thân từ dân tộc nào?",
+  "A": "Tày",
+  "B": "Nùng",
+  "C": "Kinh",
+  "D": "Thái",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "418",
+  "QUESTION": "Đồng chí Nông Đức Mạnh giữ chức Tổng Bí thư trong mấy nhiệm kỳ?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "419",
+  "QUESTION": "Đồng chí Nguyễn Phú Trọng lần đầu giữ chức Tổng Bí thư từ Đại hội nào?",
+  "A": "IX",
+  "B": "X",
+  "C": "XI",
+  "D": "XII",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "420",
+  "QUESTION": "Năm 2021, tại Hội nghị lần thứ nhất Ban Chấp hành Trung ương khóa XIII, ai tiếp tục được bầu làm Tổng Bí thư?",
+  "A": "Đỗ Mười",
+  "B": "Nguyễn Phú Trọng",
+  "C": "Nông Đức Mạnh",
+  "D": "Lê Khả Phiêu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "421",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Hội nghị Trung ương khóa XIII ngày 03\/8\/2024?",
+  "A": "Tô Lâm",
+  "B": "Võ Văn Thưởng",
+  "C": "Trương Thị Mai",
+  "D": "Nguyễn Xuân Phúc",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "422",
+  "QUESTION": "Đồng chí nào đồng thời giữ chức Chủ tịch Đảng và Tổng Bí thư trong một thời gian?",
+  "A": "Hồ Chí Minh",
+  "B": "Trường Chinh",
+  "C": "Nguyễn Phú Trọng",
+  "D": "Lê Duẩn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "423",
+  "QUESTION": "Ai là Tổng Bí thư trẻ tuổi nhất khi được bầu?",
+  "A": "Nguyễn Văn Cừ",
+  "B": "Trần Phú",
+  "C": "Hà Huy Tập",
+  "D": "Lê Khả Phiêu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "424",
+  "QUESTION": "Tổng Bí thư nào có thời gian tại vị lâu nhất?",
+  "A": "Lê Duẩn",
+  "B": "Hồ Chí Minh",
+  "C": "Nguyễn Phú Trọng",
+  "D": "Trường Chinh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "425",
+  "QUESTION": "Đồng chí nào gắn liền với công cuộc “Đổi mới” năm 1986?",
+  "A": "Nguyễn Văn Linh",
+  "B": "Đỗ Mười",
+  "C": "Lê Duẩn",
+  "D": "Trường Chinh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "426",
+  "QUESTION": "Ai là Tổng Bí thư vừa qua đời vào tháng 7\/2024?",
+  "A": "Lê Khả Phiêu",
+  "B": "Đỗ Mười",
+  "C": "Nguyễn Phú Trọng",
+  "D": "Nông Đức Mạnh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "427",
+  "QUESTION": "Ai là Tổng Bí thư gắn liền với “Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH” (1991)?",
+  "A": "Nguyễn Văn Linh",
+  "B": "Đỗ Mười",
+  "C": "Lê Khả Phiêu",
+  "D": "Nguyễn Phú Trọng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "428",
+  "QUESTION": "Đồng chí nào giữ chức Tổng Bí thư sau khi thôi giữ chức Chủ tịch nước vào tháng 10\/2024?",
+  "A": "Trường Chinh",
+  "B": "Tô Lâm",
+  "C": "Nguyễn Văn Linh",
+  "D": "Lê Duẩn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "429",
+  "QUESTION": "Ai là đồng chí Tổng Bí thư đầu tiên hy sinh khi còn rất trẻ?",
+  "A": "Nguyễn Văn Cừ",
+  "B": "Hà Huy Tập",
+  "C": "Trần Phú",
+  "D": "Lê Hồng Phong",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "430",
+  "QUESTION": "Tên thật của Chủ tịch Hồ Chí Minh là gì?",
+  "A": "Nguyễn Sinh Cung",
+  "B": "Nguyễn Ái Quốc",
+  "C": "Nguyễn Tất Thành",
+  "D": "Nguyễn Văn Thành",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "431",
+  "QUESTION": "Hồ Chí Minh rời bến Nhà Rồng đi tìm đường cứu nước vào ngày nào?",
+  "A": "5\/6\/1911",
+  "B": "2\/9\/1945",
+  "C": "19\/12\/1946",
+  "D": "3\/2\/1930",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "432",
+  "QUESTION": "Tác phẩm “Đường Kách mệnh” của Nguyễn Ái Quốc ra đời vào năm nào?",
+  "A": "1925",
+  "B": "1927",
+  "C": "1930",
+  "D": "1935",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "433",
+  "QUESTION": "“Nhật ký trong tù” được Hồ Chí Minh viết trong thời gian bị giam ở đâu?",
+  "A": "Liên Xô",
+  "B": "Quảng Tây – Trung Quốc",
+  "C": "Hồng Kông",
+  "D": "Xiêm (Thái Lan)",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "434",
+  "QUESTION": "Đồng chí Trần Phú quê ở tỉnh nào?",
+  "A": "Nghệ An",
+  "B": "Hà Tĩnh",
+  "C": "Quảng Trị",
+  "D": "Bắc Ninh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "435",
+  "QUESTION": "Đồng chí Lê Hồng Phong hi sinh ở đâu?",
+  "A": "Hóc Môn",
+  "B": "Côn Đảo",
+  "C": "Sơn La",
+  "D": "Ba Điểm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "436",
+  "QUESTION": "Đồng chí Hà Huy Tập bị xử bắn năm 1941 tại đâu?",
+  "A": "Côn Đảo",
+  "B": "Hóc Môn (Gia Định)",
+  "C": "Phú Quốc",
+  "D": "Ba Điểm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "437",
+  "QUESTION": "Đồng chí Nguyễn Văn Cừ sinh năm nào?",
+  "A": "1902",
+  "B": "1904",
+  "C": "1915",
+  "D": "1912",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "438",
+  "QUESTION": "Tên thật của đồng chí Trường Chinh là gì?",
+  "A": "Đặng Xuân Khu",
+  "B": "Lê Văn Nhuận",
+  "C": "Nguyễn Văn Cúc",
+  "D": "Nguyễn Duy Cống",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "439",
+  "QUESTION": "Đồng chí Lê Duẩn quê ở tỉnh nào?",
+  "A": "Nam Định",
+  "B": "Quảng Trị",
+  "C": "Hưng Yên",
+  "D": "Bắc Ninh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "440",
+  "QUESTION": "Đồng chí Nguyễn Văn Linh có tên thật là gì?",
+  "A": "Nguyễn Văn Cừ",
+  "B": "Nguyễn Văn Cúc",
+  "C": "Nguyễn Duy Cống",
+  "D": "Nguyễn Hữu Thọ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "441",
+  "QUESTION": "Đồng chí Đỗ Mười sinh ra tại huyện nào của Hà Nội?",
+  "A": "Đông Anh",
+  "B": "Thanh Trì",
+  "C": "Gia Lâm",
+  "D": "Hoài Đức",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "442",
+  "QUESTION": "Đồng chí Lê Khả Phiêu quê ở đâu?",
+  "A": "Hà Tĩnh",
+  "B": "Nghệ An",
+  "C": "Thanh Hóa",
+  "D": "Quảng Bình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "443",
+  "QUESTION": "Đồng chí Nguyễn Phú Trọng sinh năm nào?",
+  "A": "1940",
+  "B": "1942",
+  "C": "1944",
+  "D": "1946",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "444",
+  "QUESTION": "Đồng chí Tô Lâm quê ở tỉnh nào?",
+  "A": "Nam Định",
+  "B": "Hưng Yên",
+  "C": "Bắc Giang",
+  "D": "Thái Bình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "445",
+  "QUESTION": "Quân khu 7 được thành lập ngày, tháng, năm nào?",
+  "A": "#########",
+  "B": "10\/12\/1946",
+  "C": "10\/12\/1947",
+  "D": "20\/12\/1946",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "446",
+  "QUESTION": "Quân khu 7 hiện quản lý, chỉ huy lực lượng vũ trang trên địa bàn mấy tỉnh, thành phố?",
+  "A": "7",
+  "B": "8",
+  "C": "9",
+  "D": "10",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "447",
+  "QUESTION": "Những tỉnh, thành nào sau đây thuộc Quân khu 7?",
+  "A": "TP. Hồ Chí Minh, Đồng Nai, Bình Dương",
+  "B": "Hà Nội, Hưng Yên, Bắc Giang",
+  "C": "Quảng Ninh, Hải Phòng, Nam Định",
+  "D": "Đà Nẵng, Quảng Nam, Quảng Ngãi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "448",
+  "QUESTION": "Truyền thống 80 năm của LLVT Quân khu 7 được đúc kết bằng mấy chữ vàng?",
+  "A": "10 chữ",
+  "B": "12 chữ",
+  "C": "14 chữ",
+  "D": "16 chữ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "449",
+  "QUESTION": "Truyền thống của LLVT Quân khu 7 là gì?",
+  "A": "“Trung thành vô hạn, chủ động sáng tạo, đoàn kết hiệp đồng, lập công tập thể”",
+  "B": "“Trung với nước, hiếu với dân, sẵn sàng chiến đấu, quyết chiến quyết thắng”",
+  "C": "“Đoàn kết, tự lực, kiên cường, chiến thắng”",
+  "D": "“Anh dũng, bất khuất, trung thành, sáng tạo”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "450",
+  "QUESTION": "Địa bàn Quân khu 7 có vị trí chiến lược như thế nào?",
+  "A": "Chỉ quan trọng về chính trị",
+  "B": "Chỉ quan trọng về kinh tế",
+  "C": "Rất quan trọng về chính trị, kinh tế, văn hóa, quốc phòng, an ninh",
+  "D": "Chỉ quan trọng về văn hóa, xã hội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "451",
+  "QUESTION": "Trong kháng chiến chống Pháp, LLVT Quân khu 7 nổi bật với chiến thắng nào?",
+  "A": "Chiến dịch Điện Biên Phủ",
+  "B": "Chiến thắng La Ngà (1948)",
+  "C": "Chiến dịch Hồ Chí Minh",
+  "D": "Chiến thắng Biên giới (1950)",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "452",
+  "QUESTION": "Năm 1946, lực lượng vũ trang Nam Bộ mở chiến dịch nào tiêu biểu trên địa bàn Quân khu 7?",
+  "A": "Chiến dịch Đông Khê",
+  "B": "Chiến dịch Đồng Xoài",
+  "C": "Chiến dịch Nam Bộ kháng chiến",
+  "D": "Chiến dịch Hồ Chí Minh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "453",
+  "QUESTION": "Trong kháng chiến chống Mỹ, chiến dịch nào do LLVT Quân khu 7 tham gia trực tiếp và giành thắng lợi vang dội?",
+  "A": "Chiến dịch Hồ Chí Minh (1975)",
+  "B": "Chiến dịch Điện Biên Phủ trên không (1972)",
+  "C": "Chiến dịch Đường 9 – Nam Lào (1971)",
+  "D": "Chiến dịch Tây Nguyên (1975)",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "454",
+  "QUESTION": "Chiến dịch Hồ Chí Minh lịch sử toàn thắng vào ngày nào?",
+  "A": "19\/8\/1945",
+  "B": "7\/5\/1954",
+  "C": "30\/4\/1975",
+  "D": "2\/9\/1945",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "455",
+  "QUESTION": "LLVT Quân khu 7 đã anh dũng chiến đấu bảo vệ biên giới Tây Nam chống lại quân xâm lược nào?",
+  "A": "Trung Quốc",
+  "B": "Khmer Đỏ",
+  "C": "Thái Lan",
+  "D": "Pháp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "456",
+  "QUESTION": "Sau chiến tranh, LLVT Quân khu 7 còn thực hiện nhiệm vụ quốc tế nào?",
+  "A": "Giúp nhân dân Lào kháng chiến",
+  "B": "Giúp nhân dân Campuchia thoát khỏi chế độ diệt chủng Pol Pot",
+  "C": "Giúp Cuba trong khủng hoảng",
+  "D": "Giúp Triều Tiên trong chiến tranh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "457",
+  "QUESTION": "Một trong những nét đặc thù của LLVT Quân khu 7 hiện nay là gì?",
+  "A": "Đóng quân trên địa bàn có nhiều khu công nghiệp, đông dân cư",
+  "B": "Chủ yếu ở miền núi, biên giới xa xôi",
+  "C": "Chủ yếu ở ven biển, hải đảo",
+  "D": "Chỉ ở nông thôn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "458",
+  "QUESTION": "Đơn vị chủ lực mạnh của Quân khu 7 hiện nay là",
+  "A": "Sư đoàn 9",
+  "B": "Sư đoàn 308",
+  "C": "Sư đoàn 320",
+  "D": "Sư đoàn 324",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "459",
+  "QUESTION": "Trung tâm chính trị, kinh tế, văn hóa của Quân khu 7 là thành phố nào?",
+  "A": "Biên Hòa",
+  "B": "Vũng Tàu",
+  "C": "TP. Hồ Chí Minh",
+  "D": "Tây Ninh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "460",
+  "QUESTION": "LLVT Quân khu 7 đã được Nhà nước phong tặng danh hiệu cao quý nào?",
+  "A": "2 lần Anh hùng LLVT nhân dân",
+  "B": "3 lần Anh hùng LLVT nhân dân",
+  "C": "Anh hùng Lao động",
+  "D": "Huân chương Sao vàng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "461",
+  "QUESTION": "Một trong những truyền thống nổi bật của LLVT Quân khu 7 trong xây dựng đơn vị là:",
+  "A": "Chủ động, sáng tạo, hiệp đồng chặt chẽ",
+  "B": "Tập trung xây dựng kinh tế",
+  "C": "Coi trọng thương mại",
+  "D": "Tập trung vào công tác nghiên cứu khoa học",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "462",
+  "QUESTION": "LLVT Quân khu 7 có vai trò nòng cốt trong phong trào nào?",
+  "A": "Toàn dân đoàn kết xây dựng nông thôn mới",
+  "B": "Toàn dân bảo vệ an ninh Tổ quốc",
+  "C": "Toàn dân đoàn kết xây dựng đời sống văn hóa",
+  "D": "Toàn dân hiến máu nhân đạo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "463",
+  "QUESTION": "Nhiệm vụ chính trị trọng tâm của LLVT Quân khu 7 trong thời kỳ mới là gì?",
+  "A": "Chỉ tham gia sản xuất",
+  "B": "Chỉ tham gia quốc tế",
+  "C": "Bảo vệ vững chắc địa bàn chiến lược Đông Nam Bộ",
+  "D": "Chỉ xây dựng kinh tế – văn hóa",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "464",
+  "QUESTION": "LLVT Quân khu 7 đã đóng góp to lớn trong việc giữ gìn ổn định chính trị – xã hội ở đâu?",
+  "A": "Tây Nguyên",
+  "B": "Đông Nam Bộ và TP. Hồ Chí Minh",
+  "C": "Bắc Bộ",
+  "D": "Bắc Trung Bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "465",
+  "QUESTION": "Một trong những tấm gương tiêu biểu của LLVT Quân khu 7 trong kháng chiến chống Mỹ là nữ anh hùng nào?",
+  "A": "Nguyễn Thị Minh Khai",
+  "B": "Nguyễn Thị Định",
+  "C": "Võ Thị Sáu",
+  "D": "Út Tịch",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "466",
+  "QUESTION": "LLVT Quân khu 7 thường xuyên phối hợp với lực lượng nào để giữ vững an ninh trật tự địa bàn?",
+  "A": "Công an",
+  "B": "Dân quân tự vệ",
+  "C": "Bộ đội Biên phòng",
+  "D": "Cả A, B, C",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "467",
+  "QUESTION": "Hiện nay, LLVT Quân khu 7 chú trọng tham gia nhiệm vụ nào nhằm giúp dân?",
+  "A": "Làm đường, xây cầu, khám bệnh, cứu hộ cứu nạn",
+  "B": "Tập trung kinh doanh dịch vụ",
+  "C": "Xuất khẩu lao động",
+  "D": "Tham gia thương mại quốc tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "468",
+  "QUESTION": "Quân khu 7 có nhiệm vụ sẵn sàng đối phó với thách thức nào trên địa bàn?",
+  "A": "Biểu tình, bạo loạn, khủng bố, thiên tai",
+  "B": "Xung đột hạt nhân",
+  "C": "Hạn hán ở Trung Quốc",
+  "D": "Xung đột Trung Đông",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "469",
+  "QUESTION": "LLVT Quân khu 7 được xây dựng theo phương châm nào?",
+  "A": "“Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại”",
+  "B": "“Chính quy, hiện đại hóa ngay”",
+  "C": "“Đông, mạnh, nhanh”",
+  "D": "“Sản xuất, tự cấp, tự túc”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "470",
+  "QUESTION": "Một trong những nhiệm vụ quan trọng của LLVT Quân khu 7 trong thời kỳ hội nhập quốc tế là gì?",
+  "A": "Đẩy mạnh đối ngoại quốc phòng, quân sự",
+  "B": "Chỉ sản xuất nông nghiệp",
+  "C": "Chỉ làm kinh tế",
+  "D": "Chỉ nghiên cứu khoa học",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "471",
+  "QUESTION": "Khẩu hiệu hành động của LLVT Quân khu 7 hiện nay là gì?",
+  "A": "“Trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hy sinh vì Tổ quốc”",
+  "B": "“Đoàn kết, kỷ luật, quyết thắng”",
+  "C": "“Trung thành vô hạn, chủ động sáng tạo, đoàn kết hiệp đồng, lập công tập thể”",
+  "D": "“Sẵn sàng vì nước quên thân, vì dân phục vụ”",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "472",
+  "QUESTION": "Một trong những thành tích nổi bật của LLVT Quân khu 7 trong thời kỳ đổi mới là gì?",
+  "A": "Góp phần giữ vững ổn định chính trị – xã hội, phát triển kinh tế vùng Đông Nam Bộ",
+  "B": "Chỉ tập trung xây dựng kinh tế tư nhân",
+  "C": "Chủ yếu tham gia thương mại quốc tế",
+  "D": "Xuất khẩu lao động sang châu Âu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "473",
+  "QUESTION": "Quân khu 7 hiện nay đặt Bộ Tư lệnh ở đâu?",
+  "A": "TP. Thủ Đức",
+  "B": "Quận Tân Bình, TP. Hồ Chí Minh",
+  "C": "Quận 10, TP. Hồ Chí Minh",
+  "D": "Quận Gò Vấp, TP. Hồ Chí Minh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "474",
+  "QUESTION": "Truyền thống vẻ vang 80 năm của LLVT Quân khu 7 là tài sản tinh thần gì đối với thế hệ hôm nay?",
+  "A": "Là gánh nặng quá khứ",
+  "B": "Là tài sản vô giá, động lực để xây dựng và bảo vệ Tổ quốc",
+  "C": "Chỉ là tư liệu lịch sử",
+  "D": "Không còn giá trị thực tiễn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "475",
+  "QUESTION": "Trách nhiệm cao nhất của người quân nhân cách mạng là gì?",
+  "A": "Làm giàu cho bản thân",
+  "B": "Trung thành tuyệt đối với Đảng, Tổ quốc và Nhân dân",
+  "C": "Xây dựng gia đình hạnh phúc",
+  "D": "Giúp bạn bè quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "476",
+  "QUESTION": "“Quân đội ta trung với Đảng, hiếu với dân” là lời dạy của ai?",
+  "A": "Trường Chinh",
+  "B": "Hồ Chí Minh",
+  "C": "Lê Duẩn",
+  "D": "Võ Nguyên Giáp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "477",
+  "QUESTION": "Người quân nhân phải luôn đặt lợi ích nào lên trên hết?",
+  "A": "Cá nhân",
+  "B": "Tập thể và xã hội",
+  "C": "Gia đình riêng",
+  "D": "Bạn bè",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "478",
+  "QUESTION": "Trách nhiệm của quân nhân với gia đình thể hiện ở điểm nào?",
+  "A": "Tham gia xây dựng gia đình văn hóa, giữ gìn truyền thống tốt đẹp",
+  "B": "Chỉ cần gửi tiền về",
+  "C": "Thường xuyên ở nhà",
+  "D": "Ưu tiên cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "479",
+  "QUESTION": "Đối với đơn vị, quân nhân phải có trách nhiệm gì?",
+  "A": "Giữ nghiêm kỷ luật, đoàn kết, xây dựng đơn vị vững mạnh toàn diện",
+  "B": "Chỉ tập trung huấn luyện",
+  "C": "Chỉ lo cho lợi ích cá nhân",
+  "D": "Tự do thoải mái",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "480",
+  "QUESTION": "Một trong những phẩm chất quan trọng của quân nhân là:",
+  "A": "Ích kỷ, cá nhân",
+  "B": "Trung thực, trách nhiệm",
+  "C": "Tự cao, tự đại",
+  "D": "Vô kỷ luật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "481",
+  "QUESTION": "Quan hệ đồng chí, đồng đội trong Quân đội nhân dân Việt Nam được xây dựng trên cơ sở nào?",
+  "A": "Lợi ích cá nhân",
+  "B": "Tình thương yêu, đoàn kết, kỷ luật",
+  "C": "Tình cảm gia đình riêng",
+  "D": "Quan hệ kinh tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "482",
+  "QUESTION": "Người quân nhân phải gương mẫu chấp hành điều gì?",
+  "A": "Pháp luật Nhà nước, kỷ luật Quân đội",
+  "B": "Thói quen cá nhân",
+  "C": "Ý thích riêng tư",
+  "D": "Lợi ích bạn bè",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "483",
+  "QUESTION": "Một trong những biểu hiện trách nhiệm của quân nhân đối với đồng chí, đồng đội là gì?",
+  "A": "Sẵn sàng giúp đỡ nhau trong công tác, học tập, rèn luyện",
+  "B": "Chỉ quan tâm bản thân",
+  "C": "Cạnh tranh không lành mạnh",
+  "D": "Xa lánh nhau",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "484",
+  "QUESTION": "Trách nhiệm của quân nhân trong huấn luyện, sẵn sàng chiến đấu là:",
+  "A": "Nghiêm túc học tập, rèn luyện, nâng cao bản lĩnh chính trị, trình độ quân sự",
+  "B": "Chỉ cần tham gia cho có",
+  "C": "Tùy thích",
+  "D": "Bỏ qua huấn luyện",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "485",
+  "QUESTION": "Một quân nhân có trách nhiệm với Tổ quốc phải luôn có phẩm chất gì?",
+  "A": "Dũng cảm, kiên cường, sẵn sàng hy sinh vì độc lập, tự do",
+  "B": "Ngại khó, ngại khổ",
+  "C": "Cầu an, sợ hy sinh",
+  "D": "Cá nhân chủ nghĩa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "486",
+  "QUESTION": "Người quân nhân trong thời bình có trách nhiệm gì?",
+  "A": "Sẵn sàng chiến đấu, tham gia xây dựng và bảo vệ Tổ quốc",
+  "B": "Chỉ tập trung kinh tế",
+  "C": "Chỉ quan tâm gia đình",
+  "D": "Không cần nhiệm vụ gì",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "487",
+  "QUESTION": "Trong công tác, quân nhân cần có tinh thần gì để hoàn thành tốt nhiệm vụ?",
+  "A": "Chủ động, sáng tạo, trách nhiệm cao",
+  "B": "Thụ động, trông chờ",
+  "C": "Lười biếng",
+  "D": "Đùn đẩy trách nhiệm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "488",
+  "QUESTION": "“Đoàn kết, thương yêu, giúp đỡ nhau” là trách nhiệm của quân nhân trong mối quan hệ nào?",
+  "A": "Với đồng chí, đồng đội",
+  "B": "Với gia đình",
+  "C": "Với xã hội",
+  "D": "Với cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "489",
+  "QUESTION": "Để xây dựng đơn vị vững mạnh toàn diện, mỗi quân nhân cần làm gì?",
+  "A": "Chấp hành tốt kỷ luật, tích cực rèn luyện, xây dựng đoàn kết",
+  "B": "Thoải mái, tự do vô kỷ luật",
+  "C": "Chỉ lo cho bản thân",
+  "D": "Xa rời tập thể",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "490",
+  "QUESTION": "Một trong những nội dung trách nhiệm của quân nhân với Nhân dân là gì?",
+  "A": "Giúp dân phòng chống thiên tai, cứu hộ, cứu nạn",
+  "B": "Chỉ huấn luyện",
+  "C": "Chỉ quan tâm đến doanh trại",
+  "D": "Không cần giúp dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "491",
+  "QUESTION": "Quân nhân phải thực hiện “Cần, kiệm, liêm, chính, chí công vô tư” là theo tư tưởng của ai?",
+  "A": "Lê Duẩn",
+  "B": "Hồ Chí Minh",
+  "C": "Phạm Văn Đồng",
+  "D": "Võ Nguyên Giáp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "492",
+  "QUESTION": "Trách nhiệm của quân nhân trong xây dựng gia đình văn hóa là gì?",
+  "A": "Chỉ cần chu cấp tài chính",
+  "B": "Không quan tâm gia đình",
+  "C": "Kính trên nhường dưới, hiếu thảo với cha mẹ, yêu thương vợ con",
+  "D": "Tùy ý cá nhân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "493",
+  "QUESTION": "Đối với đồng chí, đồng đội khi khó khăn hoạn nạn, quân nhân cần làm gì?",
+  "A": "Sẵn sàng chia sẻ, giúp đỡ",
+  "B": "Bỏ mặc",
+  "C": "Thờ ơ",
+  "D": "Lợi dụng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "494",
+  "QUESTION": "Trách nhiệm của quân nhân trong giữ gìn danh dự Quân đội là gì?",
+  "A": "Sống gương mẫu, trong sáng, có đạo đức",
+  "B": "Tự do, buông thả",
+  "C": "Thoải mái, bất chấp",
+  "D": "Chỉ cần hoàn thành nhiệm vụ cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "495",
+  "QUESTION": "Người quân nhân cần rèn luyện phẩm chất nào để không ngại khó khăn gian khổ?",
+  "A": "Ý chí kiên cường, bền bỉ",
+  "B": "Lười biếng",
+  "C": "Sợ hãi",
+  "D": "Cầu an",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "496",
+  "QUESTION": "Quân nhân cần có thái độ thế nào khi tiếp xúc với Nhân dân?",
+  "A": "Tôn trọng, lễ phép, giúp đỡ Nhân dân",
+  "B": "Thờ ơ, xa cách",
+  "C": "Coi thường",
+  "D": "Thái độ cá nhân chủ nghĩa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "497",
+  "QUESTION": "Một quân nhân có trách nhiệm với đơn vị là người như thế nào?",
+  "A": "Chấp hành nghiêm điều lệnh, điều lệ, luôn đặt lợi ích tập thể lên trên",
+  "B": "Tùy tiện",
+  "C": "Lười biếng",
+  "D": "Cá nhân chủ nghĩa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "498",
+  "QUESTION": "Trách nhiệm của quân nhân trong xây dựng tình đoàn kết quốc tế là gì?",
+  "A": "Hợp tác, hữu nghị, giúp đỡ quân đội và nhân dân các nước bạn",
+  "B": "Không quan tâm",
+  "C": "Lợi dụng để trục lợi",
+  "D": "Cạnh tranh không lành mạnh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "499",
+  "QUESTION": "Trong học tập, quân nhân có trách nhiệm gì?",
+  "A": "Tích cực học tập chính trị, quân sự, văn hóa để nâng cao trình độ",
+  "B": "Lười học",
+  "C": "Bỏ qua học tập",
+  "D": "Học cho có",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "500",
+  "QUESTION": "Trách nhiệm của quân nhân trong bảo vệ đơn vị, doanh trại là gì?",
+  "A": "Giữ gìn bí mật quân sự, bảo quản vũ khí trang bị",
+  "B": "Tùy tiện làm mất",
+  "C": "Không quan tâm",
+  "D": "Xem thường",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "501",
+  "QUESTION": "Một quân nhân gương mẫu thường thể hiện trách nhiệm với đồng chí thế nào?",
+  "A": "Chia sẻ kinh nghiệm, kèm cặp giúp đỡ",
+  "B": "Giấu nghề",
+  "C": "Thờ ơ",
+  "D": "Xa lánh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "502",
+  "QUESTION": "Quân nhân có trách nhiệm thế nào với hình ảnh Bộ đội Cụ Hồ?",
+  "A": "Không cần quan tâm",
+  "B": "Giữ gìn, phát huy phẩm chất cao đẹp Bộ đội Cụ Hồ",
+  "C": "Xem nhẹ",
+  "D": "Chỉ chú trọng cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "503",
+  "QUESTION": "Khi tham gia các hoạt động xã hội, quân nhân cần làm gì?",
+  "A": "Đứng ngoài",
+  "B": "Thờ ơ",
+  "C": "Tích cực tham gia, gương mẫu đi đầu",
+  "D": "Chỉ tham gia khi bắt buộc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "504",
+  "QUESTION": "Trách nhiệm bao trùm, xuyên suốt của quân nhân cách mạng là gì?",
+  "A": "Tuyệt đối trung thành với Tổ quốc, Nhân dân, Đảng và Quân đội",
+  "B": "Trung thành với cá nhân",
+  "C": "Chỉ quan tâm lợi ích riêng",
+  "D": "Thờ ơ chính trị",
+  "ANSWER": "A"
+ }
+]

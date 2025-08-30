@@ -1,0 +1,6239 @@
+[
+ {
+  "ID": "1",
+  "QUESTION": "Trong đại dịch Covid-19 (2021–2022), LLVT Quân khu triển khai biện pháp gì?",
+  "A": "Phòng chống dịch",
+  "B": "Tăng cường huấn luyện",
+  "C": "Chiến đấu trực tiếp",
+  "D": "Tất cả trừ C",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "2",
+  "QUESTION": "Ai là lực lượng tham gia nổi dậy ở 107 điểm tại Sài Gòn, Gia Định?",
+  "A": "Quân chủ lực",
+  "B": "Quần chúng",
+  "C": "Cán bộ ngoại biên",
+  "D": "Lực lượng vũ trang miền Bắc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "3",
+  "QUESTION": "Giai đoạn 1945–1954, LLVT miền Đông chủ yếu đấu tranh bằng phương pháp gì?",
+  "A": "Du kích kết hợp đô thị",
+  "B": "Trực thăng vận",
+  "C": "Thiết xa vận",
+  "D": "Tấn công hỏa lực",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "4",
+  "QUESTION": "Trận Ấp Bắc là trận đánh lớn trong chiến tranh chống Mỹ ở miền nào?",
+  "A": "Miền Đông Nam Bộ",
+  "B": "Miền Bắc",
+  "C": "Tây Nguyên",
+  "D": "Đồng bằng sông Cửu Long",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "5",
+  "QUESTION": "Chiến thắng nào mở đường giải phóng miền Nam năm 1975?",
+  "A": "Bình Giã",
+  "B": "Buôn Ma Thuột",
+  "C": "Đồng khởi",
+  "D": "Chiến dịch Nguyễn Huệ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "6",
+  "QUESTION": "Từ 1957 đến 1961, LLVT miền Đông thực hiện các trận đánh đầu tiên, nổi bật là?",
+  "A": "Quận lỵ Dầu Tiếng",
+  "B": "Bình Giã",
+  "C": "Buôn Ma Thuột",
+  "D": "Tây Nguyên",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "7",
+  "QUESTION": "Cuộc Đồng khởi 1960 giúp quân dân miền Đông làm chủ phần lớn đâu?",
+  "A": "Thành phố",
+  "B": "Nông thôn",
+  "C": "Biên giới",
+  "D": "Căn cứ địch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "8",
+  "QUESTION": "Lực lượng nào giúp giữ quyền chủ động tiến công từ 1961–1965?",
+  "A": "Quân Mỹ",
+  "B": "Quân dân miền Đông Nam Bộ và cực Nam Trung Bộ",
+  "C": "Quân Pháp",
+  "D": "Quân Trung Quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "9",
+  "QUESTION": "Chiến tranh đặc biệt của Mỹ diễn ra trong thời gian nào?",
+  "A": "1961–1965",
+  "B": "1965–1972",
+  "C": "1972–1975",
+  "D": "1954–1960",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "10",
+  "QUESTION": "Trận Bình Giã là trận thứ mấy sau Ấp Bắc?",
+  "A": "Thứ nhất",
+  "B": "Thứ hai",
+  "C": "Thứ ba",
+  "D": "Thứ tư",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "11",
+  "QUESTION": "Ngay sau lệnh tổng tiến công 1975, quân chủ lực vào Sài Gòn khi nào?",
+  "A": "Ngay lập tức",
+  "B": "Sau khi Dương Văn Minh tuyên bố đầu hàng",
+  "C": "Trước khi dân nổi dậy",
+  "D": "Không vào",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "12",
+  "QUESTION": "Sau khi rút quân về nước, LLVT Quân khu thực hiện điều gì?",
+  "A": "Xây dựng lực lượng phù hợp nhiệm vụ mới",
+  "B": "Ngừng hoạt động",
+  "C": "Tăng cường chiến đấu",
+  "D": "Rút về nông thôn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "13",
+  "QUESTION": "Lực lượng vũ trang Quân khu triển khai phòng thủ sẵn sàng chiến đấu bao gồm những tuyến nào?",
+  "A": "Biên giới, nội địa, hải đảo",
+  "B": "Chỉ nội địa",
+  "C": "Chỉ biên giới",
+  "D": "Chỉ hải đảo",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "14",
+  "QUESTION": "Truyền thống vẻ vang của LLVT Quân khu 7 được xây dựng dưới sự lãnh đạo của ai?",
+  "A": "Quân đội Nhân dân",
+  "B": "Đảng và Bác Hồ",
+  "C": "Chính phủ",
+  "D": "Quốc hội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "15",
+  "QUESTION": "Truyền thống vẻ vang của LLVT Quân khu 7 được khắc họa bằng cụm từ nào?",
+  "A": "Trung thành vô hạn",
+  "B": "Chủ động sáng tạo",
+  "C": "Tự lực tự cường",
+  "D": "Tất cả các ý trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "16",
+  "QUESTION": "Một trong những phẩm chất quan trọng của LLVT Quân khu là gì?",
+  "A": "Trung thành vô hạn",
+  "B": "Hám danh",
+  "C": "Thụ động",
+  "D": "Cầu toàn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "17",
+  "QUESTION": "LLVT Quân khu 7 sẵn sàng hy sinh để bảo vệ điều gì?",
+  "A": "Chủ nghĩa tư bản",
+  "B": "Độc lập, tự do của Tổ quốc",
+  "C": "Quyền lợi cá nhân",
+  "D": "Thị trường quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "18",
+  "QUESTION": "Tinh thần “chủ động sáng tạo, tự lực tự cường” nhằm đạt mục tiêu gì?",
+  "A": "Tránh nhiệm vụ",
+  "B": "Vượt khó, hoàn thành xuất sắc nhiệm vụ",
+  "C": "Tăng lương",
+  "D": "Xây dựng chính quyền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "19",
+  "QUESTION": "LLVT Quân khu đoàn kết với ai để thực hiện nhiệm vụ?",
+  "A": "Bạn bè quốc tế",
+  "B": "Nội bộ và Nhân dân",
+  "C": "Đối thủ",
+  "D": "Các công ty",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "20",
+  "QUESTION": "Tinh thần quốc tế cao cả thể hiện qua điều gì?",
+  "A": "Đoàn kết thủy chung với bạn bè quốc tế",
+  "B": "Chiếm lĩnh thị trường nước ngoài",
+  "C": "Học ngoại ngữ",
+  "D": "Du lịch",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "21",
+  "QUESTION": "Một trong những nhiệm vụ chủ yếu của LLVT Quân khu hiện nay là gì?",
+  "A": "Xây dựng tổ chức trong sạch, vững mạnh",
+  "B": "Tăng chi tiêu",
+  "C": "Giảm kỷ luật",
+  "D": "Xây dựng công trình dân sự",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "22",
+  "QUESTION": "LLVT Quân khu nâng cao chất lượng giáo dục chính trị tư tưởng nhằm mục tiêu gì?",
+  "A": "Cán bộ có bản lĩnh chính trị, đạo đức, năng lực trí tuệ",
+  "B": "Giảm trách nhiệm",
+  "C": "Tăng cường tham nhũng",
+  "D": "Tránh chiến đấu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "23",
+  "QUESTION": "Quản lý tổ chức biên chế quân đội thời bình theo Nghị quyết của ai?",
+  "A": "Quốc hội",
+  "B": "Chính phủ",
+  "C": "Quân ủy Trung ương",
+  "D": "Bộ Quốc phòng nước ngoài",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "24",
+  "QUESTION": "LLVT Quân khu cần đảm bảo các lực lượng quân đội như thế nào?",
+  "A": "Tinh, gọn, mạnh, cơ động nhanh",
+  "B": "Chậm chạp, rườm rà",
+  "C": "Lỏng lẻo",
+  "D": "Ngẫu nhiên",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "25",
+  "QUESTION": "Một trong những biện pháp phòng thủ SSCĐ là gì?",
+  "A": "Không nắm tình hình",
+  "B": "Phối hợp với các lực lượng, phát hiện, ngăn chặn tình huống",
+  "C": "Bỏ qua",
+  "D": "Hợp tác với kẻ thù",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "26",
+  "QUESTION": "LLVT Quân khu phát huy tinh thần gì để chuẩn bị cơ sở vật chất và vũ khí?",
+  "A": "Độc lập, tự chủ, tự lực, tự cường, chủ động, sáng tạo",
+  "B": "Hèn nhát",
+  "C": "Thụ động",
+  "D": "Bảo thủ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "27",
+  "QUESTION": "Truyền thống vẻ vang của LLVT Quân khu 7 được đúc kết sau bao nhiêu năm?",
+  "A": "50 năm",
+  "B": "60 năm",
+  "C": "70 năm",
+  "D": "80 năm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "28",
+  "QUESTION": "Nội dung “đoàn kết quyết thắng” thể hiện điều gì?",
+  "A": "Không hợp tác",
+  "B": "Đoàn kết nội bộ chặt chẽ, gắn bó với Nhân dân",
+  "C": "Chỉ làm việc riêng",
+  "D": "Thờ ơ với đồng đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "29",
+  "QUESTION": "LLVT Quân khu thực hiện “quân với dân một ý chí” nhằm gì?",
+  "A": "Phát huy bản chất tốt đẹp, truyền thống bộ đội Cụ Hồ",
+  "B": "Phát triển kinh tế",
+  "C": "Xây dựng văn hóa",
+  "D": "Học hỏi ngoại ngữ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "30",
+  "QUESTION": "Yếu tố nào giúp LLVT Quân khu hoàn thành xuất sắc nhiệm vụ trong tình hình mới?",
+  "A": "Trung thành, chủ động, đoàn kết, tự lực",
+  "B": "Lười biếng",
+  "C": "Không tổ chức",
+  "D": "Bất cẩn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "31",
+  "QUESTION": "Tinh thần “tự lực tự cường” được thể hiện qua việc gì?",
+  "A": "Dựa hoàn toàn vào nước ngoài",
+  "B": "Vượt khó, chủ động giải quyết nhiệm vụ",
+  "C": "Bỏ nhiệm vụ",
+  "D": "Chờ lệnh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "32",
+  "QUESTION": "LLVT Quân khu nêu cao tinh thần quốc tế nhằm mục tiêu gì?",
+  "A": "Đoàn kết thủy chung với bạn bè quốc tế",
+  "B": "Chiếm lãnh thổ",
+  "C": "Kinh doanh",
+  "D": "Du lịch",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "33",
+  "QUESTION": "Truyền thống “Trung thành vô hạn, chủ động sáng tạo, tự lực tự cường, đoàn kết quyết thắng” là của ai?",
+  "A": "Bộ đội Cụ Hồ, LLVT Quân khu 7",
+  "B": "Công nhân",
+  "C": "Giáo viên",
+  "D": "Học sinh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "34",
+  "QUESTION": "Theo văn bản, Hồ Chí Minh đã nói câu nào về kỷ luật?",
+  "A": "\"Kỷ luật là sức mạnh của quân đội.\"",
+  "B": "\"Dân chủ là nền tảng của quân đội.\"",
+  "C": "\"Quân đội phải giàu về vật chất.\"",
+  "D": "\"Chỉ huy là người quan trọng nhất.\"",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "35",
+  "QUESTION": "Theo Hồ Chí Minh, dân chủ trong quân đội có tác dụng gì nổi bật?",
+  "A": "Làm cho quân đội giàu về vật chất",
+  "B": "Khuyến khích cán bộ và quần chúng đề ra sáng kiến và đoàn kết",
+  "C": "Làm giảm trách nhiệm cá nhân",
+  "D": "Làm cho mệnh lệnh không cần thi hành",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "36",
+  "QUESTION": "Văn bản nêu quan niệm nào về mệnh lệnh cấp trên?",
+  "A": "Mệnh lệnh có thể bàn lại nếu không hợp lý",
+  "B": "Mệnh lệnh chỉ cần thực hiện khi thuận tiện",
+  "C": "Phải tuyệt đối phục tùng và triệt để thi hành",
+  "D": "Mệnh lệnh chỉ mang tính tham khảo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "37",
+  "QUESTION": "Hồ Chí Minh mô tả mối quan hệ giữa dân chủ và kỷ luật như thế nào?",
+  "A": "Hai mặt thống nhất, không thể tách rời",
+  "B": "Dân chủ luôn quan trọng hơn kỷ luật",
+  "C": "Kỷ luật phải thay thế dân chủ",
+  "D": "Hai khái niệm độc lập, không liên quan",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "38",
+  "QUESTION": "Trong các phương pháp thực hành dân chủ và kỷ luật, văn bản đề cập đến điều nào?",
+  "A": "Giảm vai trò lãnh đạo của Đảng",
+  "B": "Tăng cường sự lãnh đạo của Đảng trong quân đội",
+  "C": "Bỏ qua lãnh đạo để tự do dân chủ",
+  "D": "Hạn chế tự phê bình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "39",
+  "QUESTION": "Hồ Chí Minh yêu cầu cán bộ ở mọi cấp phải làm gì?",
+  "A": "Tránh giao tiếp với đội viên",
+  "B": "Thường xuyên đổi chỗ công tác",
+  "C": "Gương mẫu; làm kiểu mẫu từ việc lớn đến việc nhỏ",
+  "D": "Chỉ tập trung vào nhiệm vụ chuyên môn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "40",
+  "QUESTION": "Về chăm sóc đời sống đội viên, Người khuyên gì?",
+  "A": "Để đội viên tự lo",
+  "B": "Cán bộ chỉ lo việc huấn luyện",
+  "C": "Chỉ trợ giúp khi có lệnh",
+  "D": "Cán bộ phải săn sóc đời sống vật chất và tinh thần đội viên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "41",
+  "QUESTION": "Mục đích của phê bình và tự phê bình theo văn bản là gì?",
+  "A": "Học cái hay, tránh cái dở và tiến bộ",
+  "B": "Là cách để trừng phạt",
+  "C": "Chỉ để tìm lỗi người khác",
+  "D": "Để giữ bí mật bên trong đơn vị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "42",
+  "QUESTION": "Câu \"Dân chủ phải có kỷ luật\" muốn nhấn mạnh điều gì?",
+  "A": "Dân chủ không đồng nghĩa với vô trật tự",
+  "B": "Dân chủ là không cần mệnh lệnh",
+  "C": "Kỷ luật có thể bỏ qua dân chủ",
+  "D": "Dân chủ là không quan trọng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "43",
+  "QUESTION": "Theo Hồ Chí Minh, khi đã quyết định thì phải như thế nào?",
+  "A": "Có thể tiếp tục tranh luận để thay đổi quyết định",
+  "B": "Không được bàn cãi nữa; chỉ bàn cách thi hành cho tốt",
+  "C": "Bỏ quyết định nếu thấy không thuận tiện",
+  "D": "Để quyết định tùy ý mỗi cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "44",
+  "QUESTION": "Câu \"mệnh lệnh từ trên xuống phải thấm tới mỗi đội viên\" hàm ý gì?",
+  "A": "Mệnh lệnh chỉ dành cho chỉ huy",
+  "B": "Mệnh lệnh có thể truyền miệng không rõ ràng",
+  "C": "Mệnh lệnh phải truyền đạt rõ ràng đến mỗi người; chỗ nào không tới là hỏng",
+  "D": "Mệnh lệnh chỉ cần gửi qua văn bản",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "45",
+  "QUESTION": "Văn bản nêu tiêu chí nào cho việc thưởng phạt?",
+  "A": "Thưởng phạt tùy ý theo cảm xúc",
+  "B": "Thưởng nhiều cho người thân tín",
+  "C": "Không cần công bằng nếu có hoàn cảnh",
+  "D": "Phải công minh, không vì ưa ghét mà xử",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "46",
+  "QUESTION": "Để nâng cao chí khí chiến đấu, Hồ Chí Minh cho rằng bộ đội phải làm gì?",
+  "A": "Chỉ luyện thể lực",
+  "B": "Chỉ học chính trị",
+  "C": "Học chính trị và quân sự, giữ thật nghiêm kỷ luật",
+  "D": "Chỉ dựa vào may rủi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "47",
+  "QUESTION": "Hai khuynh hướng nguy hiểm trong quản lý quân đội mà Người cảnh báo là gì?",
+  "A": "Dân chủ và kỷ luật",
+  "B": "Dân chủ cực đoan và tập trung tuyệt đối",
+  "C": "Lãnh đạo và chỉ huy",
+  "D": "Huấn luyện và hậu cần",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "48",
+  "QUESTION": "Văn bản nói gì về vai trò của Đảng và Chính phủ?",
+  "A": "Đảng nên rút khỏi quân đội",
+  "B": "Đảng không quan trọng",
+  "C": "Kiên quyết lãnh đạo bộ đội tiến lên chính quy",
+  "D": "Chính phủ không can thiệp quân sự",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "49",
+  "QUESTION": "Cán bộ phải làm gì trong mọi việc để thúc đẩy kỷ luật và dân chủ?",
+  "A": "Tránh tiếp xúc đội viên",
+  "B": "Làm việc riêng tư",
+  "C": "Chỉ quan tâm đến mệnh lệnh",
+  "D": "Làm kiểu mẫu, gương mẫu trong mọi việc",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "50",
+  "QUESTION": "Hồ Chí Minh khuyên về thưởng phạt: không nên làm gì?",
+  "A": "Làm rõ tiêu chuẩn thưởng phạt",
+  "B": "Làm tùy theo công minh",
+  "C": "Vì ưa ai mà thưởng, ghét ai mà phạt",
+  "D": "Công bố công khai kết quả",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "51",
+  "QUESTION": "Dân chủ trong quân đội, theo văn bản, giúp gì cho hoạt động quân sự?",
+  "A": "Làm giảm kỷ luật",
+  "B": "Không có tác dụng",
+  "C": "Tăng sáng kiến, đoàn kết nội bộ và rút kinh nghiệm",
+  "D": "Làm chậm tốc độ quyết định",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "52",
+  "QUESTION": "Trong các điều sau, đâu không phải là phương pháp thực hành dân chủ và kỷ luật được nêu?",
+  "A": "Cán bộ gương mẫu",
+  "B": "Tăng cường lãnh đạo của Đảng",
+  "C": "Bỏ mệnh lệnh cấp trên và để tự do hoàn toàn",
+  "D": "Tự phê bình và phê bình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "53",
+  "QUESTION": "Hồ Chí Minh mô tả mối quan hệ cán bộ - đội viên như thế nào để có dân chủ tốt?",
+  "A": "Cán bộ xa cách đội viên",
+  "B": "Cán bộ luôn giữ bí mật",
+  "C": "Đội viên phải tự lo mọi thứ",
+  "D": "Cán bộ thân đội viên như chân tay; đội viên thân cán bộ như ruột thịt",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "54",
+  "QUESTION": "Câu \"Báo cáo từ dưới lên phải cho thật thà, nhanh chóng, thiết thực\" nhấn mạnh điều gì?",
+  "A": "Báo cáo chỉ nên qua trung gian",
+  "B": "Báo cáo có thể chậm nhưng chi tiết",
+  "C": "Báo cáo cần trung thực và kịp thời",
+  "D": "Báo cáo chỉ là thủ tục",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "55",
+  "QUESTION": "Kỷ luật trong quân đội theo văn bản phải được thi hành như thế nào?",
+  "A": "Theo ý thích người chỉ huy",
+  "B": "Bình đẳng, nhất quán, triệt để từ trên xuống dưới",
+  "C": "Chỉ trong thời chiến",
+  "D": "Chỉ áp dụng cho binh lính thấp cấp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "56",
+  "QUESTION": "Theo Hồ Chí Minh, dân chủ phải đặt dưới cơ sở nào?",
+  "A": "Tự do cá nhân",
+  "B": "Quyền lợi vật chất",
+  "C": "Sự lãnh đạo, chỉ huy tập trung thống nhất",
+  "D": "Lãnh đạo địa phương tự quyết",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "57",
+  "QUESTION": "Hậu quả của dân chủ cực đoan được văn bản mô tả là gì?",
+  "A": "Làm tăng sáng kiến",
+  "B": "Làm tăng kỷ luật",
+  "C": "Tốt cho huấn luyện",
+  "D": "Dẫn đến hỗn loạn, vô chính phủ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "58",
+  "QUESTION": "Mục đích cuối cùng của phê bình và tự phê bình là gì?",
+  "A": "Để học cái hay, tránh cái dở và tăng đoàn kết",
+  "B": "Để hạ bệ người khác",
+  "C": "Để giảm trách nhiệm cá nhân",
+  "D": "Để giữ bí mật những khuyết điểm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "59",
+  "QUESTION": "Theo tư tưởng Hồ Chí Minh, yếu tố nào góp phần làm Quân đội mạnh?",
+  "A": "Giáo dục khéo, chính sách đúng, kỷ luật nghiêm",
+  "B": "Chỉ có vũ khí hiện đại",
+  "C": "Tăng biên chế quân số",
+  "D": "Tập trung vào kinh tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "60",
+  "QUESTION": "Thực hành dân chủ trong quân đội giúp gì trước hết?",
+  "A": "Gây mất trật tự",
+  "B": "Nâng cao tinh thần trách nhiệm, tự giác của cán bộ, chiến sĩ",
+  "C": "Giảm hiệu quả công tác",
+  "D": "Loại bỏ chỉ huy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "61",
+  "QUESTION": "Dân chủ và kỷ luật trong quân đội được mô tả là gì?",
+  "A": "Nguyên tắc xây dựng lực lượng và truyền thống tốt đẹp",
+  "B": "Chỉ là khẩu hiệu",
+  "C": "Không cần thiết trong thời bình",
+  "D": "Cản trở quản lý",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "62",
+  "QUESTION": "Một kết quả của dân chủ và kỷ luật được thực hiện nghiêm là gì?",
+  "A": "Làm suy yếu tinh thần chiến đấu",
+  "B": "Phát huy sáng tạo, nâng cao năng lực làm việc",
+  "C": "Tăng quan liêu",
+  "D": "Giảm trách nhiệm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "63",
+  "QUESTION": "Theo văn bản, thực hành dân chủ giúp giải quyết mối quan hệ nào trong đơn vị?",
+  "A": "Chỉ mối quan hệ với đối phương",
+  "B": "Quan hệ giữa lãnh đạo-chỉ huy và cấp dưới, giữa đơn vị với dân",
+  "C": "Chỉ quan hệ tài chính",
+  "D": "Chỉ quan hệ với cấp trên",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "64",
+  "QUESTION": "Thực hành dân chủ, kỷ luật góp phần gì cho tổ chức đảng?",
+  "A": "Phá vỡ tổ chức đảng",
+  "B": "Xây dựng trong sạch, vững mạnh",
+  "C": "Làm giảm tính kỷ luật",
+  "D": "Không ảnh hưởng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "65",
+  "QUESTION": "Việc duy trì dân chủ và kỷ luật từ khi quân nhân gia nhập quân đội nhằm mục đích gì?",
+  "A": "Để tạo ưu đãi",
+  "B": "Hoàn thiện nhân cách, phẩm chất \"Bộ đội Cụ Hồ\"",
+  "C": "Giảm trách nhiệm cá nhân",
+  "D": "Tăng thủ tục hành chính",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "66",
+  "QUESTION": "Đẩy mạnh học tập và làm theo tư tưởng Hồ Chí Minh tạo điều kiện gì trong đơn vị?",
+  "A": "Làm giảm động lực",
+  "B": "Tạo động lực trong chấp hành kỷ luật và thực hiện dân chủ",
+  "C": "Làm mất đoàn kết",
+  "D": "Tăng mâu thuẫn",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "67",
+  "QUESTION": "Trong tình hình mới, nhiệm vụ bảo vệ Tổ quốc cốt lõi là gì?",
+  "A": "Chỉ phát triển kinh tế",
+  "B": "Bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ và chế độ xã hội chủ nghĩa",
+  "C": "Chỉ tham gia liên minh quân sự",
+  "D": "Chỉ tập trung vào an ninh mạng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "68",
+  "QUESTION": "Văn kiện Đại hội XIII nhấn mạnh điều gì trong bảo vệ Tổ quốc?",
+  "A": "Phát huy sức mạnh tổng hợp toàn dân tộc và hệ thống chính trị",
+  "B": "Phủ nhận vai trò quốc phòng",
+  "C": "Tách rời cộng đồng quốc tế",
+  "D": "Hủy bỏ quốc phòng toàn dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "69",
+  "QUESTION": "Yêu cầu đối với quân đội trong tình hình mới là gì?",
+  "A": "Không cần đổi mới huấn luyện",
+  "B": "Xây dựng Quân đội cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+  "C": "Giảm chất lượng huấn luyện",
+  "D": "Chỉ dựa vào vũ khí",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "70",
+  "QUESTION": "Vì sao cần thay đổi cơ cấu tổ chức quân đội?",
+  "A": "Để tăng biên chế",
+  "B": "Do tác động của Cách mạng công nghiệp 4.0 và hình thái chiến tranh mới",
+  "C": "Để giảm năng lực chiến đấu",
+  "D": "Do áp lực kinh tế duy nhất",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "71",
+  "QUESTION": "Một trong những nhiệm vụ của quân đội ngoài huấn luyện là gì?",
+  "A": "Chỉ tập trung chiến đấu",
+  "B": "Tham gia phát triển kinh tế, văn hóa xã hội, phòng chống thiên tai, cứu nạn",
+  "C": "Không tham gia dân sự",
+  "D": "Chỉ làm nhiệm vụ lễ nghi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "72",
+  "QUESTION": "Mục tiêu xây dựng quân đội đến năm 2030 nêu trong văn bản là gì?",
+  "A": "Bãi bỏ quân đội",
+  "B": "Xây dựng Quân đội cách mạng, chính quy, tinh nhuệ, hiện đại",
+  "C": "Giảm năng lực quân sự",
+  "D": "Chỉ tham gia kinh tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "73",
+  "QUESTION": "Khi dân chủ trong đơn vị được phát huy, kỷ luật được duy trì nghiêm sẽ tạo ra gì?",
+  "A": "Sự lúng túng, xung đột",
+  "B": "Động lực nâng cao trách nhiệm và sáng tạo",
+  "C": "Bất ổn nội bộ",
+  "D": "Tăng tình trạng vi phạm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "74",
+  "QUESTION": "Phát huy dân chủ tốt là cơ sở của gì trong quân đội?",
+  "A": "Phá vỡ kỷ luật",
+  "B": "Đoàn kết",
+  "C": "Tăng cạnh tranh nội bộ",
+  "D": "Suy yếu hệ thống chỉ huy",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "75",
+  "QUESTION": "Thực hành dân chủ và kỷ luật góp phần ngăn chặn gì?",
+  "A": "Tăng các tệ nạn xã hội",
+  "B": "Đẩy lùi tệ nạn xã hội và hiện tượng tiêu cực",
+  "C": "Tạo điều kiện vi phạm pháp luật",
+  "D": "Làm giảm trách nhiệm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "76",
+  "QUESTION": "Một biểu hiện tích cực đã đạt được trong thời gian qua là gì?",
+  "A": "Tăng đơn thư khiếu nại nặc danh",
+  "B": "Dân chủ trong lãnh đạo, quyền dân chủ của cán bộ, chiến sĩ được phát huy",
+  "C": "Suy giảm quản lý tài chính",
+  "D": "Giảm giao tiếp nội bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "77",
+  "QUESTION": "Hạn chế nào được nêu liên quan đến việc thực hiện Quy chế dân chủ cơ sở?",
+  "A": "Luôn hiệu quả, không vấn đề",
+  "B": "Có đơn vị, thời điểm chưa được quan tâm đúng mức; đối thoại chưa hiệu quả",
+  "C": "Loại bỏ Quy chế hoàn toàn",
+  "D": "Quy chế gây chia rẽ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "78",
+  "QUESTION": "Nguyên nhân chủ yếu của hạn chế trong thực hành dân chủ, kỷ luật là gì?",
+  "A": "Do hoàn toàn khách quan",
+  "B": "Một số cấp ủy, chỉ huy chưa quan tâm đúng mức, thiếu quyết liệt",
+  "C": "Do chiến tranh liên miên",
+  "D": "Do nước ngoài can thiệp trực tiếp",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "79",
+  "QUESTION": "Các thế lực thù địch lợi dụng vấn đề nào để chống phá Việt Nam?",
+  "A": "Chỉ vấn đề quân sự",
+  "B": "Dân chủ, nhân quyền, tôn giáo, chủ quyền biển đảo",
+  "C": "Chỉ vấn đề nông nghiệp",
+  "D": "Chỉ vấn đề văn hóa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "80",
+  "QUESTION": "\"Phi chính trị hóa\" quân đội theo kịch bản thù địch nhằm mục tiêu gì?",
+  "A": "Tăng sự lãnh đạo của Đảng",
+  "B": "Xóa bỏ vai trò lãnh đạo của Đảng, làm mất bản chất cách mạng của quân đội",
+  "C": "Tăng kỷ luật nội bộ",
+  "D": "Củng cố truyền thống",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "81",
+  "QUESTION": "Thế lực thù địch dùng phương tiện gì để xuyên tạc, bôi nhọ?",
+  "A": "Chỉ sử dụng truyền đơn",
+  "B": "Thông tin, truyền thông, mạng xã hội",
+  "C": "Chỉ gặp gỡ trực tiếp",
+  "D": "Chỉ ngoại giao chính thức",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "82",
+  "QUESTION": "Hậu quả khi cán bộ, chiến sĩ bị tác động bởi diễn biến hòa bình là gì?",
+  "A": "Tăng niềm tin vào Đảng",
+  "B": "Bi quan, giao động lập trường, mất niềm tin vào lãnh đạo",
+  "C": "Tăng kỷ luật",
+  "D": "Tăng tinh thần chiến đấu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "83",
+  "QUESTION": "Các thế lực thù địch khai thác điều gì trong quân đội để bôi bác?",
+  "A": "Thành tích cao của quân đội",
+  "B": "Khuyết điểm, vi phạm kỷ luật của một số cán bộ, hiện tượng tiêu cực",
+  "C": "Tinh thần đoàn kết",
+  "D": "Sự tiến bộ trong huấn luyện",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "84",
+  "QUESTION": "Để chống phá, cần làm gì theo văn bản?",
+  "A": "Bỏ qua vấn đề",
+  "B": "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "C": "Tách quân đội khỏi xã hội",
+  "D": "Phủ nhận lịch sử quân đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "85",
+  "QUESTION": "Việc đẩy mạnh học tập và làm theo tư tưởng Hồ Chí Minh nhằm mục tiêu gì trong mối quan hệ quân-dân?",
+  "A": "Làm rạn nứt quan hệ",
+  "B": "Củng cố, tăng cường đoàn kết quân-dân",
+  "C": "Làm giảm hợp tác với dân",
+  "D": "Chỉ phục vụ lợi ích riêng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "86",
+  "QUESTION": "Một trong những biện pháp đã được áp dụng để phát huy dân chủ ở đơn vị là gì?",
+  "A": "Che giấu thông tin",
+  "B": "Lập đường dây nóng, diễn đàn nội bộ, hộp thư góp ý",
+  "C": "Cấm góp ý",
+  "D": "Tăng kiểm duyệt nội bộ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "87",
+  "QUESTION": "Nội dung \"điều chỉnh tổ chức biên chế theo hướng 'tinh, gọn, mạnh'\" nhằm mục đích gì?",
+  "A": "Tăng rườm rà",
+  "B": "Hoàn thiện cơ cấu, phân định rõ chức năng, giảm đầu mối trung gian",
+  "C": "Giảm hiệu quả tác chiến",
+  "D": "Tăng biên chế hành chính",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "88",
+  "QUESTION": "Việc ưu tiên nguồn lực cho lực lượng nào được nêu?",
+  "A": "Lực lượng lễ tân",
+  "B": "Lực lượng tiến thẳng lên hiện đại",
+  "C": "Lực lượng phục vụ hành chính",
+  "D": "Lực lượng quan hệ đối ngoại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "89",
+  "QUESTION": "Một trong những nguyên nhân chủ quan làm giảm hiệu quả thực hành dân chủ là gì?",
+  "A": "Lãnh đạo quá cởi mở",
+  "B": "Nhận thức của một bộ phận cán bộ, chiến sĩ chưa sâu sắc",
+  "C": "Toàn quân đồng lòng",
+  "D": "Quá nhiều đối thoại hiệu quả",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "90",
+  "QUESTION": "Công tác kiểm tra, giám sát trong một số nơi còn thiếu vì sao?",
+  "A": "Do quá hiệu quả",
+  "B": "Vì xem nhẹ, chưa thường xuyên, liên tục",
+  "C": "Vì dư thừa nguồn lực",
+  "D": "Vì không có vấn đề gì",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "91",
+  "QUESTION": "Văn bản cho rằng quân đội phải làm gì để không bị động, bất ngờ trước tình huống?",
+  "A": "Không cần dự báo",
+  "B": "Nghiên cứu, nắm, đánh giá, dự báo đúng tình hình thế giới, khu vực",
+  "C": "Phó mặc cho may rủi",
+  "D": "Chỉ phụ thuộc báo chí",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "92",
+  "QUESTION": "\"Thế trận lòng dân\" trong văn bản là để làm gì?",
+  "A": "Tách quân đội ra khỏi dân",
+  "B": "Kết hợp nền quốc phòng toàn dân với an ninh nhân dân, tạo sự ủng hộ nhân dân",
+  "C": "Làm suy yếu chính quyền",
+  "D": "Chỉ nhằm mục đích tuyên truyền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "93",
+  "QUESTION": "Để thu hút nhân lực chất lượng cao, văn bản đề xuất gì?",
+  "A": "Giảm tuyển sinh quân sự",
+  "B": "Có giải pháp đột phá nâng cao chất lượng tuyển quân, tuyển sinh, tuyển dụng",
+  "C": "Bỏ qua tuyển chọn",
+  "D": "Chỉ tuyển theo khu vực",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "94",
+  "QUESTION": "Việc tham gia lực lượng gìn giữ hòa bình thể hiện điều gì?",
+  "A": "Rời xa nhiệm vụ quốc phòng",
+  "B": "Hòa nhập, trách nhiệm quốc tế và chuyên môn hóa",
+  "C": "Là giảm vai trò quân đội",
+  "D": "Là hành động riêng lẻ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "95",
+  "QUESTION": "Một thành tựu về kỷ luật trong nhiều đơn vị là gì?",
+  "A": "Tăng vi phạm kỷ luật",
+  "B": "Nhiều đơn vị liên tục nhiều năm không có đơn thư khiếu nại, vi phạm nghiêm trọng",
+  "C": "Tất cả đơn vị đều gặp khủng hoảng",
+  "D": "Kỷ luật bị loại bỏ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "96",
+  "QUESTION": "Dân chủ quá trớn được khắc phục nhờ điều gì?",
+  "A": "Tăng cấm đoán",
+  "B": "Sự đổi mới, điều chỉnh phương thức phát huy dân chủ, sâu sát cơ sở",
+  "C": "Loại bỏ dân chủ hoàn toàn",
+  "D": "Chỉ trông chờ vào chỉ huy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "97",
+  "QUESTION": "Văn bản nhắc đến biểu hiện tiêu cực gần đây là gì?",
+  "A": "Hoàn toàn không có vấn đề",
+  "B": "Một số vụ việc vi phạm kỷ luật nghiêm trọng ảnh hưởng đến hình ảnh \"Bộ đội Cụ Hồ\"",
+  "C": "Mọi người đều gương mẫu",
+  "D": "Chỉ có kinh tế bị rối loạn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "98",
+  "QUESTION": "Để thực hiện thắng lợi nhiệm vụ, quân đội cần làm gì về tư duy và hành động?",
+  "A": "Bỏ qua đổi mới",
+  "B": "Tăng cường lãnh đạo, chỉ huy thống nhất; phát huy tinh thần dân chủ, sáng tạo",
+  "C": "Giữ nguyên mọi cũ",
+  "D": "Chỉ chạy theo số lượng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "99",
+  "QUESTION": "Văn bản khuyến nghị về việc xử lý quân số dôi dư là gì?",
+  "A": "Giữ nguyên dôi dư",
+  "B": "Giải quyết theo biểu tổ chức, biên chế đã ban hành",
+  "C": "Tăng quân số không cần lý do",
+  "D": "Loại bỏ quy định",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "100",
+  "QUESTION": "Mục tiêu của việc hoàn chỉnh tổ chức các nhà trường, nhà máy quốc phòng là gì?",
+  "A": "Làm rối loạn hệ thống",
+  "B": "Hoàn chỉnh tổ chức biên chế lực lượng mới, nâng cao hiệu quả",
+  "C": "Giảm đào tạo",
+  "D": "Tách rời bảo đảm kỹ thuật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "101",
+  "QUESTION": "Trong những năm tới, quân đội cần chú trọng điều gì về vũ khí-trang bị?",
+  "A": "Bỏ qua trang bị",
+  "B": "Đồng bộ giữa vũ khí, trang bị với nhân lực và công tác bảo đảm",
+  "C": "Chỉ mua sắm ồ ạt",
+  "D": "Chỉ phục vụ lễ nghi",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "102",
+  "QUESTION": "Văn bản nhấn mạnh điều gì về vai trò của Đảng trong quân đội?",
+  "A": "Phủ nhận vai trò lãnh đạo",
+  "B": "Đảng lãnh đạo, bảo đảm chỉ huy tập trung, thống nhất",
+  "C": "Thay thế quân đội bằng tổ chức khác",
+  "D": "Đảng không can thiệp vào quân đội",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "103",
+  "QUESTION": "Kết luận chung về việc đẩy mạnh học tập và làm theo tư tưởng Hồ Chí Minh trong quân đội là gì?",
+  "A": "Không cần thiết",
+  "B": "Là điều kiện tiên quyết để quân đội trung thành, vững mạnh, hoàn thành nhiệm vụ",
+  "C": "Là hình thức trưng bày",
+  "D": "Là nguyên nhân chia rẽ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "104",
+  "QUESTION": "Mục tiêu cơ bản của việc quán triệt tư tưởng Hồ Chí Minh về thực hành dân chủ và kỷ luật trong Quân đội là gì?",
+  "A": "Tạo sự thống nhất cao về tư tưởng, nhận thức và hành động trong toàn quân",
+  "B": "Tăng lương, chế độ cho quân nhân",
+  "C": "Giảm giờ huấn luyện",
+  "D": "Mở rộng biên chế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "105",
+  "QUESTION": "Văn bản nào được nêu trong đoạn trích như một trong các chỉ thị quan trọng cần tiếp tục thực hiện?",
+  "A": "Nghị quyết số 847-NQ\/QUTW",
+  "B": "Chỉ thị số 103\/CT-BQP (28\/11\/2019)",
+  "C": "Công văn 1598\/CT-TH",
+  "D": "Kết luận số 01-KL\/TW",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "106",
+  "QUESTION": "Ai cần coi trọng lãnh đạo, chỉ đạo giáo dục nâng cao nhận thức cho mọi quân nhân?",
+  "A": "Các tổ chức quần chúng",
+  "B": "Các hội đồng quân nhân",
+  "C": "Cấp ủy, chính ủy, chính trị viên, người chỉ huy và cơ quan chính trị các cấp",
+  "D": "Dân thường",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "107",
+  "QUESTION": "Yêu cầu đặt ra để phát huy sức mạnh tổng hợp trong đẩy mạnh học tập là gì?",
+  "A": "Tăng thêm ngày nghỉ phép",
+  "B": "Đề cao vai trò trách nhiệm của các tổ chức, lực lượng",
+  "C": "Giảm điều lệ kỷ luật",
+  "D": "Tự do hóa sinh hoạt đơn vị",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "108",
+  "QUESTION": "Trong tổ chức đảng, cần chú trọng điều gì trong sinh hoạt đảng để tăng cường dân chủ và kỷ luật?",
+  "A": "Tăng ngân sách sinh hoạt",
+  "B": "Tính chiến đấu, tự phê bình và phê bình",
+  "C": "Tuyển thêm đảng viên",
+  "D": "Tổ chức dạ hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "109",
+  "QUESTION": "Vai trò của người đứng đầu (chỉ huy, cấp ủy) được nhắc đến là gì?",
+  "A": "Không can thiệp quản lý đơn vị",
+  "B": "Thường xuyên vắng mặt",
+  "C": "Nêu gương trong thực hành dân chủ và kỷ luật",
+  "D": "Chỉ làm báo cáo giấy tờ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "110",
+  "QUESTION": "Tổ chức nào được nhắc đến là cần hướng hoạt động xung kích vào thực hành dân chủ và kỷ luật?",
+  "A": "Hội đồng quân nhân",
+  "B": "Hội Cựu chiến binh",
+  "C": "Đoàn thanh niên",
+  "D": "Ban Tổ chức huyện",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "111",
+  "QUESTION": "Đối với hội phụ nữ và công đoàn, cần tập trung vào điều gì để nâng cao thực hành dân chủ và kỷ luật?",
+  "A": "Tổ chức du lịch",
+  "B": "Nâng cao chất lượng công tác giáo dục chính trị, tư tưởng",
+  "C": "Giảm giờ làm",
+  "D": "Tách rời hoạt động đoàn thể",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "112",
+  "QUESTION": "Hội đồng quân nhân có nhiệm vụ gì theo đoạn trích?",
+  "A": "Chỉ đạo báo chí địa phương",
+  "B": "Tham mưu, đề xuất các biện pháp thực hiện quyền làm chủ trong đơn vị",
+  "C": "Quản lý tài chính",
+  "D": "Quyết định tuyển quân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "113",
+  "QUESTION": "Các lực lượng chức năng trong đơn vị phải làm gì để bảo đảm thực hành dân chủ và kỷ luật?",
+  "A": "Tự ý ban hành luật",
+  "B": "Tham mưu, đề xuất, chỉ huy, quản lý, giáo dục theo chức trách",
+  "C": "Chỉ kiểm tra bên ngoài",
+  "D": "Giao toàn quyền cho chỉ huy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "114",
+  "QUESTION": "Việc thực hành dân chủ và kỷ luật trong quân đội phải được tiến hành khi nào?",
+  "A": "Chỉ trong lễ kỷ niệm",
+  "B": "Chỉ trong thời chiến",
+  "C": "Thường xuyên, liên tục trong mọi điều kiện",
+  "D": "Chỉ khi có thanh tra",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "115",
+  "QUESTION": "“Lấy ‘xây’ là chính” theo đoạn trích nghĩa là gì?",
+  "A": "Chỉ phạt nghiêm",
+  "B": "Ưu tiên xây dựng, giáo dục, tạo môi trường dân chủ lành mạnh",
+  "C": "Bãi bỏ kỷ luật",
+  "D": "Tăng cường kiểm soát hành chính",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "116",
+  "QUESTION": "“Chống” trong nguyên tắc “xây” và “chống” yêu cầu phải làm gì?",
+  "A": "Bỏ qua các vi phạm nhỏ",
+  "B": "Chống quyết liệt các biểu hiện vi phạm, dân chủ hình thức, cực đoan",
+  "C": "Phóng thích người vi phạm",
+  "D": "Trì hoãn xử lý",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "117",
+  "QUESTION": "Việc kết hợp giữa lãnh đạo của cấp ủy và triển khai của cá nhân cần có đặc điểm gì?",
+  "A": "Lãnh đạo làm thay mọi việc",
+  "B": "Can thiệp tối thiểu",
+  "C": "Tổ chức chặt chẽ, cụ thể; cá nhân tích cực, chủ động",
+  "D": "Không cần báo cáo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "118",
+  "QUESTION": "Để “xây” tốt, cần đẩy mạnh nội dung nào?",
+  "A": "Giảm yêu cầu nhiệm vụ",
+  "B": "Tuyên truyền, giáo dục nâng cao nhận thức cán bộ, chiến sĩ",
+  "C": "Hủy bỏ quy chế dân chủ",
+  "D": "Tách rời huấn luyện và giáo dục",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "119",
+  "QUESTION": "Trong việc quản lý, rèn luyện để thực hành dân chủ và kỷ luật, đơn vị phải tránh điều gì?",
+  "A": "Lãnh đạo sáng tạo",
+  "B": "Phê bình xây dựng",
+  "C": "Áp đặt, bao biện, làm thay cho bộ đội",
+  "D": "Kiểm tra thường xuyên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "120",
+  "QUESTION": "Theo đoạn trích, phạm vi thực hành dân chủ và kỷ luật gồm những mối quan hệ nào?",
+  "A": "Chỉ quan hệ với dân",
+  "B": "Quan hệ cấp trên - cấp dưới, đồng chí - đồng đội, quan hệ với nhân dân",
+  "C": "Chỉ quan hệ nội bộ gia đình",
+  "D": "Quan hệ với tổ chức quốc tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "121",
+  "QUESTION": "Chỉ thị số 103\/CT-BQP nêu trong văn bản liên quan tới nội dung gì?",
+  "A": "Tăng lương cho sĩ quan",
+  "B": "Tăng cường quản lý, giáo dục chấp hành kỷ luật và bảo đảm an toàn",
+  "C": "Mở rộng biên chế",
+  "D": "Xây dựng nhà ở cho quân nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "122",
+  "QUESTION": "Công văn 1598\/CT-TH (6\/9\/2019) của Tổng cục Chính trị chủ yếu yêu cầu gì?",
+  "A": "Cắt giảm huấn luyện",
+  "B": "Tăng cường lãnh đạo, chỉ đạo công tác giáo dục, quản lý tư tưởng, ngăn chặn vi phạm pháp luật, kỷ luật",
+  "C": "Mở thêm bước tuyển sinh",
+  "D": "Thay đổi quốc phòng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "123",
+  "QUESTION": "Công văn 1740\/CT-TH (1\/9\/2020) của Tổng cục Chính trị nhấn mạnh mối liên hệ với cái gì?",
+  "A": "Vấn đề tài chính",
+  "B": "Xây dựng đơn vị vững mạnh toàn diện “mẫu mực, tiêu biểu”",
+  "C": "Nhập ngũ tự động",
+  "D": "Mua sắm trang bị mới",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "124",
+  "QUESTION": "Yêu cầu về năng lực lãnh đạo của các cấp ủy đảng là gì?",
+  "A": "Giảm trách nhiệm lãnh đạo",
+  "B": "Nâng cao năng lực lãnh đạo toàn diện và sức chiến đấu của cấp ủy",
+  "C": "Chỉ chú trọng hình thức",
+  "D": "Tránh phê bình",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "125",
+  "QUESTION": "Trong thực hành dân chủ và kỷ luật, điều gì phải trở thành nền nếp, chế độ?",
+  "A": "Việc nghỉ phép",
+  "B": "Thực hành dân chủ và kỷ luật bắt buộc với mọi cán bộ, đảng viên",
+  "C": "Việc mua sắm nhỏ",
+  "D": "Tổ chức sự kiện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "126",
+  "QUESTION": "Để phát huy tổ chức quần chúng, đơn vị cần làm gì với phong trào thi đua?",
+  "A": "Loại bỏ thi đua",
+  "B": "Gắn nội dung thực hành dân chủ và kỷ luật vào chỉ tiêu thi đua",
+  "C": "Chỉ thi đua về thể thao",
+  "D": "Phân tán phong trào",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "127",
+  "QUESTION": "Việc giáo dục, quản lý tư tưởng cần kết hợp với yếu tố nào ở mỗi cá nhân?",
+  "A": "Chỉ trông chờ cấp trên",
+  "B": "Tự giáo dục, tự quản, tự rèn luyện",
+  "C": "Tự ý quyết định nhân sự",
+  "D": "Tách rời nhiệm vụ chuyên môn",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "128",
+  "QUESTION": "Khi phát hiện biểu hiện dân chủ hình thức, đơn vị phải làm gì?",
+  "A": "Im lặng để êm đẹp",
+  "B": "Kiên quyết đấu tranh, không thỏa hiệp",
+  "C": "Khen thưởng người gây ra",
+  "D": "Chuyển công tác",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "129",
+  "QUESTION": "Theo văn bản, phẩm chất nào của cán bộ, chiến sĩ cần được xây dựng để thực hành dân chủ?",
+  "A": "Tư lợi cá nhân",
+  "B": "Bản lĩnh chính trị kiên định, vững vàng",
+  "C": "Tập trung vào lợi ích riêng",
+  "D": "Tránh tiếp xúc nhân dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "130",
+  "QUESTION": "Trong mối quan hệ giữa “xây” và “chống”, yếu tố nào được cổ vũ mạnh mẽ?",
+  "A": "Dân chủ cực đoan",
+  "B": "Các nhân tố tích cực, ý thức tự giác chấp hành kỷ luật",
+  "C": "Vô tổ chức",
+  "D": "Tua lại chế độ cũ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "131",
+  "QUESTION": "Những biểu hiện cần đấu tranh trong phần “chống” không bao gồm điều nào dưới đây?",
+  "A": "Dân chủ hình thức",
+  "B": "Tăng cường huấn luyện hợp tác",
+  "C": "Dân chủ cực đoan",
+  "D": "Vô tổ chức, vô kỷ luật",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "132",
+  "QUESTION": "Để tổ chức quần chúng hoạt động hiệu quả, chỉ huy phải làm gì?",
+  "A": "Giam lỏng hoạt động",
+  "B": "Tạo điều kiện thuận lợi để các tổ chức quần chúng hoạt động",
+  "C": "Ngăn cản phản ánh của quần chúng",
+  "D": "Chỉ cho phép hoạt động giấy tờ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "133",
+  "QUESTION": "Trong văn bản, thái độ của cán bộ, chiến sĩ đối với thực hành dân chủ và kỷ luật được yêu cầu là gì?",
+  "A": "Thờ ơ",
+  "B": "Tích cực, tự giác thực hành dân chủ và chấp hành nghiêm kỷ luật",
+  "C": "Chỉ làm khi được gọi",
+  "D": "Phó mặc cho tổ chức",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "134",
+  "QUESTION": "Một trong các phương pháp giáo dục được nêu để “xây” là gì?",
+  "A": "Hủy bỏ đào tạo",
+  "B": "Tuyên truyền, giáo dục, bồi dưỡng nâng cao nhận thức",
+  "C": "Loại trừ hoạt động quần chúng",
+  "D": "Cấm thảo luận nội bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "135",
+  "QUESTION": "Khi có vấn đề nảy sinh liên quan thực hành dân chủ và kỷ luật, các lực lượng chức năng phải làm gì?",
+  "A": "Phớt lờ báo cáo",
+  "B": "Phối hợp, hướng dẫn, kiểm tra, giám sát, nắm chắc tình hình",
+  "C": "Chỉ báo cáo trên giấy",
+  "D": "Giao cho dân sự giải quyết",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "136",
+  "QUESTION": "Đoạn trích khẳng định thực hành dân chủ và kỷ luật trong quân đội là quá trình giữa những gì?",
+  "A": "Giữa quân và dân",
+  "B": "Cuộc đấu tranh giữa nhân tố tích cực, tiến bộ và nhân tố tiêu cực, lạc hậu",
+  "C": "Giữa chính trị và kinh tế",
+  "D": "Giữa ban tài chính và ban huấn luyện",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "137",
+  "QUESTION": "Theo đoạn trích, lãnh đạo đơn vị khi tổ chức phải chú trọng điều gì để hoàn thành nhiệm vụ?",
+  "A": "Chỉ làm báo cáo",
+  "B": "Lấy chất lượng, hiệu quả công việc làm chính, không hình thức",
+  "C": "Tập trung vào hình thức lễ nghi",
+  "D": "Lãnh đạo mọi chi tiết nhỏ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "138",
+  "QUESTION": "Nội dung nào sau đây không phải là một hoạt động cần thực hiện để “xây” thực hành dân chủ?",
+  "A": "Xây dựng ý thức tự giác của bộ đội",
+  "B": "Tuyên truyền, giáo dục nâng cao nhận thức",
+  "C": "Khuyến khích thái độ vô tổ chức, tự do tùy tiện",
+  "D": "Xây dựng bản lĩnh chính trị cho cán bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "139",
+  "QUESTION": "Giải pháp cơ bản nào được coi là quyết định để nâng cao nhận thức về thực hành dân chủ và kỷ luật?",
+  "A": "Tuyên truyền, giáo dục thường xuyên",
+  "B": "Tăng cường kiểm tra hành chính",
+  "C": "Gia tăng chế tài xử phạt",
+  "D": "Mở rộng quan hệ quốc tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "140",
+  "QUESTION": "Ai phải phát huy vai trò trong công tác tuyên truyền, giáo dục về dân chủ và kỷ luật?",
+  "A": "Các cấp ủy, chính ủy, chính trị viên, người chỉ huy",
+  "B": "Chỉ bộ đội mới nhập ngũ",
+  "C": "Dân thường địa phương",
+  "D": "Các doanh nghiệp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "141",
+  "QUESTION": "Nội dung nào cần được tập trung tuyên truyền cho bộ đội?",
+  "A": "Lý luận cơ bản của CN Mác-Lênin và tư tưởng Hồ Chí Minh",
+  "B": "Các kỹ năng lái xe",
+  "C": "Thủ tục xuất nhập khẩu",
+  "D": "Văn hóa ẩm thực",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "142",
+  "QUESTION": "Giáo dục quy chế dân chủ ở cơ sở phải làm rõ điều gì?",
+  "A": "Tính pháp lý của quy chế là yêu cầu bắt buộc",
+  "B": "Chỉ dành cho chỉ huy",
+  "C": "Không cần thông báo cho quân nhân",
+  "D": "Không ảnh hưởng đến đời sống",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "143",
+  "QUESTION": "Một hình thức dân chủ trong quy chế đề cập là gì?",
+  "A": "Dân chủ về quân sự, chính trị, kinh tế và đời sống",
+  "B": "Dân chủ về ngoại giao",
+  "C": "Dân chủ trong thương mại quốc tế",
+  "D": "Dân chủ trong đàm phán",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "144",
+  "QUESTION": "Việc giáo dục ý thức dân chủ, kỷ luật cho bộ đội là:",
+  "A": "Một quá trình thường xuyên, liên tục",
+  "B": "Chỉ một lần khi nhập ngũ",
+  "C": "Chỉ áp dụng cho sĩ quan",
+  "D": "Chỉ là hình thức",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "145",
+  "QUESTION": "Khi nào phải bắt đầu giáo dục theo tư tưởng Hồ Chí Minh cho thanh niên vào quân đội?",
+  "A": "Ngay từ khi thanh niên mới bước vào môi trường quân đội",
+  "B": "Khi họ được phong hàm",
+  "C": "Khi có sự cố kỷ luật",
+  "D": "Không cần bắt đầu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "146",
+  "QUESTION": "Để nâng cao chất lượng tuyên truyền, cấp ủy cần làm gì?",
+  "A": "Cụ thể hóa văn bản chỉ đạo, phù hợp với tình hình cơ sở",
+  "B": "Tập trung vào văn bản chung chung",
+  "C": "Giữ nguyên phương pháp cũ",
+  "D": "Bỏ tuyên truyền",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "147",
+  "QUESTION": "Một phương thức đổi mới hình thức giáo dục là gì?",
+  "A": "Giáo dục thông qua sinh hoạt ngoại khóa, hoạt động bổ trợ",
+  "B": "Chỉ phát tờ rơi",
+  "C": "Chỉ họp hành dài",
+  "D": "Tăng giờ hành chính",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "148",
+  "QUESTION": "Ai chịu trách nhiệm lãnh đạo, chỉ đạo việc đẩy mạnh học tập và làm theo tư tưởng?",
+  "A": "Cấp ủy, tổ chức đảng, chính ủy, chính trị viên, người chỉ huy",
+  "B": "Các tổ chức xã hội ngoài quân đội",
+  "C": "Tòa án",
+  "D": "Doanh nghiệp quân sự",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "149",
+  "QUESTION": "Nghị quyết của cấp ủy về thực hành dân chủ phải được đưa vào đâu?",
+  "A": "Nghị quyết lãnh đạo thường kỳ hoặc chuyên đề",
+  "B": "Chỉ là tờ giấy treo tường",
+  "C": "Vở công tác cá nhân",
+  "D": "Không cần viết",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "150",
+  "QUESTION": "Khi triển khai nghị quyết cần xác định rõ điều gì?",
+  "A": "Trách nhiệm của lãnh đạo, nhất là người đứng đầu",
+  "B": "Chỉ giao cho văn thư",
+  "C": "Để tự cán bộ quyết định",
+  "D": "Chỉ đánh giá cuối năm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "151",
+  "QUESTION": "Hoạt động nào giúp phát huy quyền dân chủ của quân nhân?",
+  "A": "Hoạt động của hội đồng quân nhân và các tổ chức ở đơn vị cơ sở",
+  "B": "Chỉ họp bí mật",
+  "C": "Họp kín chỉ huy",
+  "D": "Không có hoạt động",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "152",
+  "QUESTION": "Việc kiểm tra, giám sát khi thực hiện dân chủ cần có mục đích gì?",
+  "A": "Phát hiện hạn chế, có giải pháp khắc phục",
+  "B": "Chỉ để báo cáo cấp trên",
+  "C": "Để trì hoãn công việc",
+  "D": "Để phô trương hình thức",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "153",
+  "QUESTION": "Việc khen thưởng và xử phạt phải liên quan tới điều gì?",
+  "A": "Việc thực hiện quy chế dân chủ",
+  "B": "Chỉ liên quan tới thành tích cá nhân",
+  "C": "Chỉ dựa trên số năm công tác",
+  "D": "Không cần căn cứ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "154",
+  "QUESTION": "Vai trò của cơ quan tham mưu và cơ quan chính trị là gì?",
+  "A": "Tham mưu, hướng dẫn, kiểm tra, giám sát, đôn đốc",
+  "B": "Chỉ làm hồ sơ hành chính",
+  "C": "Chỉ tổ chức văn nghệ",
+  "D": "Chỉ làm báo cáo thống kê",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "155",
+  "QUESTION": "Hội đồng quân nhân nên được đổi mới để đảm bảo điều gì?",
+  "A": "Dân chủ rộng rãi và đầy đủ cho mọi quân nhân",
+  "B": "Làm việc theo lệnh cá nhân",
+  "C": "Bỏ phiếu kín tuyệt đối",
+  "D": "Làm việc độc lập với cấp ủy",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "156",
+  "QUESTION": "Việc biểu dương, nhân rộng điển hình cần kết hợp giữa?",
+  "A": "“Xây” và “nhân” điển hình",
+  "B": "Chỉ tuyên truyền trên mạng",
+  "C": "Chỉ đưa vào báo cáo cuối năm",
+  "D": "Chỉ khen thưởng bằng tiền",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "157",
+  "QUESTION": "Đội ngũ cán bộ, đảng viên phải nêu gương theo tư tưởng nào của Hồ Chí Minh?",
+  "A": "“Một tấm gương sống còn có giá trị hơn một trăm bài diễn văn”",
+  "B": "“Lời nói phải chấn động”",
+  "C": "“Nói không làm”",
+  "D": "“Khoe thành tích”",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "158",
+  "QUESTION": "Gương mẫu của cán bộ, đảng viên không bao gồm điều nào?",
+  "A": "Tự diễn biến, tự chuyển hóa",
+  "B": "Chấp hành pháp luật, kỷ luật",
+  "C": "Sống giản dị, khiêm tốn",
+  "D": "Dám chịu trách nhiệm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "159",
+  "QUESTION": "Cán bộ cấp cao càng phải làm gì trong thực hành dân chủ?",
+  "A": "Càng phải gương mẫu",
+  "B": "Càng ít phải gương mẫu",
+  "C": "Không cần gương mẫu",
+  "D": "Chỉ gương mẫu khi họp báo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "160",
+  "QUESTION": "Gương mẫu phải được thực hiện ở mức độ nào?",
+  "A": "Mọi lúc, mọi nơi, từ việc lớn đến việc nhỏ",
+  "B": "Chỉ khi có máy quay",
+  "C": "Chỉ trong báo cáo",
+  "D": "Chỉ trong lễ kỷ niệm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "161",
+  "QUESTION": "Cán bộ, đảng viên cần tránh biểu hiện nào?",
+  "A": "Quan liêu, mệnh lệnh, độc đoán",
+  "B": "Lắng nghe quần chúng",
+  "C": "Tôn trọng tập thể",
+  "D": "Tự giác chấp hành",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "162",
+  "QUESTION": "Phát huy tính tích cực, tự giác của bộ đội bắt đầu từ?",
+  "A": "Giác ngộ nhiệm vụ cách mạng, mục tiêu lí tưởng",
+  "B": "Chỉ chờ lệnh từ trên",
+  "C": "Tránh tự giác",
+  "D": "Chỉ dựa vào thưởng phạt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "163",
+  "QUESTION": "Kế hoạch tự rèn luyện cá nhân nên bao gồm điều gì?",
+  "A": "Nội dung nhận thức, thái độ, hành động cụ thể",
+  "B": "Chỉ liệt kê nhiệm vụ chung",
+  "C": "Chỉ nêu mong muốn",
+  "D": "Không cần kế hoạch",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "164",
+  "QUESTION": "Môi trường văn hóa quân sự tốt giúp gì cho đơn vị?",
+  "A": "Bảo đảm thực hành dân chủ và duy trì kỷ luật",
+  "B": "Gây mất đoàn kết",
+  "C": "Làm giảm năng lực chiến đấu",
+  "D": "Tăng chi tiêu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "165",
+  "QUESTION": "Hoạt động văn hóa, nghệ thuật trong đơn vị phải hướng tới điều gì?",
+  "A": "Xây dựng hình tượng con người mới XHCN trong lực lượng vũ trang",
+  "B": "Chỉ kiếm tiền",
+  "C": "Tiếp tay thương mại hóa",
+  "D": "Tránh tuyên truyền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "166",
+  "QUESTION": "Một hoạt động cần được phát huy để phục vụ đời sống tinh thần bộ đội là?",
+  "A": "Giao lưu kết nghĩa, văn nghệ, thể thao với địa phương",
+  "B": "Chỉ họp chuyên môn",
+  "C": "Tập trung vào mua sắm",
+  "D": "Tránh sinh hoạt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "167",
+  "QUESTION": "Cần chống lại điều gì trong văn hóa đơn vị?",
+  "A": "Sự thâm nhập của sản phẩm độc hại trên lĩnh vực tư tưởng - văn hóa",
+  "B": "Văn nghệ quần chúng",
+  "C": "Học tập sáng tạo",
+  "D": "Tổ chức thể thao",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "168",
+  "QUESTION": "Mục tiêu của cuộc vận động “Xây dựng môi trường văn hóa tốt đẹp…” là?",
+  "A": "Đưa văn hóa vào mọi hoạt động, mỗi quân nhân là chiến sĩ văn hóa",
+  "B": "Chỉ làm cho đẹp báo cáo",
+  "C": "Giảm giờ huấn luyện",
+  "D": "Chỉ phong trào hình thức",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "169",
+  "QUESTION": "Trong xây dựng quan hệ nội bộ, cần chú trọng điều gì?",
+  "A": "Quan hệ chuẩn mực, thấm đậm tính nhân văn, tình quân dân",
+  "B": "Chỉ quan hệ công việc",
+  "C": "Tách rời dân địa phương",
+  "D": "Không giao lưu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "170",
+  "QUESTION": "Việc chăm lo đời sống vật chất bộ đội cần bao gồm?",
+  "A": "Đảm bảo đúng, đầy đủ chế độ, quyền lợi",
+  "B": "Chỉ phát lương muộn",
+  "C": "Cắt giảm chế độ",
+  "D": "Không rõ ràng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "171",
+  "QUESTION": "Chống các biểu hiện như bớt xén, tham ô thuộc giải pháp nào?",
+  "A": "Chăm lo đời sống, đảm bảo chế độ công khai",
+  "B": "Tăng kỷ luật hình thức",
+  "C": "Tăng thu nhập bằng mọi giá",
+  "D": "Bỏ kiểm tra",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "172",
+  "QUESTION": "Tại sao cần duy trì nền tảng dân chủ, công khai về kinh tế?",
+  "A": "Để tránh bức xúc, tạo niềm tin bộ đội",
+  "B": "Để che giấu sai phạm",
+  "C": "Để phô trương",
+  "D": "Không cần công khai",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "173",
+  "QUESTION": "Hoạt động tăng gia sản xuất, thực hành tiết kiệm nhằm mục đích gì?",
+  "A": "Cải thiện đời sống đơn vị, chống lãng phí",
+  "B": "Chỉ tăng thu nhập cho chỉ huy",
+  "C": "Làm giảm trách nhiệm cấp trên",
+  "D": "Không có mục đích",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "174",
+  "QUESTION": "Trong tuyên truyền, cần kiên quyết khắc phục điều gì?",
+  "A": "Rập khuôn, máy móc, xơ cứng, hình thức",
+  "B": "Sáng tạo",
+  "C": "Thực chất",
+  "D": "Tương tác cơ sở",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "175",
+  "QUESTION": "Nội dung giáo dục chính trị trong đơn vị nên thực hiện thông qua?",
+  "A": "Quy chế giáo dục chính trị trong QĐND và DQTV",
+  "B": "Hình thức quảng cáo",
+  "C": "Chỉ mạng xã hội",
+  "D": "Chỉ báo cáo thống kê",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "176",
+  "QUESTION": "Thông tin gì quân nhân có quyền được biết?",
+  "A": "Chủ trương, chính sách của Đảng, Nhà nước có liên quan đến đời sống họ",
+  "B": "Bí mật tuyệt đối",
+  "C": "Thông tin cá nhân của đồng đội",
+  "D": "Kế hoạch huấn luyện của đối phương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "177",
+  "QUESTION": "Phương thức để thực hiện quyền dân chủ của quân nhân là?",
+  "A": "Tổ chức và hoạt động của hội đồng quân nhân",
+  "B": "Không có phương thức",
+  "C": "Chỉ thông báo qua cấp trên",
+  "D": "Chỉ qua báo chí",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "178",
+  "QUESTION": "Việc thực hiện dân chủ phải đi kèm với điều gì?",
+  "A": "Giữ nghiêm kỷ luật",
+  "B": "Bỏ kỷ luật",
+  "C": "Chỉ kỷ luật hình thức",
+  "D": "Tách biệt với kỷ luật",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "179",
+  "QUESTION": "Quy trình triển khai thực hiện phải gắn với gì?",
+  "A": "Tình hình, nhiệm vụ cụ thể của đơn vị",
+  "B": "Mẫu văn bản chung chép lại",
+  "C": "Chỉ áp dụng cho đơn vị lớn",
+  "D": "Bỏ qua đặc điểm đơn vị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "180",
+  "QUESTION": "Sinh hoạt đối thoại dân chủ nhằm mục đích gì?",
+  "A": "Tăng cường đối thoại giữa cấp trên và cấp dưới",
+  "B": "Chỉ để báo cáo",
+  "C": "Chỉ để phô trương",
+  "D": "Hạn chế quyền quân nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "181",
+  "QUESTION": "Khi rà soát quy chế, cần chú ý điều gì?",
+  "A": "Hoàn chỉnh để phát huy quyền làm chủ của quân nhân",
+  "B": "Giữ nguyên quy chế đã có",
+  "C": "Xóa bỏ tất cả quy chế",
+  "D": "Chỉ tập trung vào hình thức",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "182",
+  "QUESTION": "Công tác kiểm tra giám sát cần được thực hiện thế nào?",
+  "A": "Thường xuyên, có kế hoạch, chặt chẽ",
+  "B": "Chỉ một lần mỗi nhiệm kỳ",
+  "C": "Chỉ khi có khiếu nại",
+  "D": "Trao hết cho bên ngoài",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "183",
+  "QUESTION": "Sau kiểm tra, sơ kết, cần làm gì?",
+  "A": "Biểu dương, khen thưởng, nhân rộng mô hình tốt",
+  "B": "Im lặng không phản hồi",
+  "C": "Phạt nặng mọi sai sót",
+  "D": "Bỏ qua kết quả",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "184",
+  "QUESTION": "Việc nêu gương của cán bộ không bao gồm hành vi nào?",
+  "A": "Tự cho mình đặc quyền, đặc lợi",
+  "B": "Sống giản dị, khiêm tốn",
+  "C": "Dám chịu trách nhiệm",
+  "D": "Học hỏi quần chúng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "185",
+  "QUESTION": "Một phẩm chất cần có của cán bộ chủ trì là gì?",
+  "A": "Tư duy lý luận, bản lĩnh chính trị, trung thực",
+  "B": "Trì hoãn quyết định",
+  "C": "Tránh tiếp xúc bộ đội",
+  "D": "Kín tiếng mọi lúc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "186",
+  "QUESTION": "Cán bộ phải thường xuyên rèn luyện điều gì?",
+  "A": "Tác phong dân chủ, quần chúng, cầu thị",
+  "B": "Tác phong độc đoán",
+  "C": "Từ chối phê bình",
+  "D": "Không chấp hành",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "187",
+  "QUESTION": "Mục tiêu của sinh hoạt hội đồng quân nhân là gì?",
+  "A": "Bàn bạc dân chủ và phổ biến đến từng cán bộ, chiến sĩ",
+  "B": "Chỉ là buổi lễ",
+  "C": "Chỉ dành cho lãnh đạo",
+  "D": "Không có mục tiêu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "188",
+  "QUESTION": "Để phòng ngừa “phi chính trị hóa” quân đội cần gì?",
+  "A": "Đấu tranh ngăn ngừa các tác động tiêu cực và thâm nhập tư tưởng",
+  "B": "Tách quân đội khỏi xã hội",
+  "C": "Mở cửa tự do mọi nội dung",
+  "D": "Luôn giữ im lặng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "189",
+  "QUESTION": "Khi phát hiện bức xúc của bộ đội, cấp ủy cần làm gì?",
+  "A": "Kiểm tra, phát hiện và giải quyết kịp thời",
+  "B": "Phớt lờ",
+  "C": "Đổ lỗi cho bộ đội",
+  "D": "Phạt tập thể",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "190",
+  "QUESTION": "Nội dung thực hiện dân chủ, kỷ luật cần gắn với?",
+  "A": "Xây dựng tổ chức đảng trong sạch, vững mạnh",
+  "B": "Chỉ gắn với tài chính",
+  "C": "Chỉ gắn với tuyển dụng",
+  "D": "Không gắn gì cả",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "191",
+  "QUESTION": "Công tác quản lý đảng viên cần chú trọng điều gì?",
+  "A": "Kiểm tra, giám sát, thi hành kỷ luật đảng",
+  "B": "Bỏ qua kiểm tra",
+  "C": "Chỉ dựa vào lời hứa",
+  "D": "Không áp dụng kỷ luật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "192",
+  "QUESTION": "Việc góp ý phê bình dành cho ai?",
+  "A": "Quần chúng tham gia xây dựng Đảng, góp ý cho cán bộ, đảng viên",
+  "B": "Chỉ cấp trên góp ý",
+  "C": "Chỉ qua báo chí",
+  "D": "Không ai góp ý",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "193",
+  "QUESTION": "Khi bình xét, đánh giá chất lượng cán bộ cần gắn với gì?",
+  "A": "Kiểm điểm việc thực hiện nhiệm vụ xây dựng Đảng và quần chúng",
+  "B": "Chỉ dựa vào thời gian công tác",
+  "C": "Chỉ dựa vào mối quan hệ",
+  "D": "Không cần kiểm tra",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "194",
+  "QUESTION": "Mục đích tổ chức các đội tuyên truyền xung kích là?",
+  "A": "Đáp ứng yêu cầu chính trị và nhu cầu văn hóa tinh thần cho bộ đội",
+  "B": "Chỉ để tuyên truyền cho dân thường",
+  "C": "Chỉ để quảng cáo",
+  "D": "Không cần đội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "195",
+  "QUESTION": "Nhiệm vụ của nhà hát, đoàn văn công trong quân đội là gì?",
+  "A": "Lấy nhiệm vụ chính trị là chính, chống thương mại hóa",
+  "B": "Chỉ chạy theo lợi nhuận",
+  "C": "Chỉ để giải trí",
+  "D": "Chỉ hoạt động ngoài quân đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "196",
+  "QUESTION": "Việc quy hoạch, đầu tư thiết chế văn hóa cần đảm bảo gì?",
+  "A": "Phù hợp, thuận lợi cho hoạt động văn hóa - văn nghệ của bộ đội",
+  "B": "Chỉ làm cho đẹp",
+  "C": "Không có kế hoạch",
+  "D": "Chỉ để báo cáo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "197",
+  "QUESTION": "Việc duy trì nền nếp, sinh hoạt chính trị cần nhằm mục tiêu gì?",
+  "A": "Mọi hoạt động đều phải bàn bạc dân chủ và phổ biến",
+  "B": "Làm giảm trách nhiệm",
+  "C": "Chỉ kiểm tra hành chính",
+  "D": "Tách rời đời sống",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "198",
+  "QUESTION": "Biện pháp chống lãng phí, nâng cao đời sống bộ đội là?",
+  "A": "Tăng gia sản xuất, thực hành tiết kiệm",
+  "B": "Mua sắm nhiều thiết bị",
+  "C": "Giảm lương",
+  "D": "Bỏ trách nhiệm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "199",
+  "QUESTION": "Khi tổ chức lễ, sinh hoạt, cần tránh điều gì?",
+  "A": "Hình thức, phô trương không thực chất",
+  "B": "Chuẩn bị kỹ càng",
+  "C": "Phổ biến nội dung",
+  "D": "Tôn vinh điển hình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "200",
+  "QUESTION": "Việc giáo dục phải gắn với hoạt động nào để đạt hiệu quả?",
+  "A": "Huấn luyện, sẵn sàng chiến đấu và chiến đấu",
+  "B": "Chỉ dựa vào lý thuyết",
+  "C": "Chỉ tổ chức hội thảo",
+  "D": "Chỉ làm bằng văn bản",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "201",
+  "QUESTION": "Quyền được thông tin của quân nhân bao gồm?",
+  "A": "Thông tin về chủ trương, chính sách liên quan trực tiếp đến đời sống họ",
+  "B": "Thông tin cá nhân người khác",
+  "C": "Bí mật quân sự tuyệt đối",
+  "D": "Tin đồn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "202",
+  "QUESTION": "Để tạo không khí dân chủ, cấp ủy cần làm gì?",
+  "A": "Nắm bắt tâm tư, giải quyết khó khăn kịp thời",
+  "B": "Phớt lờ tâm tư",
+  "C": "Trừng phạt biểu hiện khác ý kiến",
+  "D": "Ngăn cấm đối thoại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "203",
+  "QUESTION": "Một nội dung quan trọng trong xây dựng “Bộ đội Cụ Hồ thời kỳ mới” là?",
+  "A": "Xây dựng chuẩn mực đạo đức, trách nhiệm và tình quân dân",
+  "B": "Tập trung lợi ích cá nhân",
+  "C": "Lôi kéo đặc quyền",
+  "D": "Tránh tiếp xúc dân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "204",
+  "QUESTION": "Môi trường văn hóa lành mạnh giúp gì cho quân nhân?",
+  "A": "Rèn luyện phẩm chất, nhân cách người quân nhân cách mạng",
+  "B": "Gây phân tâm",
+  "C": "Tăng mâu thuẫn",
+  "D": "Giảm trách nhiệm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "205",
+  "QUESTION": "Việc duy trì “ngày pháp luật, ngày chính trị” nhằm mục đích gì?",
+  "A": "Nâng cao hiểu biết pháp luật và tư tưởng chính trị ở cơ sở",
+  "B": "Giảm giờ học chuyên môn",
+  "C": "Thay thế huấn luyện",
+  "D": "Chỉ hình thức",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "206",
+  "QUESTION": "Khi phát hiện mô hình tốt, cần làm gì để nhân rộng?",
+  "A": "Lãnh đạo, chỉ đạo tổ chức chặt chẽ, có tính kế hoạch",
+  "B": "Giấu thông tin",
+  "C": "Phớt lờ",
+  "D": "Chỉ khen miệng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "207",
+  "QUESTION": "Một nội dung cần lưu ý khi xây dựng cảnh quan văn hóa đơn vị là?",
+  "A": "Sáng, xanh, sạch, đẹp và chính quy",
+  "B": "Chỉ tập trung vào chi phí",
+  "C": "Chỉ theo phong trào",
+  "D": "Không quan tâm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "208",
+  "QUESTION": "Quan hệ giữa đơn vị và địa phương cần hướng tới điều gì?",
+  "A": "Quan hệ chuẩn mực, thấm đậm tính nhân văn, tình quân dân",
+  "B": "Tách rời cộng đồng",
+  "C": "Chỉ lợi dụng tài nguyên",
+  "D": "Không giao lưu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "209",
+  "QUESTION": "Cần chống lại biểu hiện nào trong đơn vị liên quan tới kinh tế thị trường?",
+  "A": "Các tác động tiêu cực, âm mưu “diễn biến hòa bình”",
+  "B": "Thúc đẩy mọi hình thức giao thương",
+  "C": "Khuyến khích tham ô",
+  "D": "Không quan tâm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "210",
+  "QUESTION": "Cách xử lý công việc phức tạp, nguy cơ mất an toàn phải có gì?",
+  "A": "Lãnh đạo, chỉ đạo thường xuyên, hướng dẫn cụ thể và kiểm tra",
+  "B": "Giao tự do cho chiến sĩ",
+  "C": "Không cần hướng dẫn",
+  "D": "Trì hoãn xử lý",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "211",
+  "QUESTION": "Việc phát hiện hạn chế trong thực hành dân chủ cần dẫn tới?",
+  "A": "Có chủ trương, biện pháp lãnh đạo, chỉ đạo cụ thể, sát đúng",
+  "B": "Bỏ qua hạn chế",
+  "C": "Chỉ phê bình công khai",
+  "D": "Đổ lỗi cho hoàn cảnh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "212",
+  "QUESTION": "Những chuẩn mực đạo đức của cán bộ, đảng viên nên bao gồm?",
+  "A": "Liêm chính, chí công vô tư, giản dị, khiêm tốn",
+  "B": "Tham nhũng để hoàn thành nhiệm vụ",
+  "C": "Phô trương quyền lực",
+  "D": "Độc đoán",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "213",
+  "QUESTION": "Kết hợp “xây” và “nhân” điển hình nhằm mục tiêu gì?",
+  "A": "Nhân rộng cách làm hay, mô hình tốt, sáng tạo, hiệu quả",
+  "B": "Giữ bí quyết cho riêng đơn vị",
+  "C": "Làm giảm động lực",
+  "D": "Không rõ mục tiêu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "214",
+  "QUESTION": "\"Kỷ nguyên\" được định nghĩa trong văn bản là gì?",
+  "A": "Một giai đoạn lịch sử đánh dấu đặc điểm hoặc sự kiện quan trọng.",
+  "B": "Một đơn vị hành chính.",
+  "C": "Một loại hình kinh tế mới.",
+  "D": "Một phong trào nghệ thuật.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "215",
+  "QUESTION": "\"Kỷ nguyên vươn mình\" hàm ý điều gì?",
+  "A": "Sự lùi bước và ổn định.",
+  "B": "Phụ thuộc hoàn toàn vào ngoại lực.",
+  "C": "Tạo sự chuyển động mạnh mẽ, nỗ lực vượt lên chính mình.",
+  "D": "Tập trung chỉ vào nông nghiệp.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "216",
+  "QUESTION": "Đích đến cơ bản của kỷ nguyên vươn mình của Việt Nam là gì?",
+  "A": "Giảm dân số.",
+  "B": "Dân giàu, nước mạnh, xã hội chủ nghĩa, sánh vai với cường quốc.",
+  "C": "Trở về nền kinh tế tự cung tự cấp.",
+  "D": "Tách rời quan hệ quốc tế.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "217",
+  "QUESTION": "Văn bản nêu ưu tiên chiến lược đến năm 2030 là gì?",
+  "A": "Trở thành nước thu nhập cao.",
+  "B": "Hoàn toàn ngừng nhập khẩu.",
+  "C": "Chỉ phát triển nông nghiệp.",
+  "D": "Trở thành nước đang phát triển, có công nghiệp hiện đại và thu nhập trung bình cao.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "218",
+  "QUESTION": "Mốc mục tiêu năm 2045 trong văn bản là gì?",
+  "A": "Trở thành xã hội công bằng không có công nghiệp.",
+  "B": "Trở thành nước xã hội chủ nghĩa phát triển, có thu nhập cao.",
+  "C": "Giảm dân số xuống dưới 50 triệu.",
+  "D": "Rời khỏi cộng đồng quốc tế.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "219",
+  "QUESTION": "Thời điểm bắt đầu kỷ nguyên phát triển mới theo văn bản là từ sự kiện nào?",
+  "A": "Hiệp định thương mại tự do.",
+  "B": "Đại hội XIV của Đảng.",
+  "C": "Năm đổi mới 1986.",
+  "D": "Thời điểm chưa xác định.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "220",
+  "QUESTION": "Văn bản nhắc cơ hội lớn từ cách mạng nào?",
+  "A": "Cách mạng nông nghiệp lần thứ nhất.",
+  "B": "Cách mạng văn hoá.",
+  "C": "Cách mạng công nghiệp lần thứ tư (AI, công nghệ số).",
+  "D": "Cách mạng công nghiệp lần thứ hai.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "221",
+  "QUESTION": "Một trong các yếu tố được nhấn mạnh để khơi dậy trong dân tộc là gì?",
+  "A": "Sự trông chờ vào trợ giúp ngoại quốc.",
+  "B": "Hào khí dân tộc, tinh thần tự chủ, tự cường.",
+  "C": "Loại bỏ toàn bộ công nghiệp.",
+  "D": "Từ bỏ hợp tác quốc tế.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "222",
+  "QUESTION": "Văn bản ghi nhận quy mô nền kinh tế năm 2023 so với 1986 tăng bao nhiêu lần?",
+  "A": "9 lần.",
+  "B": "50 lần.",
+  "C": "120 lần.",
+  "D": "96 lần.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "223",
+  "QUESTION": "Theo văn bản, Việt Nam có quan hệ ngoại giao với bao nhiêu nước thành viên Liên Hợp Quốc?",
+  "A": "150 nước.",
+  "B": "194 nước.",
+  "C": "120 nước.",
+  "D": "180 nước.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "224",
+  "QUESTION": "Văn bản cho rằng kết hợp nào là then chốt để phát triển?",
+  "A": "Kết hợp nông thôn với nông thôn.",
+  "B": "Kết hợp chính trị với tôn giáo.",
+  "C": "Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+  "D": "Kết hợp việc nghỉ với việc làm.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "225",
+  "QUESTION": "Trong ví dụ về \"kỷ nguyên\", đâu không phải là ví dụ được nêu?",
+  "A": "Kỷ nguyên Công nghiệp.",
+  "B": "Kỷ nguyên Vũ trụ.",
+  "C": "Kỷ nguyên Đồ đá.",
+  "D": "Kỷ nguyên Tự động hóa gia đình.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "226",
+  "QUESTION": "Văn bản mô tả kỷ nguyên vươn mình cần tính chất nào dưới đây?",
+  "A": "Thụ động và trì trệ.",
+  "B": "Chỉ dựa vào nước ngoài.",
+  "C": "Không có mục tiêu rõ ràng.",
+  "D": "Quyết liệt, tích cực, nỗ lực nội lực.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "227",
+  "QUESTION": "Một trong các thành tựu sau 40 năm đổi mới được nêu là gì?",
+  "A": "Việt Nam trở về nền kinh tế khép kín.",
+  "B": "Tăng quy mô nền kinh tế nhiều lần; gia nhập sâu vào kinh tế toàn cầu.",
+  "C": "Mất độc lập lãnh thổ.",
+  "D": "Giảm vai trò trên diễn đàn quốc tế.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "228",
+  "QUESTION": "Mục tiêu chiến lược 100 năm của Việt Nam theo văn bản liên quan đến?",
+  "A": "Chỉ mục tiêu về y tế.",
+  "B": "Xây dựng đất nước phồn vinh, sớm xây dựng thành công chủ nghĩa xã hội.",
+  "C": "Rời khỏi Liên Hợp Quốc.",
+  "D": "Ngừng mọi đầu tư nước ngoài.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "229",
+  "QUESTION": "Văn bản cho rằng giai đoạn từ nay đến 2030 là gì?",
+  "A": "Giai đoạn ít quan trọng.",
+  "B": "Giai đoạn quan trọng để xác lập trật tự thế giới mới và là giai đoạn nước rút cho Việt Nam.",
+  "C": "Thời kỳ khủng hoảng không có cơ hội.",
+  "D": "Giai đoạn chỉ dành cho nghiên cứu lịch sử.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "230",
+  "QUESTION": "Trong những cơ hội công nghệ, văn bản đặc biệt nhắc tới công nghệ nào?",
+  "A": "Công nghệ hơi nước.",
+  "B": "Công nghệ sinh học thế kỷ 19.",
+  "C": "Công nghệ in ấn.",
+  "D": "Trí tuệ nhân tạo và công nghệ số.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "231",
+  "QUESTION": "Văn bản nhấn mạnh yếu tố nào là nền tảng để đạt kỳ tích?",
+  "A": "Lãnh đạo của Đảng kết hợp ý chí tự lực, tự cường của dân tộc.",
+  "B": "Từ bỏ chính sách đối ngoại.",
+  "C": "Chỉ tập trung vào xuất khẩu nông sản.",
+  "D": "Tách rời khoa học công nghệ.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "232",
+  "QUESTION": "Mục tiêu về đời sống nhân dân theo văn bản là?",
+  "A": "Mọi người dân có cuộc sống ấm no, hạnh phúc và được hỗ trợ phát triển.",
+  "B": "Giảm mức sống để ổn định.",
+  "C": "Chỉ hỗ trợ một nhóm nhỏ.",
+  "D": "Bảo vệ lợi ích nhà nước hơn lợi ích nhân dân.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "233",
+  "QUESTION": "Văn bản nói đến việc kết hợp \"sức mạnh dân tộc với sức mạnh thời đại\" để làm gì?",
+  "A": "Giữ nguyên hiện trạng.",
+  "B": "Đưa đất nước phát triển toàn diện, mạnh mẽ, bứt phá và cất cánh.",
+  "C": "Chỉ tập trung cho thủ đô.",
+  "D": "Ngừng mọi cải cách.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "234",
+  "QUESTION": "Theo văn bản, vai trò của Việt Nam trên trường quốc tế sau đổi mới là gì?",
+  "A": "Hoàn toàn bị cô lập.",
+  "B": "Tham gia tích cực, đảm nhiệm nhiều trọng trách quốc tế.",
+  "C": "Rời khỏi các tổ chức đa phương.",
+  "D": "Trở thành nước thuần nông.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "235",
+  "QUESTION": "Văn bản gọi thời điểm Đại hội XIV của Đảng là gì?",
+  "A": "Thời điểm kết thúc đổi mới.",
+  "B": "Thời điểm bắt đầu kỷ nguyên phát triển mới.",
+  "C": "Thời điểm không quan trọng.",
+  "D": "Thời điểm tạm hoãn chiến lược.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "236",
+  "QUESTION": "Văn bản cho rằng thách thức trong kỷ nguyên mới có đặc điểm gì?",
+  "A": "Ít và cố định.",
+  "B": "Nổi trội hơn và có thể xuất hiện đột ngột giữa cục diện thế giới.",
+  "C": "Hoàn toàn dễ lường.",
+  "D": "Chỉ đến từ bên trong.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "237",
+  "QUESTION": "Văn bản liệt kê thành tựu nào về quan hệ ngoại giao?",
+  "A": "Không có quan hệ ngoại giao.",
+  "B": "Quan hệ ngoại giao với 194 nước thành viên Liên Hợp Quốc.",
+  "C": "Quan hệ ngoại giao chỉ với 10 nước.",
+  "D": "Ngừng hoạt động ngoại giao.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "238",
+  "QUESTION": "Một trong các khát vọng được khơi dậy theo văn bản là gì?",
+  "A": "Khát vọng giữ nguyên chế độ cũ.",
+  "B": "Khát vọng phát triển đất nước, tự hào dân tộc.",
+  "C": "Khát vọng rút lui khỏi hiện đại hóa.",
+  "D": "Khát vọng giảm dân số.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "239",
+  "QUESTION": "Văn bản khẳng định vai trò của Cách mạng công nghiệp 4.0 chủ yếu mang lại gì?",
+  "A": "Không có ảnh hưởng gì.",
+  "B": "Cơ hội để các nước đang phát triển nắm bắt để đi trước, đón đầu.",
+  "C": "Chỉ làm tăng khó khăn.",
+  "D": "Loại bỏ hoàn toàn lao động con người ngay lập tức.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "240",
+  "QUESTION": "Theo văn bản, điều gì giúp Việt Nam tích lũy thế và lực sau 40 năm đổi mới?",
+  "A": "Bỏ qua nền tảng khoa học.",
+  "B": "Các thành tựu vĩ đại dưới sự lãnh đạo của Đảng, hội nhập sâu rộng.",
+  "C": "Cắt giảm mọi giao thương.",
+  "D": "Chỉ trợ cấp không điều kiện.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "241",
+  "QUESTION": "\"Kỷ nguyên\" trong ví dụ không bao gồm?",
+  "A": "Kỷ nguyên Kỹ thuật số.",
+  "B": "Kỷ nguyên Trung cổ.",
+  "C": "Kỷ nguyên Vũ trụ.",
+  "D": "Kỷ nguyên Cổ đại.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "242",
+  "QUESTION": "Theo văn bản, mục tiêu đến năm 2030 là để Việt Nam trở thành?",
+  "A": "Nước có thu nhập trung bình cao và công nghiệp hiện đại.",
+  "B": "Nước hoàn toàn nông nghiệp.",
+  "C": "Một quốc gia tách khỏi kinh tế thế giới.",
+  "D": "Nước có thu nhập thấp.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "243",
+  "QUESTION": "Văn bản kêu gọi nhân dân thực hiện điều gì dưới sự lãnh đạo của Đảng?",
+  "A": "Đồng tâm hiệp lực, tranh thủ thời cơ, đẩy lùi thách thức để đưa đất nước phát triển.",
+  "B": "Rời bỏ trách nhiệm công dân.",
+  "C": "Chỉ quan tâm đến lợi ích cá nhân.",
+  "D": "Ngừng mọi hoạt động sản xuất.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "244",
+  "QUESTION": "Trong hơn 95 năm lãnh đạo, yếu tố then chốt giúp Đảng luôn trong sạch, vững mạnh là gì?",
+  "A": "Nâng cao năng lực lãnh đạo, năng lực cầm quyền",
+  "B": "Tăng đầu tư cho doanh nghiệp nhà nước",
+  "C": "Mở rộng quan hệ đối ngoại",
+  "D": "Tăng chi tiêu an sinh xã hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "245",
+  "QUESTION": "Một tồn tại khi đổi mới phương thức lãnh đạo của Đảng được nêu là:",
+  "A": "Thiếu cán bộ trẻ",
+  "B": "Quá tập trung vào kỹ thuật số",
+  "C": "Ban hành nhiều văn bản, một số còn chung chung, dàn trải",
+  "D": "Thiếu hợp tác quốc tế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "246",
+  "QUESTION": "Giải pháp nào được đề xuất để tinh gọn bộ máy, tổ chức các cơ quan của Đảng?",
+  "A": "Thành lập thêm văn phòng chuyên môn",
+  "B": "Hợp nhất một số cơ quan tham mưu, giúp việc của Đảng",
+  "C": "Tăng biên chế ở cơ sở",
+  "D": "Giữ nguyên mô hình hiện tại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "247",
+  "QUESTION": "Nghị quyết của các cấp ủy, tổ chức đảng cần có đặc điểm nào?",
+  "A": "Dài, chi tiết từng bước thực hiện",
+  "B": "Mang tính hình thức để dễ ban hành",
+  "C": "Chỉ dành cho lãnh đạo cấp cao",
+  "D": "Ngắn gọn, súc tích, dễ hiểu, dễ thực hiện",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "248",
+  "QUESTION": "Trong xây dựng Nhà nước pháp quyền XHCN, điểm nghẽn nào được xem là “điểm nghẽn của điểm nghẽn”?",
+  "A": "Hạ tầng",
+  "B": "Thể chế",
+  "C": "Nhân lực",
+  "D": "Thiếu tài nguyên",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "249",
+  "QUESTION": "Khi đổi mới công tác lập pháp, tư duy xây dựng pháp luật cần chuyển hướng như thế nào?",
+  "A": "Quy định chi tiết mọi vấn đề trong luật",
+  "B": "Vừa bảo đảm quản lý nhà nước vừa khuyến khích sáng tạo",
+  "C": "Hạn chế vai trò doanh nghiệp trong tham gia xây dựng luật",
+  "D": "Ưu tiên hành chính hóa quy định",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "250",
+  "QUESTION": "Để đảm bảo luật có tính ổn định, cần:",
+  "A": "Thay đổi luật thường xuyên theo từng thời kỳ",
+  "B": "Luật chỉ quy định những vấn đề khung, nguyên tắc",
+  "C": "Luật hóa tất cả các quy định hành chính",
+  "D": "Giao hết cho địa phương quyết định",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "251",
+  "QUESTION": "Một mục tiêu khi tinh gọn tổ chức bộ máy là:",
+  "A": "Tăng cấp trung gian để kiểm soát tốt hơn",
+  "B": "Giảm đầu mối trung gian không cần thiết",
+  "C": "Tổ chức theo ngành dọc chặt chẽ hơn",
+  "D": "Phân quyền tối thiểu cho địa phương",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "252",
+  "QUESTION": "Trong chuyển đổi số, dữ liệu được coi là:",
+  "A": "Một vấn đề an ninh nguy hiểm",
+  "B": "Tài nguyên, tư liệu sản xuất quan trọng",
+  "C": "Một chi phí không cần thiết",
+  "D": "Một công cụ truyền thông duy nhất",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "253",
+  "QUESTION": "Vấn đề nào còn hạn chế trong chuyển đổi số được nêu trong văn bản?",
+  "A": "Toàn dân đã số hóa hoàn toàn",
+  "B": "Kết nối, chia sẻ dữ liệu giữa các hệ thống chưa thông suốt",
+  "C": "Không có nhu cầu dịch vụ công trực tuyến",
+  "D": "Thiếu ý tưởng về ứng dụng AI",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "254",
+  "QUESTION": "Vì sao cần xây dựng hành lang pháp lý cho phát triển số?",
+  "A": "Để hạn chế doanh nghiệp công nghệ",
+  "B": "Tạo nền tảng để nắm bắt cơ hội từ Cách mạng công nghiệp 4.0",
+  "C": "Để cấm các mô hình kinh tế mới",
+  "D": "Để hạn chế đầu tư nước ngoài",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "255",
+  "QUESTION": "Lãng phí được mô tả là:",
+  "A": "Không gây hậu quả nếu nhỏ",
+  "B": "Có thể tai hại hơn tham ô vì làm giảm nguồn lực phát triển",
+  "C": "Chỉ xảy ra trong khu vực tư nhân",
+  "D": "Là chuyện không liên quan đến quản lý nhà nước",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "256",
+  "QUESTION": "Một dạng lãng phí nổi lên hiện nay là:",
+  "A": "Thừa nhân lực chất lượng cao",
+  "B": "Chất lượng xây dựng, hoàn thiện pháp luật chưa đáp ứng thực tiễn",
+  "C": "Quá nhiều sáng kiến công nghệ hiệu quả",
+  "D": "Dịch vụ công trực tuyến hoàn hảo",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "257",
+  "QUESTION": "Giải pháp chiến lược chống lãng phí nêu là:",
+  "A": "Làm ngơ để tập trung chống tham nhũng",
+  "B": "Đẩy mạnh phòng, chống lãng phí tương đương với phòng, chống tham nhũng",
+  "C": "Bỏ qua quy định quản lý tài sản công",
+  "D": "Không xử lý các dự án thất thoát",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "258",
+  "QUESTION": "Trong công tác cán bộ, phẩm chất được yêu cầu là:",
+  "A": "Tránh rủi ro, không dấn thân",
+  "B": "Có bản lĩnh chính trị vững vàng, dám nghĩ, dám làm, dám chịu trách nhiệm",
+  "C": "Chỉ quan tâm bằng cấp",
+  "D": "Ưu tiên người quen biết",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "259",
+  "QUESTION": "Một giải pháp xây dựng đội ngũ cán bộ được nêu là:",
+  "A": "Giữ nguyên quy trình bổ nhiệm truyền thống",
+  "B": "Đổi mới mạnh mẽ công tác tuyển dụng, đào tạo, đề bạt theo sản phẩm cụ thể",
+  "C": "Chỉ tuyển từ nội bộ",
+  "D": "Loại bỏ đào tạo liên tục",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "260",
+  "QUESTION": "Nguy cơ khiến Việt Nam rơi vào bẫy thu nhập trung bình là:",
+  "A": "Năng suất lao động tăng quá nhanh",
+  "B": "Tăng trưởng phụ thuộc nhiều vào xuất khẩu và FDI, doanh nghiệp nội địa yếu",
+  "C": "Có quá nhiều ngành chiến lược",
+  "D": "Dân số vàng kéo dài mãi mãi",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "261",
+  "QUESTION": "Một nguyên nhân làm năng suất và hiệu quả nền kinh tế giảm là:",
+  "A": "Ứng dụng khoa học công nghệ mạnh mẽ",
+  "B": "Hệ thống kết cấu hạ tầng thiếu tính kết nối",
+  "C": "Nguồn lực nhân lực quá chất lượng cao",
+  "D": "Thừa vốn đầu tư công hiệu quả",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "262",
+  "QUESTION": "Để khắc phục tụt hậu kinh tế, cần:",
+  "A": "Tiếp tục mô hình phát triển chỉ theo chiều rộng",
+  "B": "Đột phá về thể chế, lấy người dân và doanh nghiệp làm trung tâm",
+  "C": "Giảm phát triển hạ tầng",
+  "D": "Tập trung hoàn toàn vào nhập khẩu công nghệ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "263",
+  "QUESTION": "Mục tiêu đến năm 2030 trong chuyển đổi số ở văn bản là:",
+  "A": "Giữ thứ hạng hiện trạng",
+  "B": "Việt Nam nằm trong nhóm 50 quốc gia hàng đầu và xếp thứ 3 trong ASEAN về chính phủ điện tử, kinh tế số",
+  "C": "Loại bỏ hoàn toàn dịch vụ công trực tuyến",
+  "D": "Bỏ qua an ninh mạng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "264",
+  "QUESTION": "Việc phân cấp, phân quyền được khuyến nghị với phương châm:",
+  "A": "Trung ương quyết mọi việc",
+  "B": "“Địa phương quyết, địa phương làm, địa phương chịu trách nhiệm”",
+  "C": "Giao toàn quyền cho doanh nghiệp",
+  "D": "Không giao quyền cho địa phương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "265",
+  "QUESTION": "Trong đổi mới công tác kiểm tra, giám sát cần:",
+  "A": "Loại bỏ công nghệ thông tin khỏi kiểm tra",
+  "B": "Đẩy mạnh ứng dụng công nghệ thông tin, chuyển đổi số trong hoạt động của Đảng",
+  "C": "Giảm kiểm tra, giám sát xuống mức tối thiểu",
+  "D": "Giao mọi việc cho bên thứ ba không kiểm soát",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "266",
+  "QUESTION": "Một điểm yếu của hệ thống pháp luật được nhắc là:",
+  "A": "Rất đồng bộ và đồng thời",
+  "B": "Có quy định mâu thuẫn, chồng chéo, chậm được sửa đổi",
+  "C": "Luật luôn cập nhật kịp thời",
+  "D": "Luật hoàn toàn linh hoạt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "267",
+  "QUESTION": "Để thúc đẩy đổi mới sáng tạo, luật nên:",
+  "A": "Quản lý chặt đến mức cấm đoán",
+  "B": "Giao cho chính phủ, địa phương quy định những vấn đề biến động thường xuyên để đảm bảo linh hoạt",
+  "C": "Không cho điều chỉnh sau ban hành",
+  "D": "Hành chính hóa mọi quy định",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "268",
+  "QUESTION": "Trong khuyến nghị về tổ chức, cần làm rõ để tránh bao biện là:",
+  "A": "Ranh giới giữa lãnh đạo và quản lý",
+  "B": "Chỉ tiêu xuất khẩu",
+  "C": "Quy mô dân số",
+  "D": "Các chỉ số môi trường",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "269",
+  "QUESTION": "Một bất cập của mô hình tổ chức Đảng và hệ thống chính trị là gì?",
+  "A": "Phân quyền quá mạnh",
+  "B": "Ranh giới giữa lãnh đạo và quản lý khó phân định",
+  "C": "Thiếu quy trình họp",
+  "D": "Quá ít văn bản hướng dẫn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "270",
+  "QUESTION": "Việc đổi mới sinh hoạt chi bộ cơ sở nhằm mục tiêu gì?",
+  "A": "Tăng số lượng văn bản",
+  "B": "Đảm bảo hoạt động sinh hoạt chi bộ thực chất, hiệu quả",
+  "C": "Hạn chế vai trò đảng viên",
+  "D": "Tổ chức họp nhiều hơn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "271",
+  "QUESTION": "Quy định phân cấp thẩm quyền kiểm tra, giám sát cần gắn với gì?",
+  "A": "Giảm trách nhiệm người đứng đầu",
+  "B": "Phát hiện, xử lý nghiêm mọi hành vi lợi dụng kiểm tra, giám sát để tham nhũng",
+  "C": "Giảm ứng dụng CNTT",
+  "D": "Tăng họp hành",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "272",
+  "QUESTION": "Sau khi thực hiện Nghị quyết 27-NQ\/TW, một tồn tại trong hoàn thiện Nhà nước pháp quyền là:",
+  "A": "Hệ thống pháp luật quá ít văn bản",
+  "B": "Pháp luật luôn cập nhật theo kịp",
+  "C": "Một số chủ trương của Đảng chưa được thể chế kịp thời hoặc không khả thi",
+  "D": "Không có tồn tại nào",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "273",
+  "QUESTION": "Khi xây dựng pháp luật, quan điểm nào được nêu trong văn bản?",
+  "A": "Pháp luật không cần thay đổi",
+  "B": "Pháp luật cần liên tục được hoàn thiện để thể chế hóa đường lối, chính sách của Đảng",
+  "C": "Pháp luật chỉ cho doanh nghiệp",
+  "D": "Pháp luật là việc riêng của chính phủ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "274",
+  "QUESTION": "Luật nên quy định những gì để có giá trị lâu dài?",
+  "A": "Toàn bộ chi tiết điều hành",
+  "B": "Những vấn đề khung, vấn đề có tính nguyên tắc",
+  "C": "Thủ tục hành chính từng bước",
+  "D": "Quy định tạm thời nhiều lần",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "275",
+  "QUESTION": "Một yêu cầu khi đổi mới quy trình xây dựng pháp luật là:",
+  "A": "Xa rời thực tiễn",
+  "B": "Bám sát thực tiễn, lấy người dân, doanh nghiệp làm trung tâm",
+  "C": "Để luật chậm trễ vô thời hạn",
+  "D": "Bỏ qua ý kiến người dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "276",
+  "QUESTION": "Tinh gọn bộ máy cần kết hợp với điều gì để tăng hiệu quả?",
+  "A": "Giữ nguyên đầu mối trung gian",
+  "B": "Đẩy mạnh phân cấp, phân quyền gắn với kiểm tra, giám sát",
+  "C": "Tăng cấp trung gian",
+  "D": "Giảm trách nhiệm địa phương",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "277",
+  "QUESTION": "Tỷ lệ ngân sách dùng để “nuôi bộ máy” hiện được nêu khoảng là:",
+  "A": "30%",
+  "B": "50%",
+  "C": "70%",
+  "D": "90%",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "278",
+  "QUESTION": "Một hệ quả của bộ máy cồng kềnh, chồng lấn là:",
+  "A": "Giảm thủ tục hành chính",
+  "B": "Dẫn đến cơ chế xin-cho, dễ nảy sinh tiêu cực, tham nhũng",
+  "C": "Tăng năng suất lao động",
+  "D": "Tăng đầu tư nước ngoài",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "279",
+  "QUESTION": "Trong chuyển đổi số, mối quan hệ sản xuất có thể thay đổi về điều gì?",
+  "A": "Chỉ số dân số",
+  "B": "Hình thức sở hữu và phân phối tư liệu sản xuất số",
+  "C": "Màu sắc giao diện",
+  "D": "Kích thước phần cứng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "280",
+  "QUESTION": "Một hạn chế khi triển khai chính quyền số ở nhiều nơi là:",
+  "A": "Dịch vụ công trực tuyến đều chất lượng cao",
+  "B": "Thủ tục hành chính rườm rà, vận hành bộ phận “một cửa” chưa hiệu quả",
+  "C": "Toàn bộ dữ liệu đã kết nối hoàn hảo",
+  "D": "Không có nhu cầu người dân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "281",
+  "QUESTION": "Mục tiêu liên quan đến vị trí của Việt Nam về chính phủ điện tử, kinh tế số đến 2030 là:",
+  "A": "Loại bỏ hoàn toàn chính phủ điện tử",
+  "B": "Đứng trong nhóm 50 quốc gia hàng đầu và xếp thứ 3 trong ASEAN",
+  "C": "Giảm kết nối dữ liệu",
+  "D": "Tránh phát triển kinh tế số",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "282",
+  "QUESTION": "Vì sao phải rà soát, bổ sung các quy định, định mức kinh tế-kỹ thuật?",
+  "A": "Để tăng lãng phí",
+  "B": "Vì một số chưa phù hợp thực tế nhưng chậm sửa đổi, gây lãng phí",
+  "C": "Để giữ nguyên quy chuẩn",
+  "D": "Để làm phức tạp hóa thủ tục",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "283",
+  "QUESTION": "Một giải pháp chiến lược chống lãng phí là:",
+  "A": "Xem nhẹ xử lý các vụ lãng phí",
+  "B": "Xử lý nghiêm các cá nhân, tập thể có hành vi gây thất thoát, lãng phí tài sản công",
+  "C": "Không lập văn bản hướng dẫn",
+  "D": "Giảm kiểm tra hành vi quản lý tài sản công",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "284",
+  "QUESTION": "Trong xây dựng đội ngũ cán bộ, cần phân biệt ai với ai?",
+  "A": "Người có ngoại ngữ với người không có",
+  "B": "Người dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung với người phiêu lưu, liều lĩnh, viển vông",
+  "C": "Người cao tuổi với người trẻ",
+  "D": "Người có bằng cấp với người không có",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "285",
+  "QUESTION": "Một giải pháp để bảo vệ cán bộ dám đổi mới là:",
+  "A": "Loại bỏ mọi rủi ro pháp lý",
+  "B": "Xây dựng cơ chế khuyến khích, bảo vệ cán bộ có tư duy đổi mới, dám nghĩ, dám làm",
+  "C": "Không bổ nhiệm cán bộ mới",
+  "D": "Hạn chế luân chuyển cán bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "286",
+  "QUESTION": "Nguyên nhân làm Việt Nam khó tiệm cận với các nước phát triển là:",
+  "A": "Năng suất lao động tăng quá cao",
+  "B": "Tăng trưởng phụ thuộc nhiều vào xuất khẩu và FDI, không xây dựng được chuỗi giá trị nội địa mạnh",
+  "C": "Quá nhiều doanh nghiệp nội địa mạnh",
+  "D": "Thiếu tài nguyên để sản xuất nông nghiệp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "287",
+  "QUESTION": "Khi thời kỳ dân số vàng kết thúc (khoảng 2027–2037), hệ quả tiềm ẩn là:",
+  "A": "Giá nhân công giảm",
+  "B": "Giá nhân công tăng, lợi thế cạnh tranh giảm nếu không nâng cao năng lực",
+  "C": "FDI tăng mạnh tự động",
+  "D": "Nền kinh tế không bị ảnh hưởng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "288",
+  "QUESTION": "Một yếu tố làm suy giảm hiệu quả nền kinh tế được nêu là:",
+  "A": "Ứng dụng KHCN mạnh mẽ",
+  "B": "Năng suất các nhân tố tổng hợp có xu hướng giảm",
+  "C": "Hạ tầng giao thông hoàn hảo",
+  "D": "Tăng trưởng bền vững",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "289",
+  "QUESTION": "Giải pháp trọng tâm để phát triển lực lượng sản xuất mới là:",
+  "A": "Giữ nguyên quan hệ sản xuất hiện tại",
+  "B": "Kết hợp nguồn nhân lực chất lượng cao với tư liệu sản xuất mới, hạ tầng chiến lược",
+  "C": "Chỉ dựa vào lao động giá rẻ",
+  "D": "Tập trung vào khai thác thô khoáng sản",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "290",
+  "QUESTION": "Để thu hút nhân tài trong và ngoài nước, văn bản đề xuất:",
+  "A": "Tăng rào cản hành chính",
+  "B": "Có cơ chế đột phá thu hút nhân tài, xây dựng chiến lược phát triển nguồn nhân lực đổi mới, sáng tạo",
+  "C": "Hạn chế đào tạo",
+  "D": "Cấm luân chuyển cán bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "291",
+  "QUESTION": "Một nội dung cần chú trọng khi tinh giản biên chế là:",
+  "A": "Giữ nguyên vị trí việc làm",
+  "B": "Gắn tinh giản biên chế với vị trí việc làm, nâng cao chất lượng đội ngũ",
+  "C": "Tăng số lượng công chức",
+  "D": "Tuyển dụng ồ ạt",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "292",
+  "QUESTION": "Vấn đề pháp lý cần chủ động xây dựng cho những xu hướng mới là:",
+  "A": "Chỉ chú trọng nông nghiệp truyền thống",
+  "B": "Hành lang pháp lý cho cách mạng 4.0, AI, chuyển đổi số, chuyển đổi xanh",
+  "C": "Loại bỏ quy định về công nghệ",
+  "D": "Cấm hoạt động số",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "293",
+  "QUESTION": "Một giải pháp để giảm chi phí tuân thủ cho người dân, doanh nghiệp là:",
+  "A": "Tăng thủ tục hành chính",
+  "B": "Cải cách triệt để thủ tục hành chính, giảm chi phí tuân thủ",
+  "C": "Phân quyền càng ít càng tốt",
+  "D": "Bảo thủ, không thay đổi quy trình",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "294",
+  "QUESTION": "Một trong những điểm yếu của tăng trưởng Việt Nam giai đoạn gần đây là gì?",
+  "A": "Phụ thuộc nhiều vào xuất khẩu và FDI, doanh nghiệp nội địa yếu",
+  "B": "Thặng dư thương mại quá lớn",
+  "C": "Thiếu lao động phổ thông",
+  "D": "Quá nhiều chế tài cho đổi mới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "295",
+  "QUESTION": "Vì sao năng suất các nhân tố tổng hợp (TFP) của VN có xu hướng giảm được coi là đáng lo?",
+  "A": "Vì TFP tăng khiến lạm phát",
+  "B": "Vì TFP giảm cho thấy hiệu quả nền kinh tế giảm",
+  "C": "Vì TFP không liên quan đến tăng trưởng",
+  "D": "Vì TFP chỉ ảnh hưởng tới nông nghiệp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "296",
+  "QUESTION": "Khi nói đến “điểm nghẽn” trong phát triển, văn bản nhấn mạnh điểm nào là quan trọng nhất?",
+  "A": "Hạ tầng",
+  "B": "Thể chế",
+  "C": "Thiếu đất đai",
+  "D": "Thiếu tài nguyên nước",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "297",
+  "QUESTION": "Một giải pháp để tháo gỡ “điểm nghẽn” thể chế là:",
+  "A": "Tăng thủ tục hành chính",
+  "B": "Đột phá mạnh mẽ về thể chế, lấy người dân và doanh nghiệp làm trung tâm",
+  "C": "Giảm đầu tư cho khoa học công nghệ",
+  "D": "Hạn chế phân cấp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "298",
+  "QUESTION": "Vấn đề nào được nêu là khiến FDI không tạo ra chuỗi giá trị nội địa mạnh?",
+  "A": "Doanh nghiệp FDI chỉ sử dụng lao động nội địa cao cấp",
+  "B": "FDI nhập khẩu nhiều linh kiện, chỉ dùng lao động và nguyên liệu cơ bản tại VN",
+  "C": "FDI đầu tư quá nhiều cho công nghiệp hỗ trợ",
+  "D": "FDI chủ yếu dành cho nông nghiệp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "299",
+  "QUESTION": "Khi thời kỳ “dân số vàng” kết thúc, giải pháp nào được nhấn mạnh?",
+  "A": "Không cần thay đổi chính sách",
+  "B": "Nâng cao năng suất, phát triển lực lượng sản xuất mới",
+  "C": "Giảm đầu tư cho giáo dục",
+  "D": "Tăng ngay thuế nhập khẩu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "300",
+  "QUESTION": "Để phát triển kinh tế số, cần làm gì về nguồn nhân lực?",
+  "A": "Tập trung duy nhất vào lao động giản đơn",
+  "B": "Thu hút nhân tài, xây dựng chiến lược phát triển nguồn nhân lực đổi mới sáng tạo",
+  "C": "Loại bỏ đào tạo liên tục",
+  "D": "Cấm nhân lực nước ngoài vào VN",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "301",
+  "QUESTION": "Một rào cản trong cải cách hành chính hiện nay là:",
+  "A": "Thủ tục hành chính vẫn rườm rà, nhiều khâu",
+  "B": "Dịch vụ công quá nhanh",
+  "C": "Tất cả dữ liệu đã được chia sẻ hoàn hảo",
+  "D": "Không có cơ chế “một cửa”",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "302",
+  "QUESTION": "Lãng phí trong sử dụng đất đai được nêu là:",
+  "A": "Không ảnh hưởng tới tài nguyên",
+  "B": "Một dạng lãng phí nghiêm trọng cần xử lý",
+  "C": "Là kết quả của tăng đầu tư công hiệu quả",
+  "D": "Là chỉ dấu phát triển bền vững",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "303",
+  "QUESTION": "Một trong các nhiệm vụ khi xây dựng hạ tầng là:",
+  "A": "Dàn trải đầu tư sân bay, cảng biển không cần xét lợi thế",
+  "B": "Tập trung đồng bộ, tránh dàn trải, ưu tiên hạ tầng chiến lược",
+  "C": "Chỉ đầu tư cho đô thị lớn",
+  "D": "Ngừng mọi dự án giao thông",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "304",
+  "QUESTION": "Khi đánh giá chính sách sau ban hành, cần làm gì theo văn bản?",
+  "A": "Không đánh giá để tránh phiền hà",
+  "B": "Thường xuyên đánh giá hiệu quả, kịp thời điều chỉnh bất cập",
+  "C": "Chỉ đánh giá sau 50 năm",
+  "D": "Giao việc cho doanh nghiệp tự đánh giá",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "305",
+  "QUESTION": "Một yếu tố bên trong cản trở phát triển là:",
+  "A": "Năng suất lao động quá cao",
+  "B": "Nhiều cán bộ sợ trách nhiệm, né tránh, đùn đẩy công việc",
+  "C": "Quá nhiều doanh nghiệp nội địa mạnh",
+  "D": "Thừa lao động chất lượng cao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "306",
+  "QUESTION": "Để tăng hiệu quả đầu tư công, văn bản đề xuất gì?",
+  "A": "Tiếp tục dàn trải, nhiều dự án nhỏ",
+  "B": "Giải quyết dứt điểm các dự án quan trọng, nâng cao hiệu quả giải ngân",
+  "C": "Không rà soát dự án",
+  "D": "Tăng thủ tục hành chính phức tạp",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "307",
+  "QUESTION": "Một kết quả mong muốn của chuyển đổi số trong quản lý nhà nước là:",
+  "A": "Tăng thủ tục nhiều bước",
+  "B": "Số hóa toàn diện, cung cấp dịch vụ công trực tuyến mức độ cao",
+  "C": "Giảm độ an toàn thông tin",
+  "D": "Làm chậm quy trình xử lý",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "308",
+  "QUESTION": "Khi xây dựng chính sách cho công nghệ mới (AI, blockchain...), cần:",
+  "A": "Bỏ qua pháp lý để thúc đẩy thử nghiệm vô tội vạ",
+  "B": "Chủ động, khẩn trương xây dựng hành lang pháp lý phù hợp",
+  "C": "Cấm hoàn toàn mọi thử nghiệm",
+  "D": "Chờ đến khi nước khác hoàn thiện pháp luật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "309",
+  "QUESTION": "Văn bản đề xuất gì để phát triển doanh nghiệp nhà nước?",
+  "A": "Không thay đổi cấu trúc",
+  "B": "Hoàn thành cổ phần hóa, nâng cao hiệu quả hoạt động DN nhà nước",
+  "C": "Tăng trợ cấp lâu dài",
+  "D": "Chuyển toàn bộ tài sản cho tư nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "310",
+  "QUESTION": "Một biện pháp nhằm giảm lãng phí tài sản công là:",
+  "A": "Bỏ qua quản lý tài sản công",
+  "B": "Hoàn thiện quy định quản lý, sử dụng tài sản công, xử lý nghiêm hành vi gây thất thoát",
+  "C": "Giảm kiểm tra, giám sát",
+  "D": "Bán toàn bộ tài sản mà không đánh giá",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "311",
+  "QUESTION": "Về phát triển hạ tầng số, mục tiêu nào được nêu?",
+  "A": "Không kết nối dữ liệu giữa cơ quan",
+  "B": "Kết nối đồng bộ cơ sở dữ liệu quốc gia như dân cư, đất đai, doanh nghiệp",
+  "C": "Loại bỏ cơ sở dữ liệu quốc gia",
+  "D": "Tách biệt dữ liệu theo từng bộ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "312",
+  "QUESTION": "Đổi mới công tác tổ chức cán bộ cần hướng tới điều gì?",
+  "A": "Đặt người quen lên trước năng lực",
+  "B": "Đổi mới theo hướng thực chất, dựa trên sản phẩm cụ thể, đo đếm được",
+  "C": "Bỏ hoàn toàn việc đánh giá",
+  "D": "Tuyển dụng theo chỉ tiêu số lượng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "313",
+  "QUESTION": "Một trong những lĩnh vực cần ưu tiên đầu tư chiến lược là:",
+  "A": "Phát triển khoa học công nghệ và hạ tầng chiến lược",
+  "B": "Chỉ phát triển nông nghiệp truyền thống",
+  "C": "Tập trung hoàn toàn vào nhập khẩu hàng tiêu dùng",
+  "D": "Ngừng phát triển công nghiệp hỗ trợ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "314",
+  "QUESTION": "Văn bản nhấn mạnh điều gì về văn hóa tiết kiệm?",
+  "A": "Không cần quan tâm",
+  "B": "Cần xây dựng văn hóa phòng, chống lãng phí, thực hành tiết kiệm trở thành tự giác",
+  "C": "Tiếp tục khuyến khích tiêu dùng phung phí",
+  "D": "Không có vai trò ý thức xã hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "315",
+  "QUESTION": "Khi xử lý cán bộ không đủ phẩm chất, văn bản đề xuất:",
+  "A": "Giữ nguyên tại vị trí",
+  "B": "Sàng lọc, đưa ra khỏi vị trí công tác",
+  "C": "Thăng chức để tránh xung đột",
+  "D": "Thưởng thêm tiền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "316",
+  "QUESTION": "Một trong các mục tiêu dài hạn kinh tế là:",
+  "A": "Giữ mãi mô hình tăng trưởng chiều rộng",
+  "B": "Phát triển mô hình sâu, nâng cao năng suất, công nghệ, đổi mới sáng tạo",
+  "C": "Bỏ phát triển công nghiệp hỗ trợ",
+  "D": "Chỉ dựa vào lao động giá rẻ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "317",
+  "QUESTION": "Để khơi thông nguồn lực trong dân, cần:",
+  "A": "Tăng trần hành chính để kiểm soát",
+  "B": "Cải thiện thể chế, giảm rào cản, tạo môi trường thuận lợi cho đầu tư trong nước",
+  "C": "Hạn chế doanh nghiệp tư nhân",
+  "D": "Tăng chi phí tuân thủ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "318",
+  "QUESTION": "Trong xây dựng Nhà nước pháp quyền XHCN, cần đặc biệt chú ý đến:",
+  "A": "Luật phải mang tính ổn định, tôn trọng quyền con người, phát huy dân chủ",
+  "B": "Giảm vai trò pháp luật",
+  "C": "Phân quyền tối thiểu cho dân",
+  "D": "Bỏ quy trình lập pháp",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "319",
+  "QUESTION": "Quân khu 7 gồm thành phố nào và bao nhiêu tỉnh?",
+  "A": "Thành phố Hồ Chí Minh và 08 tỉnh",
+  "B": "Hà Nội và 05 tỉnh",
+  "C": "Đà Nẵng và 06 tỉnh",
+  "D": "Cần Thơ và 07 tỉnh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "320",
+  "QUESTION": "Diện tích của Quân khu 7 được nêu khoảng bao nhiêu?",
+  "A": "10.000 km²",
+  "B": "Hơn 45.000 km²",
+  "C": "100.000 km²",
+  "D": "5.000 km²",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "321",
+  "QUESTION": "Dân số Quân khu 7 khoảng bao nhiêu theo văn bản?",
+  "A": "Khoảng 10 triệu người",
+  "B": "Khoảng 50 triệu người",
+  "C": "Hơn 24 triệu người",
+  "D": "Khoảng 5 triệu người",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "322",
+  "QUESTION": "Quân khu 7 có bao nhiêu dân tộc?",
+  "A": "10 dân tộc",
+  "B": "27 dân tộc",
+  "C": "100 dân tộc",
+  "D": "54 dân tộc",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "323",
+  "QUESTION": "Tỉ lệ đồng bào theo tín ngưỡng, tôn giáo ở Quân khu 7 được nêu là khoảng bao nhiêu?",
+  "A": "Hơn 40%",
+  "B": "0.05",
+  "C": "0.9",
+  "D": "0.1",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "324",
+  "QUESTION": "Đường biên giới với Campuchia dài khoảng bao nhiêu km?",
+  "A": "100 km",
+  "B": "Trên 627 km",
+  "C": "50 km",
+  "D": "1.200 km",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "325",
+  "QUESTION": "Độ dài bờ biển của Quân khu 7 được ghi là bao nhiêu?",
+  "A": "50 km",
+  "B": "1.000 km",
+  "C": "322 km",
+  "D": "10 km",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "326",
+  "QUESTION": "Quân khu 7 có khoảng bao nhiêu khu công nghiệp, khu chế xuất?",
+  "A": "5",
+  "B": "12",
+  "C": "80",
+  "D": "Hơn 130",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "327",
+  "QUESTION": "Số cụm công nghiệp được nêu trong văn bản là bao nhiêu?",
+  "A": "10",
+  "B": "63",
+  "C": "200",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "328",
+  "QUESTION": "Số doanh nghiệp hoạt động trên địa bàn Quân khu 7 khoảng bao nhiêu?",
+  "A": "1700",
+  "B": "Hơn 171.000",
+  "C": "17000000",
+  "D": "17",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "329",
+  "QUESTION": "Quân khu 7 đóng góp khoảng bao nhiêu phần trăm nguồn thu ngân sách quốc gia?",
+  "A": "5%",
+  "B": "Gần 45%",
+  "C": "100%",
+  "D": "1%",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "330",
+  "QUESTION": "Trong lịch sử, các thế hệ cán bộ chiến sĩ Quân khu đã góp phần gì?",
+  "A": "Chỉ làm kinh tế",
+  "B": "Đánh thắng xâm lược, làm tròn nghĩa vụ quốc tế và xây dựng truyền thống vẻ vang",
+  "C": "Chỉ tham gia hội chợ",
+  "D": "Không có đóng góp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "331",
+  "QUESTION": "Câu khẩu hiệu\/truyền thống nào được trích dẫn trong văn bản?",
+  "A": "\"Cần kiệm liêm chính\"",
+  "B": "\"Trung thành vô hạn, chủ động sáng tạo, tự lực tự cường, đoàn kết quyết thắng\"",
+  "C": "\"Làm giàu cho cá nhân\"",
+  "D": "\"Chỉ huy tuyệt đối\"",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "332",
+  "QUESTION": "Văn bản đề cập các xung đột quốc tế nào làm nổi lên tình hình bất ổn?",
+  "A": "Chiến tranh Triều Tiên",
+  "B": "Xung đột Nga - Ukraine và Israel - Hamas",
+  "C": "Nội chiến Tây Ban Nha",
+  "D": "Cuộc chiến Falklands",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "333",
+  "QUESTION": "Một trong những thách thức được nêu là gì?",
+  "A": "Thiếu nước uống",
+  "B": "Cuộc cách mạng công nghiệp lần thứ 4 và vũ khí hiện đại",
+  "C": "Sự xuất hiện của ngành dệt may",
+  "D": "Tăng trưởng dân số chậm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "334",
+  "QUESTION": "Kẻ thù sử dụng chiến lược gì theo văn bản?",
+  "A": "Hòa bình hữu nghị",
+  "B": "“Diễn biến hòa bình” thúc đẩy “tự diễn biến”, “tự chuyển hóa”",
+  "C": "Giúp đỡ xây dựng",
+  "D": "Chỉ tuyên truyền văn hóa",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "335",
+  "QUESTION": "Mục tiêu chung của toàn Đảng, toàn dân, toàn quân được nêu là gì?",
+  "A": "Rút khỏi khắp nơi",
+  "B": "Thực hiện tinh gọn bộ máy, đưa đất nước vào kỷ nguyên vươn mình",
+  "C": "Bỏ qua quốc phòng",
+  "D": "Chấm dứt sản xuất",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "336",
+  "QUESTION": "Một trong những nhiệm vụ đặt ra là xây dựng Quân đội như thế nào?",
+  "A": "Nặng nề, cồng kềnh",
+  "B": "“Tinh, gọn, mạnh” làm tiền đề tiến lên hiện đại",
+  "C": "Không cần trang bị",
+  "D": "Triệt phá kinh tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "337",
+  "QUESTION": "Thứ nhất trong các nhiệm vụ trọng tâm yêu cầu gì?",
+  "A": "Tuyển thêm dân thường",
+  "B": "Quán triệt và thực hiện các nghị quyết, kết luận, chỉ thị của Đảng và Quân ủy Trung ương",
+  "C": "Tập trung vào thương mại",
+  "D": "Đóng cửa biên giới",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "338",
+  "QUESTION": "Thứ hai yêu cầu LLVT cần làm gì?",
+  "A": "Tái xuất khẩu thiết bị",
+  "B": "Nâng cao cảnh giác, mài sắc ý chí chiến đấu, dự báo chính xác tình hình",
+  "C": "Tập trung chỉ làm lễ hội",
+  "D": "Giảm huấn luyện",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "339",
+  "QUESTION": "Thứ ba trọng tâm là gì?",
+  "A": "Bỏ nhiệm vụ quốc phòng",
+  "B": "Hoàn thành xuất sắc nhiệm vụ quân sự, quốc phòng và xây dựng nền quốc phòng toàn dân",
+  "C": "Chỉ tập trung an ninh mạng",
+  "D": "Tăng thuế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "340",
+  "QUESTION": "Thứ tư yêu cầu về phối hợp là gì?",
+  "A": "Làm việc độc lập tuyệt đối",
+  "B": "Chủ động phối hợp nắm chắc tình hình, tham mưu kịp thời, sẵn sàng lực lượng, phương tiện xử lý tình huống",
+  "C": "Chỉ dựa vào nước ngoài",
+  "D": "Rời khỏi địa bàn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "341",
+  "QUESTION": "Trong phần thứ tư, một việc cần làm là gì?",
+  "A": "Bỏ phương án tác chiến",
+  "B": "Bổ sung hoàn chỉnh các phương án tác chiến, kế hoạch phòng thủ",
+  "C": "Hủy toàn bộ kế hoạch",
+  "D": "Chỉ làm kế hoạch ăn uống",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "342",
+  "QUESTION": "Ý nào thể hiện việc xây dựng nền quốc phòng toàn dân?",
+  "A": "Chỉ dựa vào quân đội nước ngoài",
+  "B": "Phối hợp chặt chẽ với cấp ủy, chính quyền và ban, ngành địa phương để xây dựng thế trận quốc phòng toàn dân",
+  "C": "Tách rời dân chúng khỏi quốc phòng",
+  "D": "Chỉ dùng công nghệ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "343",
+  "QUESTION": "Thứ năm tập trung vào việc nào?",
+  "A": "Giảm chất lượng huấn luyện",
+  "B": "Nâng cao chất lượng tổng hợp, trình độ, sẵn sàng chiến đấu của LLVT Quân khu",
+  "C": "Chỉ làm lễ kỷ niệm",
+  "D": "Tăng tiền lương cho dân thường",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "344",
+  "QUESTION": "Trong việc nâng cao chất lượng, điều gì được lấy làm cơ sở?",
+  "A": "Kinh tế thị trường",
+  "B": "Xây dựng về chính trị",
+  "C": "Chỉ dựa vào ngoại giao",
+  "D": "Bỏ qua chính trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "345",
+  "QUESTION": "Biện pháp về biên chế và cán bộ được nêu là gì?",
+  "A": "Đóng hết các đơn vị",
+  "B": "Rà soát, điều chỉnh biểu tổ chức, ưu tiên quân số cho các đơn vị SSCĐ",
+  "C": "Tuyển dư thừa mọi nơi",
+  "D": "Không quản lý cán bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "346",
+  "QUESTION": "Thứ năm còn nhấn mạnh điều gì cho đời sống cán bộ, chiến sĩ?",
+  "A": "Bỏ qua hậu cần",
+  "B": "Đẩy mạnh tăng gia, thực hành tiết kiệm, nâng cao đời sống vật chất và tinh thần",
+  "C": "Cắt khẩu phần ăn",
+  "D": "Chỉ dùng tiền lương",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "347",
+  "QUESTION": "Thứ sáu nói về xây dựng Đảng bộ như thế nào?",
+  "A": "Lỏng lẻo, không kiểm tra",
+  "B": "Trong sạch, vững mạnh, tiêu biểu về chính trị, tư tưởng, đạo đức, tổ chức và cán bộ",
+  "C": "Loại bỏ Đảng bộ",
+  "D": "Chỉ tập trung thương mại",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "348",
+  "QUESTION": "Thứ sáu yêu cầu thực hiện Nghị quyết Trung ương 4 (Khóa XIII) nhằm vào mục tiêu gì?",
+  "A": "Tăng tham nhũng",
+  "B": "Tăng cường xây dựng, chỉnh đốn Đảng; ngăn chặn suy thoái tư tưởng, đạo đức",
+  "C": "Giảm kỷ luật",
+  "D": "Mở rộng quyền lực cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "349",
+  "QUESTION": "Văn bản khuyến khích thực hiện kết luận nào của Bộ Chính trị?",
+  "A": "Kết luận về giảm quân số",
+  "B": "Kết luận số 01 về tiếp tục đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "C": "Kết luận về tăng thuế",
+  "D": "Kết luận về hủy bỏ lễ kỷ niệm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "350",
+  "QUESTION": "Một nội dung đối ngoại quốc phòng được nêu là gì?",
+  "A": "Cắt đứt mọi quan hệ",
+  "B": "Thực hiện tốt công tác đối ngoại quốc phòng, duy trì quan hệ với các đơn vị kết nghĩa",
+  "C": "Chỉ giao thương",
+  "D": "Chỉ tổ chức hội thi",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "351",
+  "QUESTION": "Theo văn bản, cuộc cách mạng công nghiệp lần thứ 4 dẫn đến điều gì?",
+  "A": "Giảm sức mạnh quân đội",
+  "B": "Sự ra đời của nhiều vũ khí trang bị hiện đại và hình thái tác chiến mới",
+  "C": "Loại bỏ vũ khí",
+  "D": "Chỉ tăng dân số",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "352",
+  "QUESTION": "Văn bản yêu cầu LLVT phải làm gì trước các tình huống phức tạp?",
+  "A": "Bỏ qua các tình huống",
+  "B": "Xử trí kịp thời, thắng lợi các tình huống, không để bị động, bất ngờ",
+  "C": "Chờ chỉ thị nước ngoài",
+  "D": "Chỉ tổ chức họp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "353",
+  "QUESTION": "Mục tiêu tổng thể được nêu để đáp ứng bối cảnh mới là gì?",
+  "A": "Giữ nguyên hiện trạng",
+  "B": "Xây dựng LLVT vững mạnh toàn diện, tiến lên hiện đại, có chất lượng tổng hợp và sức mạnh chiến đấu cao",
+  "C": "Bỏ quân đội",
+  "D": "Tập trung chỉ phát triển công nghiệp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "354",
+  "QUESTION": "Ai phải tăng cường lãnh đạo, chỉ đạo, nâng cao nhận thức trong thực hiện nhiệm vụ quân sự, quốc phòng?",
+  "A": "Cấp ủy, chỉ huy các cấp",
+  "B": "Bộ Quốc phòng",
+  "C": "Chính quyền địa phương",
+  "D": "Quân y",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "355",
+  "QUESTION": "Theo văn bản, cần xác định gì căn cứ vào tình hình thực tiễn đơn vị?",
+  "A": "Các tiêu chí, chủ trương, biện pháp lãnh đạo",
+  "B": "Ngân sách quốc phòng",
+  "C": "Số lượng vũ khí",
+  "D": "Lịch nghỉ phép",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "356",
+  "QUESTION": "Nội dung nào phải chú trọng bồi dưỡng cho đội ngũ cán bộ các cấp?",
+  "A": "Nhận thức về chính trị, năng lực lãnh đạo, tác phong công tác",
+  "B": "Kỹ năng nấu ăn",
+  "C": "Biển số xe",
+  "D": "Thời trang",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "357",
+  "QUESTION": "Cán bộ, chỉ huy các cấp phải quán triệt và thực hiện tốt Quy định nào về chuẩn mực đạo đức?",
+  "A": "Quy định số 144-QĐ\/TW",
+  "B": "Quy định giao thông",
+  "C": "Quy định an toàn thực phẩm",
+  "D": "Quy định học bổng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "358",
+  "QUESTION": "Một trong các nhiệm vụ của cấp ủy là gì?",
+  "A": "Xây dựng tiêu chí cụ thể trong thực hiện nhiệm vụ",
+  "B": "Mua sắm trang thiết bị cá nhân",
+  "C": "Chỉ đạo bầu cử địa phương",
+  "D": "Lập ban nhạc đơn vị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "359",
+  "QUESTION": "Cần làm tốt công tác quản lý, định hướng về gì cho bộ đội?",
+  "A": "Nhận thức chính trị, tư tưởng, đạo đức, lối sống",
+  "B": "Chế độ ăn uống",
+  "C": "Lịch nghỉ phép",
+  "D": "Trang phục",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "360",
+  "QUESTION": "Công tác tuyên truyền, giáo dục trong đơn vị nhằm mục tiêu gì?",
+  "A": "Nắm bắt tình hình tư tưởng và động viên bộ đội",
+  "B": "Tăng doanh thu",
+  "C": "Thay đổi quân hàm",
+  "D": "Cải tạo doanh trại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "361",
+  "QUESTION": "Văn bản nhắc tới việc chấp hành nghiêm Quy định số 37-QĐ\/TW liên quan đến điều gì?",
+  "A": "Những điều đảng viên không được làm",
+  "B": "Quy trình bảo dưỡng vũ khí",
+  "C": "Luật giao thông",
+  "D": "Quy chế thi đua",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "362",
+  "QUESTION": "Mục tiêu của việc ngăn chặn “tự diễn biến”, “tự chuyển hóa” là gì?",
+  "A": "Bảo đảm sức mạnh chính trị, đạo đức của cán bộ, đảng viên",
+  "B": "Tăng lương",
+  "C": "Mở cửa hàng bán đồ quân trang",
+  "D": "Thay đổi quốc kỳ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "363",
+  "QUESTION": "Nội dung nào được nhắc tới liên quan tới Chỉ thị số 05-CT\/TW?",
+  "A": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "B": "Hướng dẫn bảo dưỡng xe tăng",
+  "C": "Kế hoạch dinh dưỡng",
+  "D": "Lịch công tác",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "364",
+  "QUESTION": "Công tác giáo dục chính trị cần tập trung quán triệt điều gì?",
+  "A": "Chỉ thị, nghị quyết, đường lối của Đảng và chính sách pháp luật",
+  "B": "Giá vé tham quan",
+  "C": "Quy trình nấu ăn",
+  "D": "Mua sắm cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "365",
+  "QUESTION": "Giáo dục cần nâng cao nhận thức về điều gì liên quan đến mục tiêu xã hội?",
+  "A": "Lý tưởng xã hội chủ nghĩa",
+  "B": "Thói quen tiêu dùng",
+  "C": "Mùa vụ nông nghiệp",
+  "D": "Kiểu tóc",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "366",
+  "QUESTION": "Phòng, chống điều gì được nêu trong phần giáo dục tư tưởng?",
+  "A": "Suy thoái tư tưởng chính trị, đạo đức, lối sống",
+  "B": "Thiếu dinh dưỡng",
+  "C": "Hỏng máy bay",
+  "D": "Mất mẫu truyền thống",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "367",
+  "QUESTION": "Quan điểm giáo dục phải thấu suốt các quan điểm, đường lối về gì?",
+  "A": "Quân sự, quốc phòng, xây dựng Quân đội",
+  "B": "Thương mại quốc tế",
+  "C": "Kinh doanh địa ốc",
+  "D": "Thể thao",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "368",
+  "QUESTION": "Quy chế nào được yêu cầu thực hiện hiệu quả về quản lý tư tưởng quân nhân?",
+  "A": "Quy chế số 775\/QC-CT",
+  "B": "Quy chế an toàn giao thông",
+  "C": "Quy chế lương thực",
+  "D": "Quy chế thể thao",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "369",
+  "QUESTION": "Mô hình nào không thuộc danh sách các mô hình nêu trong văn bản?",
+  "A": "\"Đơn vị 3 nhất\"",
+  "B": "\"Chi bộ 5 tốt\"",
+  "C": "\"Đội bóng chuyên nghiệp\"",
+  "D": "\"Chi đoàn 4 tốt - 1 nghiêm\"",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "370",
+  "QUESTION": "Đổi mới hình thức công tác giáo dục chính trị cần phù hợp với điều gì?",
+  "A": "Từng đối tượng và điều kiện thực tiễn đơn vị",
+  "B": "Lượng hàng xuất khẩu",
+  "C": "Mùa giải thể thao",
+  "D": "Thời tiết",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "371",
+  "QUESTION": "Giáo dục pháp luật phải coi trọng điều gì?",
+  "A": "Nâng cao hiểu biết về pháp luật, kỷ luật liên quan nhiệm vụ quân sự",
+  "B": "Thiết kế đồng phục",
+  "C": "Thành lập câu lạc bộ âm nhạc",
+  "D": "Quản lý thư viện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "372",
+  "QUESTION": "Công tác kiểm tra nhằm mục tiêu gì?",
+  "A": "Phát hiện yếu kém, khuyết điểm kịp thời",
+  "B": "Tăng thời gian nghỉ phép",
+  "C": "Mở rộng doanh trại",
+  "D": "Tổ chức liên hoan",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "373",
+  "QUESTION": "Văn bản yêu cầu có biện pháp mạnh mẽ để giảm thiểu điều gì?",
+  "A": "Tai nạn giao thông do lỗi chủ quan",
+  "B": "Mất trộm trong kho",
+  "C": "Hư hỏng máy tính",
+  "D": "Thiếu thuốc men",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "374",
+  "QUESTION": "Một trong các phong trào được nhắc tới là gì?",
+  "A": "Phong trào thi đua Quyết thắng",
+  "B": "Phong trào trồng cây công ty",
+  "C": "Phong trào du lịch",
+  "D": "Phong trào mua sắm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "375",
+  "QUESTION": "Chủ đề phong trào thi đua Quyết thắng năm 2025 là gì?",
+  "A": "“Dân chủ, đoàn kết, kỷ cương, sáng tạo, Quyết thắng”",
+  "B": "“Sáng tạo, kiếm tiền”",
+  "C": "“An toàn giao thông”",
+  "D": "“Vui khỏe”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "376",
+  "QUESTION": "Phong trào thi đua phải kết hợp chặt chẽ với công tác nào?",
+  "A": "Công tác khen thưởng",
+  "B": "Vay vốn ngân hàng",
+  "C": "Mua sắm cá nhân",
+  "D": "Lập ban nhạc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "377",
+  "QUESTION": "Văn hóa đơn vị được mô tả cần như thế nào?",
+  "A": "Tốt đẹp, lành mạnh, phong phú",
+  "B": "Chỉ tập trung vào thể thao",
+  "C": "Chỉ chú trọng ăn uống",
+  "D": "Không quan tâm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "378",
+  "QUESTION": "Phong trào nào cần thực hiện nhằm nâng cao hoạt động văn hóa?",
+  "A": "Cuộc vận động “Xây dựng môi trường văn hóa tốt đẹp...”",
+  "B": "Giảm giờ làm",
+  "C": "Tăng số ngày nghỉ",
+  "D": "Mua sắm cá nhân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "379",
+  "QUESTION": "Việc chăm lo đời sống bộ đội nhằm đảm bảo điều gì?",
+  "A": "Phát huy tinh thần, trách nhiệm của bộ đội",
+  "B": "Tăng thuế",
+  "C": "Bán tài sản đơn vị",
+  "D": "Thành lập đội bóng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "380",
+  "QUESTION": "Việc không thực hiện công bằng trong đảm bảo đời sống có thể dẫn đến gì?",
+  "A": "Làm phai nhạt ý chí chiến đấu",
+  "B": "Tăng lương đột xuất",
+  "C": "Thành lập doanh nghiệp",
+  "D": "Mở quán ăn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "381",
+  "QUESTION": "Cấp ủy cần kiện toàn các thiết chế văn hóa nào?",
+  "A": "Phòng Hồ Chí Minh, nhà văn hóa, thư viện, phòng truyền thống",
+  "B": "Phòng nghỉ VIP",
+  "C": "Sân golf",
+  "D": "Trung tâm thương mại",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "382",
+  "QUESTION": "Hoạt động các thiết chế văn hóa cần được làm gì?",
+  "A": "Được lãnh đạo, chỉ đạo chặt chẽ và đổi mới nội dung",
+  "B": "Bỏ qua",
+  "C": "Chỉ để tự phát",
+  "D": "Ít quan tâm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "383",
+  "QUESTION": "Các đơn vị phải gương mẫu trong thực hiện gì liên quan lễ nghi?",
+  "A": "Quy định về việc cưới, việc tang, lễ hội",
+  "B": "Trang trí doanh trại",
+  "C": "Mua sắm quà tặng",
+  "D": "Tổ chức liên hoan",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "384",
+  "QUESTION": "Trong điều kiện thông tin bùng nổ, cần nâng cao gì cho bộ đội?",
+  "A": "“Sức đề kháng” và “khả năng miễn dịch” trước thông tin xấu",
+  "B": "Tốc độ mạng",
+  "C": "Thích ứng đồ ăn",
+  "D": "Sở thích giải trí",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "385",
+  "QUESTION": "Mỗi quân nhân phải tu dưỡng, rèn luyện điều gì?",
+  "A": "Bản lĩnh chính trị vững vàng, ý chí quyết tâm chiến đấu",
+  "B": "Kỹ năng lái xe",
+  "C": "Kỹ năng nấu ăn",
+  "D": "Kỹ năng diễn xuất",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "386",
+  "QUESTION": "Quân nhân cần nắm chắc điều gì về nhiệm vụ bảo vệ Tổ quốc?",
+  "A": "Mục tiêu, quan điểm, phương châm chỉ đạo của Đảng",
+  "B": "Giá sách trong thư viện",
+  "C": "Danh sách khách mời",
+  "D": "Lịch du lịch",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "387",
+  "QUESTION": "Trong nhận thức, quân nhân phải cảnh giác với điều gì của thế lực thù địch?",
+  "A": "Chiến lược “Diễn biến hòa bình”, âm mưu “phi chính trị hóa” Quân đội",
+  "B": "Giá cả thị trường",
+  "C": "Thời tiết bất thường",
+  "D": "Sự kiện thể thao",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "388",
+  "QUESTION": "Quân nhân phải tuyệt đối trung thành với ai?",
+  "A": "Đảng, Tổ quốc và Nhân dân",
+  "B": "Công ty tư nhân",
+  "C": "Nhóm bạn",
+  "D": "Câu lạc bộ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "389",
+  "QUESTION": "Một trong các tiêu chuẩn của “con người mới xã hội chủ nghĩa” là gì?",
+  "A": "Bản lĩnh chính trị vững vàng, động cơ trong sáng",
+  "B": "Biết hát hay",
+  "C": "Sở hữu xe hơi",
+  "D": "Thành viên ban nhạc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "390",
+  "QUESTION": "Quân nhân cần phấn đấu xứng danh theo phẩm chất nào?",
+  "A": "“Bộ đội Cụ Hồ”",
+  "B": "“Nhà kinh doanh”",
+  "C": "“Vận động viên”",
+  "D": "“Nhà thơ”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "391",
+  "QUESTION": "Quân nhân phải rèn luyện điều gì liên quan kỷ luật?",
+  "A": "Tính tổ chức, tính kỷ luật và tác phong chính quy",
+  "B": "Cách nấu ăn",
+  "C": "Nghệ thuật trang điểm",
+  "D": "Kỹ năng lái xe đua",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "392",
+  "QUESTION": "Khi nhận nhiệm vụ, quân nhân phải làm gì?",
+  "A": "Tuyệt đối phục tùng mệnh lệnh của cấp trên",
+  "B": "Trì hoãn vô thời hạn",
+  "C": "Từ chối công việc",
+  "D": "Bán trang thiết bị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "393",
+  "QUESTION": "Quân nhân phải tích cực học tập để đáp ứng yêu cầu gì?",
+  "A": "Huấn luyện, sẵn sàng chiến đấu và hiện đại hóa quân đội",
+  "B": "Tham gia hội chợ",
+  "C": "Mở cửa hàng",
+  "D": "Làm việc văn phòng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "394",
+  "QUESTION": "Quân nhân cần tự giác chấp hành điều gì?",
+  "A": "Pháp luật Nhà nước, kỷ luật Quân đội",
+  "B": "Lời khuyên của bạn bè",
+  "C": "Tin đồn trên mạng",
+  "D": "Hợp đồng thương mại",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "395",
+  "QUESTION": "Mục tiêu đấu tranh ngăn chặn luận điệu sai trái về “kỷ nguyên mới” là gì?",
+  "A": "Nâng cao nhận thức, củng cố niềm tin của cán bộ, đảng viên và nhân dân",
+  "B": "Bán sách",
+  "C": "Tổ chức liên hoan",
+  "D": "Mở rộng cửa hàng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "396",
+  "QUESTION": "Theo văn bản, luận điệu xuyên tạc cho rằng kỷ nguyên mới là gì?",
+  "A": "Không rõ ràng, không thể xác định nội hàm",
+  "B": "Rõ ràng và thực tế",
+  "C": "Được đa số ủng hộ",
+  "D": "Luôn hợp pháp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "397",
+  "QUESTION": "Mục đích của thế lực thù địch khi xuyên tạc kỷ nguyên mới là gì?",
+  "A": "Gây hoang mang, nghi ngờ để làm suy giảm niềm tin",
+  "B": "Tăng đầu tư",
+  "C": "Tổ chức hội thảo",
+  "D": "Phát triển nông nghiệp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "398",
+  "QUESTION": "Kỷ nguyên mới được mô tả là gì trong văn bản?",
+  "A": "Kỷ nguyên phát triển, giàu mạnh dưới sự lãnh đạo của Đảng",
+  "B": "Thời kỳ suy thoái",
+  "C": "Kỷ nguyên công nghiệp hóa riêng cho dân thành thị",
+  "D": "Kỷ nguyên của giải trí",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "399",
+  "QUESTION": "Để đạt mục tiêu kỷ nguyên mới cần giải pháp nào?",
+  "A": "Đổi mới phương thức lãnh đạo, tinh gọn bộ máy, chuyển đổi số",
+  "B": "Tăng thuế ngay lập tức",
+  "C": "Ngưng mọi hoạt động ngoại giao",
+  "D": "Chỉ tập trung thể thao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "400",
+  "QUESTION": "Văn bản đề cập giải pháp nào trong phòng chống tiêu cực?",
+  "A": "Phòng chống tham nhũng, lãng phí",
+  "B": "Mở rộng cửa hàng",
+  "C": "Tổ chức liên hoan lớn",
+  "D": "Xây sân golf",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "401",
+  "QUESTION": "Việc nhận diện luận điệu sai trái cần làm gì?",
+  "A": "Nhanh chóng, chính xác và kiên quyết đấu tranh phản bác",
+  "B": "Trì hoãn",
+  "C": "Đồng tình",
+  "D": "Im lặng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "402",
+  "QUESTION": "Quân nhân phải phấn đấu về mặt đạo đức theo chuẩn mực nào?",
+  "A": "Đạo đức, lối sống trong sạch, lành mạnh",
+  "B": "Sống xa hoa",
+  "C": "Tham gia hoạt động phi pháp",
+  "D": "Bỏ nhiệm vụ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "403",
+  "QUESTION": "Một trong các yêu cầu về tác phong công tác là gì?",
+  "A": "Sinh hoạt khoa học, lề lối công tác nghiêm túc",
+  "B": "Thờ ơ với nhiệm vụ",
+  "C": "Tổ chức ẩu tả",
+  "D": "Bỏ tập",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "404",
+  "QUESTION": "Quân nhân cần có quan hệ như thế nào với nhân dân?",
+  "A": "Gắn bó mật thiết, thương yêu đồng chí và nhân dân",
+  "B": "Xa lánh",
+  "C": "Thù ghét",
+  "D": "Cạnh tranh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "405",
+  "QUESTION": "Trong xây dựng môi trường văn hóa, cần ngăn ngừa điều gì?",
+  "A": "Sản phẩm độc hại, thông tin xấu vào đơn vị",
+  "B": "Thể dục thể thao",
+  "C": "Văn nghệ lành mạnh",
+  "D": "Tăng sách báo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "406",
+  "QUESTION": "Cần quan tâm chăm lo đời sống vật chất, tinh thần để đảm bảo gì?",
+  "A": "Người chiến sĩ có sức khỏe, vững vàng về tâm lý",
+  "B": "Giảm trách nhiệm",
+  "C": "Tăng xung đột",
+  "D": "Hạ thấp tiêu chuẩn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "407",
+  "QUESTION": "Việc thực hiện quy chế dân chủ ở cơ sở nhằm mục đích gì?",
+  "A": "Xây dựng bầu không khí dân chủ, đoàn kết, thống nhất",
+  "B": "Lợi ích cá nhân",
+  "C": "Tăng mâu thuẫn",
+  "D": "Đóng cửa đơn vị",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "408",
+  "QUESTION": "Văn bản đề nghị xây dựng đội ngũ cán bộ theo tiêu chí gì?",
+  "A": "Con người mới xã hội chủ nghĩa",
+  "B": "Người giàu có",
+  "C": "Người nổi tiếng",
+  "D": "Người hút thuốc",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "409",
+  "QUESTION": "Bồi dưỡng nhân cách quân nhân theo chuẩn mực nào?",
+  "A": "Chuẩn mực “Bộ đội Cụ Hồ”",
+  "B": "Chuẩn mực thương gia",
+  "C": "Chuẩn mực nghệ sĩ",
+  "D": "Chuẩn mực giải trí",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "410",
+  "QUESTION": "Quân nhân cần tích cực phát hiện và đấu tranh với điều gì?",
+  "A": "Tư tưởng, hành vi tiêu cực, sai trái",
+  "B": "Thời tiết xấu",
+  "C": "Giá cả hàng hóa",
+  "D": "Sự kiện văn hóa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "411",
+  "QUESTION": "Văn bản cảnh báo một số đối tượng lợi dụng hình thức nào để xuyên tạc?",
+  "A": "Hội luận, hội thảo, giả danh khoa học",
+  "B": "Múa lân",
+  "C": "Hội thao",
+  "D": "Bán hàng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "412",
+  "QUESTION": "Mục tiêu cuối cùng của đấu tranh phản bác luận điệu sai trái là gì?",
+  "A": "Hiện thực hóa khát vọng phát triển đất nước",
+  "B": "Tăng ngân sách quân đội",
+  "C": "Xây dựng sân vận động",
+  "D": "Thành lập công ty",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "413",
+  "QUESTION": "Văn bản nhấn mạnh cần tuyên truyền để cán bộ, đảng viên và nhân dân hiểu rõ điều gì?",
+  "A": "Chủ trương đưa đất nước vào kỷ nguyên mới và ủng hộ chủ trương đó",
+  "B": "Mua sắm cá nhân",
+  "C": "Tổ chức liên hoan",
+  "D": "Thay đổi nhãn hiệu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "414",
+  "QUESTION": "Theo văn bản, \"phong cách ứng xử\" được thể hiện qua yếu tố nào sau đây?",
+  "A": "Ngôn ngữ, cử chỉ, thái độ",
+  "B": "Hệ thống pháp luật",
+  "C": "Cơ sở vật chất",
+  "D": "Kinh tế và chính sách",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "415",
+  "QUESTION": "Phong cách ứng xử có vai trò như thế nào đối với cán bộ lãnh đạo?",
+  "A": "Là nhân tố quan trọng, \"chìa khóa\" thành công",
+  "B": "Là yếu tố không cần thiết",
+  "C": "Chỉ phục vụ mối quan hệ cá nhân",
+  "D": "Chỉ là phong tục địa phương",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "416",
+  "QUESTION": "Giáo sư Đặng Xuân Kỳ cho rằng \"ứng xử\" được thể hiện bằng gì?",
+  "A": "Quy định hành chính",
+  "B": "Tiền lương",
+  "C": "Giáo dục",
+  "D": "Ngôn từ, cử chỉ, thái độ, phong thái",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "417",
+  "QUESTION": "Phong cách ứng xử Hồ Chí Minh bắt nguồn chủ yếu từ đâu?",
+  "A": "Truyền thống tôn giáo",
+  "B": "Văn học phương Tây",
+  "C": "Thói quen công sở",
+  "D": "Phong cách và cuộc đời, nhân cách và thực tiễn hoạt động cách mạng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "418",
+  "QUESTION": "Điểm nổi bật trong phong cách ứng xử Hồ Chí Minh là gì?",
+  "A": "Tập trung vào hình thức",
+  "B": "Tính nhất quán về mục tiêu, nguyên tắc ứng xử",
+  "C": "Chỉ quan tâm đến nghi lễ",
+  "D": "Thiếu linh hoạt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "419",
+  "QUESTION": "Phong cách ứng xử Hồ Chí Minh được mô tả là:",
+  "A": "Thất thường và mơ hồ",
+  "B": "Hệ thống xuyên suốt cuộc đời và sự nghiệp",
+  "C": "Chỉ xuất hiện khi làm lễ",
+  "D": "Chỉ là truyền thống cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "420",
+  "QUESTION": "Yếu tố \"hài hòa giữa văn hóa Đông — Tây\" trong phong cách Hồ Chí Minh có nghĩa là gì?",
+  "A": "Bỏ hoàn toàn văn hóa phương Đông",
+  "B": "Kết hợp giá trị tốt đẹp của cả hai phía",
+  "C": "Chỉ học theo phương Tây",
+  "D": "Chỉ duy trì văn hóa địa phương",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "421",
+  "QUESTION": "Hạt nhân của phong cách ứng xử Hồ Chí Minh được nhấn mạnh là:",
+  "A": "Vì lợi ích cá nhân",
+  "B": "Vì nhân dân và nhân loại tiến bộ",
+  "C": "Vì quyền lực",
+  "D": "Vì danh tiếng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "422",
+  "QUESTION": "Văn bản cho rằng phong cách ứng xử là những nền nếp có tính gì?",
+  "A": "Ngẫu nhiên",
+  "B": "Có tính hệ thống, ổn định",
+  "C": "Không xác định",
+  "D": "Chỉ mang tính thời vụ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "423",
+  "QUESTION": "Phong cách ứng xử của Hồ Chí Minh được coi là:",
+  "A": "Chỉ phù hợp với cá nhân",
+  "B": "Một bộ phận quan trọng trong di sản vô giá",
+  "C": "Không có giá trị giáo dục",
+  "D": "Là sản phẩm của thời đại khác",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "424",
+  "QUESTION": "Phong cách ứng xử biểu hiện ở mối quan hệ nào sau đây?",
+  "A": "Chỉ giữa người với người thân",
+  "B": "Đối với bản thân, với công việc và với người khác",
+  "C": "Chỉ trong quan hệ quốc tế",
+  "D": "Chỉ trong quan hệ kinh tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "425",
+  "QUESTION": "Theo văn bản, phong cách ứng xử hình thành nhờ yếu tố nào?",
+  "A": "May mắn",
+  "B": "Quá trình rèn luyện, bồi đắp không ngừng",
+  "C": "Do di truyền",
+  "D": "Do vị trí công việc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "426",
+  "QUESTION": "Phong cách ứng xử Hồ Chí Minh có giá trị thực tiễn cho ai?",
+  "A": "Chỉ cho lịch sử",
+  "B": "Cán bộ cách mạng và quân nhân cách mạng",
+  "C": "Chỉ cho nhà văn",
+  "D": "Chỉ cho doanh nhân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "427",
+  "QUESTION": "Mục tiêu của phong cách ứng xử Hồ Chí Minh gắn liền với gì?",
+  "A": "Thương mại hoá",
+  "B": "Độc lập dân tộc gắn với chủ nghĩa xã hội",
+  "C": "Phát triển cá nhân trước hết",
+  "D": "Tách rời lợi ích quốc gia",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "428",
+  "QUESTION": "Trong mô tả, phong cách ứng xử của Hồ Chí Minh còn nổi bật ở điểm nào?",
+  "A": "Thiếu tính hệ thống",
+  "B": "Linh hoạt, phong phú và hấp dẫn",
+  "C": "Chỉ là phong tục",
+  "D": "Không có nguyên tắc",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "429",
+  "QUESTION": "Phong cách ứng xử của Hồ Chí Minh thường được mô tả mang đậm nét gì?",
+  "A": "Tính thực dụng",
+  "B": "Tính hình thức",
+  "C": "Tính bạo lực",
+  "D": "Văn hóa và nhân văn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "430",
+  "QUESTION": "Khi được mời ngồi chiếc ghế vàng tại Red Fort (Delhi) năm 1958, Hồ Chí Minh đã làm gì?",
+  "A": "Ngồi luôn lên ghế",
+  "B": "Yêu cầu ghế tốt hơn",
+  "C": "Từ chối ngồi",
+  "D": "Không trả lời",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "431",
+  "QUESTION": "Phản ứng của hàng vạn người Ấn Độ ở quảng trường khi thấy hành động của Hồ Chí Minh là gì?",
+  "A": "Im lặng",
+  "B": "Vỗ tay và hô “Hồ Chí Minh muôn năm!”",
+  "C": "Phẫn nộ",
+  "D": "Rời khỏi quảng trường",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "432",
+  "QUESTION": "Trong năm 1931 tại Hồng Kông, Hồ Chí Minh (lúc đó là Tống Văn Sơ) bị chính quyền Anh buộc tội là gì?",
+  "A": "Phái viên ngoại giao bình thường",
+  "B": "Phần tử tư sản quốc gia",
+  "C": "Phần tử cộng sản nguy hiểm",
+  "D": "Nhà báo",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "433",
+  "QUESTION": "Vợ chồng luật sư Lôdơbai đã giúp Hồ Chí Minh bằng cách nào khi ông bị bắt ở Hồng Kông?",
+  "A": "Bỏ rơi ông",
+  "B": "Trừng phạt ông",
+  "C": "Ghi nhận ông là tội phạm",
+  "D": "Bào chữa và giúp ông thoát khỏi nhà tù",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "434",
+  "QUESTION": "Nét độc đáo trong phong cách ứng xử của Hồ Chí Minh không bao gồm yếu tố nào dưới đây?",
+  "A": "Hiểu biết uyên bác",
+  "B": "Phong thái giản dị",
+  "C": "Thái độ kiêu căng, tự nâng mình",
+  "D": "Tinh tế và khéo léo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "435",
+  "QUESTION": "Sau Cách mạng Tháng Tám 1945, Hồ Chí Minh xử trí mâu thuẫn giữa Pháp và quân Tưởng bằng thái độ nào?",
+  "A": "Tuyệt đối đối đầu với cả hai bên",
+  "B": "Mềm mỏng nhưng giữ nguyên tắc",
+  "C": "Hoàn toàn nhượng bộ",
+  "D": "Rời khỏi chính quyền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "436",
+  "QUESTION": "Các viên tướng Tưởng như Tiêu Văn, Lư Hán sau vài lần tiếp xúc đã gọi Hồ Chí Minh bằng danh xưng nào?",
+  "A": "Bạn đồng chí",
+  "B": "Hồ Chủ tịch",
+  "C": "Thưa ngài",
+  "D": "Bác sĩ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "437",
+  "QUESTION": "Một ví dụ thể hiện sự giản dị trong giao tiếp thường ngày của Hồ Chí Minh là gì?",
+  "A": "Yêu cầu nghi thức đặc biệt",
+  "B": "Rời hàng danh dự để bắt tay người quen bên dưới",
+  "C": "Luôn đứng xa quần chúng",
+  "D": "Sử dụng lời nói trang trọng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "438",
+  "QUESTION": "Trong các buổi tiệc chiêu đãi, Hồ Chí Minh từng làm điều gì thân mật với đại biểu nữ?",
+  "A": "Phát biểu dài",
+  "B": "Tặng những bông hồng đẹp nhất",
+  "C": "Phát tiền mặt",
+  "D": "Không đến dự",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "439",
+  "QUESTION": "Phong cách ứng xử của Hồ Chí Minh đối với cán bộ và quần chúng thường là gì khi cần phê bình?",
+  "A": "Hạ nhục và trừng phạt",
+  "B": "Phê bình nghiêm khắc nhưng có độ lượng",
+  "C": "Bỏ qua lỗi lầm",
+  "D": "Luôn xem nhẹ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "440",
+  "QUESTION": "Trong nạn đói sau Cách mạng Tháng Tám, Hồ Chí Minh đã kêu gọi và làm gương cho việc gì?",
+  "A": "Tăng thuế",
+  "B": "Nhường cơm sẻ áo, mỗi người mười ngày nhịn ăn một bữa",
+  "C": "Di cư ra nước ngoài",
+  "D": "Không can thiệp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "441",
+  "QUESTION": "Theo đoạn văn, thái độ khiêm nhường ở Hồ Chí Minh được mô tả là gì?",
+  "A": "Dấu hiệu của yếu ớt",
+  "B": "Một phẩm chất văn hóa, càng văn hóa càng khiêm nhường",
+  "C": "Cách để nhận được quyền lực",
+  "D": "Chiến thuật chính trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "442",
+  "QUESTION": "Phong cách ứng xử của Hồ Chí Minh giúp xóa bỏ rào cản nào trong các buổi tiếp xúc?",
+  "A": "Rào cản pháp lý",
+  "B": "Rào cản kinh tế",
+  "C": "Rào cản ngôn ngữ",
+  "D": "Rào cản cấp bậc, chức vụ giữa lãnh tụ và quần chúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "443",
+  "QUESTION": "Đặc điểm nào sau đây KHÔNG phản ánh phong cách ứng xử của Hồ Chí Minh trong đoạn văn?",
+  "A": "Bình dị, tự nhiên",
+  "B": "Giả tạo và gượng ép",
+  "C": "Thân ái, nhiệt tình",
+  "D": "Lịch thiệp, nho nhã",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "444",
+  "QUESTION": "Theo văn bản, phong cách ứng xử của Hồ Chí Minh chứa đựng giá trị gì?",
+  "A": "Nhân văn",
+  "B": "Khoa học",
+  "C": "Bi quan",
+  "D": "Hà khắc",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "445",
+  "QUESTION": "Người thể hiện thái độ nào đối với mọi người, kể cả người lầm đường, lạc lối?",
+  "A": "Cương quyết trừng phạt",
+  "B": "Thờ ơ",
+  "C": "Khoan dung, nhân ái",
+  "D": "Kiêu căng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "446",
+  "QUESTION": "Khi tiếp xúc với mọi người, Hồ Chí Minh tạo cảm giác gì cho những người gặp Người?",
+  "A": "Lạnh lùng",
+  "B": "Ấm cúng, gần gũi",
+  "C": "Căng thẳng",
+  "D": "Xa cách",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "447",
+  "QUESTION": "Theo đoạn văn, Người chú trọng tìm kiếm và sử dụng ai cho sự nghiệp kháng chiến, kiến quốc?",
+  "A": "Nhân sĩ, trí thức có đức, có tài",
+  "B": "Chỉ người trẻ tuổi",
+  "C": "Chỉ quân đội nước ngoài",
+  "D": "Nghệ sĩ nước ngoài",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "448",
+  "QUESTION": "Trong số những người được nêu, ai là nhân sĩ, đại khoa?",
+  "A": "Ngô Tử Hạ",
+  "B": "Vũ Đình Hòe",
+  "C": "Phạm Khắc Hòe",
+  "D": "Huỳnh Thúc Kháng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "449",
+  "QUESTION": "Hồ Chí Minh quan niệm thế nào về bản chất con người?",
+  "A": "Hoàn toàn tốt",
+  "B": "Có cái tốt và cái xấu",
+  "C": "Hoàn toàn xấu",
+  "D": "Là thần thánh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "450",
+  "QUESTION": "Người đã lãnh đạo dân tộc đánh bại ai?",
+  "A": "Các phong trào nông dân",
+  "B": "Các nước láng giềng",
+  "C": "Ba đế quốc lớn và lực lượng phản động trong nước",
+  "D": "Các tổ chức quốc tế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "451",
+  "QUESTION": "Đối với những người \"đối lập\", phong cách Hồ Chí Minh như thế nào?",
+  "A": "Cởi mở, chân tình, cảm hóa",
+  "B": "Thù địch",
+  "C": "Lạnh lùng",
+  "D": "Phớt lờ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "452",
+  "QUESTION": "Một chính sách mà Người thường áp dụng với kẻ lầm đường, lạc lối là gì?",
+  "A": "Trừng phạt nặng",
+  "B": "Loại trừ",
+  "C": "Buộc đi lưu đày",
+  "D": "Khoan hồng và dùng lời khuyên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "453",
+  "QUESTION": "Theo đoạn văn, kết quả cuối cùng của các đối thủ với Người thường là gì?",
+  "A": "Họ tiêu diệt được Người",
+  "B": "Họ phải kính nể, chấp nhận thất bại",
+  "C": "Họ không biết đến Người",
+  "D": "Họ liên minh với Người",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "454",
+  "QUESTION": "Đặc điểm nổi bật, xuyên suốt trong phong cách ứng xử Hồ Chí Minh là gì?",
+  "A": "Khiêm tốn giản dị",
+  "B": "Nêu cao tinh thần yêu dân, trọng dân, vì dân",
+  "C": "Thẳng thắn phê bình",
+  "D": "Giữ gìn đoàn kết nội bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "455",
+  "QUESTION": "Khi được hỏi về ham muốn của mình, Bác Hồ đã trả lời ham muốn gì?",
+  "A": "Trở thành lãnh tụ",
+  "B": "Giàu sang phú quý",
+  "C": "Nước độc lập, dân tự do, ai cũng có cơm ăn áo mặc, học hành",
+  "D": "Quyền lực chính trị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "456",
+  "QUESTION": "Hồ Chí Minh cho rằng Đảng và Chính phủ phải làm gì để vun đắp nền gốc của nước?",
+  "A": "Dựa vào dân, chăm lo đời sống cho dân",
+  "B": "Dựa vào trí thức",
+  "C": "Cầu viện ngoại bang",
+  "D": "Phát triển quân đội mạnh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "457",
+  "QUESTION": "Trong Di chúc, Hồ Chí Minh bày tỏ mong muốn gì khi viết về việc riêng?",
+  "A": "Tổ chức tang lễ linh đình",
+  "B": "Không có gì phải hối hận, chỉ tiếc không được phục vụ lâu hơn nữa",
+  "C": "Xây dựng tượng đài lớn",
+  "D": "Được an táng ở quê hương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "458",
+  "QUESTION": "Trong cuộc đời hoạt động, Hồ Chí Minh yêu nhất điều gì?",
+  "A": "Quyền lực",
+  "B": "Cái thiện",
+  "C": "Danh vọng",
+  "D": "Tài sản",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "459",
+  "QUESTION": "Hồ Chí Minh quyết tâm sang phương Tây để làm gì?",
+  "A": "Học nghề công nhân",
+  "B": "Tìm con đường cứu nước, cứu dân",
+  "C": "Du học",
+  "D": "Mở rộng quan hệ ngoại giao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "460",
+  "QUESTION": "Hồ Chí Minh xem mình là gì của nhân dân?",
+  "A": "Người lãnh tụ tối cao",
+  "B": "Người đầy tớ, phục vụ nhân dân",
+  "C": "Người thầy lớn",
+  "D": "Người phán xử công minh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "461",
+  "QUESTION": "Khi buộc phải gánh vác trọng trách lãnh đạo cao nhất, Bác đặt điều gì lên trên hết?",
+  "A": "Lợi ích cá nhân",
+  "B": "Lợi ích của dân tộc, nhân dân",
+  "C": "Danh dự quốc tế",
+  "D": "Ý kiến cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "462",
+  "QUESTION": "Trước quyền lực và danh lợi, Hồ Chí Minh ứng xử thế nào?",
+  "A": "Không ham muốn, chỉ muốn chia sẻ công việc",
+  "B": "Tìm cách tập trung quyền lực",
+  "C": "Ưa thích đặc quyền",
+  "D": "Muốn giữ vững quyền lực tuyệt đối",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "463",
+  "QUESTION": "Hồ Chí Minh có quyền lực tuyệt đối xuất phát từ đâu?",
+  "A": "Quân đội mạnh",
+  "B": "Nhân cách mẫu mực",
+  "C": "Vị trí Chủ tịch nước",
+  "D": "Sự ủng hộ quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "464",
+  "QUESTION": "Hồ Chí Minh đi vào dân, học hỏi dân để làm gì?",
+  "A": "Mưu cầu hạnh phúc cho nhân dân",
+  "B": "Trở thành chính trị gia",
+  "C": "Lấy uy tín lãnh đạo",
+  "D": "Tạo dựng hình ảnh cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "465",
+  "QUESTION": "Nhân dân Việt Nam gọi Người bằng danh xưng thân thiết nào?",
+  "A": "Cha già dân tộc",
+  "B": "Người anh cả",
+  "C": "Bác Hồ",
+  "D": "Lãnh tụ kính yêu",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "466",
+  "QUESTION": "Uy tín của Hồ Chí Minh bắt nguồn chủ yếu từ đâu?",
+  "A": "Chức vụ Chủ tịch nước",
+  "B": "Chức vụ Chủ tịch Đảng",
+  "C": "Nhân cách, đời sống gắn bó với dân",
+  "D": "Quyền lực chính trị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "467",
+  "QUESTION": "Vì đâu mà mọi người Việt Nam không ai ganh ghét địa vị hay quyền lực cá nhân của Bác?",
+  "A": "Vì Bác có nhiều thành công ngoại giao",
+  "B": "Vì Bác không tranh giành quyền lực cá nhân, bè phái",
+  "C": "Vì Bác có nhiều tài sản",
+  "D": "Vì Bác có học vấn cao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "468",
+  "QUESTION": "Theo Hồ Chí Minh, để dân giúp sửa chữa khuyết điểm, cán bộ phải có thái độ như thế nào?",
+  "A": "Kiêu ngạo, tự tin",
+  "B": "Chân thành, cầu thị vì dân",
+  "C": "Quyết đoán, cứng rắn",
+  "D": "Thận trọng, dè dặt",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "469",
+  "QUESTION": "Phong cách ứng xử Hồ Chí Minh có ý nghĩa gì?",
+  "A": "Là lối hành xử cá nhân không liên quan đến chính trị",
+  "B": "Là truyền thống mới tách rời văn hóa dân tộc",
+  "C": "Là sự kết tinh và phát triển của truyền thống ứng xử văn hóa dân tộc và nâng cao sức sống của CN Mác-Lênin",
+  "D": "Là phong cách chỉ dành cho đời sống gia đình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "470",
+  "QUESTION": "Phong cách ứng xử của Hồ Chí Minh được dùng làm khung tham chiếu để?",
+  "A": "Hoạch định và tổ chức thực hiện đường lối chính trị, đào tạo, bồi dưỡng cán bộ",
+  "B": "Chỉ phục vụ mục đích tuyên truyền",
+  "C": "Thay thế pháp luật",
+  "D": "Làm gương cho dân thường",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "471",
+  "QUESTION": "Một trong những đặc trưng phong cách ứng xử Hồ Chí Minh là gì?",
+  "A": "Tính cá nhân chủ nghĩa",
+  "B": "Gắn bó với nhân dân, trung thành với mục tiêu cách mạng",
+  "C": "Thiếu dân chủ",
+  "D": "Tách rời chính trị và đạo đức",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "472",
+  "QUESTION": "Phong cách ứng xử Hồ Chí Minh đã góp phần gì vào cách mạng Việt Nam?",
+  "A": "Gây chia rẽ xã hội",
+  "B": "Không có vai trò gì",
+  "C": "Chỉ là truyền thống khẩu hiệu",
+  "D": "Góp phần rất quan trọng vào thắng lợi của cách mạng và để lại bài học đào tạo cán bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "473",
+  "QUESTION": "Trong các mô hình nêu trong bài, phương án nào không phải là mô hình được nhắc đến?",
+  "A": "\"Tự soi, tự sửa\"",
+  "B": "\"Ngôi nhà 100 đồng\"",
+  "C": "\"Đảng viên dìu dắt quần chúng\"",
+  "D": "\"Phát triển doanh nghiệp tư nhân toàn diện\"",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "474",
+  "QUESTION": "Chỉ thị 03-CT\/TW được ban hành vào ngày nào?",
+  "A": "1\/1\/2010",
+  "B": "6\/14\/2011",
+  "C": "5\/1\/2012",
+  "D": "5\/14\/2011",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "475",
+  "QUESTION": "Câu nói của Chủ tịch Hồ Chí Minh nhân kỷ niệm 20 năm thành lập Quân đội nhấn mạnh điều gì?",
+  "A": "Quân đội là lực lượng phi chính trị",
+  "B": "Quân đội trung với Đảng, hiếu với dân và sẵn sàng hy sinh vì Tổ quốc",
+  "C": "Quân đội chỉ phục vụ nhà nước",
+  "D": "Quân đội không cần liên kết với dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "476",
+  "QUESTION": "Danh hiệu \"Bộ đội Cụ Hồ\" biểu thị điều gì?",
+  "A": "Sự xa rời dân chúng",
+  "B": "Sự thiếu tính kỷ luật",
+  "C": "Hình ảnh cao quý, gắn bó máu thịt với nhân dân",
+  "D": "Trạng thái tạm thời của quân đội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "477",
+  "QUESTION": "Theo bài, một hạn chế hiện nay trong phong cách ứng xử của một bộ phận cán bộ, chiến sĩ là gì?",
+  "A": "Tính khiêm tốn quá mức",
+  "B": "Thái độ hách dịch, gia trưởng, độc đoán",
+  "C": "Quá thân thiện với nhân dân",
+  "D": "Thừa dân chủ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "478",
+  "QUESTION": "Hậu quả của những hạn chế về phong cách ứng xử có thể dẫn đến điều gì?",
+  "A": "Tăng cường đoàn kết",
+  "B": "Cải thiện uy tín",
+  "C": "Phát triển văn hoá đơn vị",
+  "D": "Gây mất đoàn kết, dễ dẫn tới \"tự diễn biến\", \"tự chuyển hóa\"",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "479",
+  "QUESTION": "Trong tình hình mới, quân đội phải tuyệt đối trung thành với ai?",
+  "A": "Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa",
+  "B": "Chỉ với nhân dân",
+  "C": "Chỉ với tổ chức quốc tế",
+  "D": "Chỉ với chỉ huy đơn vị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "480",
+  "QUESTION": "Đại hội lần thứ XIII của Đảng xác định nhiệm vụ trọng yếu nào liên quan đến quân đội?",
+  "A": "Củng cố quốc phòng, giữ vững an ninh, ổn định chính trị",
+  "B": "Giảm ngân sách quốc phòng",
+  "C": "Tách rời quân đội khỏi công tác an ninh",
+  "D": "Hạn chế hợp tác quốc tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "481",
+  "QUESTION": "Mô hình dân vận tiêu biểu nào được nêu trong bài?",
+  "A": "Thanh tra nội bộ",
+  "B": "Hỗ trợ doanh nghiệp",
+  "C": "\"Xóa 1 hộ đói, giảm 1 hộ nghèo\"",
+  "D": "Tăng thuế nông nghiệp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "482",
+  "QUESTION": "\"Ngôi nhà 100 đồng\" và \"Tiết kiệm bản thân dành phần giúp người khó\" là ví dụ của?",
+  "A": "Chương trình kinh tế vĩ mô",
+  "B": "Mô hình tiết kiệm, giúp đỡ xã hội trong đơn vị",
+  "C": "Chính sách đối ngoại",
+  "D": "Hình thức kỷ luật nội bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "483",
+  "QUESTION": "Theo văn bản, mối đe dọa tư tưởng trong quân đội do đâu gây ra?",
+  "A": "Thiếu phương tiện tập luyện",
+  "B": "Sự chống phá của các thế lực thù địch, tác động tiêu cực của mặt trái kinh tế thị trường",
+  "C": "Quá nhiều mô hình hay",
+  "D": "Thừa liên kết dân quân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "484",
+  "QUESTION": "Để phòng chống \"tự diễn biến\", \"tự chuyển hóa\", cần làm gì?",
+  "A": "Tăng thưởng cá nhân",
+  "B": "Bỏ các hoạt động dân vận",
+  "C": "Nâng cao chất lượng, hiệu quả học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "D": "Cắt giảm đào tạo chính trị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "485",
+  "QUESTION": "Một giá trị chuẩn mực mà phong cách Hồ Chí Minh đặt ra cho cán bộ, đảng viên trong quân đội là gì?",
+  "A": "Tham nhũng có kiểm soát",
+  "B": "Độc đoán trong chỉ huy",
+  "C": "Có tâm, có tầm, có tài, có bản lĩnh",
+  "D": "Khép kín với nhân dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "486",
+  "QUESTION": "Cán bộ mẫu mực theo tinh thần bài viết cần có những tố chất nào?",
+  "A": "Kiêu căng, tự mãn",
+  "B": "Thiếu trách nhiệm",
+  "C": "Thờ ơ với đồng đội",
+  "D": "Tận tụy, sáng suốt, gắn bó với nhân dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "487",
+  "QUESTION": "Thái độ hách dịch, gia trưởng trong giao tiếp dễ dẫn tới?",
+  "A": "Tăng tín nhiệm",
+  "B": "Tạo động lực",
+  "C": "Nâng cao hiệu quả",
+  "D": "Làm mất niềm tin của cấp dưới, giảm đoàn kết",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "488",
+  "QUESTION": "Sau 5 năm thực hiện các chỉ thị, toàn quân đã có gì tiêu biểu?",
+  "A": "Giảm quy mô lực lượng",
+  "B": "Bỏ chính trị tư tưởng",
+  "C": "Nhiều mô hình, cách làm sáng tạo, hiệu quả, lan tỏa trong đơn vị và xã hội",
+  "D": "Tách rời dân vận",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "489",
+  "QUESTION": "Việc đẩy mạnh học tập phong cách Hồ Chí Minh giúp cán bộ xử lý mối quan hệ chính trị - xã hội để trở thành?",
+  "A": "Người lãnh đạo độc tài",
+  "B": "Người chỉ biết mệnh lệnh",
+  "C": "Người xa rời nhân dân",
+  "D": "Người đầy tớ trung thành, tận tụy của nhân dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "490",
+  "QUESTION": "\"Tiết kiệm bản thân dành phần giúp người khó\" thuộc phạm trù nào trong các hoạt động nêu?",
+  "A": "Hoạt động nhân đạo, hỗ trợ đồng đội và dân",
+  "B": "Chính sách quân sự",
+  "C": "Hoạt động diễn tập",
+  "D": "Hình thức khen thưởng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "491",
+  "QUESTION": "Mục tiêu xây dựng Đảng bộ Quân đội được nêu là vững mạnh về những mặt nào?",
+  "A": "Chỉ về tài chính",
+  "B": "Chỉ về nhân sự",
+  "C": "Về hình thức",
+  "D": "Chính trị, tư tưởng, tổ chức và đạo đức",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "492",
+  "QUESTION": "Vì sao phong cách ứng xử Hồ Chí Minh vẫn còn giá trị trong xây dựng đội ngũ?",
+  "A": "Vì nó không thay đổi theo thời gian",
+  "B": "Vì nó chỉ là di sản văn nghệ",
+  "C": "Vì nó là hệ giá trị chuẩn mực giúp cán bộ xử lý quan hệ chính trị - xã hội và rèn luyện phẩm chất",
+  "D": "Vì nó chỉ dành cho người già",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "493",
+  "QUESTION": "Đối mặt với tác động tiêu cực của mặt trái nền kinh tế thị trường, quân đội cần phải?",
+  "A": "Ngừng mọi quan hệ với dân",
+  "B": "Tập trung vào kinh doanh",
+  "C": "Chủ động đấu tranh với quan điểm sai trái, giữ vững trận địa tư tưởng",
+  "D": "Tránh tham gia vào công tác chính trị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "494",
+  "QUESTION": "Mục tiêu chính của việc đẩy mạnh học tập và làm theo phong cách ứng xử Hồ Chí Minh trong quân đội là gì?",
+  "A": "Tăng cường trang bị vũ khí",
+  "B": "Bồi dưỡng phẩm chất, năng lực và tác phong cho cán bộ, chiến sĩ",
+  "C": "Mở rộng quy mô đơn vị",
+  "D": "Giảm biên chế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "495",
+  "QUESTION": "Một biện pháp giáo dục chính trị được nhắc đến trong văn bản là gì?",
+  "A": "Phát triển kinh tế đơn vị",
+  "B": "Tổ chức kiểm tra, đánh giá nhận thức chính trị định kỳ",
+  "C": "Tuyển thêm nhân sự nước ngoài",
+  "D": "Giảm giờ học lý luận",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "496",
+  "QUESTION": "Kênh truyền thông nội bộ ví dụ trong văn bản là gì?",
+  "A": "Tờ rơi tại cổng",
+  "B": "Truyền thanh nội bộ của Trung đoàn, Tiểu đoàn",
+  "C": "Quảng cáo trên báo giấy",
+  "D": "Mạng xã hội công khai",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "497",
+  "QUESTION": "Khi tổ chức học tập chính trị cần chú ý điều gì cho sĩ quan, đảng viên?",
+  "A": "Tổ chức các lớp học theo chuyên đề",
+  "B": "Giảm thời lượng học tập",
+  "C": "Chỉ cho học online",
+  "D": "Bỏ kiểm tra cuối khóa",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "498",
+  "QUESTION": "Ai phải nắm chắc kết quả học tập của từng đối tượng, từng đơn vị?",
+  "A": "Bộ đội dự bị",
+  "B": "Chính ủy, chính trị viên, cơ quan chính trị",
+  "C": "Cán bộ y tế",
+  "D": "Nhân viên hậu cần",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "499",
+  "QUESTION": "Kết quả học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh được dùng làm tiêu chí gì?",
+  "A": "Tiêu chí đánh giá năng suất lao động",
+  "B": "Một tiêu chí quan trọng trong bình xét khen thưởng và đánh giá cán bộ",
+  "C": "Tiêu chí tuyển dụng dân sự",
+  "D": "Tiêu chí mua sắm trang thiết bị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "500",
+  "QUESTION": "Để nâng cao chất lượng giảng dạy chính trị, cần làm gì với đội ngũ giáo viên?",
+  "A": "Bồi dưỡng và kiểm tra về nội dung, phương pháp giáo dục chính trị",
+  "B": "Cho giáo viên nghỉ phép thường xuyên",
+  "C": "Tuyển giáo viên nước ngoài",
+  "D": "Giảm giờ giảng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "501",
+  "QUESTION": "Trong đơn vị, việc xây dựng mối quan hệ ứng xử cần có đặc điểm nào?",
+  "A": "Vô tư, lạnh lùng",
+  "B": "Văn hóa, nhân văn, tế nhị, lành mạnh",
+  "C": "Cạnh tranh gắt gao",
+  "D": "Ẩn danh và thủ đoạn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "502",
+  "QUESTION": "Việc làm theo phong cách của Hồ Chí Minh được coi là gì?",
+  "A": "Vấn đề chỉ mang tính lý luận",
+  "B": "Vấn đề có ý nghĩa thực tiễn quan trọng",
+  "C": "Vấn đề không cần kiểm tra",
+  "D": "Vấn đề độc lập với nhiệm vụ quân đội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "503",
+  "QUESTION": "Quy chế giáo dục chính trị được ban hành kèm theo quyết định nào trong văn bản?",
+  "A": "Quyết định số 438\/QĐ-CT ngày 21\/3\/2016 của Chủ nhiệm Tổng cục Chính trị",
+  "B": "Quyết định thành lập đơn vị",
+  "C": "Quyết định tăng lương",
+  "D": "Quyết định đổi tên đơn vị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "504",
+  "QUESTION": "Ngoài chuyên đề học tập đã quy định, cần tổ chức thêm gì cho sĩ quan, đảng viên?",
+  "A": "Hội thảo, tọa đàm, nghiên cứu các chuyên đề bổ trợ",
+  "B": "Chỉ học lý thuyết cứng nhắc",
+  "C": "Đào tạo thể lực thay giáo dục chính trị",
+  "D": "Bỏ sinh hoạt đảng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "505",
+  "QUESTION": "Việc kiểm tra học tập có mục đích gì?",
+  "A": "Để đánh giá đúng chất lượng học tập và kịp uốn nắn thiếu sót",
+  "B": "Chỉ để đối phó báo cáo",
+  "C": "Để phạt nặng cá nhân",
+  "D": "Để giảm giờ huấn luyện",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "506",
+  "QUESTION": "Theo văn bản, ai cần quán triệt sâu sắc các chỉ thị, kế hoạch của Trung ương và Quân ủy Trung ương?",
+  "A": "Bác sĩ quân y",
+  "B": "Cấp ủy, tổ chức đảng các cấp trong Đảng bộ Quân đội",
+  "C": "Nhân viên khách sạn",
+  "D": "Cán bộ xuất nhập khẩu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "507",
+  "QUESTION": "Bộ phận nào tích cực tham mưu giúp cấp ủy, chỉ huy triển khai thực hiện học tập và làm theo?",
+  "A": "Phòng tài vụ",
+  "B": "Bộ phận giúp việc, cơ quan chính trị các cấp",
+  "C": "Ban quản lý doanh trại",
+  "D": "Phòng kỹ thuật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "508",
+  "QUESTION": "Chỉ đạo duy trì nền nếp nào liên quan đến tổ chức, cá nhân trong văn bản?",
+  "A": "Nền nếp đăng ký phấn đấu và định kỳ đánh giá kết quả",
+  "B": "Nền nếp nghỉ phép không kiểm soát",
+  "C": "Nền nếp ăn uống tự do",
+  "D": "Nền nếp đi làm muộn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "509",
+  "QUESTION": "Quy định bắt buộc cần được duy trì về đội ngũ cán bộ, đảng viên là gì?",
+  "A": "Trách nhiệm nêu gương",
+  "B": "Bí mật chi tiêu",
+  "C": "Tuyến nghỉ phép nhiều hơn",
+  "D": "Tuyển dụng tự do",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "510",
+  "QUESTION": "Việc tôn vinh, khen thưởng trong đơn vị được kết hợp chặt chẽ với gì?",
+  "A": "Phong trào thi đua quyết thắng và các cuộc vận động",
+  "B": "Giảm giờ huấn luyện",
+  "C": "Mở cửa cho công ty tư nhân",
+  "D": "Hoạt động thương mại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "511",
+  "QUESTION": "Mỗi cán bộ, đảng viên phải có thái độ gì với tư tưởng và tấm gương Hồ Chí Minh?",
+  "A": "Không quan tâm",
+  "B": "Nhận thức sâu sắc và tu dưỡng, rèn luyện thường xuyên",
+  "C": "Phản đối học tập theo Bác",
+  "D": "Chỉ học khi có khen thưởng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "512",
+  "QUESTION": "Hồ Chí Minh so sánh tu dưỡng đạo đức với việc gì?",
+  "A": "Mua sắm quân trang",
+  "B": "Rửa mặt hằng ngày",
+  "C": "Luyện bơi",
+  "D": "Học tiếng nước ngoài",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "513",
+  "QUESTION": "Đẩy mạnh tuyên truyền, giáo dục nhằm mục đích gì cho cán bộ, chiến sĩ?",
+  "A": "Cho họ tăng thu nhập",
+  "B": "Nhận thức vị trí, ý nghĩa và vai trò quan trọng của việc học tập và làm theo",
+  "C": "Giảm trách nhiệm",
+  "D": "Thay đổi trang phục",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "514",
+  "QUESTION": "Cần quán triệt gắn việc học tập phong cách với những nghị quyết nào?",
+  "A": "Nghị quyết Đại hội lần thứ XIII của Đảng và Nghị quyết Đại hội Đảng bộ Quân đội lần thứ XI",
+  "B": "Nghị quyết địa phương không liên quan",
+  "C": "Nghị quyết của doanh nghiệp",
+  "D": "Nghị quyết liên quan đến nông nghiệp",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "515",
+  "QUESTION": "Một hành vi cần đấu tranh trong đơn vị là gì?",
+  "A": "Ứng xử thiếu văn hóa với đồng chí, đồng đội và nhân dân",
+  "B": "Tăng cường giúp đỡ đồng đội",
+  "C": "Tổ chức sinh hoạt đoàn kết",
+  "D": "Giữ bí mật quân sự",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "516",
+  "QUESTION": "Thế lực thù địch đang làm gì liên quan tới tư tưởng Hồ Chí Minh?",
+  "A": "Tuyên truyền xuyên tạc, bóp méo, phủ nhận",
+  "B": "Hỗ trợ nhân rộng tư tưởng",
+  "C": "Tổ chức hội thảo học thuật hợp tác",
+  "D": "Không quan tâm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "517",
+  "QUESTION": "Việc đăng ký phấn đấu và đánh giá kết quả thực hiện cần được gắn với gì trong đơn vị?",
+  "A": "Lãnh đạo doanh nghiệp",
+  "B": "Chất lượng sinh hoạt tự phê bình và phê bình",
+  "C": "Hoạt động giải trí cá nhân",
+  "D": "Mua sắm tập trung",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "518",
+  "QUESTION": "Ai phải đề cao trách nhiệm trong lãnh đạo, chỉ đạo, tổ chức thực hiện?",
+  "A": "Cấp ủy, tổ chức đảng, cán bộ chủ trì, chủ chốt các cấp",
+  "B": "Khách thăm quan",
+  "C": "Hội phụ huynh",
+  "D": "Nhân viên giao nhận thư từ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "519",
+  "QUESTION": "Việc kiểm tra, giám sát và xếp loại chất lượng cán bộ hàng năm được xem là nội dung của?",
+  "A": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "B": "Quản lý kho",
+  "C": "Hoạt động thương mại",
+  "D": "Vận động tài trợ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "520",
+  "QUESTION": "Để khắc phục khuyết điểm trong đơn vị, cần tập trung vào điều gì?",
+  "A": "Khâu đột phá, vấn đề trọng tâm, trọng điểm",
+  "B": "Mua sắm nhiều hơn",
+  "C": "Giảm nhân sự",
+  "D": "Tổ chức tiệc tùng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "521",
+  "QUESTION": "Trong giáo dục chính trị, việc tiến hành giảng thử và trao đổi nhằm mục đích gì?",
+  "A": "Rút kinh nghiệm về tổ chức học tập, lên lớp và thảo luận",
+  "B": "Tránh trách nhiệm",
+  "C": "Tăng thời gian nghỉ",
+  "D": "Giảm kinh phí",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "522",
+  "QUESTION": "Một ví dụ của việc biểu dương trong đơn vị là gì?",
+  "A": "Gương \"người tốt, việc tốt\" và các điển hình tiên tiến",
+  "B": "Giấu thành tích",
+  "C": "Phân biệt đối xử",
+  "D": "Hủy bỏ khen thưởng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "523",
+  "QUESTION": "Việc học tập lý luận chính trị phải được thực hiện nghiêm túc ở đâu?",
+  "A": "Tại cơ quan, đơn vị, mọi cán bộ, chiến sĩ đều được học tập",
+  "B": "Chỉ ở trường đại học",
+  "C": "Chỉ cho cán bộ chủ chốt",
+  "D": "Chỉ trên mạng xã hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "524",
+  "QUESTION": "Trong văn bản, việc đấu tranh với các nhận thức sai trái là trách nhiệm của ai?",
+  "A": "Mỗi quân nhân, cán bộ, đảng viên và quần chúng",
+  "B": "Chỉ lãnh đạo cao nhất",
+  "C": "Chỉ nhân viên văn thư",
+  "D": "Chỉ bộ phận truyền thông",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "525",
+  "QUESTION": "Hành vi nào bị nêu là tiêu cực cần đấu tranh trong học tập và làm theo phong cách?",
+  "A": "Kèn cựa địa vị, vun vén lợi ích cá nhân",
+  "B": "Giúp đỡ đồng đội",
+  "C": "Tham gia hoạt động cộng đồng",
+  "D": "Đóng góp ý kiến xây dựng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "526",
+  "QUESTION": "Để đưa học tập vào chương trình hành động, cần gắn với gì?",
+  "A": "Kế hoạch triển khai nhiệm vụ chính trị hằng năm",
+  "B": "Hoạt động kinh doanh",
+  "C": "Hội chợ thương mại",
+  "D": "Lịch nghỉ lễ cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "527",
+  "QUESTION": "Ai phải nắm chắc kết quả học tập và thực hiện việc kiểm tra học tập?",
+  "A": "Chính ủy, chính trị viên và cơ quan chính trị",
+  "B": "Khán giả bên ngoài",
+  "C": "Doanh nghiệp liên kết",
+  "D": "Chỉ huy đơn vị nước ngoài",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "528",
+  "QUESTION": "Việc làm theo tư tưởng Hồ Chí Minh góp phần vào mục tiêu nào của Đảng?",
+  "A": "Xây dựng tổ chức đảng trong sạch, vững mạnh",
+  "B": "Mở rộng đầu tư nước ngoài",
+  "C": "Gia tăng thuế",
+  "D": "Giảm số lượng đảng viên",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "529",
+  "QUESTION": "Một trong những hành động cần làm để cán bộ tự giác học tập là gì?",
+  "A": "Đẩy mạnh tuyên truyền, giáo dục thiết thực",
+  "B": "Giảm giờ học bắt buộc",
+  "C": "Tăng kiểm soát cá nhân",
+  "D": "Cấm trao đổi ý kiến",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "530",
+  "QUESTION": "Việc giữ gìn bầu không khí trong cơ quan, đơn vị dựa vào biểu hiện nào?",
+  "A": "Cởi mở, chan hòa, đoàn kết gắn bó",
+  "B": "Căng thẳng và mâu thuẫn",
+  "C": "Cách ly cá nhân",
+  "D": "Ẩn danh trực tuyến",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "531",
+  "QUESTION": "Trong văn bản, việc học tập và làm theo phong cách Hồ Chí Minh nên gắn với phong trào nào?",
+  "A": "Phong trào thi đua quyết thắng",
+  "B": "Phong trào kinh doanh cá nhân",
+  "C": "Phong trào du lịch",
+  "D": "Phong trào tiêu dùng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "532",
+  "QUESTION": "Việc tổ chức gặp mặt, tôn vinh, nhân rộng điển hình nhằm mục đích gì?",
+  "A": "Khuyến khích mô hình mới, cách làm sáng tạo, hiệu quả trong học tập và làm theo",
+  "B": "Giữ bí mật thành tích",
+  "C": "Tăng chi phí hoạt động",
+  "D": "Loại bỏ cán bộ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "533",
+  "QUESTION": "Ai cần tích cực chủ động tham mưu, hướng dẫn và kiểm tra việc thực hiện các chỉ thị?",
+  "A": "Bộ phận giúp việc, cơ quan thường trực các cấp",
+  "B": "Khách nước ngoài",
+  "C": "Doanh nghiệp tư nhân",
+  "D": "Công dân không phải quân nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "534",
+  "QUESTION": "Trình độ của quân nhân được hiểu là gì?",
+  "A": "Mức độ hiểu biết kiến thức về chuyên môn, nghiệp vụ, lĩnh vực công tác",
+  "B": "Khả năng vận dụng kiến thức vào thực tiễn",
+  "C": "Phương pháp xử lý công việc",
+  "D": "Tác phong công tác hằng ngày",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "535",
+  "QUESTION": "Năng lực công tác của quân nhân là gì?",
+  "A": "Sự am hiểu lý luận Mác – Lênin",
+  "B": "Khả năng vận dụng kiến thức vào thực tiễn để thực hiện nhiệm vụ",
+  "C": "Mức độ nhận thức chính trị",
+  "D": "Trình độ văn hóa xã hội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "536",
+  "QUESTION": "Mối quan hệ giữa trình độ và năng lực công tác của quân nhân là gì?",
+  "A": "Không liên quan",
+  "B": "Trình độ là cơ sở hình thành năng lực, năng lực giúp nâng cao trình độ",
+  "C": "Trình độ quan trọng hơn năng lực",
+  "D": "Năng lực quan trọng hơn trình độ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "537",
+  "QUESTION": "Biểu hiện rõ nhất của trình độ, năng lực quân nhân là gì?",
+  "A": "Sự am hiểu chính trị",
+  "B": "Văn hóa giao tiếp",
+  "C": "Chất lượng, kết quả hoàn thành chức trách, nhiệm vụ",
+  "D": "Ý thức kỷ luật",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "538",
+  "QUESTION": "Trình độ chính trị của quân nhân thể hiện ở đâu?",
+  "A": "Hiểu biết về điều lệnh, điều lệ",
+  "B": "Nhận thức lý luận Mác – Lênin, tư tưởng Hồ Chí Minh, đường lối Đảng, chính sách Nhà nước",
+  "C": "Kỹ năng quân sự",
+  "D": "Quan hệ xã hội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "539",
+  "QUESTION": "Trình độ, năng lực chuyên môn, nghiệp vụ quân sự bao gồm?",
+  "A": "Văn hóa xã hội",
+  "B": "Kiến thức quân sự, kỹ thuật, chiến thuật, ngoại ngữ, tin học",
+  "C": "Tác phong làm việc",
+  "D": "Quan hệ đồng đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "540",
+  "QUESTION": "Nhận thức về truyền thống tốt đẹp của dân tộc giúp quân nhân gì?",
+  "A": "Nâng cao thể lực",
+  "B": "Thờ ơ nhiệm vụ",
+  "C": "Có bản lĩnh, lòng yêu nước, ý chí kiên cường",
+  "D": "Giảm tinh thần đoàn kết",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "541",
+  "QUESTION": "Truyền thống vẻ vang của quân đội được tóm gọn trong phương châm nào?",
+  "A": "“Trung với Đảng, hiếu với dân”",
+  "B": "“Trung với nước, trung với Đảng, hiếu với dân, nhiệm vụ nào cũng hoàn thành…”",
+  "C": "“Lao động cần cù, sáng tạo”",
+  "D": "“Đoàn kết quốc tế”",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "542",
+  "QUESTION": "Văn hóa giao tiếp, ứng xử của quân nhân thể hiện ở đâu?",
+  "A": "Trong lời nói, hành động, giải quyết mối quan hệ",
+  "B": "Trong khả năng chỉ huy",
+  "C": "Trong luyện tập quân sự",
+  "D": "Trong sinh hoạt văn nghệ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "543",
+  "QUESTION": "Văn hóa giao tiếp của quân nhân gắn với điều gì?",
+  "A": "Pháp luật Nhà nước, điều lệnh, điều lệ quân đội, thuần phong mỹ tục",
+  "B": "Tài chính cá nhân",
+  "C": "Công nghệ thông tin",
+  "D": "Thể thao",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "544",
+  "QUESTION": "Phương pháp, tác phong công tác của quân nhân là gì?",
+  "A": "Cách tổ chức huấn luyện",
+  "B": "Tổng hợp lề lối, cách thức sắp xếp, xử lý công việc và ứng xử xã hội",
+  "C": "Chỉ tiêu thi đua",
+  "D": "Sinh hoạt tập thể",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "545",
+  "QUESTION": "Trong công tác, quân nhân phải đặt lợi ích nào lên trên hết?",
+  "A": "Lợi ích cá nhân",
+  "B": "Lợi ích gia đình",
+  "C": "Lợi ích tập thể",
+  "D": "Lợi ích bạn bè",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "546",
+  "QUESTION": "Quan điểm cơ bản trong tác phong công tác của quân nhân là gì?",
+  "A": "Nói nhiều làm ít",
+  "B": "Lý luận gắn với thực hành, nói đi đôi với làm",
+  "C": "Lấy cá nhân làm trung tâm",
+  "D": "Tránh phê bình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "547",
+  "QUESTION": "Một biểu hiện trong tác phong công tác đúng đắn là gì?",
+  "A": "Do dự, thiếu quyết đoán",
+  "B": "Kiên quyết bảo vệ cái đúng, đấu tranh phê phán cái sai",
+  "C": "Coi nhẹ tập thể",
+  "D": "Ngại chịu trách nhiệm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "548",
+  "QUESTION": "Yếu tố quan trọng trong tác phong của quân nhân khi thực hiện nhiệm vụ?",
+  "A": "Làm việc theo cảm hứng",
+  "B": "Có kế hoạch, khoa học, cụ thể, chu đáo",
+  "C": "Chỉ làm khi có giám sát",
+  "D": "Tránh phê bình và tự phê bình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "549",
+  "QUESTION": "Tinh thần nào cần có trong tác phong quân nhân?",
+  "A": "Thụ động, ỷ lại",
+  "B": "Chủ động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm",
+  "C": "Cầu an, ngại khó",
+  "D": "Cá nhân chủ nghĩa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "550",
+  "QUESTION": "Trong tổ chức, quân nhân phải phát huy yếu tố gì?",
+  "A": "Dân chủ, tôn trọng tập thể, nêu cao phê bình và tự phê bình",
+  "B": "Quyền lực cá nhân",
+  "C": "Lợi ích riêng",
+  "D": "Quan hệ cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "551",
+  "QUESTION": "Quân nhân cần tin tưởng vào ai trong công tác?",
+  "A": "Bản thân duy nhất",
+  "B": "Quần chúng, đồng chí, đồng đội",
+  "C": "Cấp trên tuyệt đối",
+  "D": "Gia đình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "552",
+  "QUESTION": "Phương pháp giáo dục tốt nhất của quân nhân là gì?",
+  "A": "Sử dụng mệnh lệnh",
+  "B": "Thuyết phục, làm gương sáng để noi theo",
+  "C": "Ép buộc, trừng phạt",
+  "D": "Giữ im lặng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "553",
+  "QUESTION": "Vì sao quân nhân phải nâng cao trình độ, năng lực, phương pháp, tác phong?",
+  "A": "Để có thu nhập cao",
+  "B": "Để xứng danh “Bộ đội Cụ Hồ” trong thời kỳ mới",
+  "C": "Để được khen thưởng",
+  "D": "Để thăng chức nhanh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "554",
+  "QUESTION": "Vị trí, vai trò của trình độ, năng lực, phương pháp, tác phong công tác của quân nhân là gì?",
+  "A": "Không ảnh hưởng lớn đến quân đội",
+  "B": "Là hình thức rèn luyện đạo đức cá nhân",
+  "C": "Yếu tố cơ bản quyết định chất lượng, hiệu quả hoàn thành nhiệm vụ",
+  "D": "Chỉ là kỹ năng phụ trợ trong huấn luyện",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "555",
+  "QUESTION": "Ai là người tổ chức, lãnh đạo, giáo dục và rèn luyện Quân đội nhân dân Việt Nam?",
+  "A": "Chính phủ",
+  "B": "Bộ Quốc phòng",
+  "C": "Quốc hội",
+  "D": "Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "556",
+  "QUESTION": "Âm mưu “phi chính trị hóa” quân đội của các thế lực thù địch nhằm mục đích gì?",
+  "A": "Giúp hiện đại hóa quân đội",
+  "B": "Tăng cường đoàn kết nội bộ",
+  "C": "Khuyến khích tự do học thuật",
+  "D": "Làm quân đội mất phương hướng chiến đấu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "557",
+  "QUESTION": "Yếu tố nào quyết định nhất đến sức mạnh chiến đấu của quân đội?",
+  "A": "Vũ khí công nghệ cao",
+  "B": "Cơ sở vật chất",
+  "C": "Yếu tố con người",
+  "D": "Trang bị hiện đại",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "558",
+  "QUESTION": "Chỉ thị số 917\/1999\/CT-QP của Bộ trưởng Quốc phòng liên quan đến nội dung nào?",
+  "A": "Huấn luyện cơ bản, thiết thực",
+  "B": "Công tác nghiên cứu khoa học",
+  "C": "Hiện đại hóa vũ khí trang bị",
+  "D": "Xây dựng đơn vị vững mạnh toàn diện",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "559",
+  "QUESTION": "Người quân nhân có trình độ, năng lực tốt sẽ góp phần trực tiếp vào đâu?",
+  "A": "Giữ gìn kỷ luật cá nhân",
+  "B": "Tăng cường kỹ năng văn nghệ",
+  "C": "Giảm thiểu áp lực chiến đấu",
+  "D": "Hoàn thành tốt chức trách, nhiệm vụ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "560",
+  "QUESTION": "Quân nhân vừa phải thực hiện chức trách trong quân đội, vừa thực hiện điều gì?",
+  "A": "Hoạt động kinh tế",
+  "B": "Học tập ngoại ngữ",
+  "C": "Nghĩa vụ quốc tế",
+  "D": "Nghĩa vụ công dân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "561",
+  "QUESTION": "Khi có trình độ, năng lực, quân nhân có thể làm gì với vũ khí công nghệ cao?",
+  "A": "Không ảnh hưởng",
+  "B": "Tiếp cận và làm chủ",
+  "C": "Dễ dàng phá hỏng",
+  "D": "Tránh sử dụng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "562",
+  "QUESTION": "Một trong những thủ đoạn tinh vi của kẻ thù hiện nay là gì?",
+  "A": "Tăng cường huấn luyện",
+  "B": "Giúp đỡ về kinh tế",
+  "C": "Đẩy mạnh “diễn biến hòa bình”",
+  "D": "Đổi mới chính sách",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "563",
+  "QUESTION": "Lợi dụng mạng Internet, các thế lực thù địch nhằm mục đích gì?",
+  "A": "Tuyên truyền, phát tán thông tin sai trái",
+  "B": "Hỗ trợ nghiên cứu khoa học",
+  "C": "Tăng cường đoàn kết nội bộ",
+  "D": "Kêu gọi đầu tư",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "564",
+  "QUESTION": "Người quân nhân cần có gì để đấu tranh phòng, chống “tự diễn biến”, “tự chuyển hóa”?",
+  "A": "Kỹ năng thể thao",
+  "B": "Nhiều tài sản vật chất",
+  "C": "Trình độ, năng lực, phương pháp, tác phong tốt",
+  "D": "Kỹ năng ngoại giao",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "565",
+  "QUESTION": "Xu thế lớn của thế giới trong những năm tới là gì?",
+  "A": "Hòa bình, hợp tác và phát triển",
+  "B": "Khủng hoảng chính trị kéo dài",
+  "C": "Xung đột sắc tộc tăng mạnh",
+  "D": "Chiến tranh toàn cầu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "566",
+  "QUESTION": "Thách thức lớn hiện nay đối với vấn đề chủ quyền quốc gia là gì?",
+  "A": "Tranh chấp lãnh thổ, biển, đảo",
+  "B": "Lạm phát kinh tế",
+  "C": "Thị trường xuất khẩu giảm",
+  "D": "Suy thoái văn hóa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "567",
+  "QUESTION": "Để sẵn sàng đối phó chiến tranh vũ khí công nghệ cao, cần yếu tố gì?",
+  "A": "Tránh huấn luyện thực tế",
+  "B": "Quân số đông đảo",
+  "C": "Con người có trình độ, năng lực",
+  "D": "Vũ khí thô sơ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "568",
+  "QUESTION": "Quân đội còn có nhiệm vụ gì ngoài bảo vệ Tổ quốc?",
+  "A": "Không tham gia hoạt động khác",
+  "B": "Tham gia phát triển kinh tế - xã hội",
+  "C": "Chỉ bảo vệ biên giới",
+  "D": "Chỉ tập trung huấn luyện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "569",
+  "QUESTION": "Để quân đội có sức chiến đấu cao, quân nhân cần gì?",
+  "A": "Khả năng kinh doanh",
+  "B": "Phẩm chất chính trị và trình độ, năng lực",
+  "C": "Khả năng ngoại ngữ",
+  "D": "Kỹ năng nghệ thuật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "570",
+  "QUESTION": "Cán bộ, chiến sĩ đã nhận thức thế nào về trình độ, năng lực, tác phong công tác?",
+  "A": "Chỉ hỗ trợ cho tinh thần đoàn kết",
+  "B": "Mang tính chất hình thức",
+  "C": "Là nhân tố trực tiếp quyết định sức mạnh chiến đấu",
+  "D": "Không quan trọng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "571",
+  "QUESTION": "Đa số quân nhân hiện nay có bản lĩnh chính trị như thế nào?",
+  "A": "Lung lay",
+  "B": "Thiếu ổn định",
+  "C": "Mơ hồ",
+  "D": "Vững vàng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "572",
+  "QUESTION": "Một số quân nhân còn hạn chế ở điểm nào?",
+  "A": "Ý chí chiến đấu",
+  "B": "Thể lực cá nhân",
+  "C": "Trình độ nhận thức chính trị",
+  "D": "Lòng yêu nước",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "573",
+  "QUESTION": "Biểu hiện nào cho thấy hạn chế của quân nhân trong công tác?",
+  "A": "Nhạy bén chính trị",
+  "B": "Ham học tập nâng cao trình độ",
+  "C": "Chủ động tiếp thu vũ khí mới",
+  "D": "Lúng túng xử lý tình huống",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "574",
+  "QUESTION": "Một số quân nhân chưa sử dụng thành thạo điều gì?",
+  "A": "Máy tính văn phòng",
+  "B": "Ngoại ngữ",
+  "C": "Phương tiện giao thông",
+  "D": "Vũ khí, trang bị kỹ thuật hiện đại",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "575",
+  "QUESTION": "Năng lực nào của một số lãnh đạo, chỉ huy chưa ngang tầm nhiệm vụ?",
+  "A": "Nghiên cứu khoa học",
+  "B": "Quản lý, điều hành, chỉ huy đơn vị",
+  "C": "Hoạt động văn hóa nghệ thuật",
+  "D": "Hoạt động đối ngoại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "576",
+  "QUESTION": "Nguyên nhân phải nâng cao trình độ, năng lực, phương pháp, tác phong công tác của quân nhân là gì?",
+  "A": "Để phù hợp thị hiếu xã hội",
+  "B": "Để tăng cường kinh tế cá nhân",
+  "C": "Xuất phát từ yêu cầu, nhiệm vụ của cách mạng, quân đội và thực trạng hiện nay",
+  "D": "Để giảm áp lực học tập",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "577",
+  "QUESTION": "Muốn quân nhân tiếp thu nhanh quan điểm, đường lối của Đảng, họ cần gì?",
+  "A": "Các mối quan hệ cá nhân",
+  "B": "Kỹ năng văn nghệ",
+  "C": "Trình độ, năng lực, phương pháp, tác phong tốt",
+  "D": "Nhiều thời gian rảnh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "578",
+  "QUESTION": "Phương châm huấn luyện hiện nay là gì?",
+  "A": "Cơ bản, thiết thực, vững chắc",
+  "B": "Đa dạng, nhanh gọn",
+  "C": "Hiện đại hóa toàn diện",
+  "D": "Tự do, linh hoạt, đơn giản",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "579",
+  "QUESTION": "Người quân nhân cần rèn luyện gì để đấu tranh với âm mưu thù địch?",
+  "A": "Thói quen sinh hoạt cá nhân",
+  "B": "Tinh thần cảnh giác cách mạng",
+  "C": "Năng lực kinh doanh",
+  "D": "Kỹ năng giải trí",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "580",
+  "QUESTION": "Khi quân nhân có phương pháp, tác phong công tác tốt sẽ ảnh hưởng thế nào đến đơn vị?",
+  "A": "Nâng cao hiệu lực lãnh đạo, chỉ huy, quản lý",
+  "B": "Giảm tính kỷ luật",
+  "C": "Giảm cường độ huấn luyện",
+  "D": "Tăng thêm chi phí hoạt động",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "581",
+  "QUESTION": "Quân đội phải đổi mới nội dung, phương pháp gì để đáp ứng tình hình mới?",
+  "A": "Sinh hoạt văn hóa",
+  "B": "Lễ nghi ngoại giao",
+  "C": "Huấn luyện, đào tạo",
+  "D": "Giải trí, thể thao",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "582",
+  "QUESTION": "Ngoài chiến đấu, quân đội còn có nhiệm vụ gì với Nhân dân?",
+  "A": "Tuyên truyền, vận động thực hiện đường lối, chính sách",
+  "B": "Mở rộng kinh tế tư nhân",
+  "C": "Giải trí cho nhân dân",
+  "D": "Tăng cường đầu tư cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "583",
+  "QUESTION": "Mục tiêu cuối cùng của việc nâng cao trình độ, năng lực, phương pháp, tác phong quân nhân là gì?",
+  "A": "Trở thành chuyên gia kinh tế",
+  "B": "Xứng danh “Bộ đội Cụ Hồ” thời kỳ mới",
+  "C": "Giành thành tích cá nhân",
+  "D": "Tham gia thương mại quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "584",
+  "QUESTION": "Việc nâng cao trình độ, năng lực, phương pháp, tác phong công tác của quân nhân nhằm mục tiêu gì?",
+  "A": "Chỉ chú trọng kỹ năng chuyên môn",
+  "B": "Xây dựng quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại",
+  "C": "Giảm bớt áp lực huấn luyện",
+  "D": "Chỉ để nâng cao đời sống cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "585",
+  "QUESTION": "Để đáp ứng yêu cầu xây dựng quân đội, quân nhân phải quán triệt sâu sắc điều gì?",
+  "A": "Kinh nghiệm cá nhân",
+  "B": "Ý kiến của tập thể đơn vị",
+  "C": "Quan điểm, đường lối, chủ trương của Đảng và chính sách, pháp luật của Nhà nước",
+  "D": "Chỉ thị của cấp trên gần nhất",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "586",
+  "QUESTION": "Nâng cao trình độ, năng lực, phương pháp, tác phong công tác của quân nhân phải gắn với điều gì?",
+  "A": "Ý muốn của chỉ huy trực tiếp",
+  "B": "Chức trách, nhiệm vụ từng đối tượng và thực tiễn cơ quan, đơn vị",
+  "C": "Nhu cầu cá nhân",
+  "D": "Kế hoạch cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "587",
+  "QUESTION": "Một trong những yêu cầu cơ bản khi nâng cao năng lực quân nhân là gì?",
+  "A": "Dựa vào kinh nghiệm dân sự",
+  "B": "Toàn diện, đồng bộ và chuyên sâu",
+  "C": "Chỉ học tập lý thuyết",
+  "D": "Tập trung vào kỹ năng giao tiếp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "588",
+  "QUESTION": "Quá trình nâng cao trình độ quân nhân phải được tiến hành thế nào?",
+  "A": "Chỉ trong huấn luyện",
+  "B": "Chủ yếu khi chuẩn bị chiến đấu",
+  "C": "Thỉnh thoảng khi có điều kiện",
+  "D": "Thường xuyên, liên tục, kiên trì, bền bỉ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "589",
+  "QUESTION": "Yêu cầu nâng cao năng lực quân nhân phải tác động trực tiếp tới điều gì?",
+  "A": "Quan hệ xã hội bên ngoài",
+  "B": "Đời sống cá nhân",
+  "C": "Tinh thần thoải mái",
+  "D": "Chất lượng, hiệu quả công tác",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "590",
+  "QUESTION": "Việc học tập, rèn luyện để nâng cao năng lực của quân nhân phải đặt dưới sự lãnh đạo của ai?",
+  "A": "Cấp ủy, tổ chức đảng, chính ủy, chính trị viên, chỉ huy, cơ quan chính trị các cấp",
+  "B": "Đồng đội",
+  "C": "Chính quyền địa phương",
+  "D": "Gia đình quân nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "591",
+  "QUESTION": "Một trong những trọng tâm của quá trình rèn luyện là gì?",
+  "A": "Giải trí hợp lý",
+  "B": "Tăng cường thể thao",
+  "C": "Học tập nâng cao nhận thức chính trị, đạo đức, lối sống",
+  "D": "Nâng cao trình độ ngoại ngữ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "592",
+  "QUESTION": "Việc phân loại đối tượng để bồi dưỡng được thực hiện dựa trên tiêu chí nào?",
+  "A": "Tuổi tác",
+  "B": "Kinh nghiệm cá nhân",
+  "C": "Quê quán",
+  "D": "Cấp bậc, chức vụ, nhóm quân nhân, loại hình cơ quan, đơn vị",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "593",
+  "QUESTION": "Trong thời kỳ mới, quân nhân cần giỏi về mặt nào?",
+  "A": "Chuyên môn, chuyên ngành và lĩnh vực công tác của bản thân",
+  "B": "Giao tiếp xã hội",
+  "C": "Nghiên cứu lý luận",
+  "D": "Chỉ về kỹ năng máy tính",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "594",
+  "QUESTION": "Kết quả học tập, rèn luyện của quân nhân phải được xác định thế nào?",
+  "A": "Mơ hồ, chung chung",
+  "B": "Cụ thể, có mục tiêu, chỉ tiêu rõ ràng",
+  "C": "Chỉ đánh giá theo cảm tính",
+  "D": "Dựa trên đánh giá cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "595",
+  "QUESTION": "Nâng cao năng lực của quân nhân góp phần trực tiếp vào việc gì?",
+  "A": "Học tập nước ngoài",
+  "B": "Nâng cao chất lượng xây dựng tổ chức đảng trong sạch vững mạnh và đơn vị vững mạnh toàn diện",
+  "C": "Mở rộng quan hệ cá nhân",
+  "D": "Tăng lương cho quân nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "596",
+  "QUESTION": "Trong quá trình rèn luyện, quân nhân phải chủ động phòng chống điều gì?",
+  "A": "Ảnh hưởng từ bên ngoài",
+  "B": "Suy thoái về phẩm chất đạo đức, lối sống",
+  "C": "Sai sót kỹ thuật",
+  "D": "Bệnh tật thông thường",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "597",
+  "QUESTION": "Để bảo đảm thiết thực và hiệu quả, quá trình giáo dục - bồi dưỡng quân nhân phải dựa vào yếu tố nào?",
+  "A": "Xu hướng xã hội",
+  "B": "Ý kiến cá nhân",
+  "C": "Đặc điểm, chức trách, nhiệm vụ của từng đối tượng và tình hình cơ quan, đơn vị",
+  "D": "Điều kiện kinh tế cá nhân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "598",
+  "QUESTION": "Các yêu cầu nâng cao năng lực quân nhân có mối quan hệ thế nào?",
+  "A": "Chặt chẽ, thống nhất, tác động qua lại, bổ sung cho nhau",
+  "B": "Trái ngược nhau",
+  "C": "Độc lập, không liên quan",
+  "D": "Tách biệt rõ ràng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "599",
+  "QUESTION": "Cấp ủy, tổ chức đảng các cấp phải làm gì để nâng cao trình độ, năng lực của quân nhân?",
+  "A": "Chỉ trông chờ vào việc tự học của từng quân nhân",
+  "B": "Nâng cao nhận thức, xác định rõ vai trò và trách nhiệm",
+  "C": "Tập trung vào trang bị vũ khí mới",
+  "D": "Chỉ tổ chức hội thi văn hóa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "600",
+  "QUESTION": "Nội dung, biện pháp lãnh đạo, bồi dưỡng phải chú trọng điều gì?",
+  "A": "Chỉ đào tạo kỹ thuật chuyên môn",
+  "B": "Toàn diện từ xác định mục đích đến kiểm tra giám sát",
+  "C": "Chỉ thi đua khen thưởng",
+  "D": "Loại bỏ kiểm tra định kỳ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "601",
+  "QUESTION": "Việc nâng cao trình độ của quân nhân nên gắn với yếu tố nào sau đây?",
+  "A": "Xây dựng chính quy, rèn luyện kỷ luật và thực hiện nhiệm vụ chính trị",
+  "B": "Chỉ cải tiến công nghệ thông tin",
+  "C": "Riêng biệt với nhiệm vụ của đơn vị",
+  "D": "Tập trung vào hoạt động lễ hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "602",
+  "QUESTION": "Cấp ủy, tổ chức đảng cần làm gì để phòng ngừa biểu hiện xấu ảnh hưởng tới học tập, rèn luyện?",
+  "A": "Không can thiệp vào đời sống cá nhân",
+  "B": "Có chủ trương lãnh đạo, phát hiện và xử lý kịp thời",
+  "C": "Bỏ qua các vi phạm nhỏ",
+  "D": "Giao toàn bộ cho thủ trưởng đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "603",
+  "QUESTION": "Vì sao phải kiện toàn, nâng cao năng lực tổ chức đảng và đội ngũ đảng viên?",
+  "A": "Để thay đổi hệ thống lương bổng",
+  "B": "Để tăng cường lợi ích kinh tế",
+  "C": "Để giảm số lượng sinh hoạt",
+  "D": "Vì chất lượng hiệu quả lãnh đạo phụ thuộc năng lực và sức chiến đấu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "604",
+  "QUESTION": "Chính ủy, chính trị viên, chỉ huy cần làm gì theo văn bản?",
+  "A": "Quán triệt quan điểm của Đảng về học tập và làm theo tấm gương Bác",
+  "B": "Chỉ tập trung huấn luyện bắn súng",
+  "C": "Chỉ làm báo cáo hàng năm",
+  "D": "Loại bỏ giáo dục chính trị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "605",
+  "QUESTION": "Các cơ quan chức năng cần thực hiện điều gì để thúc đẩy học tập, rèn luyện?",
+  "A": "Tổ chức thi đấu thể thao thường xuyên",
+  "B": "Hạn chế việc học tập nghị quyết",
+  "C": "Chỉ tập trung đào tạo hành chính",
+  "D": "Làm tốt công tác quán triệt, cụ thể hóa tiêu chí phấn đấu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "606",
+  "QUESTION": "Tổ chức Đoàn Thanh niên cần phát huy vai trò gì trong đơn vị?",
+  "A": "Chỉ làm công việc hậu cần",
+  "B": "Vai trò nòng cốt phối hợp với tổ chức quần chúng để giáo dục đoàn viên, thanh niên",
+  "C": "Thay thế cấp ủy trong mọi quyết định",
+  "D": "Chỉ tham gia hoạt động văn nghệ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "607",
+  "QUESTION": "Phong trào nào được nêu là quan trọng cho thanh niên quân đội?",
+  "A": "“Thanh niên tranh tài thể thao”",
+  "B": "“Thanh niên chỉ làm chính trị”",
+  "C": "“Thanh niên quân đội thi đua rèn đức, luyện tài, xung kích, sáng tạo”",
+  "D": "“Thanh niên giữ trật tự”",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "608",
+  "QUESTION": "Hội đồng quân nhân tổ chức để mọi quân nhân thực hiện điều gì?",
+  "A": "Tổ chức đấu thầu mua sắm",
+  "B": "Phát huy tinh thần dân chủ về quân sự, chính trị, kinh tế và đời sống",
+  "C": "Cấm mọi ý kiến đóng góp",
+  "D": "Chỉ báo cáo hàng tháng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "609",
+  "QUESTION": "Đổi mới nội dung, hình thức, phương pháp giáo dục-đào tạo nhằm mục đích gì?",
+  "A": "Giảm giờ học chính trị",
+  "B": "Tập trung chỉ vào thi tuyển",
+  "C": "Tăng ngân sách đào tạo mà không đổi mới",
+  "D": "Trực tiếp tác động nâng cao trình độ, năng lực và tác phong công tác",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "610",
+  "QUESTION": "Nội dung đổi mới cần bám sát điều gì?",
+  "A": "Quan điểm, đường lối của Đảng và yêu cầu thực tiễn, nhiệm vụ đơn vị",
+  "B": "Khuôn mẫu học liệu nước ngoài không phù hợp",
+  "C": "Chỉ thị tạm thời của một cá nhân",
+  "D": "Truyền thống cũ không thay đổi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "611",
+  "QUESTION": "Nâng cao chất lượng giáo dục-đào tạo trong học viện, nhà trường nhằm tạo điều gì?",
+  "A": "Giảm yêu cầu đầu vào",
+  "B": "Mặt bằng kiến thức cơ bản làm cơ sở nâng cao năng lực cán bộ",
+  "C": "Tách rời thực tiễn đơn vị",
+  "D": "Tăng số ngày nghỉ cho học viên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "612",
+  "QUESTION": "Khi đổi mới ở đơn vị, cần làm gì trong huấn luyện?",
+  "A": "Bỏ huấn luyện thể lực",
+  "B": "Chỉ học lý thuyết",
+  "C": "Rèn luyện bộ đội qua thực tiễn huấn luyện, học tập, công tác, lao động",
+  "D": "Chỉ thực hành trên mô hình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "613",
+  "QUESTION": "Việc bồi dưỡng, rèn luyện phải tiến hành theo thứ tự nào?",
+  "A": "Chỉ khi có kinh phí",
+  "B": "Chỉ tổ chức theo ngẫu nhiên",
+  "C": "Từ cá nhân ra lãnh đạo",
+  "D": "Từ trên xuống dưới, từ lãnh đạo, chỉ huy ra tập thể",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "614",
+  "QUESTION": "Tự học tập, tự rèn luyện của quân nhân được mô tả là gì?",
+  "A": "Việc không cần thiết khi có chỉ huy tốt",
+  "B": "Hoạt động mang tính hình thức",
+  "C": "Một giải pháp cơ bản, quan trọng nhất, trực tiếp quyết định chất lượng",
+  "D": "Hoạt động chỉ dành cho cán bộ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "615",
+  "QUESTION": "Nội dung tự giáo dục, tự rèn luyện nên bao gồm?",
+  "A": "Đa dạng, phong phú trên mọi mặt, phù hợp chức trách và điều kiện đơn vị",
+  "B": "Chỉ gồm nghiên cứu khoa học",
+  "C": "Chỉ gồm học lý thuyết chính trị",
+  "D": "Chỉ gồm rèn luyện thể lực",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "616",
+  "QUESTION": "Phương pháp tự học, tự rèn của quân nhân cần kết hợp gì?",
+  "A": "Chỉ học ngoại ngữ",
+  "B": "Học đi đôi với hành, gắn lý luận với thực tiễn",
+  "C": "Chỉ tham gia hoạt động xã hội",
+  "D": "Chỉ đọc tài liệu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "617",
+  "QUESTION": "Cấp ủy và chỉ huy cần xác định rõ điều gì để phát huy tự giác quân nhân?",
+  "A": "Trách nhiệm chính trị trong lãnh đạo, chỉ đạo, tổ chức triển khai",
+  "B": "Giao toàn bộ cho tự phát của quân nhân",
+  "C": "Bỏ qua việc đánh giá kết quả",
+  "D": "Tự quyết mọi chế độ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "618",
+  "QUESTION": "Để phát huy tính chủ động trong kế hoạch học tập cần làm gì?",
+  "A": "Chỉ áp dụng cho cán bộ cao cấp",
+  "B": "Không cho phép thay đổi kế hoạch",
+  "C": "Chỉ dùng biện pháp kỷ luật",
+  "D": "Khuyến khích xây dựng kế hoạch học tập, chỉ tiêu, biện pháp sát đối tượng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "619",
+  "QUESTION": "Việc tổ chức chặt chẽ học tập, quán triệt ý nghĩa “Bộ đội Cụ Hồ” nhằm khơi dậy gì?",
+  "A": "Chỉ là nghi lễ hình thức",
+  "B": "Giảm tinh thần đồng đội",
+  "C": "Niềm vinh dự, tự hào và ý chí quyết tâm, tinh thần trách nhiệm",
+  "D": "Tạo áp lực không cần thiết",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "620",
+  "QUESTION": "Trong quá trình tự học, cần kịp thời làm gì khi có vấn đề nảy sinh?",
+  "A": "Trì hoãn đến cuối năm",
+  "B": "Chỉ thông báo bằng miệng",
+  "C": "Lờ đi cho qua",
+  "D": "Giải quyết kịp thời để đạt kết quả cao",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "621",
+  "QUESTION": "Kiểm tra, giám sát việc học tập, rèn luyện phải đảm bảo tính gì?",
+  "A": "Tùy tiện theo mùa vụ",
+  "B": "Chỉ mang tính hình thức",
+  "C": "Đồng bộ, thường xuyên, nghiêm túc và chất lượng",
+  "D": "Chỉ do tổ chức quần chúng thực hiện",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "622",
+  "QUESTION": "Mục đích của kiểm tra, giám sát là gì?",
+  "A": "Chỉ để nộp báo cáo",
+  "B": "Phát hiện hạn chế, giúp chấn chỉnh và rút kinh nghiệm",
+  "C": "Chỉ nhằm phạt kỷ luật",
+  "D": "Tăng áp lực không cần thiết",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "623",
+  "QUESTION": "Khi kiểm tra, giám sát, cần tránh biểu hiện nào?",
+  "A": "Kết hợp kiểm tra đột xuất và theo kế hoạch",
+  "B": "Buông lỏng hoặc phô trương, hình thức",
+  "C": "Kiểm tra đúng đối tượng",
+  "D": "Tạo cơ chế kiểm tra lẫn nhau",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "624",
+  "QUESTION": "Nội dung kiểm tra, giám sát cần tiến hành theo cách nào?",
+  "A": "Toàn diện từ lãnh đạo đến triển khai tổ chức thực hiện",
+  "B": "Chỉ kiểm tra về tài chính",
+  "C": "Chỉ tập trung vào giấy tờ",
+  "D": "Chỉ kiểm tra trang thiết bị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "625",
+  "QUESTION": "Công tác kiểm tra cần kết hợp loại kiểm tra nào?",
+  "A": "Chỉ kiểm tra định kỳ hàng năm",
+  "B": "Không cần kiểm tra",
+  "C": "Kiểm tra theo kế hoạch và kiểm tra đột xuất",
+  "D": "Chỉ kiểm tra theo kế hoạch",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "626",
+  "QUESTION": "Kiểm tra, giám sát giúp phòng tránh điều gì cho quân nhân?",
+  "A": "Giảm giờ huấn luyện",
+  "B": "Lưu giữ thành tích cá nhân",
+  "C": "Tác động tiêu cực, tệ nạn xã hội và khuyết điểm",
+  "D": "Tăng lương tự động",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "627",
+  "QUESTION": "Công tác khen thưởng cần thực hiện như thế nào khi có điển hình tiên tiến?",
+  "A": "Chỉ khen thưởng vào cuối năm",
+  "B": "Giữ bí mật không khen thưởng",
+  "C": "Chỉ khen thưởng bằng giấy chứng nhận",
+  "D": "Động viên, khen thưởng kịp thời các cá nhân, tập thể",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "628",
+  "QUESTION": "Xây dựng môi trường học tập cần kết hợp công tác nào?",
+  "A": "Chỉ dựa vào truyền thông bên ngoài",
+  "B": "Chỉ tập trung vào cơ sở vật chất",
+  "C": "Chỉ dựa vào hoạt động ngoại khóa",
+  "D": "Tư tưởng, tổ chức, chính sách, khen thưởng và kỷ luật",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "629",
+  "QUESTION": "Việc đẩy mạnh tuyên truyền, giáo dục cần kết hợp với hoạt động nào?",
+  "A": "Các ngày lễ lớn và phong trào hành động cách mạng",
+  "B": "Chỉ trong giờ huấn luyện",
+  "C": "Chỉ truyền thông mạng xã hội",
+  "D": "Chỉ truyền đơn tờ rơi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "630",
+  "QUESTION": "Quy chế, quy định về học tập, rèn luyện cần làm gì?",
+  "A": "Hủy bỏ các tiêu chí đánh giá",
+  "B": "Giao phó hoàn toàn cho cá nhân",
+  "C": "Xác định rõ trách nhiệm chính trị của lãnh đạo và chỉ huy",
+  "D": "Chỉ áp dụng cho các cấp cao",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "631",
+  "QUESTION": "Mục tiêu, yêu cầu, phương pháp lãnh đạo triển khai học tập cần được xác định ở đâu?",
+  "A": "Chỉ khi có thanh tra",
+  "B": "Chỉ trong văn bản nội bộ không công bố",
+  "C": "Chỉ thông qua họp miệng",
+  "D": "Trong nghị quyết lãnh đạo, quy chế, kế hoạch công tác",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "632",
+  "QUESTION": "Lãnh đạo, chỉ huy cần quán triệt và thực hiện nghiêm gì?",
+  "A": "Đường lối, chủ trương, chính sách của Đảng và Nhà nước đối với quân đội",
+  "B": "Chỉ hướng dẫn kỹ thuật",
+  "C": "Chỉ các quy tắc nội bộ",
+  "D": "Chỉ các quy định hành chính",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "633",
+  "QUESTION": "Xây dựng động cơ học tập đúng đắn cho quân nhân cần kết hợp yếu tố nào?",
+  "A": "Giảm giờ học",
+  "B": "Biểu dương, khen thưởng và tuyên truyền về vị trí, tầm quan trọng",
+  "C": "Tăng bài tập về nhà",
+  "D": "Tập trung vào hình thức kỷ luật",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "634",
+  "QUESTION": "Việc khuyến khích đoàn viên, thanh niên tự học tập cần dựa vào gì?",
+  "A": "Chỉ bằng thưởng tiền",
+  "B": "Chỉ dựa vào sáng kiến cá nhân",
+  "C": "Chỉ bằng biện pháp trừng phạt",
+  "D": "Chương trình giáo dục chính trị hàng năm và chương trình đoàn",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "635",
+  "QUESTION": "Hoạt động nghiên cứu khoa học, sáng kiến kỹ thuật thuộc nội dung nào?",
+  "A": "Không liên quan đến học tập",
+  "B": "Chỉ dành cho cán bộ nghiên cứu",
+  "C": "Chỉ dành cho học viện",
+  "D": "Là việc làm thiết thực để nâng cao trình độ, năng lực của đoàn viên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "636",
+  "QUESTION": "Một trong những tiêu chí để đánh giá kết quả học tập, rèn luyện là gì?",
+  "A": "Chỉ căn cứ vào bằng cấp",
+  "B": "Đưa nội dung phấn đấu vào tiêu chí đánh giá hoàn thành nhiệm vụ",
+  "C": "Chỉ dựa vào ý kiến cá nhân",
+  "D": "Chỉ xem xét thời gian phục vụ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "637",
+  "QUESTION": "Khi phát hiện quân nhân chủ quan, lười học cần xử lý thế nào?",
+  "A": "Kiên quyết đấu tranh, xử lý nghiêm minh",
+  "B": "Bỏ qua nếu là sĩ quan cao cấp",
+  "C": "Chỉ nhắc nhở bằng miệng",
+  "D": "Đưa ra khen thưởng để khuyến khích",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "638",
+  "QUESTION": "Môi trường thuận lợi cho học tập được tạo ra bởi điều gì?",
+  "A": "Chỉ bằng trang bị wifi",
+  "B": "Quy chế, kế hoạch, kiểm tra và gắn trách nhiệm rõ ràng",
+  "C": "Chỉ bằng thư viện",
+  "D": "Chỉ bằng tổ chức câu lạc bộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "639",
+  "QUESTION": "Thông qua việc nêu gương cán bộ, đảng viên nhằm đạt mục đích gì?",
+  "A": "Nâng cao chất lượng giáo dục, rèn luyện và nêu gương trước quần chúng",
+  "B": "Chỉ dành cho cấp cao",
+  "C": "Chỉ để làm đẹp hình ảnh",
+  "D": "Chỉ để báo cáo xuôi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "640",
+  "QUESTION": "Công tác giáo dục chính trị cần được kết hợp với gì?",
+  "A": "Định hướng tư tưởng và biểu dương, khen thưởng",
+  "B": "Thay thế huấn luyện chuyên môn",
+  "C": "Hạn chế quyền phát biểu của quân nhân",
+  "D": "Tách rời mọi hoạt động khác",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "641",
+  "QUESTION": "Kết quả kiểm tra, giám sát phải dùng làm gì trong đơn vị?",
+  "A": "Chỉ để nộp báo cáo",
+  "B": "Chỉ để công khai bản án",
+  "C": "Là căn cứ để đề ra biện pháp giúp khắc phục hạn chế và phát huy ưu điểm",
+  "D": "Chỉ để phạt tiền",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "642",
+  "QUESTION": "Để khuyến khích học tập, cần làm gì với các cách làm sáng tạo?",
+  "A": "Chỉ công bố nội bộ",
+  "B": "Kịp thời khuyến khích, động viên các tập thể, cá nhân có cách làm sáng tạo",
+  "C": "Trừng phạt sự khác biệt",
+  "D": "Giữ bí mật không phổ biến",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "643",
+  "QUESTION": "Yếu tố nào được nhấn mạnh để nâng cao chất lượng lãnh đạo, bồi dưỡng?",
+  "A": "Gắn kết việc lãnh đạo thực hiện nhiệm vụ chính trị với xây dựng chính quy, rèn luyện kỷ luật",
+  "B": "Chỉ phụ thuộc vào ngân sách",
+  "C": "Tách rời chính trị khỏi công tác lãnh đạo",
+  "D": "Chỉ tập trung vào văn phòng hóa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "644",
+  "QUESTION": "Nhận thức, trách nhiệm của quân nhân là gì?",
+  "A": "Chỉ là nghĩa vụ pháp lý",
+  "B": "Chỉ là trách nhiệm với cấp trên",
+  "C": "Ý thức, tình cảm, nghĩa vụ, nhiệm vụ phải làm",
+  "D": "Chỉ là sự tự nguyện đơn thuần",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "645",
+  "QUESTION": "Người có nhận thức đúng sẽ thế nào?",
+  "A": "Không cần trách nhiệm",
+  "B": "Có trách nhiệm cao",
+  "C": "Không chịu trách nhiệm",
+  "D": "Sẽ sống thoải mái hơn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "646",
+  "QUESTION": "Trách nhiệm của quân nhân với gia đình thể hiện ở đâu?",
+  "A": "Chỉ chấp hành pháp luật",
+  "B": "Thương yêu, chăm lo ông bà, bố mẹ, vợ con",
+  "C": "Xây dựng tình đoàn kết đồng đội",
+  "D": "Chỉ tập trung nhiệm vụ đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "647",
+  "QUESTION": "Trách nhiệm với đồng chí, đồng đội chủ yếu là gì?",
+  "A": "Xây dựng đoàn kết, thương yêu, giúp đỡ nhau",
+  "B": "Không quan trọng",
+  "C": "Chỉ quan hệ công việc",
+  "D": "Chỉ giúp đỡ vật chất",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "648",
+  "QUESTION": "Trong 10 lời thề danh dự, quân nhân được yêu cầu gì với nhân dân?",
+  "A": "Được phép lấy của dân",
+  "B": "Kính trọng, giúp đỡ, bảo vệ nhân dân",
+  "C": "Không cần quan hệ với dân",
+  "D": "Chỉ cần huấn luyện tốt",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "649",
+  "QUESTION": "Nhận thức, trách nhiệm của quân nhân đối với đơn vị, gia đình, đồng chí, đồng đội là gì?",
+  "A": "Chỉ nhiệm vụ với đơn vị",
+  "B": "Một chỉnh thể thống nhất, tác động qua lại",
+  "C": "Ba nhiệm vụ tách biệt",
+  "D": "Không có mối liên hệ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "650",
+  "QUESTION": "Chủ thể nâng cao nhận thức, trách nhiệm quân nhân là ai?",
+  "A": "Chỉ huy cấp trên",
+  "B": "Chính quyền địa phương",
+  "C": "Cấp uỷ, chỉ huy, chính ủy, cơ quan chính trị, quân nhân",
+  "D": "Bản thân gia đình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "651",
+  "QUESTION": "Vai trò của nâng cao nhận thức trách nhiệm với đơn vị là gì?",
+  "A": "Không liên quan công việc",
+  "B": "Làm cho quân nhân hoàn thành tốt nhiệm vụ",
+  "C": "Chỉ phục vụ đời sống cá nhân",
+  "D": "Giúp quân nhân nghỉ ngơi",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "652",
+  "QUESTION": "Quân nhân có trách nhiệm với đơn vị sẽ như thế nào?",
+  "A": "Không cần rèn luyện",
+  "B": "Xa rời tập thể",
+  "C": "Thoái thác nhiệm vụ",
+  "D": "Yên tâm công tác, hoàn thành nhiệm vụ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "653",
+  "QUESTION": "Trách nhiệm với đồng chí, đồng đội giúp gì?",
+  "A": "Gắn kết, phát huy dân chủ, đề cao kỷ luật",
+  "B": "Giảm hiệu quả nhiệm vụ",
+  "C": "Không cần thiết",
+  "D": "Gây chia rẽ nội bộ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "654",
+  "QUESTION": "Trách nhiệm với gia đình giúp gì?",
+  "A": "Giúp nghỉ phép thường xuyên",
+  "B": "Giảm trách nhiệm với đơn vị",
+  "C": "Xây dựng gia đình hạnh phúc, yên tâm công tác",
+  "D": "Chỉ hỗ trợ kinh tế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "655",
+  "QUESTION": "Gia đình, đơn vị, đồng chí, đồng đội đối với quân nhân là gì?",
+  "A": "Chỉ là trách nhiệm hình thức",
+  "B": "Không quan trọng",
+  "C": "Là gánh nặng",
+  "D": "Nguồn động lực hoàn thành nhiệm vụ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "656",
+  "QUESTION": "Đơn vị là nơi gì đối với quân nhân?",
+  "A": "Chỉ để nghỉ ngơi",
+  "B": "Rèn luyện, thực hiện nhiệm vụ",
+  "C": "Chỉ là nơi sinh hoạt",
+  "D": "Không liên quan",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "657",
+  "QUESTION": "Tình đồng chí, đồng đội của quân nhân là gì?",
+  "A": "Hình thức",
+  "B": "Thiêng liêng, gắn bó, giúp đỡ nhau",
+  "C": "Cạnh tranh nhau",
+  "D": "Không cần thiết",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "658",
+  "QUESTION": "Truyền thống LLVT Thành phố được khái quát bằng mấy chữ vàng?",
+  "A": "12 chữ vàng",
+  "B": "20 chữ vàng",
+  "C": "10 chữ vàng",
+  "D": "18 chữ vàng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "659",
+  "QUESTION": "Gia đình đối với quân nhân là gì?",
+  "A": "Không quan trọng",
+  "B": "Chỉ là nghĩa vụ pháp lý",
+  "C": "Gánh nặng",
+  "D": "Hậu phương vững chắc",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "660",
+  "QUESTION": "Yêu cầu xây dựng Quân đội hiện nay là gì?",
+  "A": "Giảm vai trò quốc phòng",
+  "B": "Tinh, gọn, mạnh",
+  "C": "Phình to hơn",
+  "D": "Chỉ tập trung kinh tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "661",
+  "QUESTION": "Đại đa số quân nhân hiện nay có đặc điểm gì?",
+  "A": "Không quan tâm nhiệm vụ",
+  "B": "Hoàn thành nhiệm vụ, nhận thức đúng",
+  "C": "Chỉ lo cá nhân",
+  "D": "Bỏ bê đơn vị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "662",
+  "QUESTION": "Quân nhân gắn với học tập tư tưởng nào?",
+  "A": "Tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+  "B": "Lối sống hưởng thụ",
+  "C": "Phong cách thực dụng",
+  "D": "Tư tưởng cá nhân chủ nghĩa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "663",
+  "QUESTION": "Trách nhiệm quân nhân với đồng chí, đồng đội thể hiện ở đâu?",
+  "A": "Giúp đỡ nhau trong mọi hoàn cảnh",
+  "B": "Lánh xa nhau",
+  "C": "Cạnh tranh nhau",
+  "D": "Thờ ơ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "664",
+  "QUESTION": "Công tác lãnh đạo, chỉ huy một số đơn vị còn gì?",
+  "A": "Hoàn hảo tuyệt đối",
+  "B": "Luôn đạt hiệu quả cao",
+  "C": "Chưa quan tâm đúng mức",
+  "D": "Không có khuyết điểm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "665",
+  "QUESTION": "Nguyên nhân chính của hạn chế, khuyết điểm quân nhân là gì?",
+  "A": "Do gia đình",
+  "B": "Chủ quan của quân nhân",
+  "C": "Do khách quan",
+  "D": "Do cấp trên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "666",
+  "QUESTION": "Một số quân nhân vi phạm kỷ luật vì sao?",
+  "A": "Thiếu nhận thức, trách nhiệm",
+  "B": "Do cấp trên xử lý sai",
+  "C": "Do khách quan",
+  "D": "Vì đơn vị ép buộc",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "667",
+  "QUESTION": "Nâng cao nhận thức phải gắn với cái gì?",
+  "A": "Tăng lương",
+  "B": "Nghỉ ngơi nhiều hơn",
+  "C": "Giáo dục chính trị",
+  "D": "Thư giãn giải trí",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "668",
+  "QUESTION": "Trách nhiệm quân nhân gắn liền với gì?",
+  "A": "Chỉ nhiệm vụ đơn vị",
+  "B": "Nghĩa vụ công dân với Tổ quốc",
+  "C": "Sở thích cá nhân",
+  "D": "Nghĩa vụ gia đình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "669",
+  "QUESTION": "Nhận thức, trách nhiệm quân nhân hình thành thế nào?",
+  "A": "Do may mắn",
+  "B": "Không cần rèn luyện",
+  "C": "Qua giáo dục, rèn luyện thường xuyên",
+  "D": "Tự phát",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "670",
+  "QUESTION": "Để nâng cao trách nhiệm quân nhân cần phối hợp với ai?",
+  "A": "Bạn bè",
+  "B": "Địa phương và gia đình",
+  "C": "Doanh nghiệp",
+  "D": "Quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "671",
+  "QUESTION": "Khi có vụ việc xảy ra, đơn vị cần gì?",
+  "A": "Phối hợp gia đình giải quyết",
+  "B": "Giấu kín",
+  "C": "Bỏ qua",
+  "D": "Trách cứ cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "672",
+  "QUESTION": "Chính ủy, chính trị viên phải thế nào?",
+  "A": "Xa cách chiến sĩ",
+  "B": "Thờ ơ",
+  "C": "Chỉ huy hình thức",
+  "D": "Gương mẫu, trung tâm đoàn kết",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "673",
+  "QUESTION": "Một biểu hiện thiếu trách nhiệm của quân nhân là gì?",
+  "A": "Xây dựng đơn vị",
+  "B": "Giúp đỡ đồng đội",
+  "C": "Sao nhãng nhiệm vụ",
+  "D": "Tích cực công tác",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "674",
+  "QUESTION": "Cấp ủy, chỉ huy phải quán triệt cho bộ đội điều gì?",
+  "A": "Cá nhân trước tập thể",
+  "B": "Nghỉ ngơi nhiều",
+  "C": "Chấp hành pháp luật, kỷ luật",
+  "D": "Không cần kỷ luật",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "675",
+  "QUESTION": "Một giải pháp quan trọng để nâng cao trách nhiệm là gì?",
+  "A": "Lãnh đạo, chỉ đạo của cấp ủy, chính ủy, chỉ huy",
+  "B": "Chỉ dựa vào dân",
+  "C": "Tự do tuyệt đối",
+  "D": "Không quản lý",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "676",
+  "QUESTION": "Để phát huy trách nhiệm đồng đội cần củng cố tổ chức nào?",
+  "A": "Hội đồng hương",
+  "B": "Gia đình",
+  "C": "Tổ chức nước ngoài",
+  "D": "Tổ chức Đảng, chi bộ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "677",
+  "QUESTION": "Hoạt động nào giúp nâng cao đoàn kết đơn vị?",
+  "A": "Giấu thông tin",
+  "B": "Không sinh hoạt",
+  "C": "Cạnh tranh thành tích cá nhân",
+  "D": "Tọa đàm, sinh nhật đồng đội, giao lưu",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "678",
+  "QUESTION": "Lãnh đạo, chỉ huy phải có phẩm chất gì?",
+  "A": "Cầu toàn hình thức",
+  "B": "Ích kỷ",
+  "C": "Chính trị vững vàng, công tâm, trung thực",
+  "D": "Chỉ cần mạnh mẽ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "679",
+  "QUESTION": "Mối quan hệ giữa đơn vị và gia đình quân nhân là gì?",
+  "A": "Hậu phương, điểm tựa",
+  "B": "Độc lập",
+  "C": "Chỉ hình thức",
+  "D": "Không liên quan",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "680",
+  "QUESTION": "Để gắn bó đơn vị – địa phương – gia đình cần hoạt động gì?",
+  "A": "Không tiếp xúc",
+  "B": "Cách ly",
+  "C": "Gặp gỡ, giao lưu kết nghĩa",
+  "D": "Chỉ báo cáo hành chính",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "681",
+  "QUESTION": "Xây dựng niềm tin, truyền cảm hứng cho quân nhân thuộc trách nhiệm của ai?",
+  "A": "Chính ủy, chính trị viên, chỉ huy",
+  "B": "Gia đình",
+  "C": "Địa phương",
+  "D": "Dân thường",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "682",
+  "QUESTION": "Quân nhân phải coi việc tự giáo dục, rèn luyện là gì?",
+  "A": "Không cần thiết",
+  "B": "Thỉnh thoảng",
+  "C": "Việc làm thường xuyên",
+  "D": "Tuỳ hứng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "683",
+  "QUESTION": "Môi trường văn hóa quân sự cần thế nào?",
+  "A": "Hình thức",
+  "B": "Tự do buông thả",
+  "C": "Không cần xây dựng",
+  "D": "Trong sạch, lành mạnh",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "684",
+  "QUESTION": "Xây dựng gia đình quân nhân hạnh phúc giúp gì?",
+  "A": "Quân nhân yên tâm công tác",
+  "B": "Không liên quan đơn vị",
+  "C": "Gánh nặng",
+  "D": "Giảm trách nhiệm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "685",
+  "QUESTION": "Một hạn chế của một số quân nhân hiện nay là gì?",
+  "A": "Ý thức cao",
+  "B": "Vi phạm kỷ luật",
+  "C": "Rèn luyện tốt",
+  "D": "Đoàn kết",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "686",
+  "QUESTION": "Một số quân nhân còn thiếu gì khi khó khăn xảy ra?",
+  "A": "Gia đình",
+  "B": "Nhiệm vụ",
+  "C": "Bản lĩnh, tâm lý",
+  "D": "Địa vị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "687",
+  "QUESTION": "Một số quân nhân còn mất đoàn kết, hành động gì?",
+  "A": "Thương yêu nhau",
+  "B": "Gây gổ, hành hung đồng đội",
+  "C": "Giúp đỡ nhau",
+  "D": "Chia sẻ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "688",
+  "QUESTION": "Một số cán bộ suy thoái vì sao?",
+  "A": "Trung thực",
+  "B": "Quá trách nhiệm",
+  "C": "Sa ngã trước vật chất, đồng tiền",
+  "D": "Học tập tốt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "689",
+  "QUESTION": "Công tác quản lý tư tưởng một số đơn vị còn gì?",
+  "A": "Rất chặt chẽ",
+  "B": "Hoàn hảo",
+  "C": "Hạn chế, chưa dự báo tốt",
+  "D": "Không sai sót",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "690",
+  "QUESTION": "Một số quân nhân có tư tưởng gì tiêu cực?",
+  "A": "Hy sinh",
+  "B": "Ăn chơi, hưởng thụ",
+  "C": "Yêu nước",
+  "D": "Tận tụy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "691",
+  "QUESTION": "Tổ chức nào phát huy vai trò trong giáo dục quân nhân?",
+  "A": "Đoàn thanh niên, hội phụ nữ, công đoàn",
+  "B": "Hộ gia đình",
+  "C": "Thị trường",
+  "D": "Doanh nghiệp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "692",
+  "QUESTION": "Chính ủy, chính trị viên phải được bộ đội như thế nào?",
+  "A": "Xa lánh",
+  "B": "Tôn trọng, quý mến",
+  "C": "Thờ ơ",
+  "D": "Sợ hãi",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "693",
+  "QUESTION": "Mỗi quân nhân cần có gì để hoàn thành nhiệm vụ?",
+  "A": "Bản lĩnh chính trị vững vàng, trung thành Tổ quốc",
+  "B": "Hưởng thụ",
+  "C": "Tự do cá nhân tuyệt đối",
+  "D": "Thờ ơ trách nhiệm",
+  "ANSWER": "A"
+ }
+]
