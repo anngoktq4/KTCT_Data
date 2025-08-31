@@ -1,15 +1,15 @@
 [
   {
-    "title": "Sĩ quan, quân nhân chuyên nghiệp (1)",
-    "description": "Sĩ quan, quân nhân chuyên nghiệp (1)",
+    "title": "Sĩ quan",
+    "description": "Sĩ quan",
     "path": "cat_SQ_QNCN_1.json",
     "colorCode":"#2B8661"
   },
   {
-    "title": "Sĩ quan, quân nhân chuyên nghiệp (2)",
-    "description": "Sĩ quan, quân nhân chuyên nghiệp (2)",
+    "title": "Quân nhân chuyên nghiệp",
+    "description": "Quân nhân chuyên nghiệp",
     "path": "cat_SQ_QNCN_2.json",
-    "colorCode":"#2B8661"
+    "colorCode":"#346F06"
   },
   {
     "title": "Dân quân tự vệ",
