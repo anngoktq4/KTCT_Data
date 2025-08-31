@@ -2,13 +2,13 @@
   {
     "title": "Sĩ quan",
     "description": "Sĩ quan",
-    "path": "cat_SQ_QNCN_1.json",
+    "path": "cat_SQ.json",
     "colorCode":"#2B8661"
   },
   {
     "title": "Quân nhân chuyên nghiệp",
     "description": "Quân nhân chuyên nghiệp",
-    "path": "cat_SQ_QNCN_2.json",
+    "path": "cat_QNCN.json",
     "colorCode":"#346F06"
   },
   {
