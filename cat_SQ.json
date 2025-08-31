@@ -1,0 +1,6296 @@
+[
+ {
+  "ID": "1",
+  "QUESTION": "Vi phạm kỷ luật trong Quân đội thường chia làm mấy loại?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "2",
+  "QUESTION": "Thông tư 151\/TT-BQP của Bộ Quốc phòng quy định chi tiết và hướng dẫn thi đua - khen thưởng trong Quân đội Nhân dân Việt Nam gồm bao nhiêu chương, bao nhiêu điều?",
+  "A": "09 chương, 90 điều.",
+  "B": "08 chương, 85 điều.",
+  "C": "07 chương, 70 điều.",
+  "D": "07 chương, 85 điều.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "3",
+  "QUESTION": "Có bao nhiêu hình thức tổ chức thi đua theo Thông tư 151\/TT-BQP của Bộ Quốc phòng quy định chi tiết và hướng dẫn thi đua - khen thưởng trong Quân đội Nhân dân Việt Nam?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "4",
+  "QUESTION": "Theo Thông tư 151\/TT-BQP, có bao nhiêu bước trong tổ chức phong trào thi đua?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "5",
+  "QUESTION": "Có bao nhiêu danh hiệu thi đua đối với cá nhân trong Quân đội Nhân dân Việt Nam?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "6",
+  "QUESTION": "Có bao nhiêu danh hiệu thi đua đối với tập thể trong Quân đội Nhân dân Việt Nam?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "7",
+  "QUESTION": "Nội dung tham gia xây dựng cơ sở chính trị địa phương trong công tác dân vận của Quân đội?",
+  "A": "Tham gia tuyên truyền vận động nhân dân; tham gia xây dựng, củng cố hệ thống chính trị cơ sở",
+  "B": "Tham gia xây dựng cơ sở địa phương về kinh tế, văn hóa xã hội",
+  "C": "Tham gia xây dựng về quốc phòng-an ninh",
+  "D": "Tất cả các nội dung trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "8",
+  "QUESTION": "Lực lượng nào giữ vai trò nòng cốt tham gia giải quyết “điểm nóng” ở địa phương?",
+  "A": "Chính quyền địa phương",
+  "B": "Các ban ngành, đoàn thể địa phương",
+  "C": "Công an",
+  "D": "Quân đội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "9",
+  "QUESTION": "Ngày Pháp luật nước CHXHCN Việt Nam là ngày nào?",
+  "A": "ngày 9 tháng 9",
+  "B": "ngày 9 tháng 10",
+  "C": "ngày 9 tháng 11",
+  "D": "ngày 9 tháng 12",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "10",
+  "QUESTION": "Theo Công văn 963\/CT-TC ngày 07\/6\/2019 của Tổng Cục Chính trị, Ngày Chính trị văn hoá tinh thần trong Quân đội được tổ chức định kỳ như thế nào?",
+  "A": "Vào thứ năm hàng tuần.",
+  "B": "Mỗi tháng 1 lần, vào thứ năm tuần đầu tháng.",
+  "C": "Mỗi tháng 1 lần, vào thứ năm tuần cuối tháng.",
+  "D": "Mỗi quý 01 lần.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "11",
+  "QUESTION": "Cấp Trung đoàn và tương đương không được ký quyết định khen thưởng đối với đối tượng nào sau đây?",
+  "A": "Tiểu đoàn và tương đương.",
+  "B": "Đại đội và tương đương.",
+  "C": "Trung đội và tương đương.",
+  "D": "Tiểu đội và tương đương.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "12",
+  "QUESTION": "Nguyên tắc quan trọng nhất khi tiến hành công tác tư tưởng trong quân đội là gì?",
+  "A": "Tính khoa học.",
+  "B": "Kết hợp chặt chẽ giữa xây &chống, lấy xây là chính để khắc phục tiêu cực, lạc hậu.",
+  "C": "Tính Đảng.",
+  "D": "Công tác tư tưởng phải gắn chặt với khoa học công nghệ.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "13",
+  "QUESTION": "Cấp Sư đoàn và tương đương không được ký quyết định khen thưởng đối với đối tượng nào sau đây?",
+  "A": "Trung đoàn và tương đương.",
+  "B": "Tiểu đoàn và tương đương.",
+  "C": "Đại đội và tương đương.",
+  "D": "Trung đội và tương đương.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "14",
+  "QUESTION": "Quy chế giáo dục chính trị trong QĐND và DQTV Việt Nam xác định vị trí, vai trò của công tác giáo dục chính trị?",
+  "A": "Là một hình thức chủ yếu của công tác tư tưởng, văn hóa",
+  "B": "Là một hình thức quan trọng của công tác tư tưởng, văn hóa",
+  "C": "Là một hình thức cơ bản của công tác tư tưởng, văn hóa",
+  "D": "Là một hình thức trọng yếu của công tác tư tưởng, văn hóa",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "15",
+  "QUESTION": "Quy chế giáo dục chính trị trong QĐND và DQTV Việt Nam xác định?",
+  "A": "Công tác giáo dục chính trị trực tiếp xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị",
+  "B": "Công tác giáo dục chính trị trực tiếp góp phần xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "C": "Công tác giáo dục chính trị gián tiếp góp phần xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "D": "Công tác giáo dục chính trị góp phần xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "16",
+  "QUESTION": "Quy chế giáo dục chính trị trong QĐND và DQTV Việt Nam xác định?",
+  "A": "Công tác giáo dục chính trị trực tiếp xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "B": "Công tác giáo dục chính trị trực tiếp góp phần xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "C": "Công tác giáo dục chính trị gián tiếp góp phần xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "D": "Công tác giáo dục chính trị góp phần xây dựng Quân đội và Dân quân tự vệ vững mạnh về chính trị.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "17",
+  "QUESTION": "Huy chương Chiến sĩ vẻ vang Hạng Nhất được xét tặng cho cá nhân có đủ bao nhiêu năm công tác trở lên?",
+  "A": "25 năm.",
+  "B": "20 năm.",
+  "C": "15 năm.",
+  "D": "Cả 03 đáp án trên đều sai.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "18",
+  "QUESTION": "Huy chương Chiến sĩ vẻ vang Hạng nhì được xét tặng cho cá nhân có đủ bao nhiêu năm công tác trở lên?",
+  "A": "Đủ 20 năm đến dưới 25 năm.",
+  "B": "Đủ 15 năm đến dưới 20 năm.",
+  "C": "Đủ 10 năm đến dưới 15 năm.",
+  "D": "Cả 03 đáp án trên đều sai.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "19",
+  "QUESTION": "Đồng chí cấp trưởng (tư lệnh, sư đoàn trưởng, trung đoàn trưởng…) được quy định chức danh nào trong hội đồng thi đua - khen thưởng của đơn vị?",
+  "A": "Chủ tịch hội đồng thi đua - khen thưởng.",
+  "B": "Phó chủ tịch thường trực hội đồng thi đua - khen thưởng.",
+  "C": "Phó chủ tịch hội đồng thi đua - khen thưởng.",
+  "D": "Uỷ viên hội đồng thi đua - khen thưởng.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "20",
+  "QUESTION": "Tiêu chuẩn nào sau đây không được dùng để bình xét danh hiệu Chiến sĩ Thi đua cơ sở?",
+  "A": "Đảng viên hoàn thành xuất sắc nhiệm vụ.",
+  "B": "Phải là chiến sĩ tiên tiến.",
+  "C": "Đảng viên hoàn thành tốt nhiệm vụ.",
+  "D": "Kiểm tra nhận thức chính trị cuối năm đạt loại giỏi.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "21",
+  "QUESTION": "Quân đội Nhân dân Việt Nam được thành lập ngày, tháng, năm nào?",
+  "A": "20\/12\/1944",
+  "B": "21\/12\/1944",
+  "C": "22\/12\/1944",
+  "D": "23\/12\/1944",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "22",
+  "QUESTION": "Cơ quan nào sau đây thống nhất quản lý nhà nước về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ?",
+  "A": "Chính phủ.",
+  "B": "Bộ Quốc phòng.",
+  "C": "Bộ Công an.",
+  "D": "Tất cả các cơ quan trên.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "23",
+  "QUESTION": "Ngày toàn quốc kháng chiến là ngày mấy?",
+  "A": "19\/12\/1946",
+  "B": "19\/12\/1947",
+  "C": "19\/12\/1948",
+  "D": "19\/12\/1949",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "24",
+  "QUESTION": "Ngày thành lập Mặt trận Dân tộc giải phóng miền Nam là ngày mấy?",
+  "A": "20\/12\/1960",
+  "B": "21\/12\/1960",
+  "C": "22\/12\/1960",
+  "D": "23\/12\/1960",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "25",
+  "QUESTION": "Thông tư 42\/2016\/TT-BQP của Bộ Quốc Phòng về việc quy định công tác phổ biến, giáo dục pháp luật trong Bộ Quốc phòng ký ngày tháng năm nào?",
+  "A": "Ngày 05\/3\/2016",
+  "B": "Ngày 12\/3\/2016",
+  "C": "Ngày 21\/3\/2016",
+  "D": "Ngày 30\/3\/2016",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "26",
+  "QUESTION": "Đồng chí cho biết Thông tư 42\/2016 của Bộ Quốc phòng về công tác phổ biến, giáo dục pháp luật quy định: Tủ sách pháp luật được tổ chức như thế nào?",
+  "A": "Tổ chức từ cấp c độc lập, d và tương đương đến cấp trực thuộc BQP.",
+  "B": "Tổ chức từ cấp b, c, d.",
+  "C": "Tổ chức từ cấp d đến cấp trực thuộc BQP.",
+  "D": "Tổ chức từ cấp e đến cấp QK",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "27",
+  "QUESTION": "Đồng chí cho biết Luật nghĩa vụ quân sự sửa đổi năm 2015 quy định thời hạn phục vụ tại ngũ của hạ sĩ quan, binh sĩ trong thời bình là bao nhiêu tháng?",
+  "A": "18 tháng",
+  "B": "21 tháng",
+  "C": "24 tháng",
+  "D": "20 tháng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "28",
+  "QUESTION": "Đồng chí cho biết Luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng năm 2015 được Quốc hội Khoá XIII, kỳ họp thứ 10 nước cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày, tháng, năm nào? Thời gian có hiệu lực thi hành?",
+  "A": "Ngày 26 tháng 11 năm 2013; có hiệu lực thi hành ngày 01\/3\/2016.",
+  "B": "Ngày 26 tháng 11 năm 2015; có hiệu lực thi hành ngày 01\/7\/2016.",
+  "C": "Ngày 26 tháng 11 năm 2014; có hiệu lực thi hành ngày 01\/8\/2016.",
+  "D": "Ngày 26 tháng 11 năm 2013; có hiệu lực thi hành ngày 01\/3\/2016.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "29",
+  "QUESTION": "Đồng chí cho biết Chỉ thị 34-CT\/TW của Bộ Chính trị về tiếp tục đổi mới công tác thi đua, khen thưởng ban hành ngày, tháng, năm nào?",
+  "A": "04\/05\/2014",
+  "B": "04\/07\/2014",
+  "C": "04\/10\/2014",
+  "D": "15\/04\/2014",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "30",
+  "QUESTION": "Đồng chí cho biết Thông tư 151\/2018\/TT-BQP của Bộ Quốc phòng quy định chi tiết và hướng dẫn thi đua, khen thưởng trong QĐNDVN ban hành ngày, tháng, năm nào?",
+  "A": "10\/12\/2018",
+  "B": "09\/12\/2018",
+  "C": "22\/10\/2018",
+  "D": "11\/12\/2018",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "31",
+  "QUESTION": "Thực hiện Thông tư 104\/2014\/TT-BQP ngày 13\/8\/2014 của Bộ Quốc phòng về quy định chế độ, định mức, tiêu chuẩn đời sống văn hóa, tinh thần trong Quân đội Nhân dân Việt Nam, cấp đại đội và tương đương được cấp bao nhiêu loại báo, tạp chí?",
+  "A": "10 loại",
+  "B": "11 loại",
+  "C": "12 loại",
+  "D": "13 loại",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "32",
+  "QUESTION": "Đồng chí cho biết Thông tư 199\/2016\/TT-BQP của Bộ Quốc phòng quy định và hướng dẫn tổ chức ngày kỷ niệm; nghi thức trao tặng, đón nhận hình thức khen thưởng, danh hiệu thi đua trong QĐNDVN ban hành ngày, tháng, năm nào?",
+  "A": "01\/10\/16",
+  "B": "05\/11\/16",
+  "C": "01\/12\/16",
+  "D": "02\/12\/16",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "33",
+  "QUESTION": "Luật Quốc phòng năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "08\/6\/2018",
+  "B": "22\/6\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/7\/2019",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "34",
+  "QUESTION": "Chỉ thị 917 của Bộ trưởng Bộ quốc phòng về tiêu chuẩn xây dựng đơn vị vững mạnh toàn diện có bao nhiêu nội dung?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "35",
+  "QUESTION": "Theo Luật Quốc phòng năm 2018, Lực lượng vũ trang nhân dân gồm những thành phần nào?",
+  "A": "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+  "B": "Quân đội nhân dân, Công an nhân dân và lực lượng dự bị động viên",
+  "C": "Bộ đội chủ lực, Bộ đội địa phương, Dân quân tự vệ và lực lượng dự bị động viên.",
+  "D": "Bộ đội chủ lực, Bộ đội địa phương và lực lượng dự bị động viên.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "36",
+  "QUESTION": "Theo Luật Quốc phòng năm 2018, Quân đội nhân dân được xác định gồm những thành phần nào?",
+  "A": "Bộ đội chủ lực, Bộ đội địa phương, Dân quân tự vệ lực.",
+  "B": "Bộ đội chủ lực, Bộ đội địa phương, Dân quân tự vệ lực và lực lượng dự bị động viên.",
+  "C": "Bộ đội địa phương, Dân quân tự vệ lực và lực lượng dự bị động viên.",
+  "D": "Bộ đội chủ lực, Bộ đội địa phương và lực lượng dự bị động viên.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "37",
+  "QUESTION": "Thông tư của Bộ Quốc phòng, ngày 10\/11\/2020 về quy định chế độ, định mức, tiêu chuẩn đời sống văn hóa, tinh thần trong Quân đội Nhân dân Việt Nam?",
+  "A": "Thông tư 138",
+  "B": "Thông tư 104",
+  "C": "Thông Tư 77",
+  "D": "Thông tư 02",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "38",
+  "QUESTION": "Theo quan điểm của Đảng ta, giữa đối tác và đối tượng có mối quan hệ như thế nào?",
+  "A": "Có sự đan xen và chuyển hóa lẫn nhau rất linh hoạt",
+  "B": "Có quan hệ ràng buộc lẫn nhau",
+  "C": "Có quan hệ độc lập với nhau",
+  "D": "Có quan hệ đối lập nhau",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "39",
+  "QUESTION": "Việt Nam có quan hệ như thế nào với Lào?",
+  "A": "Quan hệ hữu nghị truyền thống, đoàn kết đặc biệt, hợp tác toàn diện",
+  "B": "Quan hệ hữu nghị truyền thống, hợp tác toàn diện",
+  "C": "Quan hệ hữu nghị truyền thống, hợp tác nhiều mặt",
+  "D": "Quan hệ đối tác chiến lược toàn diện",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "40",
+  "QUESTION": "Phương châm 16 chữ chỉ đạo mối quan hệ Việt Nam - Trung Quốc được lãnh đạo cấp cao hai nước xác định là gì?",
+  "A": "“Láng giềng thân thiện, hợp tác toàn diện, ổn định lâu dài, hướng tới tương lai”",
+  "B": "“Láng giềng hữu nghị, hợp tác chiến lược, ổn định lâu dài, hướng tới tương lai”",
+  "C": "“Láng giềng hữu nghị, hợp tác toàn diện, ổn định lâu dài, hướng tới tương lai”",
+  "D": "“Láng giềng hữu nghị, đối tác toàn diện, ổn định lâu dài, hướng tới tương lai”",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "41",
+  "QUESTION": "Tinh thần “4 tốt” chỉ đạo mối quan hệ Việt Nam - Trung Quốc được sắp xếp theo thứ tự như thế nào?",
+  "A": "“Láng giềng tốt, bạn bè tốt, đồng chí tốt, đối tác tốt”",
+  "B": "“Láng giềng tốt, đối tác tốt, đồng chí tốt, bạn bè tốt”",
+  "C": "“Láng giềng tốt, bạn bè tốt, đối tác tốt, đồng chí tốt”",
+  "D": "“Láng giềng tốt, đồng chí tốt, bạn bè tốt, đối tác tốt”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "42",
+  "QUESTION": "Việt Nam có quan hệ như thế nào với Mỹ?",
+  "A": "Quan hệ đối tác chiến lược",
+  "B": "Quan hệ đối tác toàn diện",
+  "C": "Quan hệ hợp tác nhiều mặt",
+  "D": "Quan hệ đối tác chiến lược toàn diện",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "43",
+  "QUESTION": "Đồng chí cho biết Việt Nam có các vùng biển nào?",
+  "A": "Nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa",
+  "B": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa",
+  "C": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải và thềm lục địa",
+  "D": "Lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "44",
+  "QUESTION": "Theo Công ước Liên Hợp Quốc về Luật biển 1982 có mấy cách xác định Đường cơ sở?",
+  "A": "4",
+  "B": "3",
+  "C": "2",
+  "D": "1",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "45",
+  "QUESTION": "Hai điểm không thể trong quan hệ Việt Nam – Trung Quốc là gì?",
+  "A": "Từ bỏ mục tiêu độc lập dân tộc và chủ nghĩa xã hội; từ bỏ mối quan hệ láng giềng với Trung Quốc.",
+  "B": "Buông lỏng tinh thần cảnh giác cách mạng; từ bỏ mối quan hệ láng giềng với Trung Quốc.",
+  "C": "Từ bỏ mục tiêu độc lập dân tộc và chủ nghĩa xã hội; buông lỏng tinh thần cảnh giác cách mạng.",
+  "D": "Buông lỏng tinh thần cảnh giác cách mạng; đánh đổi lợi ích quốc gia dân tộc.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "46",
+  "QUESTION": "Bốn việc không được trong quan hệ Việt Nam – Trung Quốc là gì?",
+  "A": "Đối đầu, cực đoan trong quan hệ quốc tế; liên minh với nước này để chống nước khác; buông lỏng tinh thần cảnh giác cách mạng; đánh đổi lợi ích quốc gia dân tộc.",
+  "B": "Khuyến khích chống phá Trung Quốc; buông lỏng tinh thần cảnh giác cách mạng; mơ hồ đối tượng, đối tác trong quan hệ quốc tế; xa rời luật pháp quốc tế.",
+  "C": "Đối đầu, cực đoan trong quan hệ quốc tế; liên minh với nước này để chống nước khác; đối đầu, cực đoan trong quan hệ quốc tế; xa rời luật pháp quốc tế.",
+  "D": "Khuyến khích chống phá Trung Quốc; đối đầu, cực đoan trong quan hệ quốc tế; liên minh với nước này để chống nước khác;",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "47",
+  "QUESTION": "Trong giải quyết những mâu thuẫn trên biển hiện nay cần thực hiện tốt phương châm mấy K là gì?",
+  "A": "6K",
+  "B": "7K",
+  "C": "8K",
+  "D": "9K",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "48",
+  "QUESTION": "Phương châm chỉ đạo nào được xác định là “sợi chỉ đỏ” trong công tác đối ngoại của Đảng, Nhà nước ta là gì?",
+  "A": "Thực hiện nhất quán đường lối đối ngoại độc lập, tự chủ, hòa bình, hợp tác và phát triển",
+  "B": "Chủ động và tích cực hội nhập quốc tế",
+  "C": "Là bạn, là đối tác tin cậy và thành viên có trách nhiệm của cộng đồng quốc tế",
+  "D": "Đa dạng hóa, đa phương hóa trong quan hệ đối ngoại",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "49",
+  "QUESTION": "Việt Nam đã thiết lập quan hệ đối tác chiến lược toàn diện với 3 quốc gia, đó là:",
+  "A": "CHLB Nga và CHND Trung Hoa; Campuchia.",
+  "B": "CHLB Nga và CHND Lào; Cộng hòa Ấn Độ.",
+  "C": "CHLB Nga và CHND Trung Hoa; Cộng hòa Ấn Độ.",
+  "D": "Tất cả đều sai",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "50",
+  "QUESTION": "Quần đảo Trường Sa và quần đảo Hoàng Sa thuộc quản lý của các địa phương nào?",
+  "A": "Trường Sa - Tỉnh Khánh Hòa; Hoàng Sa - Tỉnh Bình Thuận.",
+  "B": "Trường Sa - Tỉnh Khánh Hòa; Hoàng Sa - Thành phố Đà Nẵng.",
+  "C": "Trường Sa -Tỉnh Bình Thuận; Hoàng Sa - Thành phố Đà Nẵng.",
+  "D": "Trường Sa - Tỉnh Khánh Hòa; Hoàng Sa - Tỉnh Phú Yên.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "51",
+  "QUESTION": "Mỹ chủ trương, xây dựng “Xã hội dân sự” ở Việt Nam theo cấu trúc?",
+  "A": "Nhóm doanh nhân, doanh nghiệp; nhóm những người dễ bị tổn thương.",
+  "B": "Nhóm lãnh đạo tiềm năng; nhóm doanh nhân, doanh nghiệp; nhóm những người dễ bị tổn thương.",
+  "C": "Nhóm lãnh đạo tiềm năng, nhóm cơ hội chính trị, nhóm những người dễ bị tổn thương.",
+  "D": "Nhóm lãnh đạo tiềm năng, nhóm những người dễ bị tổn thương.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "52",
+  "QUESTION": "Luật An ninh mạng năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "12\/6\/18",
+  "B": "1\/7\/18",
+  "C": "1\/1\/19",
+  "D": "1\/7\/19",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "53",
+  "QUESTION": "Bố cục của Luật An ninh mạng năm 2018 được thể hiện như thế nào?",
+  "A": "Gồm 7 chương, 43 điều.",
+  "B": "Gồm 7 chương, 45 điều.",
+  "C": "Gồm 8 chương, 43 điều.",
+  "D": "Gồm 8 chương, 45 điều.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "54",
+  "QUESTION": "Luật An ninh mạng năm 2018 quy định bao nhiêu nguyên tắc bảo vệ an ninh mạng cần phải tuân thủ?",
+  "A": "6",
+  "B": "7",
+  "C": "8",
+  "D": "9",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "55",
+  "QUESTION": "Luật An ninh mạng năm 2018 quy định bao nhiêu nhóm thông tin có nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng; làm nhục, vu khống; xâm phạm trật tự quản lý kinh tế?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "56",
+  "QUESTION": "Biển Việt Nam chiếm khoảng bao nhiêu % diện tích biển Đông?",
+  "A": "29%",
+  "B": "30%",
+  "C": "31%",
+  "D": "32%",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "57",
+  "QUESTION": "Nước ta có bao nhiêu tỉnh, thành phố giáp biển?",
+  "A": "32 tỉnh, thành phố giáp biển",
+  "B": "30 tỉnh, thành phố giáp biển",
+  "C": "29 tỉnh, thành phố giáp biển",
+  "D": "28 tỉnh, thành phố giáp biển",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "58",
+  "QUESTION": "Điền vào chỗ trống: “Vùng nội thủy là vùng biển nằm ở phía trong đường cơ sở. Vùng nước nội thủy có chế độ pháp lý như ...... trên đất liền, người và tàu thuyền nước ngoài muốn vào phải … và phải được sự đồng ý của Việt Nam”.",
+  "A": "Ở \/ thông báo",
+  "B": "Lãnh thổ \/ xin phép",
+  "C": "Ở \/ Báo cáo",
+  "D": "Lãnh thổ \/ thông báo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "59",
+  "QUESTION": "Ranh giới ngoài của Lãnh hải là?",
+  "A": "Ranh giới quốc gia trên biển",
+  "B": "Đường ranh giới quốc gia trên biển",
+  "C": "Biên giới quốc gia trên biển",
+  "D": "Pháp giới quốc gia trên biển",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "60",
+  "QUESTION": "Điền vào chỗ trống: \n“Vùng đặc quyền kinh tế, là vùng biển rộng … hải lý tính từ đường cơ sở trở ra. Việt Nam có quyền chủ quyền tuyệt đối với mọi loại tài nguyên thiên nhiên và các hoạt động kinh tế nhằm … , sử dụng các tài nguyên thiên nhiên …”?",
+  "A": "202 \/ kiểm soát",
+  "B": "200 \/ khai thác",
+  "C": "205 \/ quy hoạch",
+  "D": "201 \/ làm mới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "61",
+  "QUESTION": "Tổng diện tích của các quần đảo lớn, nhỏ ở Việt Nam là bao nhiêu?",
+  "A": "1.600km2",
+  "B": "1.700km2",
+  "C": "1.800km2",
+  "D": "1.900km2",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "62",
+  "QUESTION": "Vùng biển ở Vịnh Bắc Bộ có bao nhiêu đảo?",
+  "A": "Hơn 2.000 đảo",
+  "B": "Ít hơn 2.000 đảo",
+  "C": "Hơn 2.300 đảo",
+  "D": "Ít hơn 2.300 đảo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "63",
+  "QUESTION": "Tên các cụm đảo của quần đảo Trường Sa?",
+  "A": "Song Tử, Thị Tứ",
+  "B": "Loại Ta, Nam Yết, Thám Hiểm",
+  "C": "Sinh Tồn, Trường Sa, Bình Nguyên",
+  "D": "Tất cả đều đúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "64",
+  "QUESTION": "Hiện nay Việt Nam đang quản lý bao nhiêu đảo nổi và đảo chìm?",
+  "A": "20 đảo nổi và đảo chìm",
+  "B": "21 đảo nổi và đảo chìm",
+  "C": "22 đảo nổi và đảo chìm",
+  "D": "23 đảo nổi và đảo chìm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "65",
+  "QUESTION": "Việt Nam và Trung Quốc thống nhất một đường phân định với bao nhiêu điểm kéo dài từ cửa sông Bắc Luân (phía Bắc) đến cửa vịnh phía Nam?",
+  "A": "20 điểm",
+  "B": "21 điểm",
+  "C": "22 điểm",
+  "D": "Tất cả đều sai",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "66",
+  "QUESTION": "Theo đồng chí, phương án nào sau đây là đúng?",
+  "A": "Vùng nội thủy, là vùng biển ở phía trong của đường cơ sở.",
+  "B": "Vùng nội thủy, là vùng biển ở phía ngoài của đường cơ sở.",
+  "C": "Vùng nội thủy, là vùng biển nằm song song với đường cơ sở.",
+  "D": "Vùng nội thủy, là vùng biển nằm cắt ngang của đường cơ sở.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "67",
+  "QUESTION": "Luật Bảo vệ bí mật nhà nước được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua khi nào?",
+  "A": "01\/07\/2018",
+  "B": "15\/11\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/07\/2019",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "68",
+  "QUESTION": "Luật Bảo vệ bí mật nhà nước 2018 được bố cục như thế nào?",
+  "A": "Gồm 4 chương, 28 điều.",
+  "B": "Gồm 5 chương, 28 điều.",
+  "C": "Gồm 5 chương, 38 điều.",
+  "D": "Gồm 5 chương, 43 điều.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "69",
+  "QUESTION": "Luật Bảo vệ bí mật nhà nước 2018 quy định thời hạn bảo vệ bí mật nhà nước đối với độ Tuyệt mật là:",
+  "A": "10 năm",
+  "B": "20 năm",
+  "C": "25 năm",
+  "D": "30 năm",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "70",
+  "QUESTION": "Luật Bảo vệ bí mật nhà nước 2018 quy định thời hạn bảo vệ bí mật nhà nước đối với độ Tối mật là:",
+  "A": "10 năm",
+  "B": "20 năm",
+  "C": "25 năm",
+  "D": "30 năm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "71",
+  "QUESTION": "Luật Bảo vệ bí mật nhà nước 2018 quy định thời hạn bảo vệ bí mật nhà nước đối với độ Mật là:",
+  "A": "10 năm",
+  "B": "20 năm",
+  "C": "25 năm",
+  "D": "30 năm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "72",
+  "QUESTION": "Luật Cảnh sát biển Việt Nam năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "01\/07\/2018",
+  "B": "19\/11\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/07\/2019",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "73",
+  "QUESTION": "Luật Cảnh sát biển Việt Nam năm 2018 được bố cục như thế nào?",
+  "A": "Gồm 08 Chương, với 37 điều",
+  "B": "Gồm 08 Chương, với 39 điều",
+  "C": "Gồm 08 Chương, với 41 điều",
+  "D": "Gồm 08 Chương, với 43 điều",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "74",
+  "QUESTION": "Luật Cảnh sát biển Việt Nam quy định vị trí Cảnh sát biển Việt Nam như thế nào?",
+  "A": "Là lực lượng chuyên trách của nhà nước, làm nòng cốt thực thi pháp luật trên biển.",
+  "B": "Là lực lượng vũ trang nhân dân, lực lượng chuyên trách của nhà nước thực thi pháp luật trên biển.",
+  "C": "Là lực lượng vũ trang nhân dân, lực lượng bán chuyên trách của nhà nước, làm nòng cốt thực thi pháp luật trên biển.",
+  "D": "Là lực lượng vũ trang nhân dân, lực lượng chuyên trách của nhà nước, làm nòng cốt thực thi pháp luật trên biển.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "75",
+  "QUESTION": "Luật Cảnh sát biển Việt Nam năm 2018 quy định Cảnh sát biển Việt Nam có bao nhiêu chức năng?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "76",
+  "QUESTION": "Luật Cảnh sát biển Việt Nam năm 2018 quy định Cảnh sát biển Việt Nam có bao nhiêu nhóm nhiệm vụ?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "77",
+  "QUESTION": "Luật Cảnh sát biển Việt Nam năm 2018 quy định Cảnh sát biển Việt Nam có bao nhiêu quyền hạn?",
+  "A": "7",
+  "B": "8",
+  "C": "9",
+  "D": "10",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "78",
+  "QUESTION": "Luật phòng, chống tham nhũng năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "20\/11\/2018",
+  "B": "30\/12\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/07\/2019",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "79",
+  "QUESTION": "Luật Phòng, chống tham nhũng năm 2018 được bố cục ra sao?",
+  "A": "Có 8 chương với 86 điều",
+  "B": "Có 9 chương với 86 điều",
+  "C": "Có 10 chương với 96 điều",
+  "D": "Có 11 chương với 96 điều",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "80",
+  "QUESTION": "Tuyên bố về ứng xử của các bên ở Biển Đông (viết tắt DOC) được ký ngày, tháng, năm nào và diễn ra ở đâu?",
+  "A": "Ngày 04\/11\/2002 tại Phnom Penh, Campuchia nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "B": "Ngày 04\/11\/2002 tại Thái Lan nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "C": "Ngày 04\/11\/2003 tại Việt Nam nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "D": "Ngày 04\/11\/2004 tại Philipines nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "81",
+  "QUESTION": "Chọn phát biểu không đúng về Vùng đặc quyền kinh tế biển Việt Nam theo Luật biển Quốc tế năm 1982?",
+  "A": "Là vùng biển rộng 200 hải lý tính từ đường cơ sở trở ra.",
+  "B": "Là vùng biển Việt Nam có quyền chủ quyền đối với mọi loại tài nguyên thiên nhiên và các hoạt động kinh tế nhằm khai thác, sử dụng các tài nguyên thiên nhiên.",
+  "C": "Là vùng biển không được xây dựng, thiết lập các công trình nhân tạo, nghiên cứu khoa học, nhằm bảo vệ môi trường biển.",
+  "D": "Là vùng biển được tự do hàng hải, tự do đặt dây cáp và ống dẫn ngầm.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "82",
+  "QUESTION": "Điền vào chỗ trống:\n“Vùng tiếp giáp lãnh hải, là vùng biển rộng … hải lý, được tính từ ranh giới ngoài của lãnh hải trở ra, Việt Nam có quyền …, ngăn ngừa và trừng trị những vi phạm về nhập cảnh, hải quan, … và y tế của người và tàu thuyền nước ngoài”.",
+  "A": "12 \/ kiểm soát \/ thuế",
+  "B": "12 \/ áp đặt \/ thu thuế",
+  "C": "13 \/ kiểm soát \/ thuế",
+  "D": "13 \/ áp đặt \/ thu thuế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "83",
+  "QUESTION": "Bộ luật Hình sự năm 2015 (Sửa đổi, bổ sung năm 2017) quy định tội phạm rất nghiêm trọng mức cao nhất của khung hình phạt là gì?",
+  "A": "Tù chung thân",
+  "B": "Tử hình",
+  "C": "15 năm tù",
+  "D": "20 năm tù",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "84",
+  "QUESTION": "Cuộc cách mạng công nghiệp lần thứ 2 là?",
+  "A": "Cách mạng số",
+  "B": "Điện khí hoá",
+  "C": "Cơ khí hoá",
+  "D": "Tự động hoá",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "85",
+  "QUESTION": "Cuộc cách mạng công nghiệp lần thứ tư được nhận diện lần đầu tiên vào năm nào?",
+  "A": "2012",
+  "B": "2014",
+  "C": "2016",
+  "D": "2017",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "86",
+  "QUESTION": "Theo Chủ tịch Hồ Chí Minh, phương pháp công tác dân vận có ba việc quan trọng để thực hiện, đến nay vẫn còn nguyên giá trị, đó là:",
+  "A": "Giúp đỡ dân, gương mẫu trước dân và quan tâm giải quyết lợi ích của dân.",
+  "B": "Tuyên truyền cho dân, gương mẫu trước dân và học hỏi dân.",
+  "C": "Tuyên truyền cho dân, gương mẫu trước dân và quan tâm giải quyết lợi ích của dân.",
+  "D": "Tuyên truyền cho dân, gương mẫu trước dân và giúp đỡ dân.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "87",
+  "QUESTION": "Bác Hồ ra đi tìm đường cứu nước, ngày, tháng, năm nào ?",
+  "A": "06\/04\/2011",
+  "B": "06\/05\/2011",
+  "C": "06\/06\/2011",
+  "D": "06\/07\/2011",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "88",
+  "QUESTION": "Theo đồng chí, phương án nào sau đây đúng nhất?",
+  "A": "“Tự diễn biến” là sự nối tiếp của quá trình “tự chuyển hóa”",
+  "B": "“Tự diễn biến” và “tự chuyển hóa” là 2 quá trình song song",
+  "C": "“Tự chuyển hóa” là sự nối tiếp của quá trình “tự diễn biến”",
+  "D": "“Tự diễn biến” và “tự chuyển hóa” là 2 quá trình tách biệt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "89",
+  "QUESTION": "Theo đồng chí, phương án nào sau đây là đúng?",
+  "A": "“Tự diễn biến”, “tự chuyển hóa” không phải là “diễn biến hòa bình”",
+  "B": "“Tự diễn biến”, “tự chuyển hóa” chính là “diễn biến hòa bình”",
+  "C": "“Diễn biến hòa bình” chính là “tự diễn biến”.",
+  "D": "“Diễn biến hòa bình” chính là “tự chuyển hoá”.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "90",
+  "QUESTION": "“Tự diễn biến”, “tự chuyển hóa” có mối quan hệ như thế nào với “diễn biến hòa bình”?",
+  "A": "Có mối quan hệ tương hỗ, tác động qua lại với nhau",
+  "B": "Có mối quan hệ độc lập với nhau",
+  "C": "Là hai quá trình song song với nhau",
+  "D": "Tất cả đều sai",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "91",
+  "QUESTION": "“Tự diễn biến”, “tự chuyển hoá” về tư tưởng chính trị là gì?",
+  "A": "Là những thay đổi theo hướng phủ định chế độ xã hội chủ nghĩa",
+  "B": "Là sự giảm dần niềm tin vào chân lý, tính đúng đắn của những tư tưởng, quan điểm pháp quyền của chủ nghĩa Mác - Lênin, của Đảng Cộng sản Việt Nam",
+  "C": "Là hiện tượng sùng bái tư tưởng đạo đức, lối sống tư sản",
+  "D": "Tất cả đều sai",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "92",
+  "QUESTION": "Hội nghị Trung ương 4 khóa XII Trung ương đã chỉ ra bao nhiêu biểu hiện suy thoái về tư tưởng chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ?",
+  "A": "7",
+  "B": "9",
+  "C": "17",
+  "D": "27",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "93",
+  "QUESTION": "Nguyên tắc rèn luyện đạo đức cách mạng theo tư tưởng Hồ Chí Minh?",
+  "A": "Tu dưỡng đạo đức suốt đời",
+  "B": "Nói đi đôi với làm, phải nêu gương về đạo đức",
+  "C": "“Xây” đi đôi với “chống”",
+  "D": "Tất cả các ý trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "94",
+  "QUESTION": "Đồng chí cho biết Chỉ thị 87 của Thường vụ Quân ủy Trung ương về nội dung gì?",
+  "A": "Đẩy mạnh học tập và làm theo tấm gương đạo đức Hồ Chí Minh trong Đảng bộ Quân đội và toàn quân",
+  "B": "Tiếp tục đẩy mạnh học tập và làm theo tấm gương đạo đức Hồ Chí Minh trong Đảng bộ Quân đội và toàn quân",
+  "C": "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh trong Đảng bộ Quân đội và toàn quân",
+  "D": "Đẩy mạnh học tập và làm theo tư tưởng, tấm gương đạo đức Hồ Chí Minh trong Đảng bộ Quân đội và toàn quân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "95",
+  "QUESTION": "Hội nghị Trung ương 4 khoá XII của Đảng chỉ ra: \n“xa rời tôn chỉ, mục đích của Đảng; không kiên định con đường đi lên chủ nghĩa xã hội”\nlà biểu hiện suy thoái về nội dung gì sau đây?",
+  "A": "Biểu hiện suy thoái về tư tưởng chính trị",
+  "B": "Biểu hiện suy thoái về đạo đức",
+  "C": "Biểu hiện suy thoái về lối sống",
+  "D": "Biểu hiện “tự diễn biến”, “tự chuyển hóa”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "96",
+  "QUESTION": "Hội nghị Trung ương 4 khoá XII của Đảng chỉ ra:\n“phản bác, phủ nhận chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh và các nguyên tắc tổ chức của Đảng, nhất là nguyên tắc tập trung dân chủ; đòi thực hiện “đa nguyên, đa đảng”\nlà biểu hiện suy thoái về nội dung gì sau đây?",
+  "A": "Biểu hiện suy thoái về tư tưởng chính trị",
+  "B": "Biểu hiện suy thoái về đạo đức",
+  "C": "Biểu hiện suy thoái về lối sống",
+  "D": "Biểu hiện “tự diễn biến”, “tự chuyển hóa”",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "97",
+  "QUESTION": "Hội nghị Trung ương 4 khoá XII của Đảng chỉ ra:\n“phủ nhận vai trò lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng đối với lực lượng vũ trang; đòi “phi chính trị hoá” quân đội và công an…”\nlà biểu hiện suy thoái về nội dung gì sau đây?",
+  "A": "Biểu hiện suy thoái về tư tưởng chính trị",
+  "B": "Biểu hiện suy thoái về đạo đức",
+  "C": "Biểu hiện suy thoái về lối sống",
+  "D": "Biểu hiện “tự diễn biến”, “tự chuyển hóa”",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "98",
+  "QUESTION": "Hội nghị Trung ương 4 khoá XII của Đảng chỉ ra: \n“quan liêu, xa rời quần chúng, không sâu sát cơ sở, thiếu kiểm tra, đôn đốc…”\nlà biểu hiện suy thoái về nội dung gì sau đây?",
+  "A": "Biểu hiện suy thoái về tư tưởng chính trị",
+  "B": "Biểu hiện suy thoái về đạo đức, lối sống",
+  "C": "Biểu hiện “tự chuyển hóa”",
+  "D": "Biểu hiện “tự diễn biến”",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "99",
+  "QUESTION": "Trong quan điểm chỉ đạo của Nghị quyết số 04-NQ\/TW ngày 30\/10\/2016 (Hội nghị lần thứ 4 Ban chấp hành Trung ương Đảng khoá XII) khẳng định điều gì sau đây?",
+  "A": "“Xây” là nhiệm vụ cơ bản, chiến lược, lâu dài; “chống” là nhiệm vụ quan trọng, cấp bách",
+  "B": "“Xây” là nhiệm vụ quan trọng, cấp bách; “chống” là nhiệm vụ cơ bản, chiến lược, lâu dài",
+  "C": "“Xây” là nhiệm vụ lâu dài; “chống” là nhiệm vụ cấp bách",
+  "D": "“Xây” và “chống” đều là nhiệm vụ quan trọng, cấp bách",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "100",
+  "QUESTION": "Đâu là đáp án đúng nhất về phong cách lãnh đạo của người đứng đầu theo tư tưởng, đạo đức, phong cách Hồ Chí Minh?",
+  "A": "Phong cách dân chủ, quần chúng, cách mạng, khoa học, năng động, sáng tạo.",
+  "B": "Phong cách dân chủ, lãnh đạo sâu sát, trọng dụng người tài, cách mạng, khoa học, năng động, sáng tạo.",
+  "C": "Phong cách dân chủ, nêu gương, khoa học, sáng tạo, quyết đoán, sâu sát, khéo dùng người, trọng người tài.",
+  "D": "Phong cách dân chủ, nhưng quyết đoán, lãnh đạo sâu sát, khéo dùng người, trọng dụng người tài, cách mạng, khoa học, năng động, sáng tạo",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "101",
+  "QUESTION": "Điền vào chỗ trống từ còn thiếu trong câu nói sau của Chủ tịch Hồ Chí Minh:\n“Dễ mười lần không …… cũng chịu. Khó trăm lần …… liệu cũng xong”",
+  "A": "Dân - Đảng",
+  "B": "Đảng - Đảng",
+  "C": "Dân - Dân",
+  "D": "Quân - Quân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "102",
+  "QUESTION": "Điền vào chỗ trống từ còn thiếu trong câu nói sau của Chủ tịch Hồ Chí Minh:\n“Trước mặt quần chúng, không phải ta cứ viết lên trán chữ “…….” mà ta được họ yêu mến. Quần chúng chỉ quý mến những người có tư cách, đạo đức. Muốn hướng dẫn nhân dân, mình phải làm mực thước cho người ta bắt chước”.",
+  "A": "Cán bộ",
+  "B": "Đảng viên",
+  "C": "Lãnh đạo",
+  "D": "Cộng sản",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "103",
+  "QUESTION": "Điền vào chỗ trống phần còn thiếu lời dạy của Chủ tịch Hồ Chí Minh:\n“Dân ta phải biết sử ta, cho tường ………… nước nhà Việt Nam”",
+  "A": "gốc gác",
+  "B": "gốc tích",
+  "C": "lịch sử",
+  "D": "nòi giống",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "104",
+  "QUESTION": "Theo Chủ tịch Hồ Chí Minh, đấu tranh chống chủ nghĩa cá nhân là gì ?",
+  "A": "Chỉ bảo vệ lợi ích tập thể",
+  "B": "Loại bỏ lợi ích cá nhân",
+  "C": "Không giày xéo lên lợi ích cá nhân",
+  "D": "Bảo vệ lợi ích cá nhân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "105",
+  "QUESTION": "Xây dựng tình đồng chí, đồng đội trong Quân đội nhân dân Việt Nam theo tư tưởng, đạo đức, phong cách Hồ Chí Minh có mấy yêu cầu?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "106",
+  "QUESTION": "Điểm mới đầu tiên của Chỉ thị Số 05-CT\/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh là gì?",
+  "A": "Cách làm mới hơn; thời gian dài hơn.",
+  "B": "Nâng lên ở vị trí cao hơn, tầm chiến lược hơn.",
+  "C": "Yêu cầu cao hơn; nội hàm rộng hơn.",
+  "D": "Nội dung sâu hơn; tổ chức chặt chẽ hơn, quyết liệt hơn.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "107",
+  "QUESTION": "Chỉ thị số 05-CT\/TW ngày 05\/5\/2016 của Bộ Chính trị về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh gồm mấy nội dung chủ yếu về tư tưởng Hồ Chí Minh?",
+  "A": "9",
+  "B": "8",
+  "C": "7",
+  "D": "6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "108",
+  "QUESTION": "Chỉ thị số 27-CT\/TW ngày 10\/01\/2019 của Bộ Chính trị yêu cầu các cấp ủy, tổ chức đảng, chính quyền và cán bộ, đảng viên quán triệt và thực hiện bao nhiêu nhiệm vụ?",
+  "A": "8",
+  "B": "7",
+  "C": "6",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "109",
+  "QUESTION": "Chỉ thị 87-CT\/QUTW của Thường vụ Quân ủy Trung ương về việc đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh trong Đảng bộ Quân đội và toàn quân, có mấy nội dung?",
+  "A": "6",
+  "B": "5",
+  "C": "8",
+  "D": "7",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "110",
+  "QUESTION": "Chỉ thị 855-CT\/QUTW ngày 12\/8\/2019 của Thường vụ Quân ủy Trung ương xác định bao nhiêu nội dung xứng danh “Bộ đội Cụ Hồ” thời kỳ mới?",
+  "A": "7",
+  "B": "4",
+  "C": "6",
+  "D": "5",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "111",
+  "QUESTION": "Nguyên tắc xây dựng đạo đức mới theo tư tưởng Hồ Chí Minh?",
+  "A": "Phải có tinh thần quốc tế trong sáng",
+  "B": "Nói đi đôi với làm, phải nêu gương về đạo đức",
+  "C": "Phải cần, kiệm, liêm, chính, chí công vô tư",
+  "D": "Phải yêu thương con người, sống có nghĩa, có tình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "112",
+  "QUESTION": "Chỉ thị 855-CT\/QUTW ngày 12\/8\/2019 của Thường vụ Quân ủy Trung ương xác định chuẩn mực thứ ba về phẩm chất “Bộ Đội Cụ Hồ” thời kỳ mới là gì?",
+  "A": "Có văn hóa, tri thức khoa học, trình độ quân sự, năng lực, phương pháp, tác phong công tác và sức khỏe tốt đáp ứng yêu cầu nhiệm vụ.",
+  "B": "Bản lĩnh chính trị vững vàng, động cơ trong sáng, trách nhiệm cao.",
+  "C": "Đạo đức, lối sống trong sạch lành mạnh.",
+  "D": "Thực hành dân chủ, kỷ luật tự giác, nghiêm minh.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "113",
+  "QUESTION": "“Khiêm tốn, nhã nhặn, lịch thiệp” là đặc trưng thuộc phong cách nào của Hồ Chí Minh?",
+  "A": "Phong cách ứng xử.",
+  "B": "Phong cách sống.",
+  "C": "Phong cách làm việc.",
+  "D": "Phong cách tư duy.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "114",
+  "QUESTION": "Nội dung nào thuộc một trong những vấn đề chủ yếu về tư tưởng Hồ Chí Minh được xác định trong chỉ thị số 05-CT\/TW của Bộ Chính trị về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh?",
+  "A": "Về độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+  "B": "Về giải phóng dân tộc, giải phóng giai cấp, giải phóng xã hội và con người.",
+  "C": "Về kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+  "D": "Cả 3 nội dung trên.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "115",
+  "QUESTION": "“Phong cách quần chúng, luôn luôn gần dân, tin dân, trọng dân, dựa vào dân, gắn bó với nhân dân” thuộc phong cách nào của Hồ Chí Minh?",
+  "A": "Phong cách sống.",
+  "B": "Phong cách ứng xử.",
+  "C": "Phong cách tư duy.",
+  "D": "Phong cách làm việc.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "116",
+  "QUESTION": "Đặc trưng riêng có trong tình đồng chí, đồng đội của \"Bộ đội Cụ Hồ\" là gì?",
+  "A": "Tôn trọng và tin tưởng lẫn nhau.",
+  "B": "Yêu thương, giúp đỡ nhau lúc thường cũng như lúc chiến đấu.",
+  "C": "Đoàn kết hiệp đồng, lập công tập thể.",
+  "D": "Cùng chung mục tiêu, lý tưởng chiến đấu.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "117",
+  "QUESTION": "Đặc trưng cơ bản nhất thể hiện sâu đậm về tình đồng chí, đồng đội trong Quân đội nhân dân Việt Nam?",
+  "A": "Yêu thương, giúp đỡ nhau lúc thường cũng như lúc chiến đấu.",
+  "B": "Tôn trọng và tin tưởng lẫn nhau.",
+  "C": "Cùng chung mục tiêu, lý tưởng chiến đấu.",
+  "D": "Đoàn kết hiệp đồng, lập công tập thể.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "118",
+  "QUESTION": "Chỉ thị 87-CT\/QUTW của Thường vụ Quân ủy Trung ương về việc đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh phân công chỉ đạo thực hiện như thế nào?",
+  "A": "Cấp ủy các cấp, trực tiếp là ban thường vụ cấp ủy, đồng chí bí thư cấp ủy chỉ đạo.",
+  "B": "Cấp ủy các cấp, đồng chí bí thư cấp ủy chỉ đạo.",
+  "C": "Ban thường vụ cấp ủy, đồng chí bí thư cấp ủy chỉ đạo.",
+  "D": "Cấp ủy, chỉ huy các cấp, trực tiếp là ban thường vụ cấp ủy, đồng chí bí thư cấp ủy chỉ đạo",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "119",
+  "QUESTION": "Chỉ thị 855-CT\/QUTW ngày 12\/8\/2019 của Thường vụ Quân ủy Trung ương xác định chuẩn mực thứ nhất về phẩm chất “Bộ Đội Cụ Hồ” thời kỳ mới là gì?",
+  "A": "Đạo đức, lối sống trong sạch lành mạnh.",
+  "B": "Bản lĩnh chính trị vững vàng, động cơ trong sáng, trách nhiệm cao.",
+  "C": "Thực hành dân chủ, kỷ luật tự giác, nghiêm minh.",
+  "D": "Có văn hóa, tri thức khoa học, trình độ quân sự, năng lực, phương pháp, tác phong công tác và sức khỏe tốt đáp ứng yêu cầu nhiệm vụ.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "120",
+  "QUESTION": "Chỉ thị 855-CT\/QUTW ngày 12\/8\/2019 của Thường vụ Quân ủy Trung ương\n  xác định chuẩn mực thứ hai về phẩm chất “Bộ Đội Cụ Hồ” thời kỳ mới là gì?",
+  "A": "Thực hành dân chủ, kỷ luật tự giác, nghiêm minh.",
+  "B": "Bản lĩnh chính trị vững vàng, động cơ trong sáng, trách nhiệm cao.",
+  "C": "Có văn hóa, tri thức khoa học, trình độ quân sự, năng lực, phương pháp, tác phong công tác và sức khỏe tốt đáp ứng yêu cầu nhiệm vụ.",
+  "D": "Đạo đức, lối sống trong sạch lành mạnh",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "121",
+  "QUESTION": "Chỉ thị số 27-CT\/TW ngày 10\/01\/2019 của Bộ Chính trị \n yêu cầu các cấp ủy, tổ chức đảng, chính quyền và cán bộ, đảng viên \n quán triệt và thực hiện bao nhiêu nhiệm vụ?",
+  "A": "8",
+  "B": "7",
+  "C": "6",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "122",
+  "QUESTION": "Chỉ thị 855-CT\/QUTW ngày 12\/8\/2019 của \n Thường vụ Quân ủy Trung ương xác định \n chuẩn mực thứ tư về phẩm chất “Bộ Đội Cụ Hồ” thời kỳ mới là gì?",
+  "A": "Đạo đức, lối sống trong sạch lành mạnh.",
+  "B": "Thực hành dân chủ, kỷ luật tự giác, nghiêm minh.",
+  "C": "Có văn hóa, tri thức khoa học, trình độ quân sự, năng lực, phương pháp, tác phong công tác và sức khỏe tốt đáp ứng yêu cầu nhiệm vụ.",
+  "D": "Bản lĩnh chính trị vững vàng, động cơ trong sáng, trách nhiệm cao.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "123",
+  "QUESTION": "Sự cần thiết phải nâng cao trình độ, năng lực, phương pháp, tác phong công tác của quân nhân, phấn đấu xứng danh “Bộ đội Cụ Hồ” trong thời kỳ mới?",
+  "A": "Từ yêu cầu, nhiệm vụ của cách mạng, quân đội trong tình hình mới.",
+  "B": "Từ vị trí, vai trò của trình độ, năng lực, phương pháp, tác phong công tác của quân nhân.",
+  "C": "Từ thực trạng trình độ, năng lực, phương pháp, tác phong công tác của quân nhân.",
+  "D": "Cả 3 nội dung trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "124",
+  "QUESTION": "Phương pháp công tác dân vận theo tư tưởng Hồ Chí Minh là gì?",
+  "A": "Giúp đỡ dân, gương mẫu trước dân và quan tâm giải quyết lợi ích của dân.",
+  "B": "Học hỏi ở nhân dân.",
+  "C": "Tuyên truyền cho dân, gương mẫu trước dân và quan tâm giải quyết lợi ích của dân.",
+  "D": "Tuyên truyền cho dân, gương mẫu trước dân và học hỏi dân.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "125",
+  "QUESTION": "Theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, Xây dựng tình đồng chí, đồng đội trong Quân đội nhân dân Việt Nam có mấy yêu cầu?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "126",
+  "QUESTION": "Luật Tố cáo năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "25\/12\/2018.",
+  "B": "12\/6\/2018.",
+  "C": "01\/01\/2019.",
+  "D": "01\/7\/2019.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "127",
+  "QUESTION": "Luật Tố cáo năm 2018 được bố cục như thế nào?",
+  "A": "Gồm 8 chương với 67 điều",
+  "B": "Gồm 8 chương với 76 điều",
+  "C": "Gồm 9 chương với 67 điều",
+  "D": "Gồm 9 chương với 76 điều",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "128",
+  "QUESTION": "Hình thức tố cáo được quy định theo Luật Tố cáo năm 2018 cụ thể ra sao?",
+  "A": "Tố cáo trực tiếp và tố cáo gián tiếp.",
+  "B": "Tố cáo bằng đơn và tố cáo trực tiếp.",
+  "C": "Tố cáo nặc danh, mạo danh; tố cáo trực tiếp và tố cáo gián tiếp.",
+  "D": "Tố cáo bằng đơn và tố cáo gián tiếp.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "129",
+  "QUESTION": "Luật Tố cáo năm 2018 quy định mấy bước trong quy trình giải quyết tố cáo?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "130",
+  "QUESTION": "Luật Tố cáo năm 2018 quy định về người tố cáo được bảo vệ bao gồm những ai?",
+  "A": "Người tố cáo, vợ, chồng, cha đẻ, mẹ đẻ, cha vợ (chồng), mẹ vợ (chồng), cha nuôi, mẹ nuôi, con đẻ, con nuôi của người tố cáo.",
+  "B": "Người tố cáo, vợ, chồng, cha đẻ, mẹ đẻ, con đẻ của người tố cáo.",
+  "C": "Người tố cáo, vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người tố cáo.",
+  "D": "Người tố cáo, vợ, chồng, con đẻ, con nuôi của người tố cáo.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "131",
+  "QUESTION": "Luật Tố cáo năm 2018 quy định người được bảo vệ có bao nhiêu quyền?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "132",
+  "QUESTION": "“An ninh mạng” là gì?",
+  "A": "Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+  "B": "Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng",
+  "C": "Là sự giám sát hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+  "D": "Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "133",
+  "QUESTION": "Thông tư số 42\/2016\/TT-BQP quy định Báo cáo viên pháp luật cấp đơn vị do cấp nào ra quyết định công nhận?",
+  "A": "Thủ trưởng cơ quan, đơn vị.",
+  "B": "Thủ trưởng cấp trên.",
+  "C": "Thủ trưởng cơ quan, đơn vị cấp trên trực tiếp.",
+  "D": "Thủ trưởng cơ quan chính trị cấp trên.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "134",
+  "QUESTION": "phương án nào sau đây đúng nhất?",
+  "A": "“Tự diễn biến” là sự nối tiếp của quá trình “tự chuyển hóa”",
+  "B": "“Tự diễn biến” và “tự chuyển hóa” là 2 quá trình song song",
+  "C": "“Tự chuyển hóa” là sự nối tiếp của quá trình “tự diễn biến”",
+  "D": "“Tự diễn biến” và “tự chuyển hóa” là 2 quá trình tách biệt",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "135",
+  "QUESTION": "phương án nào sau đây là đúng?",
+  "A": "“Tự diễn biến”, “tự chuyển hóa” không phải là “diễn biến hòa bình”",
+  "B": "“Tự diễn biến”, “tự chuyển hóa” chính là “diễn biến hòa bình”",
+  "C": "“Diễn biến hòa bình” chính là “tự diễn biến”.",
+  "D": "“Diễn biến hòa bình” chính là “tự chuyển hoá”.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "136",
+  "QUESTION": "Thông tư 151\/TT-BQP của Bộ Quốc phòng quy định chi tiết và hướng dẫn thi đua - khen thưởng trong Quân đội Nhân dân Việt Nam gồm bao nhiêu chương, bao nhiêu điều?",
+  "A": "9 Chương, 90 điều",
+  "B": "8 chương, 85 điều",
+  "C": "7 chương, 70 điều",
+  "D": "7 chương, 85 điều",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "137",
+  "QUESTION": "Hình thức tổ chức thi đưa theo Thông tư 151\/TT-BQP của Bộ Quốc phòng quy định chi tiết và hướng dẫn thi đua - khen thưởng trong Quân đội Nhân dân Việt Nam gồm có bao nhiêu hình thức?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "138",
+  "QUESTION": "Theo Thông tư 151\/TT-BQP của Bộ Quốc phòng quy định chi tiết và hướng dẫn thi đua - khen thưởng trong Quân đội Nhân dân Việt Nam có bao nhiêu bước trong tổ chức phong trào thi đua?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "139",
+  "QUESTION": "Nội dung tham gia xây dựng cơ sở chính trị địa phương trong công tác dân vận của Quân đội ?",
+  "A": "Tham gia tuyên truyền vận động nhân dân; tham gia xây dựng, củng cố hệ thống chính trị cơ sở",
+  "B": "Tham gia xây dựng cơ sở địa phương về kinh tế, văn hóa xã hội",
+  "C": "Tham gia xây dựng về quốc phòng-an ninh",
+  "D": "Tất cả các nội dung trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "140",
+  "QUESTION": "Lực lượng nào giữ vai trò nòng cốt tham gia giải quyết “điểm nóng” ở địa phương?",
+  "A": "Chính quyền địa phương",
+  "B": "Các ban ngành, đoàn thể địa phương",
+  "C": "Công an",
+  "D": "Quaân đội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "141",
+  "QUESTION": "Ngày Pháp luật nước CHXHCN Việt Nam là ngày nào?",
+  "A": "9\/9 hằng năm",
+  "B": "9\/10 hằng năm",
+  "C": "9\/11 hằng năm",
+  "D": "9\/12 hằng năm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "142",
+  "QUESTION": "Hội nghị Trung ương 4 khoá XII của Đảng chỉ ra: “xa rời tôn chỉ, mục đích của Đảng; không kiên định con đường đi lên chủ nghĩa xã hội” là biểu hiện suy thoái về nội dung gì sau đây?",
+  "A": "Biểu hiện suy thoái về tư tưởng chính trị",
+  "B": "Biểu hiện suy thoái về đạo đức",
+  "C": "Biểu hiện suy thoái về lối sống",
+  "D": "Biểu hiện “tự diễn biến”, “tự chuyển hóa”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "143",
+  "QUESTION": "Cuộc cách mạng công nghiệp lần thứ tư \n được nhận diện lần đầu tiên vào năm nào?",
+  "A": "2012",
+  "B": "2014",
+  "C": "2016",
+  "D": "2017",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "144",
+  "QUESTION": "Quân đội Nhân dân Việt Nam được thành lập ngày, tháng, năm nào?",
+  "A": "20\/12\/1944",
+  "B": "30\/04\/1944",
+  "C": "19\/12\/1944",
+  "D": "22\/12\/1944",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "145",
+  "QUESTION": "Đúng nhất về phong cách lãnh đạo của người đứng đầu theo tư tưởng, đạo đức, phong cách Hồ Chí Minh?",
+  "A": "Phong cách dân chủ, quần chúng, cách mạng, khoa học, năng động, sáng tạo.",
+  "B": "Phong cách dân chủ, lãnh đạo sâu sát, trọng dụng người tài, cách mạng, khoa học, năng động, sáng tạo.",
+  "C": "Phong cách dân chủ, nêu gương, khoa học, sáng tạo, quyết đoán, sâu sát, khéo dùng người, trọng người tài.",
+  "D": "Phong cách dân chủ, nhưng quyết đoán, lãnh đạo sâu sát, khéo dùng người, trọng dụng người tài, cách mạng, khoa học, năng động, sáng tạo",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "146",
+  "QUESTION": "Ngày truyền thống của LLVT Quân khu 7 là:",
+  "A": "12\/10\/1944",
+  "B": "12\/10\/1945",
+  "C": "12\/10\/1946",
+  "D": "12\/10\/1947",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "147",
+  "QUESTION": "Chỉ thị số 05-CT\/TW về đẩy mạnh học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh gồm mấy nội dung chủ yếu về tư tưởng Hồ Chí Minh?",
+  "A": "9",
+  "B": "8",
+  "C": "7",
+  "D": "6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "148",
+  "QUESTION": "Ngày toàn quốc kháng chiến là ngày mấy?",
+  "A": "19\/12\/1949",
+  "B": "19\/12\/1948",
+  "C": "19\/12\/1947",
+  "D": "19\/12\/1946",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "149",
+  "QUESTION": "Quần đảo Trường Sa thuộc quản lý của các địa phương nào?",
+  "A": "Tỉnh Phú Yên;",
+  "B": "Tỉnh Khánh Hòa;",
+  "C": "Tỉnh Bình Thuận;",
+  "D": "Tỉnh Ninh Thuận;",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "150",
+  "QUESTION": "Quần đảo Hoàng Sa thuộc quản lý của các địa phương nào?",
+  "A": "Tỉnh Bình Thuận.",
+  "B": "Thành phố Đà Nẵng.",
+  "C": "Tỉnh Khánh Hòa.",
+  "D": "Tỉnh Phú Yên.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "151",
+  "QUESTION": "Ngày thành lập Công đoàn Việt Nam là ngày mấy?",
+  "A": "27\/07\/1929",
+  "B": "28\/07\/1929",
+  "C": "29\/07\/1929",
+  "D": "30\/07\/1929",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "152",
+  "QUESTION": "“An ninh mạng” là gì?",
+  "A": "Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+  "B": "Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng",
+  "C": "Là sự giám sát hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+  "D": "Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "153",
+  "QUESTION": "Thông tư 42\/2016\/TT-BQP của Bộ Quốc Phòng về việc quy định công tác phổ biến, giáo dục pháp luật trong Bộ Quốc phòng ký ngày tháng năm nào?",
+  "A": "Ngày 05\/3\/2016",
+  "B": "Ngày 12\/3\/2016",
+  "C": "Ngày 21\/3\/2016",
+  "D": "Ngày 30\/3\/2016"
+ },
+ {
+  "ID": "154",
+  "QUESTION": "Quan hệ xã hội giữa quân nhân với quân nhân ở đơn vị cơ sở:",
+  "A": "Vừa mang tính chất của tổ chức quân sự chiến đấu vì mục tiêu, lý tưởng của Đảng, vừa mang tính chất dân chủ xã hội chủ nghĩa, vừa mang tính chất pháp lý.",
+  "B": "Mang tính chất dân chủ xã hội chủ nghĩa.",
+  "C": "Mang tính chất pháp lý.",
+  "D": "Mang tính chất của tổ chức quân sự chiến đấu.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "155",
+  "QUESTION": "Bác Hồ ra đi tìm đường cứu nước, ngày, tháng, năm nào ?",
+  "A": "06\/04\/1911",
+  "B": "06\/05\/1911",
+  "C": "06\/06\/1911",
+  "D": "06\/07\/1911",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "156",
+  "QUESTION": "Đồng chí cho biết nội dung thực hiện mô hình đơn vị “3 nhất”?",
+  "A": "“Hoàn thành nhiệm vụ chính trị tốt nhất; kỷ luật nghiêm nhất; cơ quan, đơn vị an toàn nhất”",
+  "B": "“Hoàn thành nhiệm vụ chính trị xuất sắc nhất; kỷ luật nghiêm nhất; cơ quan, đơn vị an toàn nhất”",
+  "C": "“Hoàn thành nhiệm vụ chính trị xuất sắc nhất; kỷ luật tốt nhất; cơ quan, đơn vị an toàn nhất”",
+  "D": "“Hoàn thành nhiệm vụ chính trị xuất sắc nhất; kỷ luật nghiêm nhất; cơ quan, đơn vị bảo đảm an toàn nhất”",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "157",
+  "QUESTION": "Luật An ninh mạng năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "06\/12\/2018",
+  "B": "07\/01\/2018",
+  "C": "01\/01\/2019",
+  "D": "07\/01\/2019",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "158",
+  "QUESTION": "Nước ta có bao nhiêu tỉnh, thành phố giáp biển?",
+  "A": "32",
+  "B": "30",
+  "C": "29",
+  "D": "28",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "159",
+  "QUESTION": "Điền vào chỗ trống: “Vùng đặc quyền kinh tế, là vùng biển rộng … hải lý tính từ đường cơ sở trở ra. Việt Nam có quyền chủ quyền tuyệt đối với mọi loại tài nguyên thiên nhiên và các hoạt động kinh tế nhằm … , sử dụng các tài nguyên thiên nhiên …”?",
+  "A": "202 \/ kiểm soát",
+  "B": "200 \/ khai thác",
+  "C": "205 \/ quy hoạch",
+  "D": "201 \/ làm mới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "160",
+  "QUESTION": "Vùng đặc quyền kinh tế, là vùng biển rộng bao nhiêu hải lý tính từ đường cơ sở trở ra?",
+  "A": "202",
+  "B": "200",
+  "C": "205",
+  "D": "201",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "161",
+  "QUESTION": "Luật Bảo vệ bí mật nhà nước được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua khi nào?",
+  "A": "01\/07\/2018",
+  "B": "15\/11\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/7\/2019",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "162",
+  "QUESTION": "Luật Phòng, chống tham nhũng năm 2018 được bố cục ra sao?",
+  "A": "Có 8 chương với 86 điều",
+  "B": "Có 9 chương với 86 điều",
+  "C": "Có 10 chương với 96 điều",
+  "D": "Có 11 chương với 96 điều"
+ },
+ {
+  "ID": "163",
+  "QUESTION": "Luật Quốc phòng năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "08\/06\/2018",
+  "B": "22\/06\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/07\/2019",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "164",
+  "QUESTION": "Luật Quốc phòng năm 2018 được bố cục ra sao?",
+  "A": "Có 6 chương, 45 điều",
+  "B": "Có 7 chương, 40 điều",
+  "C": "Có 7 chương, 49 điều",
+  "D": "Có 8 chương, 40 điều",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "165",
+  "QUESTION": "Luật Quốc phòng năm 2018 quy định bao nhiêu nguyên tắc hoạt động Quốc phòng?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "166",
+  "QUESTION": "Luật Quốc phòng năm 2018 quy định bao nhiêu hành vi bị nghiêm cấm trong lĩnh vực quốc phòng?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "167",
+  "QUESTION": "“Khu vực phòng thủ” được giải thích trong Luật Quốc phòng năm 2018 ra sao?",
+  "A": "Là bộ phận hợp thành phòng thủ quân khu.",
+  "B": "Bao gồm các hoạt động về chính trị, tinh thần, kinh tế, văn hóa, xã hội, khoa học, công nghệ, quân sự, an ninh, đối ngoại",
+  "C": "Được tổ chức theo địa bàn cấp tỉnh, cấp huyện, đơn vị hành chính - kinh tế đặc biệt, lấy xây dựng cấp xã làm nền tảng để bảo vệ địa phương.",
+  "D": "Cả 3 câu đều đúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "168",
+  "QUESTION": "Khi Tổ quốc bị xâm lược, tình trạng chiến tranh được quyết định bởi?",
+  "A": "Quốc hội.",
+  "B": "Ủy ban Thường vụ Quốc hội.",
+  "C": "Chủ tịch nước.",
+  "D": "Thủ tướng Chính phủ.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "169",
+  "QUESTION": "Lệnh giới nghiêm được ban bố trong trường hợp nào theo Luật Quốc phòng năm 2018?",
+  "A": "Khi Tổ quốc bị xâm lược.",
+  "B": "Trong trường hợp tình hình ANCT,TTATXH tại một hoặc một số địa phương diễn biến phức tạp đe dọa gây mất ổn định nghiêm trọng và được công bố liên tục trên các phương tiện thông tin đại chúng.",
+  "C": "Khi ANCT,TTATXHở một hoặc một số địa phương bị xâm phạm nghiêm trọng tới mức chính quyền ở đó không còn kiểm soát được tình hình.",
+  "D": "Cả 3 đáp án đều đúng.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "170",
+  "QUESTION": "Thời hạn bắt đầu và kết thúc hiệu lực của Lệnh giới nghiêm được quy định trong Luật Quốc phòng năm 2018 ra sao?",
+  "A": "Không được quá 24 giờ.",
+  "B": "Không được quá 36 giờ.",
+  "C": "Không được quá 48 giờ.",
+  "D": "Không được quá 72 giở.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "171",
+  "QUESTION": "Theo Luật Quốc phòng năm 2018, Lực lượng vũ trang nhân dân gồm những thành phần nào?",
+  "A": "Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ",
+  "B": "Quân đội nhân dân, Công an nhân dân và lượng dự bị động viên",
+  "C": "Bộ đội chủ lực, Bộ đội địa phương, Dân quân tự vệ lực và lượng dự bị động viên.",
+  "D": "Bộ đội chủ lực, Bộ đội địa phương và lực lượng dự bị động viên.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "172",
+  "QUESTION": "Luật Tố cáo năm 2018 có hiệu lực thi hành từ khi nào?",
+  "A": "25\/12\/2018",
+  "B": "12\/06\/2018",
+  "C": "01\/01\/2019",
+  "D": "01\/07\/2019",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "173",
+  "QUESTION": "Chiến lược quốc phòng lấy nhân tố nào làm nòng cốt?",
+  "A": "Chính trị.",
+  "B": "Quân sự.",
+  "C": "Kinh tế.",
+  "D": "Văn hoá - xã hội.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "174",
+  "QUESTION": "Nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay có bao nhiêu phương châm?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "175",
+  "QUESTION": "Phương châm thứ nhất trong các phương châm nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay là:",
+  "A": "Trong ấm, ngoài êm",
+  "B": "Dĩ bất biến ứng vạn biến",
+  "C": "Người trước, súng sau",
+  "D": "Xây dựng nền Quốc phòng toàn dân, của dân, do dân, vì dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "176",
+  "QUESTION": "Phương châm thứ hai trong các phương châm nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay là:",
+  "A": "Trong ấm, ngoài êm",
+  "B": "Dĩ bất biến ứng vạn biến",
+  "C": "Người trước, súng sau",
+  "D": "Xây dựng nền Quốc phòng toàn dân, của dân, do dân, vì dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "177",
+  "QUESTION": "Phương châm thứ ba trong các phương châm nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay là:",
+  "A": "Trong ấm, ngoài êm",
+  "B": "Dĩ bất biến ứng vạn biến",
+  "C": "Người trước, súng sau",
+  "D": "Xây dựng nền Quốc phòng toàn dân, của dân, do dân, vì dân",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "178",
+  "QUESTION": "Phương châm thứ tư trong các phương châm nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay là:",
+  "A": "Trong ấm, ngoài êm",
+  "B": "Dĩ bất biến ứng vạn biến",
+  "C": "Người trước, súng sau",
+  "D": "Xây dựng nền Quốc phòng toàn dân, của dân, do dân, vì dân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "179",
+  "QUESTION": "Phương châm thứ năm trong các phương châm nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay là:",
+  "A": "Trong ấm, ngoài êm",
+  "B": "Vừa hợp tác vừa đấu tranh, theo tinh thần thêm bạn, bớt thù",
+  "C": "Kiên quyết, kiên trì đấu tranh trên cơ sở nắm vững, tận dụng luật pháp quốc tế, giữ vững chủ quyền lãnh thổ, không để xảy ra xung đột, chiến tranh",
+  "D": "Xây dựng nền Quốc phòng toàn dân, của dân, do dân, vì dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "180",
+  "QUESTION": "Phương châm thứ sáu trong các phương châm nhằm thực hiện nhiệm vụ bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay là:",
+  "A": "Chủ động, tích cực tiến công trên các lĩnh vực",
+  "B": "Vừa hợp tác vừa đấu tranh, theo tinh thần thêm bạn, bớt thù",
+  "C": "Kiên quyết, kiên trì đấu tranh trên cơ sở nắm vững, tận dụng luật pháp quốc tế, giữ vững chủ quyền lãnh thổ, không để xảy ra xung đột, chiến tranh",
+  "D": "Xây dựng nền Quốc phòng toàn dân, của dân, do dân, vì dân",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "181",
+  "QUESTION": "Bảo vệ Tổ quốc trong Chiến lược quốc phòng Việt Nam hiện nay có bao nhiêu nhiệm vụ?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "182",
+  "QUESTION": "Bảo vệ Tổ quốc trên không gian mạng trong tình hình hiện nay phải tuân thủ theo mấy phương châm?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "183",
+  "QUESTION": "Chủ tịch Trung Quốc Tập Cận Bình lần đầu tiên đưa ra sáng kiến có tên gọi “Một vành đai, Một con đường” (sau này được đổi tên thành “Vành đai và Con đường”) vào thời gian nào?",
+  "A": "Tháng 9 năm 2012",
+  "B": "Tháng 9 năm 2013",
+  "C": "Tháng 9 năm 2014",
+  "D": "Tháng 9 năm 2015",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "184",
+  "QUESTION": "Tuyên bố về ứng xử của các bên ở Biển Đông (viết tắt DOC) được ký ngày, tháng, năm nào và diễn ra ở đâu ?",
+  "A": "Ngày 04\/11\/2002 tại Phnom Penh, Campuchia nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "B": "Ngày 04\/11\/2002 tại Thái Lan nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "C": "Ngày 04\/11\/2003 tại Việt Nam nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "D": "Ngày 04\/11\/2004 tại Philipines nhân dịp Hội nghị thượng định ASEAN lần thứ 8.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "185",
+  "QUESTION": "Âm mưu chống phá quân đội của các thế lực thù địch trên Internet, mạng xã hội bao gồm ?",
+  "A": "Tập trung phá hoại trận địa tư tưởng của Đảng trong quân đội.",
+  "B": "Tập trung phá hoại bản chất, truyền thống tốt đẹp, chức năng và nhiệm vụ của Quân đội nhân dân Việt Nam.",
+  "C": "Tập trung tuyên truyền chống phá các nguyên tắc tổ chức cơ bản trong xây dựng quân đội, xóa bỏ vai trò lãnh đạo của Đảng và hoạt động công tác đảng, công tác chính trị trong quân đội.",
+  "D": "cả 3 câu đều đúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "186",
+  "QUESTION": "Quan hệ xã hội của quân nhân ở đơn vị cơ sở là gì ?",
+  "A": "Là tổng thể những mối quan hệ tác động qua lại của quân nhân trong hoạt động quân sự và trong cuộc sống hàng ngày.",
+  "B": "Là những mối quan hệ tác động của quân nhân trong hoạt động quân sự.",
+  "C": "Là tổng thể những mối quan hệ tác động qua lại của quân nhân trong cuộc sống hàng ngày.",
+  "D": "Là quan hệ của quân nhân trong hoạt động quân sự và trong cuộc sống hàng ngày.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "187",
+  "QUESTION": "Quân đội ta có bao nhiêu nhiệm vụ?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "188",
+  "QUESTION": "Chỉ thị 855-CT\/QUTW, ngày 12\/8\/2019 của Ban Thường vụ Quân Ủy Trung ương về đẩy mạnh thực hiện Cuộc vận động Phát huy truyền thống, cống hiến tài năng, xứng danh ‘Bộ đội Cụ Hồ’ thời kỳ mới có mấy nội dung ?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "189",
+  "QUESTION": "Hình thức tung tin đồn nhảm tạo dư luận và áp lực xã hội trong hoạt động chống phá của các thế lực thù địch đối với cách mạng nước ta nhằm mục đích gì ?",
+  "A": "Thúc đẩy lối sống hưởng lạc, thực dụng",
+  "B": "Gây chia rẽ mất đoàn kết nội bộ",
+  "C": "Gây tâm trạng mơ hồ mất cảnh giác, cả tin của một số người, từ đó cô lập các lực lượng trung kiên cách mạng; phân hóa những người còn lừng chừng, thiếu chính kiến, thiếu thông tin; lôi kéo kích động những người có tâm trạng bất mãn, những lực lượng xấu trong xã hội",
+  "D": "Để khi có điều kiện thì tập hợp lực lượng xấu, gây áp lực chính trị và cướp chính quyền",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "190",
+  "QUESTION": "Chọn phát biểu không đúng về Vùng đặc quyền kinh tế biển Việt Nam theo Luật biển Quốc tế năm 1982?",
+  "A": "Là vùng biển rộng 200 hải lý tính từ đường cơ sở trở ra.",
+  "B": "Là vùng biển Việt Nam có quyền chủ quyền đối với mọi loại tài nguyên thiên nhiên và các hoạt động kinh tế nhằm khai thác, sử dụng các tài nguyên thiên nhiên.",
+  "C": "Là vùng biển không được xây dựng, thiết lập các công trình nhân tạo, nghiên cứu khoa học, nhằm bảo vệ môi trường biển",
+  "D": "Là vùng biển được tự do hàng hải, tự do đặt dây cáp và ống dẫn ngầm.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "191",
+  "QUESTION": "Vùng tiếp giáp lãnh hải rộng bao nhiêu hải lý, được tính từ ranh giới ngoài của lãnh hải trở ra ?",
+  "A": "11",
+  "B": "12",
+  "C": "13",
+  "D": "14",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "192",
+  "QUESTION": "Vi phạm kỷ luật trong Quân đội gồm những loại nào?",
+  "A": "Vi phạm kỷ luật thông thường và vi phạm kỷ luật nghiêm trọng.",
+  "B": "Vi phạm kỷ luật thông thường; vi phạm kỷ luật nghiêm trọng và vi phạm kỷ luật rất nghiêm trọng.",
+  "C": "Vi phạm kỷ luật thông thường; vi phạm kỷ luật đến mức phải xử lý.",
+  "D": "Tất cả đáp án đều sai",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "193",
+  "QUESTION": "Luật Dân quân tự vệ 2019 được Quốc hội thông qua vào ngày tháng năm nào?",
+  "A": "20\/11\/2019",
+  "B": "22\/11\/2019",
+  "C": "12\/11\/2019",
+  "D": "02\/12\/2019",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "194",
+  "QUESTION": "Luật Dân quân tự vệ 2019 có hiệu lực từ ngày nào",
+  "A": "01\/01\/2020",
+  "B": "06\/01\/2020",
+  "C": "07\/01\/2020",
+  "D": "12\/01\/2020",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "195",
+  "QUESTION": "Ngày truyền thống của Dân quân tự vệ",
+  "A": "26\/03 hằng năm",
+  "B": "27\/03 hằng năm",
+  "C": "28\/03 hằng năm",
+  "D": "22\/12 hằng năm"
+ },
+ {
+  "ID": "196",
+  "QUESTION": "Dân quân tự vệ có mấy nhiệm vụ",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "197",
+  "QUESTION": "Độ tuổi công dân nam thực hiện nghĩa vụ tham gia dân quân tự vệ trong thời bình",
+  "A": "từ đủ 18 tuổi đến hết 45 tuôi",
+  "B": "từ 18 tuổi đến 50 tuổi",
+  "C": "từ 20 tuổi đến 45 tuổi",
+  "D": "từ đủ 20 tuổi đến hết 50 tuổi",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "198",
+  "QUESTION": "Độ tuổi công dân nữ thực hiện nghĩa vụ tham gia dân quân tự vệ trong thời bình",
+  "A": "từ đủ 18 tuổi đến hết 45 tuôi",
+  "B": "từ đủ 18 tuổi đến hết 40 tuổi",
+  "C": "từ đủ 20 tuổi đến 45 tuổi",
+  "D": "từ đủ 20 tuổi đến hết 45 tuổi",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "199",
+  "QUESTION": "Có bao nhiêu hình thức kỷ luật Dân quân tự vệ",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "200",
+  "QUESTION": "Có bao nhiêu hình thức kỷ luật đối với các chức vụ chỉ huy đơn vị Dân quân tự vệ",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "201",
+  "QUESTION": "Điền vào ô trống: Nghị định số ….. của Chính phủ quy định chi tiết một số điều của Luật dân quân tự vệ về tổ chức xây dựng lực lượng và chế độ chính sách?",
+  "A": "71\/2020\/NĐ-CP",
+  "B": "72\/2020\/NĐ-CP",
+  "C": "70\/2019\/NĐ-CP",
+  "D": "72\/2019\/NĐ-CP",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "202",
+  "QUESTION": "Nghị định số 72\/2020\/NĐ-CP ngày 30\/6\/2020 của Chính phủ quy định chi tiết một số điều của Luật dân quân tự vệ về tổ chức xây dựng lực lượng và chế độ chính sách có hiệu lực thi hành kể từ ?",
+  "A": "07\/01\/2020",
+  "B": "15\/07\/2020",
+  "C": "15\/08\/2020",
+  "D": "30\/08\/2020"
+ },
+ {
+  "ID": "203",
+  "QUESTION": "Điền vào ô trống: Nghị định số … ngày 30\/6\/2020 của Chính phủ quy định về hoạt động phối hợp của Dân quân tự vệ",
+  "A": "01\/2020\/NĐ-CP",
+  "B": "02\/2020\/NĐ-CP",
+  "C": "03\/2020\/NĐ-CP",
+  "D": "72\/2020\/NĐ-CP",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "204",
+  "QUESTION": "Điền vào ô trống: Thông tư số … ngày 23\/6\/2020 của Bộ Trường BQP quy định thực hiện một số điều của Luật Dân quân tự vệ về tổ chức xây dựng lực lượng Dân quân tự vệ",
+  "A": "33\/2020",
+  "B": "77\/2020",
+  "C": "133\/2020",
+  "D": "72\/2020",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "205",
+  "QUESTION": "Đơn vị dân quân tự vệ gồm:",
+  "A": "Tổ, tiểu đội, trung đội, đại đội, hải đội, hải đoàn",
+  "B": "Tiểu đội, trung đội, đại đội, hải đội, tiểu đoàn, trung đoàn, sư đoàn, hải đoàn",
+  "C": "Tổ, tiểu đội, khẩu đội, trung đội, đại đội, hải đội, tiểu đoàn, hải đoàn",
+  "D": "Tổ, tiểu đội, trung đội",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "206",
+  "QUESTION": "Quy mô tổ chức trung đội dân quân cơ động cấp xã, phường trong thời bình",
+  "A": "1",
+  "B": "1 đến 2",
+  "C": "1 đến 3",
+  "D": "Chỉ có tiểu đội dân quân cơ động",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "207",
+  "QUESTION": "Chỉ huy trưởng Ban Chỉ huy quân sự cấp xã có chức vụ tương đương với",
+  "A": "Trung đội trưởng",
+  "B": "Đại đội trưởng",
+  "C": "Tiểu đoàn trưởng",
+  "D": "Trợ lý tham mưu tiểu đoàn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "208",
+  "QUESTION": "Quân hàm cao nhất của Chỉ huy trưởng Ban Chỉ huy quân sự cấp xã?",
+  "A": "Đại úy sĩ quan dự bị",
+  "B": "Thiếu tá sĩ quan dự bị",
+  "C": "Trung tá sĩ quan dự bị",
+  "D": "Thiếu tá",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "209",
+  "QUESTION": "Thông tư số 69\/2020\/TT-BQP ngày 15\/6\/2020 của Bộ trưởng BQP quy định chi tiết một số điều của Luật dân quân tự vệ về",
+  "A": "tập huấn, huấn luyện, diễn tập cho DQTV",
+  "B": "tập huấn, bồi dưỡng, huấn luyện, hội thi, hội thao, diễn tập cho DQTV",
+  "C": "tập huấn, huấn luyện, hội thi, hội thao, thực tập cho DQTV",
+  "D": "tập huấn, huấn luyện, hội thi, hội thao cho DQTV",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "210",
+  "QUESTION": "Điền vào ô trống: Thông tư số … ngày 13\/5\/2020 của BT BQP hướng dân công tác thi đau, khen thưởng về DQTV",
+  "A": "47\/2020\/TT-BQP",
+  "B": "57\/2020\/TT-BQP",
+  "C": "67\/2020\/TT-BQP",
+  "D": "77\/2020\/TT-BQP",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "211",
+  "QUESTION": "Đối tượng áp dụng Thông tư số 57\/2020\/TT-BQP ngày 13\/5\/2020 của BT BQP hướng dân công tác thi đau, khen thưởng về DQTV: về cá nhân",
+  "A": "Giữ chức vụ Chỉ huy DQTV",
+  "B": "Chiến sĩ DQTV",
+  "C": "Không thuộc các thành phần của DQTV có thành tích trong công tác DQTV",
+  "D": "Cả A,B,C đều đúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "212",
+  "QUESTION": "Điền vào ô trống: Thông tư số… ngày 19\/6\/2020 của BT BQP quy định việc áp dụng các hình thức kỷ luật, trình tự, thủ tục, thời hiệu, thời hạn và thẩm quyền xử lý kỷ luật đối với DQTV",
+  "A": "55\/2020\/TT-BQP",
+  "B": "75\/2020\/TT-BQP",
+  "C": "135\/2020\/TT-BQP",
+  "D": "05\/2020\/TT-BQP",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "213",
+  "QUESTION": "Theo thông tư 75\/2020\/TT-BQP, có bao nhiêu tình tiết giảm nhẹ, tình tiết tăng nặng",
+  "A": "3 và 5",
+  "B": "2 và 4",
+  "C": "3 và 6",
+  "D": "4 và 4",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "214",
+  "QUESTION": "Thông tư số 75\/2020\/TT-BQP ngày 19\/6\/2020 của BT BQP quy định việc áp dụng các hình thức kỷ luật, trình tự, thủ tục, thời hiệu, thời hạn và thẩm quyền xử lý kỷ luật đối với DQTV có hiệu lực kể từ",
+  "A": "Ngày 05\/07\/2020",
+  "B": "Ngày 05\/08\/2020",
+  "C": "Ngày 05\/09\/2020",
+  "D": "Ngày 15\/10\/2020",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "215",
+  "QUESTION": "Luật Dân quân tự vệ năm 2019 gồm bao nhiêu chương, điều ?",
+  "A": "9 chương, 45 điều",
+  "B": "8 chương, 55 điều",
+  "C": "8 chương, 50 điều",
+  "D": "9 chương, 55 điều",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "216",
+  "QUESTION": "Điều 6, Luật Dân quân tự vệ 2019 quy định bao nhiêu thành phần",
+  "A": "5",
+  "B": "9",
+  "C": "10",
+  "D": "11",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "217",
+  "QUESTION": "Ngày truyền thống của LLVT Thành phố?",
+  "A": "09\/02\/1944",
+  "B": "09\/03\/1946",
+  "C": "09\/04\/1945",
+  "D": "12\/10\/1945",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "218",
+  "QUESTION": "Đại hội đại biểu đại bộ quân đội lần thứ XI diễn ra thời gian nào?",
+  "A": "từ ngày 27 đến 30\/9\/2020",
+  "B": "từ ngày 25 đến 27\/9\/2020",
+  "C": "từ ngày 20 đến 22\/9\/2020",
+  "D": "từ ngày 27 đến 30\/10\/2020",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "219",
+  "QUESTION": "Kỷ niệm 100 năm thành lập Đảng Cộng sản Việt nam vào năm nào?",
+  "A": "2030",
+  "B": "2031",
+  "C": "2045",
+  "D": "2075",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "220",
+  "QUESTION": "Việt Nam đảm nhận Chủ tịch ASEAN vào năm nào",
+  "A": "2018",
+  "B": "2019",
+  "C": "2020",
+  "D": "2021",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "221",
+  "QUESTION": "Ngày Quốc tế sẵn sàng chống dịch bệnh \n do Việt Nam đề xuất được Đại hội đồng LHQ thông qua là ngày nào?",
+  "A": "25\/12 hằng năm",
+  "B": "27\/12 hằng năm",
+  "C": "27\/07 hằng năm",
+  "D": "15\/10 hằng năm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "222",
+  "QUESTION": "Theo HD số 20 ngày 26\/9\/2019 của Ban Tổ chức TƯ, tính đến ngày 30\/11\/2019 cả nước có bao nhiêu tôn giáo đã được Nhà nước công nhận hoặc cấp chứng nhận đăng ký hoạt động",
+  "A": "16 tôn giáo",
+  "B": "17 tôn giáo",
+  "C": "18 tôn giáo",
+  "D": "22 tôn giáo",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "223",
+  "QUESTION": "Theo HD số 20 ngày 26\/9\/2019 của Ban Tổ chức TƯ, tính đến ngày 30\/11\/2019 cả nước có bao nhiêu tổ chức tôn giáo đã được Nhà nước công nhận hoặc cấp chứng nhận đăng ký hoạt động",
+  "A": "33",
+  "B": "43",
+  "C": "53",
+  "D": "63",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "224",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ VI của Đảng tổ chức vào thời gian nào ?",
+  "A": "tháng 3\/1986",
+  "B": "tháng 9\/1986",
+  "C": "tháng 10\/1986",
+  "D": "tháng 12\/1986",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "225",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ VII của Đảng tổ chức vào thời gian nào ?",
+  "A": "tháng 5\/1991",
+  "B": "tháng 6\/1991",
+  "C": "tháng 7\/1991",
+  "D": "tháng 8\/1991",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "226",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ VIII của Đảng tổ chức vào thời gian nào ?",
+  "A": "từ 28\/6 đến 1\/7\/1996",
+  "B": "từ 26\/8 đến 2\/91996",
+  "C": "từ 26\/8 đến 5\/9\/1996",
+  "D": "tháng 3\/1996",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "227",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ IX của Đảng tổ chức vào thời gian nào ?",
+  "A": "từ ngày 19 đến ngày 22 tháng 3\/2001",
+  "B": "từ ngày 19 đến ngày 22 tháng 4\/2001",
+  "C": "từ ngày 19 đến ngày 22 tháng 5\/2001",
+  "D": "từ ngày 19 đến ngày 22 tháng 6\/2001",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "228",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ X của Đảng tổ chức vào thời gian nào ?",
+  "A": "từ ngày 18 đến ngày 25 tháng 4\/2006",
+  "B": "từ ngày 18 đến ngày 25 tháng 5\/2006",
+  "C": "từ ngày 18 đến ngày 25 tháng 6\/2006",
+  "D": "từ ngày 18 đến ngày 25 tháng 7\/2006",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "229",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ XI của Đảng tổ chức vào thời gian nào ?",
+  "A": "từ ngày 12 đến ngày 19 tháng 1\/2011",
+  "B": "từ ngày 12 đến ngày 19 tháng 2\/2011",
+  "C": "từ ngày 12 đến ngày 19 tháng 3\/2011",
+  "D": "từ ngày 12 đến ngày 19 tháng 4\/2011",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "230",
+  "QUESTION": "Đại hội Đại biểu toàn quốc lần thứ XII của Đảng tổ chức vào thời gian nào ?",
+  "A": "từ ngày 20 đến ngày 28 tháng 1\/2016",
+  "B": "từ ngày 20 đến ngày 28 tháng 2\/2016",
+  "C": "từ ngày 20 đến ngày 28 tháng 3\/2016",
+  "D": "từ ngày 20 đến ngày 28 tháng 4\/2016",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "231",
+  "QUESTION": "\"Bất tuân dân sự\" được xem là khởi đầu của mọi cuộc cách mạng nào?",
+  "A": "Cách mạng màu",
+  "B": "Cách mạng khoa học công nghệ",
+  "C": "Cách mạng mềm",
+  "D": "Cách mạng giải phóng dân tộc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "232",
+  "QUESTION": "\"Bất tuân dân sự\" mà chủ nghĩa đế quốc và phương Tây sử dụng để lất đổ chính quyền, thay đổi chế độ các nước có mấy giai đoạn cơ bản?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "233",
+  "QUESTION": "Giai đoạn 1 của \"Bất tuân dân sự\" là gì?",
+  "A": "Đối kháng",
+  "B": "Đối kháng chọn lọc",
+  "C": "Đối kháng tràn ngập",
+  "D": "Đối đầu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "234",
+  "QUESTION": "Giai đoạn 2 của \"Bất tuân dân sự\" là gì?",
+  "A": "Đối kháng",
+  "B": "Đối kháng chọn lọc",
+  "C": "Đối kháng tràn ngập",
+  "D": "Đối đầu",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "235",
+  "QUESTION": "Trong \" Bất tuân dân sự\", thời điểm chuyển biến từ giai đoạn 1 sang giai đoạn 2 gọi là gì?",
+  "A": "Điểm thắt",
+  "B": "Điểm nút",
+  "C": "Điểm cầu nối",
+  "D": "Bước nhảy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "236",
+  "QUESTION": "Trong \" Bất tuân dân sự\", thời điểm chuyển biến từ giai đoạn \"Đối kháng chọn lọc\" sang giai đoạn \"Đối kháng tràn ngập\" gọi là gì?",
+  "A": "Điểm thắt",
+  "B": "Điểm nút",
+  "C": "Điểm cầu nối",
+  "D": "Bước nhảy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "237",
+  "QUESTION": "\"Bất tuân dân sự\" ở Việt Nam hiện đã ở mức nào?",
+  "A": "Bình thường",
+  "B": "Nguy kịch",
+  "C": "Nguy hiểm",
+  "D": "Không có biểu hiện",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "238",
+  "QUESTION": "\"Bất tuân dân sự\" liên quan đến vấn đề nào là nguy hiểm nhất?",
+  "A": "An ninh chính trị",
+  "B": "Trật tự an toàn xã hội",
+  "C": "an sinh xã hội",
+  "D": "chủ quyền lãnh thổ, lãnh hải",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "239",
+  "QUESTION": "90% chu vi Biển Đông được bao quanh bởi bao nhiêu quốc gia ven biển?",
+  "A": "7",
+  "B": "8",
+  "C": "9",
+  "D": "10",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "240",
+  "QUESTION": "Tuyen bố về ứng xử của các bên ở biển Đông gọi tắt là",
+  "A": "COC",
+  "B": "DOD",
+  "C": "DOC",
+  "D": "COD",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "241",
+  "QUESTION": "Bộ quy tắc ứng xử ở biển Đông gọi tắt là gì?",
+  "A": "DOC",
+  "B": "COC",
+  "C": "COD",
+  "D": "DOD",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "242",
+  "QUESTION": "Tuyên bố về ứng xử của các bên ở biển Đông mà ASEAN và Trung Quốc cùng nhau ký năm 2002 có bao nhiêu nội dung cơ bản?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "243",
+  "QUESTION": "Công ước của Liên hiệp quốc về Luật Biển?",
+  "A": "Năm 1980",
+  "B": "Năm 1981",
+  "C": "Năm 1982",
+  "D": "Năm 1983",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "244",
+  "QUESTION": "Quy định của Bộ Luật Hình sự năm 2015, sửa đổi bổ sung năm 2017 có liên quan đến công ước chống tra tấn, Tội dùng nhục hình thuộc điều mấy?",
+  "A": "Điều 370",
+  "B": "Điều 371",
+  "C": "Điều 372",
+  "D": "Điều 373",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "245",
+  "QUESTION": "Quy định của Bộ Luật Hình sự năm 2015, sửa đổi bổ sung năm 2017 có liên quan đến công ước chống tra tấn, Tội BỨC CUNG thuộc điều mấy?",
+  "A": "Điều 371",
+  "B": "Điều 372",
+  "C": "Điều 373",
+  "D": "Điều 374",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "246",
+  "QUESTION": "Quy định của Bộ Luật Hình sự năm 2015, sửa đổi bổ sung năm 2017 có liên quan đến công ước chống tra tấn, Tội LÀM NHỤC ĐỒNG ĐỘI thuộc điều mấy?",
+  "A": "Điều 395",
+  "B": "Điều 396",
+  "C": "Điều 397",
+  "D": "Điều 398",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "247",
+  "QUESTION": "Có bao nhiêu hình thức giáo dục chính trị cơ bản?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "248",
+  "QUESTION": "Chỉ thị 917 quy định bao nhiêu tiêu chuẩn xây dựng đơn vị vững mạnh toàn diện?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "249",
+  "QUESTION": "Tổng Bí thư đầu tiên của Việt Nam",
+  "A": "Đồng chí Trần Phú",
+  "B": "Đồng chí Trường Chinh",
+  "C": "Đồng chí Nguyễn Ái Quốc",
+  "D": "Đồng Chí Lê Duẩn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "250",
+  "QUESTION": "Việt Nam trở thành thành viên của Liên Hiệp Quốc năm mấy?",
+  "A": "1967",
+  "B": "1977",
+  "C": "1987",
+  "D": "1997",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "251",
+  "QUESTION": "Tiêu chuẩn \"Gia đình văn hóa\" được quy định tại Nghị định nào?",
+  "A": "Nghị định 122\/2018\/NĐ-CP",
+  "B": "Nghị định 102\/2018\/NĐ-CP",
+  "C": "Nghị định 02\/2018\/NĐ-CP",
+  "D": "Nghị định 77\/2018\/NĐ-CP",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "252",
+  "QUESTION": "Việt Nam có quan hệ đối tác chiến lược toàn diện\n  với bao nhiêu quốc gia?",
+  "A": "2",
+  "B": "3",
+  "C": "5",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "253",
+  "QUESTION": "Việt Nam có quan hệ đối tác chiến lược với bao nhiêu quốc gia?",
+  "A": "11",
+  "B": "13",
+  "C": "15",
+  "D": "17",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "254",
+  "QUESTION": "Việt Nam có quan hệ đối tác toàn diện với bao nhiêu quốc gia?",
+  "A": "11",
+  "B": "13",
+  "C": "15",
+  "D": "17",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "255",
+  "QUESTION": "\"Đảng Cộng sản Việt Nam đã được thành lập. Đó là Đảng của …\"\n( trích lời Kêu gọi 1930)",
+  "A": "Giai cấp công nhân",
+  "B": "Giai cấp nông dân",
+  "C": "Giai cấp vô sản",
+  "D": "Giai cấp lao động",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "256",
+  "QUESTION": "Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 có mấy chủ trương?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "257",
+  "QUESTION": "Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 có mấy khâu đột phá?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "258",
+  "QUESTION": "Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 có mấy quan điểm chỉ đạo của Đảng?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "259",
+  "QUESTION": "Phương châm chỉ đạo xây dựng \"Đơn vị 3 nhất\"",
+  "A": "Hiệu quả, thiết thực, vững chắc",
+  "B": "Hiệu quả, thiết thực, vững mạnh, vững chắc",
+  "C": "Hiệu quả, an toàn, thiết thực, vững chắc",
+  "D": "Hiệu quả, thiết thực, tiến bộ vững chắc",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "260",
+  "QUESTION": "Điều 27 Luật Quốc phòng 2018 quy định: Dân quân tự vệ là lực lượng vũ trang ….",
+  "A": "cách mạng",
+  "B": "quần chúng",
+  "C": "chính quy",
+  "D": "quâần chúng, không thoát ly sản xuất",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "261",
+  "QUESTION": "Khoản 4 Điều 2 Luật Dân quân tự vệ quy định:\nDân quân thường trực là lực lượng thường trực làm nhiệm vụ tại các vị trí nào?",
+  "A": "địa bàn trọng điểm",
+  "B": "Địa bàn trung tâm",
+  "C": "địa bàn trọng điểm về quốc phòng",
+  "D": "địa bàn trung tâm về quốc phòng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "262",
+  "QUESTION": "Điều 4 Luật Dân quân tự vệ quy định có mấy nguyên tác tổ chức, hoạt động của Dân quân tự vệ?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "263",
+  "QUESTION": "Quy định mới về nhiệm vụ của Dân quân tự vệ là gì?",
+  "A": "Tham gia thực hiện các biện pháp về chiến tranh thông tin, chiến tranh không gian mạng",
+  "B": "Tham gia các biện pháp về chiến tranh địa bàn trọng điểm",
+  "C": "Tham gia các biện pháp về bảo vệ môi trường",
+  "D": "Tham gia thực hiện các biện pháp về tuyên truyền đặc biệt",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "264",
+  "QUESTION": "Khoản 2 điều 8 Luật Dân quân tự vệ quy định thời hạn thực hiện nghĩa vụ tham gia dân quân thường trực là?",
+  "A": "12 tháng",
+  "B": "36 tháng",
+  "C": "02 năm",
+  "D": "18 tháng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "265",
+  "QUESTION": "Khoản 2 điều 12 luật dân quân tự vệ quy định bao nhiêu trường hợp đưa ra khỏi danh sách Dân quân tự vệ ?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "266",
+  "QUESTION": "Chiến lược “diễn biến hoà bình” xuất hiện vào thời gian nào?",
+  "A": "cuối những năm 40 của thế kỷ 20",
+  "B": "cuối những năm 30 của thế kỷ 20",
+  "C": "cuối những năm 20 của thế kỷ 20",
+  "D": "cuối những năm 30 của thế kỷ 20",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "267",
+  "QUESTION": "Tên gọi khác của chiến lược \"diễn biến hòa bình\"?",
+  "A": "Chiến tranh tiếng súng",
+  "B": "Chiến tranh không tiếng súng",
+  "C": "cách mạng xanh",
+  "D": "cuộc chiến biên giới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "268",
+  "QUESTION": "Tên gọi khác của chiến lược \"diễn biến hòa bình\"?",
+  "A": "Chiến tranh nhung lụa",
+  "B": "chiến tranh vì hòa bình",
+  "C": "Cuộc thánh chiến",
+  "D": "chiến tranh hoa màu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "269",
+  "QUESTION": "Mục đích cuối cùng của chiến lược “diễn biến hoà bình”",
+  "A": "xoá bỏ chủ nghĩa xã hội trên phạm vi toàn cầu",
+  "B": "xoá bỏ chủ nghĩa dân túy trên phạm vi toàn cầu",
+  "C": "xoá bỏ chủ nghĩa xã hội ở các nước xã hội chủ nghĩa",
+  "D": "xoá bỏ chủ nghĩa cộng sản ở các nước đang phát triển",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "270",
+  "QUESTION": "Nước xã hội chủ nghĩa đầu tiên ở Đông Nam Á ?",
+  "A": "Lào",
+  "B": "Campuchia",
+  "C": "Thái Lan",
+  "D": "Việt Nam",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "271",
+  "QUESTION": "Âm mưu thủ đoạn chống phá của chiến lược \"diễn biến hòa bình\" trên lĩnh vực nào?",
+  "A": "Kinh tế, xã hội",
+  "B": "văn hóa tư tưởng",
+  "C": "quốc phòng an ninh",
+  "D": "tất cả các ý trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "272",
+  "QUESTION": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập ?",
+  "A": "ngày 9 tháng 8 năm 1968",
+  "B": "ngày 8 tháng 8 năm 1967",
+  "C": "ngày 8 tháng 8 năm 1969",
+  "D": "ngày 8 tháng 9 năm 1967",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "273",
+  "QUESTION": "Bờ Biển Việt Nam dài bao nhiêu km?",
+  "A": "3286",
+  "B": "3288",
+  "C": "3260",
+  "D": "2360",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "274",
+  "QUESTION": "Ngày 11\/12\/1982, chính phủ nước CHXHCN Việt Nam đã ra tuyên bố về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam, gồm :",
+  "A": "10 điểm, từ A1 đến A10",
+  "B": "11 điểm, từ A1 đến A11",
+  "C": "12 điểm, từ A1 đến A12",
+  "D": "10 điểm, từ A0 đến A9",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "275",
+  "QUESTION": "Vùng nước phía trong đường cơ sở và giáp với bờ biển, hải đảo của Việt Nam là gì của nước CHXHCN Việt Nam?",
+  "A": "vùng cơ sở",
+  "B": "nội thủy",
+  "C": "lãnh hải",
+  "D": "vùng tiếp giáp lãnh hải",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "276",
+  "QUESTION": "Điểm nằm trên ranh giới phía Tây Nam của vùng nước lịch sử của CHXHCN Việt Nam và CHND Campuchia",
+  "A": "A1",
+  "B": "A2",
+  "C": "A3",
+  "D": "0",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "277",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Nhạn, quần đảo Thổ Chu, tỉnh Kiên Giang là?",
+  "A": "0",
+  "B": "A2",
+  "C": "A3",
+  "D": "A1",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "278",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Đá lẻ ở đông nam Hòn Khoai, tỉnh Cà Mau là?",
+  "A": "A2",
+  "B": "A4",
+  "C": "A6",
+  "D": "A8",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "279",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Tài lớn, Côn đảo, Bà Rịa Vũng Tàu là?",
+  "A": "A1",
+  "B": "A2",
+  "C": "A3",
+  "D": "A4",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "280",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Bông Lang, Bà Rịa Vũng Tàu là?",
+  "A": "A1",
+  "B": "A2",
+  "C": "A3",
+  "D": "A4",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "281",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Bảy cạnh, Bà Rịa Vũng Tàu là?",
+  "A": "A3",
+  "B": "A5",
+  "C": "A7",
+  "D": "A9",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "282",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Hải ( nhóm đảo Phú quý), tỉnh Bình Thuận là?",
+  "A": "A4",
+  "B": "A5",
+  "C": "A6",
+  "D": "A7",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "283",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Đôi, tỉnh Bình Thuận là?",
+  "A": "A4",
+  "B": "A5",
+  "C": "A6",
+  "D": "A7",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "284",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Mũi Đại lãnh, tỉnh Khánh Hòa là?",
+  "A": "A5",
+  "B": "A6",
+  "C": "A7",
+  "D": "A8",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "285",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Hòn Ông Căn, tỉnh Khánh Hòa là?",
+  "A": "A7",
+  "B": "A8",
+  "C": "A9",
+  "D": "A10",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "286",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Đảo Lý Sơn, tỉnh Quãng Ngãi là?",
+  "A": "A8",
+  "B": "A9",
+  "C": "A10",
+  "D": "A11",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "287",
+  "QUESTION": "Điểm chuẩn đường cơ sở tại Đảo Cồn Cỏ, tỉnh Quảng Trị là?",
+  "A": "A9",
+  "B": "A10",
+  "C": "A11",
+  "D": "A12",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "288",
+  "QUESTION": "Lãnh hải của nước CHXHCNVN rộng 12 hải lý tính từ đâu ra?",
+  "A": "Nội thủy trở ra",
+  "B": "đường cơ sở trở ra",
+  "C": "vùng nước phía trong trở ra",
+  "D": "cửa sông, cửa biển trở ra",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "289",
+  "QUESTION": "Ranh giới ngoài của lãnh hải là?",
+  "A": "Biên giới quốc gia trên biển",
+  "B": "Hải phận quốc tế",
+  "C": "vùng đặc quyền kinh tế",
+  "D": "vùng tiếp giáp lãnh hải",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "290",
+  "QUESTION": "Phao số \"0\" là?",
+  "A": "điểm đầu tiên của hệ thống phao luồng",
+  "B": "mốc biên giới biển",
+  "C": "điểm chuẩn đường cơ sở",
+  "D": "điểm xác định biên giới biển",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "291",
+  "QUESTION": "Triết học ra đời sớm nhất ở đâu?",
+  "A": "Ấn Độ, Châu Phi, Nga.",
+  "B": "Ấn Độ, Trung Quốc, Hy Lạp.",
+  "C": "Ai Cập, Ấn Độ, Trung Quốc.",
+  "D": "Việt Nam.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "292",
+  "QUESTION": "Định nghĩa về vật chất của V.I.Lênin được nêu trong tác phẩm nào?",
+  "A": "Biện chứng của tự nhiên.",
+  "B": "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán.",
+  "C": "Bút ký triết học.",
+  "D": "Nhà nước và cách mạng.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "293",
+  "QUESTION": "Cơ sở lý luận của quan điểm toàn diện là nguyên lý nào?",
+  "A": "Nguyên lý về sự phát triển.",
+  "B": "Nguyên lý về sự tồn tại khách quan của thế giới vật chất.",
+  "C": "Nguyên lý về mối liên hệ phổ biến.",
+  "D": "cả 3 đáp án",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "294",
+  "QUESTION": "Vai trò của đấu tranh giai cấp trong lịch sử nhân loại?",
+  "A": "Là động lực cơ bản của sự phát triển xã hội.",
+  "B": "Là một động lực quan trọng, trực tiếp của lịch sử.",
+  "C": "Thay thế các hình thái kinh tế - xã hội từ thấp đến cao.",
+  "D": "Lật đổ ách thống trị của giai cấp thống trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "295",
+  "QUESTION": "Quy luật xã hội nào giữ vai trò quyết định đối với sự vận động, phát triển của xã hội?",
+  "A": "Quy luật về sự phù hợp của quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất.",
+  "B": "Quy luật tồn tại xã hội quyết định ý thức xã hội.",
+  "C": "Quy luật cơ sở hạ tầng quyết định kiến trúc thượng tầng.",
+  "D": "Quy luật đấu tranh giai cấp.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "296",
+  "QUESTION": "Định nghĩa về vật chất của V.I. Lênin bao quát đặc tính quan trọng nhất của mọi dạng vật chất để phân biệt với ý thức, đó là đặc tính gì?",
+  "A": "Thực tại khách quan, ở bên ngoài ý thức và không lệ thuộc vào ý thức.",
+  "B": "Vận động và biến đổi.",
+  "C": "Có khối lượng và quảng tính.",
+  "D": "Vận động trong không gian và thời gian.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "297",
+  "QUESTION": "Cấu trúc của một hình thái kinh tế - xã hội gồm các yếu tố cơ bản hợp thành?",
+  "A": "Lĩnh vực vật chất và lĩnh vực tinh thần.",
+  "B": "Cơ sở hạ tầng và kiến trúc thượng tầng.",
+  "C": "Quan hệ sản xuất, lực lượng sản xuất và kiến trúc thượng tầng.",
+  "D": "Quan hệ sản xuất, cơ sở hạ tầng và kiến trúc thượng tầng.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "298",
+  "QUESTION": "Quan điểm của chủ nghĩa duy vật biện chứng về nguồn gốc mối liên hệ giữa các sự vật, hiện tượng là từ đâu?",
+  "A": "Do lực lượng siêu nhiên (thượng đế, ý niệm) sinh ra.",
+  "B": "Do tính thống nhất vật chất của thế giới.",
+  "C": "Do cảm giác thói quen của con người tạo ra.",
+  "D": "Do tư duy con người tạo ra rồi đưa vào tự nhiên và xã hội.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "299",
+  "QUESTION": "Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng?",
+  "A": "Bản chất đồng nhất với cái chung.",
+  "B": "Cái chung và bản chất hoàn toàn khác nhau, không có gì chung",
+  "C": ". Có cái chung là bản chất, có cái chung không phải là bản chất",
+  "D": "Cái chung không phải là bản chất.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "300",
+  "QUESTION": "Đâu là quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ giữa cái chung và cái riêng?",
+  "A": "Chỉ có cái chung tồn tại khách quan và vĩnh viễn.",
+  "B": "Chỉ có cái riêng tồn tại khách quan và thực sự.",
+  "C": "Cái riêng và cái chung đều tồn tại khách quan và không tách rời nhau",
+  "D": "Cái chung và cái riêng có quan hệ biệt lập.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "301",
+  "QUESTION": "Các nhân tố nào ảnh hưởng đến năng suất lao động?",
+  "A": "Trình độ chuyên môn của người lao động.",
+  "B": "Trình độ kỹ thuật và công nghệ sản xuất.",
+  "C": "Các điều kiện tự nhiên.",
+  "D": "tất cả đều đúng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "302",
+  "QUESTION": "Sản xuất hàng hoá xuất hiện dựa trên?",
+  "A": "Phân công lao động cá biệt và chế độ tư hữu về tư liệu sản xuất",
+  "B": "Phân công lao động chung và chế độ sở hữu khác nhau về TLSX",
+  "C": "Phân công lao động và sự tách biệt về kinh tế giữa những người sản xuất",
+  "D": "Phân công lao động xã hội và chế độ tư hữu hoặc những hình thức sở hữu khác nhau về tư liệu sản xuất.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "303",
+  "QUESTION": "Phương pháp sản xuất giá trị thặng dư tuyệt đối và phương pháp sản xuất giá trị thặng dư tương đối có điểm nào giống nhau?",
+  "A": "Đều làm cho công nhân tốn sức lao động nhiều hơn.",
+  "B": "Đều làm tăng tỷ suất giá trị thặng dư.",
+  "C": "Đều làm giảm giá trị sức lao động của công nhân",
+  "D": "tất cả đều đúng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "304",
+  "QUESTION": "Khi nghiên cứu phương thức sản xuất tư bản chủ nghĩa, C.Mác bắt đầu từ?",
+  "A": "Sản xuất của cải vật chất.",
+  "B": "Lưu thông hàng hoá.",
+  "C": "Sản xuất giá trị thặng dư.",
+  "D": "Sản xuất hàng hoá giản đơn và hàng hoá.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "305",
+  "QUESTION": "Doanh nghiệp nhà nước là doanh nghiệp do:",
+  "A": "Nhà nước nắm giữ 100% vốn điều lệ",
+  "B": "Nhà nước nắm vốn cổ phần",
+  "C": "Nhà nước nắm giữ vốn chi phối",
+  "D": "caả 3 đáp án đều đúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "306",
+  "QUESTION": "Hàng hoá là:",
+  "A": "Sản phẩm của lao động để thoả mãn nhu cầu của con người.",
+  "B": "Sản phẩm của lao động có thể thoả mãn nhu cầu nào đó của con người thông qua mua bán.",
+  "C": "Sản phẩm ở trên thị trường.",
+  "D": "Sản phẩm được sản xuất ra để đem bán.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "307",
+  "QUESTION": "Khi nào tiền tệ biến thành tư bản?",
+  "A": "Có lượng tiền tệ đủ lớn.",
+  "B": "Dùng tiền đầu tư vào sản xuất kinh doanh.",
+  "C": "Sức lao động trở thành hàng hoá.",
+  "D": "Dùng tiền để buôn bán mua rẻ, bán đắt.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "308",
+  "QUESTION": "“Lao động là cha, còn đất là mẹ của mọi của cải”.\nKhái niệm lao động trong câu này là lao động gì?",
+  "A": "Lao động giản đơn",
+  "B": "Lao động phức tạp",
+  "C": "Lao động cụ thể",
+  "D": "Lao động trừu tượng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "309",
+  "QUESTION": "Chỉ số phát triển con người (HDI) gồm những tiêu chí:",
+  "A": "Tuổi thọ, tổng sản phẩm quốc nội, trình độ dân trí.",
+  "B": "Tuổi thọ bình quân, tỷ lệ người biết chữ, tổng sản phẩm quốc nội\/người.",
+  "C": "Tổng sản phẩm quốc nội\/người, thành tựu giáo dục, tỷ lệ người cao tuổi.",
+  "D": "Tuổi thọ trung bình, thành tựu giáo dục, tổng sản phẩm quốc nội\/người.",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "310",
+  "QUESTION": "Nội dung cơ bản nhất mà nhờ đó chủ nghĩa xã hội từ không tưởng trở thành khoa học?",
+  "A": "Lên án mạnh mẽ chủ nghĩa tư bản.",
+  "B": "Phản ánh đúng khát vọng của nhân dân lao động bị áp bức.",
+  "C": "Phát hiện ra giai cấp công nhân là lực lượng xã hội có thể thủ tiêu chủ nghĩa tư bản, xây dựng chủ nghĩa xã hội.",
+  "D": "Chỉ ra sự cần thiết phải thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội.",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "311",
+  "QUESTION": "Tiền đề nào là nguồn gốc lý luận trực tiếp của chủ nghĩa xã hội khoa học?",
+  "A": "Triết học cổ điển Đức",
+  "B": "Kinh tế chính trị học cổ điển Anh",
+  "C": "Chủ nghĩa xã hội không tưởng - phê phán",
+  "D": "Cả a, b và c",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "312",
+  "QUESTION": "Ph. Ăngghen đã đánh giá “Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học”. Hai phát kiến đó là gì ?",
+  "A": "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+  "B": "Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư",
+  "C": "Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử",
+  "D": "Sứ mệnh lịch sử của giai cấp công nhân– Chủ nghĩa duy vật lịch sử",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "313",
+  "QUESTION": "Phạm trù nào được coi là cơ bản nhất, là xuất phát điểm của chủ nghĩa xã hội khoa học?",
+  "A": "Giai cấp công nhân",
+  "B": "Sứ mệnh lịch sử của giai cấp công nhân",
+  "C": "Chuyên chính vô sản",
+  "D": "Xã hội xã hội chủ nghĩa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "314",
+  "QUESTION": "Ai là người đầu tiên đưa chủ nghĩa xã hội từ khoa học thành thực tiễn sinh động?",
+  "A": "C.Mác",
+  "B": "Ph.Ănghen",
+  "C": "V.I. Lênin",
+  "D": "Hồ Chí Minh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "315",
+  "QUESTION": "Khái niệm “chuyên chính vô sản” được C.Mác dùng lần đầu tiên trong tác phẩm nào?",
+  "A": "Đấu tranh giai cấp ở Pháp",
+  "B": "Góp phần phê phán triết học pháp quyền của Hêghen",
+  "C": "Phê phán cương lĩnh Gô-ta",
+  "D": "Tuyên ngôn của Đảng cộng sản.",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "316",
+  "QUESTION": "Tìm ra định nghĩa đúng nhất về giai cấp công nhân:",
+  "A": "Là giai cấp bị thống trị.",
+  "B": "Là giai cấp lao động trong nền sản xuất công nghiệp có trình độ kỹ thuật và công nghệ hiện đại của xã hội.",
+  "C": "Là giai cấp đông đảo trong dân cư.",
+  "D": "Là giai cấp bị áp bức bóc lột nặng nề nhất",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "317",
+  "QUESTION": "Cấu trúc cơ bản của một hình thái kinh tế xã hội là:",
+  "A": "Lực lượng sản xuất và quan hệ sản xuất",
+  "B": "Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng.",
+  "C": "Cơ sở kinh tế và thể chế nhà nước.",
+  "D": "Cả ba đều đúng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "318",
+  "QUESTION": "Vì sao giai cấp nông dân không thể lãnh đạo được cuộc cách mạng xã hội chủ nghĩa?",
+  "A": "Họ đông nhưng không mạnh.",
+  "B": "Họ không có chính đảng",
+  "C": "Họ không đại diện cho phương thức sản xuất tiên tiến",
+  "D": "Họ không có hệ tư tưởng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "319",
+  "QUESTION": "Cách mạng dân chủ tư sản kiểu mới do giai cấp, tầng lớp nào lãnh đạo?",
+  "A": "Giai cấp tư­ sản",
+  "B": "Giai cấp công nhân",
+  "C": "Tầng lớp trí thức",
+  "D": "Giai cấp nông dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "320",
+  "QUESTION": "Nguyễn Tất Thành dạy học ở trường Dục Thanh thời gian nào?",
+  "A": "9\/1908 đến 9\/1909",
+  "B": "9\/1910 đến 2\/1911",
+  "C": "9\/1910 đến 4\/1911",
+  "D": "9\/1910 đến 5\/1911",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "321",
+  "QUESTION": "Nguyễn Ái Quốc đọc “Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa” của Lênin vào thời gian nào?",
+  "A": "thời gian 7\/1917",
+  "B": "thời gian 7\/1918",
+  "C": "thời gian 7\/1920",
+  "D": "thời gian 7\/1922",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "322",
+  "QUESTION": "Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc khi đang ở đâu?",
+  "A": "Anh",
+  "B": "Trung Quốc",
+  "C": "Pháp",
+  "D": "Liên Xô",
+  "ANSWER": "c"
+ },
+ {
+  "ID": "323",
+  "QUESTION": "Cuốn “Đừơng Kách mệnh” tập hợp các bài giảng của Nguyễn Ái Quốc tại các khoá huấn luyện chính trị được xuất bản tại đâu?",
+  "A": "Pháp",
+  "B": "Liên XÔ",
+  "C": "Việt Nam",
+  "D": "Trung Quốc",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "324",
+  "QUESTION": "\"Dù phải đốt cháy cả dãy Trường Sơn cũng phải giành cho được độc lập\" câu nói đó Hồ Chí Minh nói vào thời gian nào?",
+  "A": "Tháng 5-1941",
+  "B": "Tháng 8-1945",
+  "C": "Tháng 9-1945",
+  "D": "Tháng 12-1946",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "325",
+  "QUESTION": "Theo Hồ Chí Minh, mục tiêu tổng quát của chủ nghĩa xã hội là gì?",
+  "A": "Một nền kinh tế hiện đại, có sức tăng trưởng cao.",
+  "B": "Không ngừng cải thiện và nâng cao đời sống của nhân dân lao động.",
+  "C": "Phát triển mạnh mẽ khoa học - kỹ thuật.",
+  "D": "Bảo đảm quyền làm chủ của nhân dân lao động.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "326",
+  "QUESTION": "Tác phẩm \"Cách mạng Tháng Mư­ời và sự nghiệp giải phóng các dân tộc Phương Đông\" của Hồ Chí Minh được viết bằng tiếng nước nào?",
+  "A": "Tiếng Việt",
+  "B": "Tiếng Nga",
+  "C": "Tiếng Pháp",
+  "D": "Tiếng Trung Quốc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "327",
+  "QUESTION": "Theo Hồ Chí Minh, học chủ nghĩa Mác - Lênin nghĩa là gì?",
+  "A": "Học thuộc các luận điểm lý luận.",
+  "B": "Để sống với nhau có tình, có nghĩa.",
+  "C": "Để chứng tỏ trình độ lý luận.",
+  "D": "cả 3 đáp án",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "328",
+  "QUESTION": "Bác Hồ tặng cờ “Quyết tâm đánh thắng giặc Mỹ xâm lược” để làm giải thưởng cho toàn quân vào năm nào?",
+  "A": "Năm 1964",
+  "B": "Năm 1965",
+  "C": "Năm 1966",
+  "D": "Năm 1967",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "329",
+  "QUESTION": "Trong kháng chiến chống thực dân Pháp xâm l­ược. Bác khẳng định: “ Quân sự mà không có chính trị như cây không có gốc, vô dụng lại có hại”. Đồng chí cho biết Bác nói vào tháng, năm nào?",
+  "A": "tháng 10 năm 1950",
+  "B": "tháng 10 năm 1951",
+  "C": "tháng 10 năm 1952",
+  "D": "tháng 10 năm 1953",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "330",
+  "QUESTION": "Khi nào phong trào công nhân Việt Nam hoàn toàn trở thành một phong trào tự giác?",
+  "A": "Năm 1920 (tổ chức công hội ở Sài Gòn được thành lập)",
+  "B": "Năm 1925 (cuộc bãi công Ba Son)",
+  "C": "Năm 1929 (sự ra đời ba tổ chức cộng sản)",
+  "D": "Năm 1930 (Đảng Cộng sản Việt Nam ra đời)",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "331",
+  "QUESTION": "Nguyễn Ái Quốc đã đọc Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa khi nào? ở đâu?",
+  "A": "7\/ 1920 - Liên Xô",
+  "B": "7\/ 1920 - Pháp",
+  "C": "7\/1920 - Quảng Châu (Trung Quốc)",
+  "D": "8\/1920 - Trung Quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "332",
+  "QUESTION": "Mâu thuẫn cơ bản chủ yếu ở VN đầu thế kỷ XX là mâu thuẫn nào?",
+  "A": "Mâu thuẫn giữa giai cấp nông dân với giai cấp địa chủ phong kiến",
+  "B": "Mâu thuẫn giữa giai cấp công nhân với giai cấp tư sản",
+  "C": "Mâu thuẫn giữa công nhân và nông dân với đế quốc và phong kiến",
+  "D": "Mâu thuẫn giữa dân tộc Việt Nam với đế quốc xâm lược và tay sai của chúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "333",
+  "QUESTION": "Cương lĩnh đầu tiên của Đảng đã xác định\n  mục tiêu chiến lược của cách mạng Việt Nam là gì?",
+  "A": "Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+  "B": "Xây dựng một nước Việt Nam dân giầu nước mạnh xã hội công bằng, dân chủ và văn minh.",
+  "C": "Cách mạng tư sản dân quyền kiểu mới - phản đế và điền địa để dự bị điều kiện đi tới cách mạng xã hội chủ nghĩa.",
+  "D": "Cả 3 đáp án đều đúng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "334",
+  "QUESTION": "Luận cương Chính trị do Đ\/C Trần Phú khởi thảo ra đời vào thời gian nào?",
+  "A": "Tháng 2\/1930",
+  "B": "Tháng 10\/1930",
+  "C": "Tháng 3\/1935",
+  "D": "Tháng 11\/1939",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "335",
+  "QUESTION": "Chỉ thị 100 CT\/TW của ban Bí thư Trung ương Đảng (1\/1981) đưa ra chủ trương nào sau đây:",
+  "A": "Phát huy quyền sản xuất kinh doanh của các xí nghiệp quốc doanh",
+  "B": "Mở rộng hình thức trả lương khoán, lương sản phẩm",
+  "C": "Khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp.",
+  "D": "Cải tiến công công tác phân phối lưu thông",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "336",
+  "QUESTION": "Quan điểm \"Chủ động, tăng cường hợp tác quốc tế về quốc phòng, an ninh\" được xác định trong văn kiện nào của Đảng?",
+  "A": "Nghị quyết Đại hội IX",
+  "B": "Nghị quyết Trung ương 8 khóa IX",
+  "C": "Nghị quyết Đại hội X",
+  "D": "Nghị quyết Đại hội IX",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "337",
+  "QUESTION": "Một trong những Phương châm về công tác xây dựng đảng hiện nay mà Nghị quyết BCH TW4 Khóa XI đã xác định?",
+  "A": "Khách quan, toàn diện, lịch sử và phát triển",
+  "B": "Coi trọng cả số lượng và chất lượng, lấy chất lượng làm chính",
+  "C": "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, khách quan, không nể nang, né tránh",
+  "D": "Kết hợp chặt chẽ giữa xây và chống, lấy xây làm mục đích",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "338",
+  "QUESTION": "Từ thực tiễn lãnh đạo cách mạng Việt Nam trong 80 năm qua Cương lĩnh (bổ sung, phát triển năm 2011) đã rút ra mấy bài học kinh nghiệm lớn?",
+  "A": "4",
+  "B": "5",
+  "C": "6",
+  "D": "7",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "339",
+  "QUESTION": "Lần đầu tiên nhân dân Việt Nam kỷ niệm ngày Quốc tế lao động vào năm nào?",
+  "A": "1930",
+  "B": "1931",
+  "C": "1936",
+  "D": "1938",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "340",
+  "QUESTION": "Luật Biển Việt Nam năm 2013 quy định lãnh hải là vùng biển có chiều rộng bao nhiêu hải lý ?",
+  "A": "12 hải lý",
+  "B": "13 hải lý",
+  "C": "14 hải lý",
+  "D": "15 hải lý",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "341",
+  "QUESTION": "01 hải lý bằng bao nhiêu mét?",
+  "A": "1850 mét",
+  "B": "1851 mét",
+  "C": "1852 mét",
+  "D": "1853 mét",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "342",
+  "QUESTION": "Luật Biển Việt Nam năm 2013 quy định lãnh hải là vùng biển có chiều rộng 12 hải lý (mỗi hải lý bằng 1852 mét) tính từ ……………. ra phía biển.",
+  "A": "đường cơ sở",
+  "B": "đất liền",
+  "C": "mép nước trong",
+  "D": "cảng sông, cảng biển",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "343",
+  "QUESTION": "ranh giới phân định lãnh thổ quốc gia này với quốc gia khác hoặc với các vùng mà quốc gia có quyền chủ quyền trên biển gọi là gì?",
+  "A": "Biên giới",
+  "B": "biên giới quốc gia",
+  "C": "biên giới quốc gia trên biển",
+  "D": "chủ quyền lãnh thổ, lãnh hải",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "344",
+  "QUESTION": "Việt Nam có bao nhiêu tỉnh tiếp giáp biên giới đất liền với Trung Quốc ?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "345",
+  "QUESTION": "Việt Nam có bao nhiêu huyện, thị xã tiếp giáp biên giới đất liền với Trung Quốc ?",
+  "A": "30",
+  "B": "31",
+  "C": "32",
+  "D": "33",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "346",
+  "QUESTION": "Việt Nam có bao nhiêu tỉnh tiếp giáp biên giới đất liền với Lào ?",
+  "A": "9",
+  "B": "10",
+  "C": "11",
+  "D": "12",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "347",
+  "QUESTION": "Việt Nam có bao nhiêu huyện, thị xã tiếp giáp biên giới đất liền với Lào ?",
+  "A": "35",
+  "B": "36",
+  "C": "37",
+  "D": "38",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "348",
+  "QUESTION": "Việt Nam có bao nhiêu tỉnh tiếp giáp biên giới đất liền với Campuchia ?",
+  "A": "9",
+  "B": "10",
+  "C": "11",
+  "D": "12",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "349",
+  "QUESTION": "Việt Nam có bao nhiêu huyện, thị xã tiếp giáp biên giới đất liền với Campuchia ?",
+  "A": "30",
+  "B": "31",
+  "C": "32",
+  "D": "33",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "350",
+  "QUESTION": "Có bao nhiêu Nguyên tắc cơ bản giải quyết các tranh chấp, bất đồng về biên giới, lãnh thổ, biển đảo theo luật pháp quốc tế?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "351",
+  "QUESTION": "Quản lý nhà nước về biên giới quốc gia phục vụ cho mục tiêu?",
+  "A": "chiến lược cụ thể của từng địa phương",
+  "B": "chiến lược chung của đất nước",
+  "C": "chiến lược chung của tỉnh, thành phố",
+  "D": "chiến lược chung của quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "352",
+  "QUESTION": "Quản lý nhà nước về biên giới quốc gia là nhiệm vụ của nhà nước và là nghĩa vụ của toàn dân, trong đó lực lượng nòng cốt, chuyên trách là?",
+  "A": "Bộ đội địa phương",
+  "B": "Bộ đội biên phòng",
+  "C": "Bộ đội chủ lực",
+  "D": "Công an",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "353",
+  "QUESTION": "KẾT HỢP CHẶT CHẼ KINH TẾ, VĂN HÓA, XÃ HỘI VỚI ……………... TRONG XÂY DỰNG VÀ BẢO VỆ TỔ QUỐC VIỆT NAM XÃ HỘI CHỦ NGHĨA",
+  "A": "QUỐC PHÒNG, AN NINH",
+  "B": "GIÁO DỤC, Y TẾ",
+  "C": "TRẬT TỰ AN TOÀN XÃ HỘI",
+  "D": "ĐỐI NGOẠI",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "354",
+  "QUESTION": "Xây dựng nền quốc phòng toàn dân và nền an ninh nhân dân trong thời kỳ mới là xây dựng cả lực lượng và……?",
+  "A": "vật chất",
+  "B": "thế trận",
+  "C": "phương tiện",
+  "D": "tư tưởng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "355",
+  "QUESTION": "Trong phát triển kinh tế, văn hóa, xã hội của từng miền và cả nước, các vùng kinh tế trọng điểm là ?",
+  "A": "nòng cốt",
+  "B": "quan trọng",
+  "C": "chiến lược",
+  "D": "trọng tâm",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "356",
+  "QUESTION": "Về quốc phòng, an ninh, mỗi vùng kinh tế trọng điểm lại nằm trong các khu vực ?",
+  "A": "phòng thủ then chốt",
+  "B": "phòng ngự",
+  "C": "tiền duyên phòng ngự",
+  "D": "phòng thủ chiến lược",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "357",
+  "QUESTION": "Công ước Luật Biển năm 1982 gồm bao nhiêu phần?",
+  "A": "15",
+  "B": "16",
+  "C": "17",
+  "D": "18",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "358",
+  "QUESTION": "Công ước Luật Biển năm 1982 gồm bao nhiêu điều?",
+  "A": "310",
+  "B": "320",
+  "C": "330",
+  "D": "340",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "359",
+  "QUESTION": "Công ước Luật Biển năm 1982 gồm bao nhiêu phụ lục?",
+  "A": "6",
+  "B": "7",
+  "C": "8",
+  "D": "9",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "360",
+  "QUESTION": "Theo Công ước Luật Biển năm 1982, Có mấy loại đường cơ sở?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "361",
+  "QUESTION": "Theo Công ước Luật biển 1982, đường cơ bản quốc gia ven biển có thể đơn phương xác định dùng làm căn cứ để tính chiều rộng lãnh hải và các vùng biển khác gọi là?",
+  "A": "Đường biên giới quốc gia trên biển",
+  "B": "Đường nội thủy",
+  "C": "Đường cơ sở",
+  "D": "Đường biên giới quốc gia ven biển",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "362",
+  "QUESTION": "Theo Công ước Luật biển 1982, có bao nhiêu Nguyên tắc khi xác định đường cơ sở thẳng?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "363",
+  "QUESTION": "Theo Công ước Luật biển 1982, Chiều rộng của vùng đặc quyền kinh tế không mở rộng ra bao nhiêu ?",
+  "A": "không ra quá 200 hải lý kể từ đường cơ sở",
+  "B": "không ra quá 100 hải lý kể từ đường cơ sở",
+  "C": "không ra quá 150 hải lý kể từ đường cơ sở",
+  "D": "không ra quá 250 hải lý kể từ đường cơ sở",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "364",
+  "QUESTION": "một vùng đất tự nhiên có nước bao bọc, khi thủy triều lên vùng đất này vẫn ở trên mặt nước gọi là gì?",
+  "A": "Bán đảo",
+  "B": "Đảo",
+  "C": "Quần đảo",
+  "D": "Bãi bồi",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "365",
+  "QUESTION": "một quốc gia hoàn toàn được cấu thành bởi một hay nhiều quần đảo và có khi bởi một số hòn đảo khác nữa gọi là gì?",
+  "A": "Quốc gia biển",
+  "B": "Quốc gia ven biển",
+  "C": "Quốc gia đảo",
+  "D": "Quốc gia quần đảo",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "366",
+  "QUESTION": "Chủ quyền của quốc gia ven biển là quyền gì của quốc gia được thực hiện trong phạm vi vùng biển của quốc gia đó?",
+  "A": "quyền cơ bản",
+  "B": "quyền lợi",
+  "C": "quyền tối cao",
+  "D": "quyền duy nhất",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "367",
+  "QUESTION": "Luật Biển Việt Nam có bao nhiêu chương, điều",
+  "A": "6 chương, 54 điều",
+  "B": "7 chương, 55 điều",
+  "C": "8 chương, 56 điều",
+  "D": "9 chương, 57 điều",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "368",
+  "QUESTION": "Đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam là đường cơ sở thẳng đã được công bố bởi?",
+  "A": "Bộ Quốc Phòng",
+  "B": "Chính phủ",
+  "C": "Quốc hội",
+  "D": "Cảnh sát biển",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "369",
+  "QUESTION": "vùng biển tiếp liền và nằm ngoài lãnh hải Việt Nam, hợp với lãnh hải thành một vùng biển chiều rộng 200 hải lý tính từ đường cơ sở gọi là gì?",
+  "A": "Vùng đặc quyền kinh tế",
+  "B": "Vùng tiếp giáp lãnh hải",
+  "C": "Vùng lãnh hải",
+  "D": "Vùng đặc thù kinh tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "370",
+  "QUESTION": "Ba lần đại thắng quân xâm lược trên sông Bạch Đằng: năm 938, 981 và năm nào?",
+  "A": "năm 1286",
+  "B": "năm 1287",
+  "C": "năm 1288",
+  "D": "năm 1289",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "371",
+  "QUESTION": "chiến thắng trên phòng tuyến sông Như Nguyệt năm nào?",
+  "A": "năm 1075",
+  "B": "năm 1076",
+  "C": "năm 1077",
+  "D": "năm 1078",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "372",
+  "QUESTION": "Nghị quyết Đại hội lần thứ XII của Đảng khẳng định: “Giải quyết những bất đồng, tranh chấp bằng giải pháp hòa bình trên cơ sở gì?",
+  "A": "bình đẳng, tự do",
+  "B": "tôn trọng quan hệ ngoại giao",
+  "C": "tôn trọng luật pháp quốc tế",
+  "D": "theo sự trao đổi giữa các nước",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "373",
+  "QUESTION": "Đến nay, Nhà nước ta công nhận bao nhiêu tôn giáo?",
+  "A": "12",
+  "B": "13",
+  "C": "14",
+  "D": "15",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "374",
+  "QUESTION": "Đến nay, Nhà nước ta cấp đăng ký hoạt động cho bao nhiêu tổ chức tôn giáo?",
+  "A": "37",
+  "B": "39",
+  "C": "41",
+  "D": "45",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "375",
+  "QUESTION": "lực lượng vũ trang quần chúng, không thoát ly sản xuất, công tác là lực lượng nào?",
+  "A": "Bộ đội địa phương",
+  "B": "Dân quân tự vệ",
+  "C": "Dự bị động viên",
+  "D": "Cả 3 đáp án trên đều đúng.",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "376",
+  "QUESTION": "Luật Nghĩa vụ quân sự được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua thời gian nào?",
+  "A": "ngày 19 tháng 6 năm 2015",
+  "B": "ngày 19 tháng 6 năm 2016",
+  "C": "ngày 19 tháng 6 năm 2017",
+  "D": "ngày 19 tháng 6 năm 2018",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "377",
+  "QUESTION": "Luật Nghĩa vụ quân sự được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 có hiệu lực từ thời gian nào?",
+  "A": "từ ngày 01 tháng 01 năm 2016",
+  "B": "từ ngày 01 tháng 01 năm 2017",
+  "C": "từ ngày 01 tháng 01 năm 2018",
+  "D": "từ ngày 01 tháng 01 năm 2019",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "378",
+  "QUESTION": "Luật Nghĩa vụ quân sự được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 có bao nhiêu chương, điều?",
+  "A": "gồm 9 chương, 62 điều",
+  "B": "gồm 10 chương, 62 điều",
+  "C": "gồm 9 chương, 60 điều",
+  "D": "gồm 9 chương, 65 điều",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "379",
+  "QUESTION": "Điều 10 Luật nghĩa vụ quân sự 2015 quy định có bao nhiêu hành vi bị nghiêm cấm",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "380",
+  "QUESTION": "Nguyên tắc đăng ký nghĩa vụ quân sự và quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự được quy định trong điều mấy của Luật nghĩa vụ quân sự 2015?",
+  "A": "Điều 10",
+  "B": "Điều 11",
+  "C": "Điều 12",
+  "D": "Điều 13",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "381",
+  "QUESTION": "năm 1996, Ủy ban Thường vụ Quốc hội đã ban hành ?",
+  "A": "Pháp lệnh về dân quân tự vệ",
+  "B": "Luật Dân quân tự vệ",
+  "C": "Nghị định về Dân quân tự vệ",
+  "D": "Luật dân quân tự vệ ( sửa đổi)",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "382",
+  "QUESTION": "năm 2004, Ủy ban Thường vụ Quốc hội đã ban hành ?",
+  "A": "Pháp lệnh về dân quân tự vệ",
+  "B": "Luật Dân quân tự vệ",
+  "C": "Pháp lệnh về dân quân tự vệ (sửa đổi)",
+  "D": "Luật dân quân tự vệ ( sửa đổi)",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "383",
+  "QUESTION": "kỳ họp thứ 6 Quốc hội khóa 12, Quốc hội đã thông qua Luật nào? (có hiệu lực thi hành từ ngày 01 tháng 7 năm 2010)",
+  "A": "Luật đầu tư công",
+  "B": "Luật Quốc phòng",
+  "C": "Luật Dân quân tự vệ",
+  "D": "Luật nghĩa vụ quân sự",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "384",
+  "QUESTION": "Tiính đến năm 2020, Việt Nam đã thiết lập quan hệ đối tác chiến lược toàn diện với bao nhiêu quốc gia?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "385",
+  "QUESTION": "Tiính đến năm 2020, Việt Nam đã thiết lập quan hệ đối tác chiến lược với bao nhiêu quốc gia? ( bao gồm đối tác chiến lược toàn diện)",
+  "A": "14",
+  "B": "15",
+  "C": "16",
+  "D": "17",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "386",
+  "QUESTION": "Tiính đến năm 2020, Việt Nam đã thiết lập quan hệ đối tác toàn diện với bao nhiêu quốc gia?",
+  "A": "11",
+  "B": "12",
+  "C": "13",
+  "D": "14",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "387",
+  "QUESTION": "Khối ASEAN, hiện Việt Nam đã thiết lập quan hệ ngoại giao cao cấp với bao nhiêu nước thành viên (không tính Việt Nam)",
+  "A": "8 quốc gia",
+  "B": "9 quốc gia",
+  "C": "10 quốc gia",
+  "D": "11 quốc gia",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "388",
+  "QUESTION": "Tiính đến năm 2020, quan hệ đặc biệt của Việt nam bao gồm 3 quốc gia nào?",
+  "A": "Nga, Mỹ, Nhật",
+  "B": "Trung Quốc, Nga, Mỹ",
+  "C": "Nga, Trung Quốc, Cuba",
+  "D": "Nga, Trung Quốc, Ấn Độ",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "389",
+  "QUESTION": "Tiính đến năm 2020, quan hệ đối tác chiến lược toàn diện của Việt nam bao gồm 3 quốc gia nào?",
+  "A": "Nga, Triều Tiên, CuBa",
+  "B": "Nga, Lào, Campuchia",
+  "C": "Lào, Campuchia, CuBa",
+  "D": "Nga, Trung Quốc, Ấn Độ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "390",
+  "QUESTION": "Đại hội Đảng lần 12 xác định: “Bảo đảm lợi ích tối cao của quốc gia - dân tộc, trên cơ sở các nguyên tắc …. của luật pháp quốc tế, bình đẳng và cùng có lợi”",
+  "A": "cơ bản",
+  "B": "Tập trung",
+  "C": "Thống nhất",
+  "D": "chung",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "391",
+  "QUESTION": "Nghị quyết Trung ương 8 khóa IX nhấn mạnh một trong những mục tiêu then chốt của sự nghiệp xây dựng và bảo vệ Tổ quốc ?",
+  "A": "\"bảo vệ và xây dựng chủ nghĩa cộng sản\"",
+  "B": "“bảo vệ lợi ích quốc gia, dân tộc\"",
+  "C": "\"bảo vệ và xây dựng con người mới xã hội chủ nghĩa\"",
+  "D": "\"bảo vệ tài nguyên thiên nhiên quốc gia dân tộc\"",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "392",
+  "QUESTION": "Hồ Chí Minh khẳng định: “thực lực mạnh, ngoại giao sẽ thắng lợi. …. là cái chiêng mà …. là cái tiếng. Cái chiêng có to tiếng mới lớn",
+  "A": "thực lực - ngoại giao",
+  "B": "kiến thức - ngoại ngữ",
+  "C": "ngoại ngữ - thực lực",
+  "D": "ngoại giao - thực lực",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "393",
+  "QUESTION": "Các nước láng giếng có chung biên giới với Việt Nam?",
+  "A": "Trung Quốc, Lào, Thái Lan",
+  "B": "Trung Quốc, Thái lan, Campuchia",
+  "C": "Lào, Campuchia, Thái Lan",
+  "D": "Campuchia, Trung Quốc, Lào",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "394",
+  "QUESTION": "Theo Từ điển Tiếng Việt, “đạo đức” được hiểu là gì?",
+  "A": "Những quy tắc của pháp luật quy định hành vi con người",
+  "B": "Những tiêu chuẩn, nguyên tắc được xã hội thừa nhận, quy định hành vi, quan hệ con người",
+  "C": "Những chuẩn mực mang tính cá nhân của mỗi con người",
+  "D": "Những lời răn dạy của tôn giáo về cách ứng xử",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "395",
+  "QUESTION": "Theo nghĩa hẹp, “đạo đức” là gì?",
+  "A": "Toàn bộ giá trị văn hóa truyền thống của dân tộc",
+  "B": "Hệ thống pháp luật điều chỉnh hành vi",
+  "C": "Nét đẹp trong phong cách sống với phẩm chất thanh cao trong ứng xử và tư duy",
+  "D": "Những nguyên tắc của triết học phương Đông",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "396",
+  "QUESTION": "Hồ Chí Minh khẳng định: “Người cách mạng phải có đạo đức cách mạng làm nền tảng, mới hoàn thành được nhiệm vụ cách mạng vẻ vang”. Câu nói này nhấn mạnh điều gì?",
+  "A": "Đạo đức cách mạng là yếu tố phụ, sau tài năng",
+  "B": "Đạo đức cách mạng là gốc, là nền tảng của người cách mạng",
+  "C": "Đạo đức cách mạng do thiên phú mà có",
+  "D": "Đạo đức cách mạng chỉ cần với lãnh đạo cấp cao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "397",
+  "QUESTION": "Phẩm chất “Trung với nước, hiếu với dân” theo Hồ Chí Minh có ý nghĩa như thế nào?",
+  "A": "Giữ gìn đạo đức truyền thống phong kiến",
+  "B": "Phẩm chất quan trọng nhất, bao trùm nhất, chi phối các phẩm chất khác",
+  "C": "Chỉ cần trong thời kỳ kháng chiến giành độc lập",
+  "D": "Thuộc về trách nhiệm của lãnh đạo cấp cao",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "398",
+  "QUESTION": "“Cần, kiệm, liêm, chính” theo Hồ Chí Minh là:",
+  "A": "Những phẩm chất do thiên phú, có sẵn từ khi sinh ra",
+  "B": "Những đức tính hình thành qua rèn luyện bền bỉ, không phải tự nhiên mà có",
+  "C": "Chỉ là những đức tính dành cho cán bộ lãnh đạo",
+  "D": "Giá trị đạo đức chỉ có ý nghĩa trong thời chiến",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "399",
+  "QUESTION": "Theo Hồ Chí Minh, yêu thương con người thể hiện cao nhất ở chỗ nào?",
+  "A": "Chia sẻ kinh nghiệm sống",
+  "B": "Yêu thương rộng lớn với những người nghèo khổ, lao động bị áp bức",
+  "C": "Quan tâm đến gia đình và bạn bè trước tiên",
+  "D": "Tha thứ mọi lỗi lầm mà không cần giáo dục",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "400",
+  "QUESTION": "Tinh thần quốc tế trong sáng, hội nhập quốc tế theo tư tưởng Hồ Chí Minh thể hiện ở đâu?",
+  "A": "Gắn bó, đoàn kết với các dân tộc bị áp bức, giúp họ bảo vệ độc lập tự do",
+  "B": "Chỉ giao lưu văn hóa với các nước lớn",
+  "C": "Ưu tiên lợi ích dân tộc trên tất cả, bỏ qua trách nhiệm quốc tế",
+  "D": "Hỗ trợ quốc tế khi có điều kiện dư thừa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "401",
+  "QUESTION": "Đại hội nào của Đảng lần đầu tiên đưa công tác xây dựng Đảng về đạo đức ngang hàng với chính trị, tư tưởng và tổ chức?",
+  "A": "Đại hội X",
+  "B": "Đại hội XI",
+  "C": "Đại hội XII",
+  "D": "Đại hội XIII",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "402",
+  "QUESTION": "Văn kiện Đại hội XIII của Đảng nhấn mạnh điều gì về xây dựng, chỉnh đốn Đảng?",
+  "A": "Chỉ tập trung vào chính trị và tư tưởng",
+  "B": "Đẩy mạnh toàn diện về chính trị, tư tưởng, đạo đức, tổ chức và cán bộ",
+  "C": "Chỉ chú trọng xử lý tham nhũng",
+  "D": "Ưu tiên công tác kinh tế thay cho đạo đức",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "403",
+  "QUESTION": "Biểu hiện tiêu cực đối lập với giá trị đạo đức cách mạng là gì?",
+  "A": "Khiêm tốn, đoàn kết, kỷ cương",
+  "B": "Hiếu danh, kiêu ngạo, ham muốn vật chất, nói không đi đôi với làm",
+  "C": "Yêu nước, tôn trọng nhân dân, trung thành với Đảng",
+  "D": "Học tập suốt đời, cần kiệm liêm chính",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "404",
+  "QUESTION": "Kết luận số 21-KL\/TW ngày 25\/10\/2021 của Ban Chấp hành Trung ương Đảng nhấn mạnh điều gì?",
+  "A": "Đẩy mạnh xây dựng kinh tế thị trường định hướng XHCN",
+  "B": "Đẩy mạnh xây dựng, chỉnh đốn Đảng và hệ thống chính trị, ngăn chặn suy thoái, “tự diễn biến”, “tự chuyển hóa”",
+  "C": "Phát triển khoa học, công nghệ và giáo dục",
+  "D": "Tập trung cải cách hành chính trong toàn quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "405",
+  "QUESTION": "Theo Kết luận 21-KL\/TW, bốn nguy cơ mà Đảng đã chỉ ra hiện nay như thế nào?",
+  "A": "Cơ bản đã được khắc phục",
+  "B": "Không còn đáng lo ngại",
+  "C": "Vẫn hiện hữu, có mặt còn gay gắt hơn",
+  "D": "Chỉ còn tồn tại trong lĩnh vực kinh tế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "406",
+  "QUESTION": "Phương châm “dân biết, dân bàn, dân kiểm tra, dân giám sát, dân thụ hưởng” thể hiện yêu cầu gì?",
+  "A": "Phát huy quyền làm chủ của nhân dân",
+  "B": "Tăng cường giám sát nội bộ Đảng",
+  "C": "Kiểm tra cán bộ đảng viên",
+  "D": "Cải cách bộ máy hành chính",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "407",
+  "QUESTION": "Nghị quyết số 847-NQ\/QUTW ngày 28\/12\/2021 yêu cầu trọng tâm nào?",
+  "A": "Phát triển kinh tế quân đội",
+  "B": "Phát huy phẩm chất “Bộ đội Cụ Hồ”, kiên quyết chống chủ nghĩa cá nhân",
+  "C": "Đẩy mạnh công tác dân vận",
+  "D": "Tăng cường huấn luyện kỹ thuật chiến đấu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "408",
+  "QUESTION": "Một trong những mục tiêu của Nghị quyết 847-NQ\/QUTW là gì?",
+  "A": "Xây dựng Quân đội vững mạnh về chính trị, cơ quan đơn vị “Mẫu mực, tiêu biểu”",
+  "B": "Giảm bớt biên chế trong Quân đội",
+  "C": "Tập trung huấn luyện quân sự hiện đại hóa vũ khí",
+  "D": "Đẩy mạnh đối ngoại quân sự",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "409",
+  "QUESTION": "Âm mưu, thủ đoạn chống phá của các thế lực thù địch thường tập trung vào vấn đề nào?",
+  "A": "Kinh tế thị trường định hướng XHCN",
+  "B": "Gán ghép công tác phòng, chống tham nhũng là “thanh trừng nội bộ”",
+  "C": "Hạn chế tự do báo chí",
+  "D": "Chính sách dân số",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "410",
+  "QUESTION": "Mục tiêu sâu xa của các thế lực thù địch khi chống phá là gì?",
+  "A": "Tạo sức ép cải cách chính trị",
+  "B": "Làm giảm lòng tin của nhân dân vào Đảng, Nhà nước và Quân đội",
+  "C": "Tăng sức cạnh tranh quốc tế",
+  "D": "Thúc đẩy hợp tác quốc phòng đa phương",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "411",
+  "QUESTION": "Một trong những ưu điểm nổi bật thời gian qua trong thực hiện chuẩn mực đạo đức cách mạng là gì?",
+  "A": "Công tác kiểm tra giám sát được giảm nhẹ",
+  "B": "Cán bộ, đảng viên chấp hành nghị quyết chưa cao",
+  "C": "Nhiều cán bộ, đảng viên là tấm gương đạo đức, mẫu mực, đi đầu trong công tác",
+  "D": "Hạn chế nêu gương từ cấp trên",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "412",
+  "QUESTION": "Phương châm nêu gương trong cán bộ, đảng viên được nhấn mạnh là:",
+  "A": "Trên trước, dưới sau; trong trước, ngoài sau; học tập đi đôi với làm theo",
+  "B": "Cán bộ nói, quần chúng làm",
+  "C": "Trên nói, dưới nghe",
+  "D": "Lý luận đi trước, thực hành đi sau",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "413",
+  "QUESTION": "Theo Đại hội XIII, công tác xây dựng Đảng về đạo đức đã góp phần gì?",
+  "A": "Xây dựng quân đội hiện đại",
+  "B": "Chống chủ nghĩa cá nhân, cơ hội, thực dụng, “lợi ích nhóm”",
+  "C": "Giảm bớt thủ tục hành chính",
+  "D": "Tăng cường quan hệ quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "414",
+  "QUESTION": "Tỉ lệ cán bộ, đảng viên trong quân đội hoàn thành và hoàn thành tốt nhiệm vụ hằng năm đạt:",
+  "A": "Trên 50%",
+  "B": "Trên 70%",
+  "C": "Trên 80%",
+  "D": "Trên 90%",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "415",
+  "QUESTION": "Một trong những hạn chế trong công tác giáo dục, tuyên truyền là gì?",
+  "A": "Hình thức, phương pháp còn hạn chế, thiếu sáng tạo",
+  "B": "Tổ chức học tập quá dàn trải",
+  "C": "Chỉ tập trung vào cấp cơ sở",
+  "D": "Không ban hành văn bản chỉ đạo",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "416",
+  "QUESTION": "Nguyên nhân chủ yếu của hạn chế, khuyết điểm trong thực hiện chuẩn mực đạo đức cách mạng là gì?",
+  "A": "Do kinh tế đất nước khó khăn",
+  "B": "Do lãnh đạo, chỉ đạo chưa thường xuyên, kiểm tra đôn đốc chưa quyết liệt",
+  "C": "Do quân số đông, khó quản lý",
+  "D": "Do tình hình quốc tế phức tạp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "417",
+  "QUESTION": "Một số cán bộ, đảng viên hạn chế trong việc gì dẫn đến sức thuyết phục quần chúng chưa cao?",
+  "A": "Chưa gắn kết chặt chẽ với cấp ủy",
+  "B": "Thiếu tự giác, nói chưa đi đôi với làm",
+  "C": "Chưa nắm vững nghị quyết của Đảng",
+  "D": "Ít tham gia hoạt động tập thể",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "418",
+  "QUESTION": "Biểu hiện tiêu cực cá biệt trong một số cán bộ, đảng viên, quần chúng trong quân đội là gì?",
+  "A": "Tự giác chấp hành kỷ luật nghiêm minh",
+  "B": "Phát huy đoàn kết nội bộ",
+  "C": "Vi phạm pháp luật Nhà nước, kỷ luật Quân đội, thậm chí bị truy cứu trách nhiệm hình sự",
+  "D": "Đổi mới, sáng tạo trong công tác",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "419",
+  "QUESTION": "Theo quy định chuẩn mực đạo đức cách mạng, việc gì có lợi cho dân thì cán bộ, đảng viên phải:",
+  "A": "Cân nhắc kỹ rồi mới làm",
+  "B": "Hết sức làm",
+  "C": "Chỉ làm khi có chỉ đạo",
+  "D": "Làm trong phạm vi trách nhiệm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "420",
+  "QUESTION": "Cán bộ, đảng viên tuyệt đối trung thành với Đảng, Tổ quốc thể hiện ở chỗ nào?",
+  "A": "Luôn đặt lợi ích quốc gia – dân tộc lên trên hết",
+  "B": "Trung thành với cá nhân lãnh đạo cấp trên",
+  "C": "Tập trung bảo vệ lợi ích của cơ quan, đơn vị",
+  "D": "Đặt lợi ích gia đình lên hàng đầu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "421",
+  "QUESTION": "Trong nội dung về bản lĩnh, cán bộ, đảng viên cần:",
+  "A": "Linh hoạt điều chỉnh nguyên tắc xây dựng Đảng",
+  "B": "Kiên định và vận dụng sáng tạo chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh",
+  "C": "Ưu tiên lợi ích cá nhân trong công tác",
+  "D": "Chỉ thực hiện khi có chỉ thị trực tiếp từ cấp trên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "422",
+  "QUESTION": "Nội dung nào KHÔNG thuộc phẩm chất “Cần” trong chuẩn mực đạo đức cách mạng?",
+  "A": "Tâm huyết, trách nhiệm, nỗ lực hoàn thành tốt nhiệm vụ",
+  "B": "Có ý chí quyết tâm góp phần xây dựng đất nước giàu mạnh",
+  "C": "Sử dụng tài sản công đúng mục đích, tiết kiệm, hiệu quả",
+  "D": "Dấn thân vì sự nghiệp đổi mới do Đảng lãnh đạo",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "423",
+  "QUESTION": "“Không tham ô, tham nhũng, tiêu cực, không gây phiền hà, sách nhiễu” thể hiện nội dung nào?",
+  "A": "Chính",
+  "B": "Liêm",
+  "C": "Cần",
+  "D": "Chí công vô tư",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "424",
+  "QUESTION": "Trong nội dung về đoàn kết, cán bộ, đảng viên cần kiên quyết đấu tranh với biểu hiện nào?",
+  "A": "Chia rẽ, bè phái, cục bộ, lợi ích nhóm",
+  "B": "Học tập suốt đời, đổi mới sáng tạo",
+  "C": "Tự phê bình và phê bình thẳng thắn",
+  "D": "Gần gũi, gắn bó với nhân dân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "425",
+  "QUESTION": "“Nêu cao ý thức tổ chức kỷ luật, kỷ cương, nhất là kỷ luật phát ngôn” là biểu hiện của nội dung nào?",
+  "A": "Tình thương",
+  "B": "Trách nhiệm",
+  "C": "Kỷ cương",
+  "D": "Khiêm tốn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "426",
+  "QUESTION": "Nội dung “Cán bộ, đảng viên chức vụ càng cao càng phải gương mẫu” thuộc chuẩn mực nào?",
+  "A": "Khiêm tốn",
+  "B": "Gương mẫu",
+  "C": "Trách nhiệm",
+  "D": "Bản lĩnh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "427",
+  "QUESTION": "Một trong những đặc trưng cơ bản của phẩm chất “Bộ đội Cụ Hồ” là gì?",
+  "A": "Luôn đặt lợi ích cá nhân lên trên lợi ích tập thể",
+  "B": "Kiên định chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh",
+  "C": "Tìm cách né tránh nhiệm vụ khó khăn, gian khổ",
+  "D": "Đề cao chủ nghĩa cá nhân, lợi ích nhóm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "428",
+  "QUESTION": "“Cần, kiệm, liêm, chính, chí công vô tư, trung thực, giản dị, chân thành, lạc quan” là đặc trưng thuộc về:",
+  "A": "Chuẩn mực đạo đức của cán bộ, đảng viên trong giai đoạn mới",
+  "B": "Đặc trưng phẩm chất ‘Bộ đội Cụ Hồ’",
+  "C": "Nguyên tắc tổ chức kỷ luật trong Quân đội",
+  "D": "Trách nhiệm nêu gương của cán bộ lãnh đạo",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "429",
+  "QUESTION": "Một trong những yêu cầu quan trọng khi học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh là gì?",
+  "A": "Tự giác tu dưỡng, rèn luyện của mỗi cá nhân",
+  "B": "Chỉ cần thực hiện theo chỉ thị cấp trên",
+  "C": "Tập trung xây dựng đời sống vật chất trước tiên",
+  "D": "Đặt lợi ích cá nhân lên hàng đầu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "430",
+  "QUESTION": "Nội dung nào KHÔNG phải là trọng tâm quán triệt của cán bộ, đảng viên trong quân đội?",
+  "A": "Nghị quyết số 04-NQ\/TW (khóa XII)",
+  "B": "Quy định số 37-QĐ\/TW (2021)",
+  "C": "Nghị quyết số 847-NQ\/QUTW (2021)",
+  "D": "Hiến pháp 1946",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "431",
+  "QUESTION": "Quy định số 144-QĐ\/TW (2024) của Ban Chấp hành Trung ương tập trung về vấn đề gì?",
+  "A": "Những điều đảng viên không được làm",
+  "B": "Chuẩn mực đạo đức cách mạng của cán bộ, đảng viên giai đoạn mới",
+  "C": "Quy định trách nhiệm nêu gương",
+  "D": "Quy định về tổ chức Đảng trong Quân đội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "432",
+  "QUESTION": "Cán bộ, đảng viên cần đặt lợi ích nào lên trên hết?",
+  "A": "Lợi ích cá nhân",
+  "B": "Lợi ích tập thể cơ quan",
+  "C": "Lợi ích của Đảng, Tổ quốc",
+  "D": "Lợi ích gia đình",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "433",
+  "QUESTION": "Nội dung “tự soi, tự sửa” gắn với:",
+  "A": "Thực hiện nghị quyết, chỉ thị của Đảng",
+  "B": "Công tác thi đua quyết thắng",
+  "C": "Công tác huấn luyện chiến đấu",
+  "D": "Quản lý, khai thác vũ khí, trang bị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "434",
+  "QUESTION": "Trong phê bình và tự phê bình, cán bộ, đảng viên cần có thái độ nào?",
+  "A": "Cầu thị, tiếp thu ý kiến góp ý",
+  "B": "Chỉ lắng nghe nhưng không sửa",
+  "C": "Đặt lợi ích cá nhân lên trước",
+  "D": "Chỉ góp ý với người dưới quyền",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "435",
+  "QUESTION": "Một yêu cầu quan trọng để chống lại cám dỗ, thử thách vật chất là gì?",
+  "A": "Giữ vững bản lĩnh chính trị, ý chí phấn đấu",
+  "B": "Chỉ nghe theo mệnh lệnh",
+  "C": "Tập trung vào lợi ích kinh tế",
+  "D": "Né tránh khó khăn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "436",
+  "QUESTION": "Để phát huy sức mạnh tổng hợp, trách nhiệm cao nhất thuộc về ai?",
+  "A": "Cán bộ cấp dưới",
+  "B": "Chính ủy, chính trị viên, người chỉ huy các cấp",
+  "C": "Quần chúng nhân dân",
+  "D": "Đoàn thanh niên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "437",
+  "QUESTION": "Một trong những yêu cầu phát huy sức mạnh tổng hợp là gì?",
+  "A": "Chỉ chú trọng công tác khen thưởng",
+  "B": "Định kỳ sơ kết, tổng kết, rút kinh nghiệm",
+  "C": "Không cần kiểm tra, giám sát",
+  "D": "Ưu tiên lợi ích nhóm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "438",
+  "QUESTION": "Hội đồng quân nhân và các tổ chức quần chúng có vai trò gì trong yêu cầu thực hiện chuẩn mực đạo đức cách mạng?",
+  "A": "Tập trung vào công tác tài chính",
+  "B": "Tham gia góp ý, phê bình cán bộ, đảng viên",
+  "C": "Quản lý toàn bộ vũ khí, trang bị",
+  "D": "Chỉ phục vụ hậu cần",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "439",
+  "QUESTION": "Biện pháp then chốt, có ý nghĩa quyết định trong đẩy mạnh học tập và làm theo Bác là gì?",
+  "A": "Công tác kiểm tra, giám sát",
+  "B": "Lãnh đạo, chỉ đạo của cấp ủy, tổ chức đảng, chính ủy, chính trị viên",
+  "C": "Khen thưởng, biểu dương",
+  "D": "Tuyên truyền, giáo dục",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "440",
+  "QUESTION": "Khi quán triệt thực hiện các quy định, nghị quyết, cấp ủy cần:",
+  "A": "Chỉ đạo sát đúng, phù hợp với đặc điểm, nhiệm vụ đơn vị",
+  "B": "Áp dụng chung một cách cứng nhắc",
+  "C": "Tập trung chủ yếu vào hình thức",
+  "D": "Để từng cá nhân tự quyết",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "441",
+  "QUESTION": "Một trong những tiêu chí quan trọng để đánh giá, xếp loại cán bộ, đảng viên hằng năm là gì?",
+  "A": "Số lượng bằng cấp đạt được",
+  "B": "Kết quả thực hiện nhiệm vụ theo chức trách",
+  "C": "Thu nhập cá nhân",
+  "D": "Ý kiến gia đình",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "442",
+  "QUESTION": "Khi giáo dục, rèn luyện đạo đức cách mạng, nội dung trọng tâm là gì?",
+  "A": "Vị trí, vai trò đạo đức cách mạng trong xây dựng cơ quan, đơn vị vững mạnh",
+  "B": "Tăng cường thu nhập, lợi ích vật chất cho bộ đội",
+  "C": "Hoạt động vui chơi, giải trí",
+  "D": "Tập trung phát triển cá nhân",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "443",
+  "QUESTION": "Văn bản nào của Thường vụ Quân ủy Trung ương nhấn mạnh đổi mới công tác giáo dục chính trị?",
+  "A": "Chỉ thị số 2423-CT\/QUTW (09\/11\/2023)",
+  "B": "Quy định số 08-QĐi\/TW (2018)",
+  "C": "Kết luận số 21-KL\/TW (2021)",
+  "D": "Nghị quyết số 847-NQ\/QUTW (2021)",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "444",
+  "QUESTION": "Một phương pháp giáo dục được Hồ Chí Minh nhấn mạnh là gì?",
+  "A": "Nhiều bài lý luận hàn lâm",
+  "B": "Một tấm gương sống có giá trị hơn một trăm bài diễn văn",
+  "C": "Tăng cường lý luận suông",
+  "D": "Tập trung phê bình người khác",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "445",
+  "QUESTION": "Hình thức tuyên truyền phù hợp với tư duy, tâm lý người học hiện nay là gì?",
+  "A": "Chỉ lên lớp trực tiếp",
+  "B": "Chỉ học trực tuyến",
+  "C": "Kết hợp trực tiếp và trực tuyến",
+  "D": "Không cần học tập",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "446",
+  "QUESTION": "Một trong những biện pháp phát huy tính tích cực, tự giác của cán bộ, đảng viên là gì?",
+  "A": "Tự bằng lòng với kết quả hiện có",
+  "B": "Nêu gương trong học tập và làm theo Bác",
+  "C": "Chỉ thực hiện khi bị kiểm tra",
+  "D": "Ưu tiên thành tích cá nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "447",
+  "QUESTION": "Khi nêu gương, Hồ Chí Minh căn dặn đảng viên điều gì?",
+  "A": "Chỉ cần nói nhiều, làm ít",
+  "B": "Không cần gương mẫu vẫn được quần chúng tin",
+  "C": "Tự mình phải chính trước mới giúp người khác chính",
+  "D": "Có thể nhờ cấp dưới làm gương thay",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "448",
+  "QUESTION": "Một trong những chuẩn mực cán bộ, đảng viên cần nêu gương là gì?",
+  "A": "Cần, kiệm, liêm, chính, chí công vô tư",
+  "B": "Lợi ích cá nhân cao nhất",
+  "C": "Tập trung hưởng thụ",
+  "D": "Chạy chức, chạy quyền",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "449",
+  "QUESTION": "Nội dung nào KHÔNG phải là phong trào thi đua gắn với học tập và làm theo Bác?",
+  "A": "“Huấn luyện giỏi, kỷ luật nghiêm, đoàn kết tốt”",
+  "B": "“Quản lý, khai thác vũ khí, trang bị kỹ thuật tốt, bền, an toàn, tiết kiệm”",
+  "C": "“Ngành hậu cần làm theo lời Bác Hồ dạy”",
+  "D": "“Làm giàu cá nhân nhanh chóng”",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "450",
+  "QUESTION": "Công tác kiểm tra, giám sát theo tư tưởng Hồ Chí Minh có vai trò gì?",
+  "A": "Chỉ để khen thưởng",
+  "B": "Để quyết định đúng đắn, ngăn sai lầm, sửa chữa khuyết điểm",
+  "C": "Chỉ mang tính hình thức",
+  "D": "Không cần thiết",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "451",
+  "QUESTION": "Khi phê bình và tự phê bình, yêu cầu quan trọng là gì?",
+  "A": "Có lý, có tình, khéo léo để người có khuyết điểm sửa chữa",
+  "B": "Phải gay gắt, cứng rắn nhất có thể",
+  "C": "Nói qua loa, hình thức",
+  "D": "Không cần góp ý cụ thể",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "452",
+  "QUESTION": "Phương châm trong kiểm tra, giám sát được Hồ Chí Minh nhấn mạnh là gì?",
+  "A": "Bao che sai phạm để giữ đoàn kết",
+  "B": "Phòng bệnh hơn chữa bệnh",
+  "C": "Tránh kiểm tra quá nhiều",
+  "D": "Chỉ kiểm tra cán bộ cấp thấp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "453",
+  "QUESTION": "Một yêu cầu đối với cán bộ, đảng viên khi nhận góp ý phê bình là gì?",
+  "A": "Bỏ ngoài tai ý kiến của đồng chí, đồng đội",
+  "B": "Tiếp thu đầy đủ, nghiêm túc, có kế hoạch khắc phục",
+  "C": "Cãi lại và bảo vệ cái tôi cá nhân",
+  "D": "Giữ thành kiến với người góp ý",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "454",
+  "QUESTION": "Hội nghị thành lập Đảng Cộng sản Việt Nam diễn ra vào thời gian nào?",
+  "A": "02\/1930",
+  "B": "06\/01–07\/02\/1930",
+  "C": "3\/1\/1930",
+  "D": "05\/1930",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "455",
+  "QUESTION": "Địa điểm Hội nghị thành lập Đảng Cộng sản Việt Nam?",
+  "A": "Hồng Kông (Trung Quốc)",
+  "B": "Thượng Hải (Trung Quốc)",
+  "C": "Cửu Long gần Hương Cảng (Trung Quốc)",
+  "D": "Quảng Châu (Trung Quốc)",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "456",
+  "QUESTION": "Người chủ trì Hội nghị thành lập Đảng là ai?",
+  "A": "Trịnh Đình Cửu",
+  "B": "Nguyễn Ái Quốc",
+  "C": "Lê Hồng Phong",
+  "D": "Châu Văn Liêm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "457",
+  "QUESTION": "Có bao nhiêu tổ chức Cộng sản được hợp nhất thành Đảng Cộng sản Việt Nam?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "458",
+  "QUESTION": "Các văn kiện do Nguyễn Ái Quốc soạn thảo được thông qua tại Hội nghị thành lập Đảng là:",
+  "A": "Chính cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt, Điều lệ vắn tắt",
+  "B": "Chính cương đầy đủ, Sách lược đầy đủ, Điều lệ dài hạn",
+  "C": "Luận cương chính trị, Cương lĩnh mới, Sách lược cải cách",
+  "D": "Chính cương, Điều lệ Đảng, Báo cáo chính trị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "459",
+  "QUESTION": "Văn kiện nào phản ánh Cương lĩnh chính trị đầu tiên của Đảng?",
+  "A": "Chính cương vắn tắt và Sách lược vắn tắt",
+  "B": "Chương trình tóm tắt",
+  "C": "Điều lệ vắn tắt",
+  "D": "Báo cáo chính trị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "460",
+  "QUESTION": "Hội nghị hợp nhất các tổ chức cộng sản ở Việt Nam thành một Đảng mang tên:",
+  "A": "Đảng Lao động Việt Nam",
+  "B": "Đảng Cộng sản Đông Dương",
+  "C": "Đảng Cộng sản Việt Nam",
+  "D": "Đông Dương Cộng sản Liên đoàn",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "461",
+  "QUESTION": "Ý nghĩa lớn nhất của sự ra đời Đảng Cộng sản Việt Nam?",
+  "A": "Chấm dứt chế độ phong kiến",
+  "B": "Đưa cách mạng Việt Nam đi từ thắng lợi này đến thắng lợi khác",
+  "C": "Giải quyết cuộc khủng hoảng về đường lối cứu nước",
+  "D": "Lãnh đạo nhân dân giành độc lập ngay lập tức",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "462",
+  "QUESTION": "Tham dự Hội nghị hợp nhất có bao nhiêu đại biểu?",
+  "A": "5",
+  "B": "6",
+  "C": "7",
+  "D": "8",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "463",
+  "QUESTION": "Một trong năm điểm lớn Nguyễn Ái Quốc nêu ra tại Hội nghị hợp nhất là gì?",
+  "A": "Tiến hành ngay cách mạng dân tộc dân chủ",
+  "B": "Bỏ mọi thành kiến, hợp nhất các nhóm cộng sản Đông Dương",
+  "C": "Thành lập chính quyền công nông binh",
+  "D": "Chuẩn bị khởi nghĩa vũ trang",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "464",
+  "QUESTION": "Đại hội I của Đảng họp tại đâu?",
+  "A": "Hồng Kông",
+  "B": "Ma Cao (Trung Quốc)",
+  "C": "Tuyên Quang",
+  "D": "Hà Nội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "465",
+  "QUESTION": "Đại hội I diễn ra trong thời gian nào?",
+  "A": "27–31\/3\/1935",
+  "B": "6\/1–7\/2\/1930",
+  "C": "5–10\/9\/1960",
+  "D": "14–20\/12\/1976",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "466",
+  "QUESTION": "Đại hội I có bao nhiêu đại biểu?",
+  "A": "13",
+  "B": "27",
+  "C": "158",
+  "D": "525",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "467",
+  "QUESTION": "Tổng số đảng viên đại diện tại Đại hội I là?",
+  "A": "1,000",
+  "B": "600",
+  "C": "2,000",
+  "D": "500",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "468",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Đại hội I?",
+  "A": "Nguyễn Ái Quốc",
+  "B": "Lê Hồng Phong",
+  "C": "Hà Huy Tập",
+  "D": "Trường Chinh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "469",
+  "QUESTION": "Đại hội I thông qua Điều lệ Đảng Cộng sản Đông Dương gồm bao nhiêu điều?",
+  "A": "50",
+  "B": "59",
+  "C": "60",
+  "D": "65",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "470",
+  "QUESTION": "Ban Chấp hành Trung ương khoá I gồm bao nhiêu ủy viên?",
+  "A": "13 (9 chính thức, 4 dự khuyết)",
+  "B": "15 (10 chính thức, 5 dự khuyết)",
+  "C": "20 (12 chính thức, 8 dự khuyết)",
+  "D": "19 (10 chính thức, 9 dự khuyết)",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "471",
+  "QUESTION": "Sau Đại hội I, ai được cử làm đại biểu của Đảng bên cạnh Quốc tế Cộng sản?",
+  "A": "Nguyễn Ái Quốc",
+  "B": "Lê Hồng Phong",
+  "C": "Hà Huy Tập",
+  "D": "Nguyễn Văn Cừ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "472",
+  "QUESTION": "Tháng 7\/1936, ai được cử làm Tổng Bí thư thay Lê Hồng Phong?",
+  "A": "Nguyễn Văn Cừ",
+  "B": "Hà Huy Tập",
+  "C": "Trường Chinh",
+  "D": "Phạm Văn Đồng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "473",
+  "QUESTION": "Thành công lớn nhất của Đại hội I là gì?",
+  "A": "Thành lập Đảng Lao động Việt Nam",
+  "B": "Khôi phục hệ thống tổ chức và cơ quan lãnh đạo Trung ương",
+  "C": "Giải quyết khủng hoảng đường lối cứu nước",
+  "D": "Chuẩn bị khởi nghĩa giành chính quyền",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "474",
+  "QUESTION": "Đại hội II của Đảng họp ở đâu?",
+  "A": "Tân Trào (Tuyên Quang)",
+  "B": "Việt Bắc (Chiêm Hóa – Tuyên Quang)",
+  "C": "Pác Bó (Cao Bằng)",
+  "D": "Hà Nội",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "475",
+  "QUESTION": "Đại hội II của Đảng diễn ra vào thời gian nào?",
+  "A": "02\/1951",
+  "B": "02\/1950",
+  "C": "03\/1951",
+  "D": "12\/1951",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "476",
+  "QUESTION": "Tại Đại hội II, Đảng quyết định đổi tên thành gì?",
+  "A": "Đảng Cộng sản Việt Nam",
+  "B": "B. Đảng Lao động Việt Nam",
+  "C": "C. Đảng Cộng sản Đông Dương",
+  "D": "D. Hội Việt Nam Cách mạng Thanh niên",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "477",
+  "QUESTION": "Người được bầu làm Chủ tịch Đảng tại Đại hội II là:",
+  "A": "Trường Chinh",
+  "B": "Hồ Chí Minh",
+  "C": "Lê Duẩn",
+  "D": "Phạm Văn Đồng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "478",
+  "QUESTION": "Tổng Bí thư Đảng Lao động Việt Nam khóa II là ai?",
+  "A": "Trường Chinh",
+  "B": "Lê Duẩn",
+  "C": "Hồ Chí Minh",
+  "D": "Lê Đức Thọ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "479",
+  "QUESTION": "Đại hội II xác định nhiệm vụ chính của cách mạng Việt Nam là gì?",
+  "A": "Hoàn thành cách mạng dân tộc dân chủ nhân dân, kháng chiến chống Pháp thắng lợi",
+  "B": "Tiến thẳng lên chủ nghĩa xã hội",
+  "C": "Đấu tranh chống phát xít Nhật",
+  "D": "Thực hiện cải cách ruộng đất",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "480",
+  "QUESTION": "Văn kiện quan trọng của Đại hội II là:",
+  "A": "Chính cương Đảng Lao động Việt Nam",
+  "B": "Luận cương chính trị 1930",
+  "C": "Chính cương vắn tắt",
+  "D": "Tuyên ngôn của Đảng Cộng sản",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "481",
+  "QUESTION": "Đại hội II khẳng định lực lượng lãnh đạo cách mạng là:",
+  "A": "Liên minh công – nông – trí thức",
+  "B": "Giai cấp công nhân thông qua đội tiên phong là Đảng",
+  "C": "Toàn thể dân tộc Việt Nam",
+  "D": "Liên minh công – nông",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "482",
+  "QUESTION": "Ý nghĩa lớn nhất của Đại hội II:",
+  "A": "Khẳng định vai trò lãnh đạo của giai cấp nông dân",
+  "B": "Trở thành Đại hội kháng chiến thắng lợi, khẳng định đường lối độc lập dân tộc gắn liền CNXH",
+  "C": "Giải quyết khủng hoảng đường lối cứu nước",
+  "D": "Tuyên bố thành lập Đảng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "483",
+  "QUESTION": "Đại hội II còn được gọi là gì?",
+  "A": "Đại hội kháng chiến",
+  "B": "Đại hội xây dựng chủ nghĩa xã hội",
+  "C": "Đại hội đổi mới",
+  "D": "Đại hội thống nhất",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "484",
+  "QUESTION": "Đại hội III của Đảng diễn ra ở đâu?",
+  "A": "Hà Nội",
+  "B": "Việt Bắc",
+  "C": "Tuyên Quang",
+  "D": "Hải Phòng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "485",
+  "QUESTION": "Thời gian tổ chức Đại hội III?",
+  "A": "5–10\/9\/1960",
+  "B": "2\/1951",
+  "C": "12\/1976",
+  "D": "3\/1982",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "486",
+  "QUESTION": "Chủ đề Đại hội III là gì?",
+  "A": "Cách mạng dân tộc dân chủ và CNXH",
+  "B": "Đưa miền Bắc tiến nhanh, tiến mạnh, tiến vững chắc lên CNXH, đồng thời giải phóng miền Nam",
+  "C": "Đổi mới, hội nhập, phát triển",
+  "D": "Thống nhất đất nước",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "487",
+  "QUESTION": "Đại hội III quyết định xây dựng miền Bắc theo con đường:",
+  "A": "Tư bản chủ nghĩa",
+  "B": "Chủ nghĩa xã hội",
+  "C": "Kinh tế thị trường",
+  "D": "Cộng sản nguyên thủy",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "488",
+  "QUESTION": "Tổng Bí thư được bầu tại Đại hội III là:",
+  "A": "Hồ Chí Minh",
+  "B": "Lê Duẩn",
+  "C": "Trường Chinh",
+  "D": "Nguyễn Văn Linh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "489",
+  "QUESTION": "Nhiệm vụ của miền Nam được Đại hội III xác định:",
+  "A": "Xây dựng CNXH",
+  "B": "Kháng chiến chống Mỹ, giải phóng miền Nam, thống nhất đất nước",
+  "C": "Thực hiện cải cách ruộng đất",
+  "D": "Phát triển công nghiệp nặng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "490",
+  "QUESTION": "Ý nghĩa lớn nhất của Đại hội III là gì?",
+  "A": "Đề ra đường lối đổi mới toàn diện",
+  "B": "Xác định chiến lược cách mạng cả nước: xây dựng CNXH ở miền Bắc, đấu tranh giải phóng miền Nam",
+  "C": "Đổi tên Đảng thành Đảng Cộng sản Việt Nam",
+  "D": "Thông qua Luận cương chính trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "491",
+  "QUESTION": "Đại hội III khẳng định miền Bắc là:",
+  "A": "Căn cứ địa cách mạng cả nước",
+  "B": "Trung tâm công nghiệp của Đông Nam Á",
+  "C": "Nông trường lớn",
+  "D": "Căn cứ kinh tế duy nhất của cả nước",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "492",
+  "QUESTION": "Sau Đại hội III, phong trào cách mạng miền Nam diễn ra mạnh mẽ vì:",
+  "A": "Sự viện trợ từ Liên Xô và Trung Quốc",
+  "B": "Có sự lãnh đạo trực tiếp từ Đảng, được miền Bắc chi viện",
+  "C": "Mỹ suy yếu trong chiến tranh",
+  "D": "Phong trào sinh viên quốc tế ủng hộ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "493",
+  "QUESTION": "Khẩu hiệu quan trọng được nêu trong Đại hội III?",
+  "A": "Độc lập – Tự do – Hạnh phúc",
+  "B": "Độc lập dân tộc gắn liền CNXH",
+  "C": "Không có gì quý hơn độc lập tự do",
+  "D": "Xây dựng miền Bắc XHCN, giải phóng miền Nam",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "494",
+  "QUESTION": "Đại hội IV của Đảng họp vào thời gian nào?",
+  "A": "12\/1976",
+  "B": "Mar-75",
+  "C": "2\/1977",
+  "D": "4\/1976",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "495",
+  "QUESTION": "Đại hội IV diễn ra ở đâu?",
+  "A": "Hà Nội",
+  "B": "TP. Hồ Chí Minh",
+  "C": "Việt Bắc",
+  "D": "Hải Phòng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "496",
+  "QUESTION": "Đại hội IV của Đảng là Đại hội gì?",
+  "A": "Đại hội kháng chiến",
+  "B": "Đại hội thống nhất đất nước, bước vào thời kỳ cả nước đi lên CNXH",
+  "C": "Đại hội đổi mới",
+  "D": "Đại hội xây dựng CNXH ở miền Bắc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "497",
+  "QUESTION": "Tổng Bí thư được bầu tại Đại hội IV là:",
+  "A": "Lê Duẩn",
+  "B": "Trường Chinh",
+  "C": "Hồ Chí Minh",
+  "D": "Nguyễn Văn Linh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "498",
+  "QUESTION": "Đại hội IV quyết định đổi tên Đảng Lao động Việt Nam thành:",
+  "A": "Đảng Dân chủ Việt Nam",
+  "B": "Đảng Cộng sản Việt Nam",
+  "C": "Đảng Cộng sản Đông Dương",
+  "D": "Đảng Nhân dân Việt Nam",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "499",
+  "QUESTION": "Đường lối được xác định tại Đại hội IV:",
+  "A": "Tiến hành công nghiệp hóa XHCN, lấy nông nghiệp làm mặt trận hàng đầu",
+  "B": "Đổi mới toàn diện đất nước",
+  "C": "Hoàn thành cải cách ruộng đất",
+  "D": "Tập trung xây dựng lực lượng quốc phòng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "500",
+  "QUESTION": "Đại hội IV nêu mục tiêu tổng quát là:",
+  "A": "Đưa Việt Nam thành nước công nghiệp hiện đại",
+  "B": "Xây dựng thành công chủ nghĩa xã hội, bảo vệ Tổ quốc",
+  "C": "Giải phóng miền Nam, thống nhất đất nước",
+  "D": "Phát triển kinh tế thị trường",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "501",
+  "QUESTION": "Ý nghĩa lớn nhất của Đại hội IV:",
+  "A": "Đưa ra đường lối đổi mới đất nước",
+  "B": "Mở đầu thời kỳ cả nước đi lên CNXH",
+  "C": "Thắng lợi trong kháng chiến chống Mỹ",
+  "D": "Giải quyết khủng hoảng đường lối cứu nước",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "502",
+  "QUESTION": "Khẩu hiệu Đại hội IV đề ra:",
+  "A": "“Độc lập – Tự do – Hạnh phúc”",
+  "B": "“Độc lập dân tộc gắn liền CNXH”",
+  "C": "“Cả nước đi lên CNXH”",
+  "D": "“Không có gì quý hơn độc lập tự do”",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "503",
+  "QUESTION": "Sau Đại hội IV, cả nước bước vào thời kỳ:",
+  "A": "Kháng chiến chống Mỹ",
+  "B": "Kháng chiến chống Pháp",
+  "C": "Thống nhất, đi lên CNXH",
+  "D": "Đổi mới",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "504",
+  "QUESTION": "Đại hội V diễn ra khi nào?",
+  "A": "3\/1982",
+  "B": "12\/1976",
+  "C": "6\/1985",
+  "D": "12\/1991",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "505",
+  "QUESTION": "Địa điểm tổ chức Đại hội V?",
+  "A": "Hà Nội",
+  "B": "TP. Hồ Chí Minh",
+  "C": "Hải Phòng",
+  "D": "Tuyên Quang",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "506",
+  "QUESTION": "Tổng Bí thư tại Đại hội V là:",
+  "A": "Lê Duẩn",
+  "B": "Trường Chinh",
+  "C": "Nguyễn Văn Linh",
+  "D": "Đỗ Mười",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "507",
+  "QUESTION": "Đại hội V khẳng định nhiệm vụ chiến lược của cách mạng Việt Nam là:",
+  "A": "Xây dựng CNXH và bảo vệ Tổ quốc XHCN",
+  "B": "Giải phóng miền Nam",
+  "C": "Đổi mới, công nghiệp hóa",
+  "D": "Hội nhập quốc tế",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "508",
+  "QUESTION": "Phương hướng kinh tế được nêu ra tại Đại hội V là:",
+  "A": "Ưu tiên công nghiệp nặng",
+  "B": "Phát triển công nghiệp nhẹ",
+  "C": "Lấy nông nghiệp làm mặt trận hàng đầu, kết hợp công nghiệp nhẹ và hàng tiêu dùng",
+  "D": "Lấy thương mại làm trung tâm",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "509",
+  "QUESTION": "Khẩu hiệu Đại hội V đề ra:",
+  "A": "“Cả nước đi lên CNXH”",
+  "B": "“Ổn định để phát triển”",
+  "C": "“Độc lập dân tộc gắn liền CNXH”",
+  "D": "“Xây dựng CNXH và bảo vệ Tổ quốc XHCN”",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "510",
+  "QUESTION": "Bối cảnh quốc tế khi diễn ra Đại hội V?",
+  "A": "Chiến tranh thế giới II vừa kết thúc",
+  "B": "Khủng hoảng năng lượng, khủng hoảng kinh tế thế giới",
+  "C": "Liên Xô và hệ thống XHCN còn vững mạnh",
+  "D": "Chiến tranh lạnh kết thúc",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "511",
+  "QUESTION": "Ý nghĩa Đại hội V:",
+  "A": "Khẳng định quyết tâm xây dựng CNXH, tiếp tục đường lối độc lập dân tộc gắn liền CNXH",
+  "B": "Đổi mới toàn diện đất nước",
+  "C": "Thống nhất đất nước",
+  "D": "Xây dựng kinh tế thị trường",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "512",
+  "QUESTION": "Tại Đại hội V, Đảng ta nhấn mạnh mối quan hệ:",
+  "A": "Công nghiệp hóa và hiện đại hóa",
+  "B": "Kinh tế và quốc phòng",
+  "C": "Xây dựng CNXH và bảo vệ Tổ quốc",
+  "D": "Phát triển kinh tế và hội nhập quốc tế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "513",
+  "QUESTION": "Sau Đại hội V, kinh tế Việt Nam vẫn gặp khó khăn do:",
+  "A": "Sai lầm trong cơ chế quản lý tập trung quan liêu bao cấp",
+  "B": "Mỹ tiếp tục bao vây cấm vận",
+  "C": "Khủng hoảng dầu mỏ",
+  "D": "Thiên tai liên tiếp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "514",
+  "QUESTION": "Đại hội VI diễn ra vào thời gian nào?",
+  "A": "12\/1986",
+  "B": "3\/1985",
+  "C": "12\/1982",
+  "D": "1\/1987",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "515",
+  "QUESTION": "Đại hội VI được gọi là:",
+  "A": "Đại hội Thống nhất",
+  "B": "Đại hội Đổi mới",
+  "C": "Đại hội Kháng chiến",
+  "D": "Đại hội Công nghiệp hóa",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "516",
+  "QUESTION": "Tổng Bí thư được bầu tại Đại hội VI là:",
+  "A": "Nguyễn Văn Linh",
+  "B": "Trường Chinh",
+  "C": "Đỗ Mười",
+  "D": "Lê Duẩn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "517",
+  "QUESTION": "Nội dung cơ bản của Đổi mới do Đại hội VI đề ra là:",
+  "A": "Đổi mới toàn diện, trước hết đổi mới kinh tế",
+  "B": "Chỉ đổi mới chính trị",
+  "C": "Chỉ đổi mới văn hóa",
+  "D": "Đổi mới khoa học – công nghệ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "518",
+  "QUESTION": "Đại hội VI đã phê phán mạnh mẽ:",
+  "A": "Chủ nghĩa cá nhân",
+  "B": "Cơ chế tập trung quan liêu bao cấp",
+  "C": "Kinh tế tư nhân",
+  "D": "Văn hóa lai căng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "519",
+  "QUESTION": "Đại hội VI khẳng định nền kinh tế Việt Nam có đặc điểm gì?",
+  "A": "Kinh tế thị trường tự do",
+  "B": "Kinh tế hàng hóa nhiều thành phần vận động theo cơ chế thị trường có sự quản lý của Nhà nước",
+  "C": "Kinh tế tập thể thuần túy",
+  "D": "Kinh tế công hữu hóa hoàn toàn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "520",
+  "QUESTION": "Ý nghĩa lịch sử của Đại hội VI là:",
+  "A": "Đưa Việt Nam thành nước công nghiệp",
+  "B": "Mở đầu công cuộc Đổi mới đất nước",
+  "C": "Hoàn thành kháng chiến chống Mỹ",
+  "D": "Gia nhập ASEAN",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "521",
+  "QUESTION": "Khẩu hiệu của Đại hội VI là:",
+  "A": "“Đổi mới hay là chết”",
+  "B": "“Đổi mới toàn diện, triệt để”",
+  "C": "“Đổi mới, dân chủ, kỷ cương”",
+  "D": "“Đổi mới để tiến lên CNXH”",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "522",
+  "QUESTION": "Một trong những nhiệm vụ trung tâm được xác định tại Đại hội VI là:",
+  "A": "Công nghiệp hóa, hiện đại hóa đất nước",
+  "B": "Phát triển kinh tế thị trường",
+  "C": "Xây dựng Nhà nước pháp quyền",
+  "D": "Đổi mới cơ chế quản lý kinh tế",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "523",
+  "QUESTION": "Sau Đại hội VI, Việt Nam bước vào giai đoạn:",
+  "A": "Kháng chiến chống Mỹ",
+  "B": "Đổi mới và hội nhập quốc tế",
+  "C": "Thống nhất đất nước",
+  "D": "Kháng chiến chống Pháp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "524",
+  "QUESTION": "Đại hội VII diễn ra vào thời gian nào?",
+  "A": "6\/1991",
+  "B": "12\/1986",
+  "C": "12\/1996",
+  "D": "7\/1990",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "525",
+  "QUESTION": "Tổng Bí thư tại Đại hội VII là:",
+  "A": "Nguyễn Văn Linh",
+  "B": "Đỗ Mười",
+  "C": "Lê Khả Phiêu",
+  "D": "Nông Đức Mạnh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "526",
+  "QUESTION": "Đại hội VII đã thông qua văn kiện quan trọng nào?",
+  "A": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH (1991)",
+  "B": "Hiến pháp 1992",
+  "C": "Chiến lược ổn định và phát triển kinh tế – xã hội",
+  "D": "Đường lối công nghiệp hóa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "527",
+  "QUESTION": "Đại hội VII nêu tư tưởng chỉ đạo chiến lược:",
+  "A": "“Đổi mới, dân chủ, kỷ cương”",
+  "B": "“Độc lập dân tộc gắn liền với CNXH”",
+  "C": "“Ổn định để phát triển”",
+  "D": "“Hòa bình, hợp tác, phát triển”",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "528",
+  "QUESTION": "Bối cảnh quốc tế khi diễn ra Đại hội VII:",
+  "A": "Chiến tranh thế giới II vừa kết thúc",
+  "B": "Hệ thống XHCN ở Liên Xô và Đông Âu tan rã",
+  "C": "Chiến tranh lạnh đang căng thẳng",
+  "D": "Mỹ bình thường hóa quan hệ với Việt Nam",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "529",
+  "QUESTION": "Ý nghĩa Đại hội VII:",
+  "A": "Khẳng định con đường đi lên CNXH của Việt Nam",
+  "B": "Hoàn thành thống nhất đất nước",
+  "C": "Đưa Việt Nam gia nhập ASEAN",
+  "D": "Khởi đầu đổi mới",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "530",
+  "QUESTION": "Đại hội VII nhấn mạnh sức mạnh của Đảng đến từ:",
+  "A": "Kinh tế",
+  "B": "Quốc phòng",
+  "C": "Sự gắn bó máu thịt với nhân dân",
+  "D": "Khoa học – công nghệ",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "531",
+  "QUESTION": "Nhiệm vụ trọng tâm trong thập kỷ 1991–2000 là:",
+  "A": "Công nghiệp hóa, hiện đại hóa",
+  "B": "Phát triển kinh tế nhiều thành phần",
+  "C": "Thực hiện hai nhiệm vụ chiến lược: xây dựng và bảo vệ Tổ quốc",
+  "D": "Tăng cường đổi mới chính trị",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "532",
+  "QUESTION": "Khẩu hiệu hành động tại Đại hội VII:",
+  "A": "“Ổn định để phát triển”",
+  "B": "“Đổi mới, dân chủ, kỷ cương”",
+  "C": "“Độc lập dân tộc gắn liền CNXH”",
+  "D": "“Hòa bình, hợp tác, phát triển”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "533",
+  "QUESTION": "Văn kiện “Cương lĩnh 1991” khẳng định con đường đi lên CNXH ở Việt Nam dựa trên:",
+  "A": "Kinh tế thị trường",
+  "B": "Sự lãnh đạo của Đảng Cộng sản và sức mạnh toàn dân",
+  "C": "Công nghiệp hóa, hiện đại hóa",
+  "D": "Hòa nhập toàn cầu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "534",
+  "QUESTION": "Đại hội đại biểu toàn quốc lần thứ VIII của Đảng diễn ra trong thời gian nào?",
+  "A": "19–22\/4\/2001",
+  "B": "28\/6–1\/7\/1996",
+  "C": "27–30\/6\/1995",
+  "D": "20–24\/4\/2002",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "535",
+  "QUESTION": "Đại hội VIII diễn ra tại đâu?",
+  "A": "TP. Hồ Chí Minh",
+  "B": "Hải Phòng",
+  "C": "Hà Nội",
+  "D": "Đà Nẵng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "536",
+  "QUESTION": "Số lượng đại biểu tham dự Đại hội VIII là:",
+  "A": "1,198",
+  "B": "1,168",
+  "C": "1,500",
+  "D": "2,130",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "537",
+  "QUESTION": "Đại hội VIII có bao nhiêu đảng viên đại diện tham dự?",
+  "A": "2,13 triệu",
+  "B": "2,48 triệu",
+  "C": "1,5 triệu",
+  "D": "1 triệu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "538",
+  "QUESTION": "Nội dung chính của Đại hội VIII là gì?",
+  "A": "Phát huy sức mạnh toàn dân tộc",
+  "B": "Đổi mới, đẩy mạnh công nghiệp hóa, hiện đại hóa",
+  "C": "Đổi mới toàn diện chính trị, văn hóa, xã hội",
+  "D": "Tổng kết 10 năm đổi mới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "539",
+  "QUESTION": "Ban Chấp hành Trung ương khóa VIII có bao nhiêu ủy viên?",
+  "A": "150",
+  "B": "160",
+  "C": "170",
+  "D": "180",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "540",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Đại hội VIII?",
+  "A": "Lê Khả Phiêu",
+  "B": "Đỗ Mười",
+  "C": "Nông Đức Mạnh",
+  "D": "Nguyễn Văn Linh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "541",
+  "QUESTION": "Những đồng chí nào làm Cố vấn Ban Chấp hành Trung ương Đảng khóa VIII?",
+  "A": "Lê Khả Phiêu, Võ Văn Kiệt, Phạm Hùng",
+  "B": "Nguyễn Văn Linh, Phạm Văn Đồng, Võ Chí Công",
+  "C": "Trường Chinh, Phạm Văn Đồng, Lê Duẩn",
+  "D": "Nông Đức Mạnh, Võ Chí Công, Võ Văn Kiệt",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "542",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Hội nghị Trung ương 4 (khóa VIII, 12\/1997)?",
+  "A": "Nông Đức Mạnh",
+  "B": "Đỗ Mười",
+  "C": "Lê Khả Phiêu",
+  "D": "Nguyễn Văn Linh",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "543",
+  "QUESTION": "Đại hội VIII có ý nghĩa gì đối với lịch sử dân tộc?",
+  "A": "Đưa đất nước thoát khỏi khủng hoảng, mở thời kỳ mới công nghiệp hóa, hiện đại hóa",
+  "B": "Hoàn tất công cuộc đổi mới",
+  "C": "Kết thúc chiến tranh, thống nhất đất nước",
+  "D": "Mở đầu thời kỳ hội nhập quốc tế toàn diện",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "544",
+  "QUESTION": "Đại hội IX của Đảng diễn ra thời gian nào?",
+  "A": "28\/6–1\/7\/1996",
+  "B": "19–22\/4\/2001",
+  "C": "15–18\/4\/2002",
+  "D": "20–24\/5\/2000",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "545",
+  "QUESTION": "Đại hội IX có bao nhiêu đại biểu tham dự?",
+  "A": "1,198",
+  "B": "1,500",
+  "C": "1,168",
+  "D": "1,200",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "546",
+  "QUESTION": "Số đảng viên trong cả nước được Đại hội IX đại diện là:",
+  "A": "2,130,000",
+  "B": "2,479,719",
+  "C": "2,500,000",
+  "D": "3,000,000",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "547",
+  "QUESTION": "Chủ đề chính của Đại hội IX là:",
+  "A": "Đổi mới, công nghiệp hóa, hiện đại hóa",
+  "B": "Phát huy sức mạnh toàn dân tộc, đẩy mạnh công nghiệp hóa, hiện đại hóa",
+  "C": "Đổi mới toàn diện kinh tế, chính trị, văn hóa",
+  "D": "Đẩy mạnh hội nhập quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "548",
+  "QUESTION": "Đại hội IX thông qua chiến lược phát triển kinh tế - xã hội 10 năm nào?",
+  "A": "1996–2005",
+  "B": "2001–2010",
+  "C": "2000–2010",
+  "D": "2001–2015",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "549",
+  "QUESTION": "Đại hội IX thông qua phương hướng nhiệm vụ kế hoạch phát triển kinh tế - xã hội 5 năm nào?",
+  "A": "1996–2000",
+  "B": "2000–2005",
+  "C": "2001–2005",
+  "D": "2005–2010",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "550",
+  "QUESTION": "Ban Chấp hành Trung ương khóa IX có bao nhiêu ủy viên?",
+  "A": "150",
+  "B": "160",
+  "C": "170",
+  "D": "180",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "551",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Đại hội IX?",
+  "A": "Đỗ Mười",
+  "B": "Lê Khả Phiêu",
+  "C": "Nông Đức Mạnh",
+  "D": "Nguyễn Phú Trọng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "552",
+  "QUESTION": "Bộ Chính trị khóa IX có bao nhiêu đồng chí?",
+  "A": "13",
+  "B": "15",
+  "C": "11",
+  "D": "9",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "553",
+  "QUESTION": "Ý nghĩa Đại hội IX của Đảng là gì?",
+  "A": "Đại hội của đoàn kết, dân chủ, đổi mới, mở đường cho đất nước bước vào thế kỷ XXI",
+  "B": "Đại hội kết thúc thời kỳ bao cấp",
+  "C": "Đại hội xác định xây dựng kinh tế thị trường định hướng XHCN",
+  "D": "Đại hội quyết định thành lập WTO",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "554",
+  "QUESTION": "Đại hội đại biểu toàn quốc lần thứ X của Đảng diễn ra vào thời gian nào?",
+  "A": "12-19\/01\/2011",
+  "B": "18-25\/04\/2006",
+  "C": "20-28\/03\/2001",
+  "D": "15-22\/05\/1996",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "555",
+  "QUESTION": "Đại hội X của Đảng họp tại đâu?",
+  "A": "TP. Hồ Chí Minh",
+  "B": "Đà Nẵng",
+  "C": "Hà Nội",
+  "D": "Huế",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "556",
+  "QUESTION": "Có bao nhiêu đại biểu tham dự Đại hội X của Đảng?",
+  "A": "1.176 đại biểu",
+  "B": "1.377 đại biểu",
+  "C": "1.500 đại biểu",
+  "D": "2.000 đại biểu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "557",
+  "QUESTION": "Đại hội X bầu ra Ban chấp hành Trung ương Đảng khóa X gồm bao nhiêu ủy viên chính thức?",
+  "A": "150",
+  "B": "160",
+  "C": "165",
+  "D": "175",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "558",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Đại hội X?",
+  "A": "Nguyễn Phú Trọng",
+  "B": "Lê Khả Phiêu",
+  "C": "Nông Đức Mạnh",
+  "D": "Trần Đức Lương",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "559",
+  "QUESTION": "Đại hội XI của Đảng diễn ra trong thời gian nào?",
+  "A": "12-19\/01\/2011",
+  "B": "18-25\/04\/2006",
+  "C": "10-17\/02\/2016",
+  "D": "15-22\/05\/1996",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "560",
+  "QUESTION": "Có bao nhiêu đại biểu tham dự Đại hội XI của Đảng?",
+  "A": "1,176",
+  "B": "1,200",
+  "C": "1,377",
+  "D": "1,500",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "561",
+  "QUESTION": "Ai được bầu làm Tổng Bí thư tại Đại hội XI của Đảng?",
+  "A": "Nguyễn Phú Trọng",
+  "B": "Nông Đức Mạnh",
+  "C": "Đỗ Mười",
+  "D": "Lê Khả Phiêu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "562",
+  "QUESTION": "Ban Chấp hành Trung ương Đảng khóa XI có bao nhiêu ủy viên chính thức?",
+  "A": "150",
+  "B": "160",
+  "C": "175",
+  "D": "180",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "563",
+  "QUESTION": "Đại hội XI đã tổng kết chiến lược phát triển kinh tế - xã hội giai đoạn nào?",
+  "A": "1991-2000",
+  "B": "2001-2010",
+  "C": "2011-2020",
+  "D": "1986-1995",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "564",
+  "QUESTION": "Đại hội X khẳng định công cuộc đổi mới đã trải qua bao nhiêu năm?",
+  "A": "15 năm",
+  "B": "20 năm",
+  "C": "25 năm",
+  "D": "30 năm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "565",
+  "QUESTION": "Có bao nhiêu ủy viên dự khuyết trong Ban chấp hành Trung ương khóa X?",
+  "A": "19",
+  "B": "20",
+  "C": "21",
+  "D": "25",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "566",
+  "QUESTION": "Có bao nhiêu ủy viên dự khuyết trong Ban chấp hành Trung ương khóa XI?",
+  "A": "19",
+  "B": "21",
+  "C": "23",
+  "D": "25",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "567",
+  "QUESTION": "Đại hội XI thông qua Chiến lược phát triển kinh tế - xã hội giai đoạn nào?",
+  "A": "2001-2010",
+  "B": "2011-2020",
+  "C": "2016-2025",
+  "D": "1991-2000",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "568",
+  "QUESTION": "Đại hội X đã bầu Bộ Chính trị gồm bao nhiêu đồng chí?",
+  "A": "12",
+  "B": "14",
+  "C": "15",
+  "D": "16",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "569",
+  "QUESTION": "Ban Bí thư Trung ương Đảng khóa X có bao nhiêu đồng chí?",
+  "A": "6",
+  "B": "7",
+  "C": "8",
+  "D": "9",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "570",
+  "QUESTION": "Đại hội X nhấn mạnh chủ trương gì?",
+  "A": "Đẩy mạnh công nghiệp hóa, hiện đại hóa",
+  "B": "Phát huy sức mạnh toàn dân tộc, đẩy mạnh toàn diện công cuộc đổi mới",
+  "C": "Tăng cường đối ngoại",
+  "D": "Cải cách giáo dục",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "571",
+  "QUESTION": "Đại hội XI là đại hội mở đường cho đất nước bước vào thập kỷ nào?",
+  "A": "Thập kỷ 80 của thế kỷ XX",
+  "B": "Thập kỷ đầu tiên thế kỷ XXI",
+  "C": "Thập kỷ thứ hai thế kỷ XXI",
+  "D": "Thập kỷ 30 thế kỷ XXI",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "572",
+  "QUESTION": "Đại hội XI thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH (bổ sung, phát triển) vào năm nào?",
+  "A": "2006",
+  "B": "2010",
+  "C": "2011",
+  "D": "2015",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "573",
+  "QUESTION": "Số năm thực hiện công cuộc đổi mới trước Đại hội XI là bao nhiêu năm?",
+  "A": "20 năm",
+  "B": "25 năm",
+  "C": "30 năm",
+  "D": "35 năm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "574",
+  "QUESTION": "Đại hội đại biểu toàn quốc lần thứ XII của Đảng diễn ra vào thời gian nào?",
+  "A": "2015",
+  "B": "2016",
+  "C": "2017",
+  "D": "2018",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "575",
+  "QUESTION": "Số đại biểu tham dự Đại hội XII là bao nhiêu?",
+  "A": "1000",
+  "B": "1200",
+  "C": "1510",
+  "D": "2000",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "576",
+  "QUESTION": "Mục tiêu của Đại hội XII là gì?",
+  "A": "Xây dựng nông thôn mới",
+  "B": "Đưa đất nước trở thành nước công nghiệp hiện đại",
+  "C": "Phát triển giáo dục toàn diện",
+  "D": "Tăng cường an ninh biên giới",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "577",
+  "QUESTION": "Đại hội XII đánh giá kết quả 30 năm thực hiện công cuộc gì?",
+  "A": "Công nghiệp hóa",
+  "B": "Đổi mới",
+  "C": "Hội nhập quốc tế",
+  "D": "Cách mạng giáo dục",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "578",
+  "QUESTION": "Đại hội XII đã thảo luận và thông qua văn kiện nào sau đây?",
+  "A": "Báo cáo tài chính quốc gia",
+  "B": "Báo cáo chính trị Ban Chấp hành Trung ương khóa XI",
+  "C": "Quy hoạch ngân sách quốc gia",
+  "D": "Báo cáo giáo dục quốc dân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "579",
+  "QUESTION": "Đại hội XII bầu Ban Chấp hành Trung ương gồm bao nhiêu ủy viên chính thức?",
+  "A": "150",
+  "B": "160",
+  "C": "180",
+  "D": "200",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "580",
+  "QUESTION": "Ai được bầu lại làm Tổng Bí thư tại Đại hội XII?",
+  "A": "Trương Tấn Sang",
+  "B": "Nguyễn Phú Trọng",
+  "C": "Võ Văn Thưởng",
+  "D": "Phạm Minh Chính",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "581",
+  "QUESTION": "Đại hội XII được tổ chức tại đâu?",
+  "A": "TP. Hồ Chí Minh",
+  "B": "Hà Nội",
+  "C": "Đà Nẵng",
+  "D": "Huế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "582",
+  "QUESTION": "Đại hội XII đánh dấu cột mốc lịch sử gì?",
+  "A": "50 năm thành lập Đảng",
+  "B": "30 năm công cuộc đổi mới",
+  "C": "40 năm thành lập nước",
+  "D": "25 năm hội nhập quốc tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "583",
+  "QUESTION": "Đại hội XIII diễn ra trong thời gian nào?",
+  "A": "2019",
+  "B": "2020",
+  "C": "2021",
+  "D": "2022",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "584",
+  "QUESTION": "Đại hội XIII đánh dấu kỷ niệm bao nhiêu năm đổi mới đất nước?",
+  "A": "30 năm",
+  "B": "35 năm",
+  "C": "40 năm",
+  "D": "45 năm",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "585",
+  "QUESTION": "Mục tiêu đến năm 2025 của Việt Nam theo Đại hội XIII là gì?",
+  "A": "Nước công nghiệp hiện đại, vượt mức thu nhập trung bình thấp",
+  "B": "Nước phát triển thu nhập cao",
+  "C": "Xây dựng nông thôn mới toàn quốc",
+  "D": "Giữ vững vị thế chính trị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "586",
+  "QUESTION": "Số ủy viên chính thức trong Ban Chấp hành Trung ương khóa XIII là bao nhiêu?",
+  "A": "170",
+  "B": "180",
+  "C": "190",
+  "D": "200",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "587",
+  "QUESTION": "Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIII là ai?",
+  "A": "Võ Văn Thưởng",
+  "B": "Trương Tấn Sang",
+  "C": "Nguyễn Phú Trọng",
+  "D": "Phạm Minh Chính",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "588",
+  "QUESTION": "Đại hội XIII đặt mục tiêu phát triển đất nước đến năm nào?",
+  "A": "2025",
+  "B": "2030",
+  "C": "2040",
+  "D": "2045",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "589",
+  "QUESTION": "Đại hội XIII diễn ra tại đâu?",
+  "A": "Hà Nội",
+  "B": "TP. Hồ Chí Minh",
+  "C": "Trung tâm Hội nghị Quốc gia, Hà Nội",
+  "D": "Đà Nẵng",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "590",
+  "QUESTION": "Đại hội XIII đề cập đến thành tựu trong năm nào vừa chống dịch Covid-19 vừa phát triển kinh tế?",
+  "A": "2019",
+  "B": "2020",
+  "C": "2021",
+  "D": "2022",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "591",
+  "QUESTION": "Số ủy viên dự khuyết của Ban Chấp hành Trung ương khóa XIII là bao nhiêu?",
+  "A": "10",
+  "B": "20",
+  "C": "25",
+  "D": "30",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "592",
+  "QUESTION": "Đại hội XIII nhấn mạnh tầm nhìn chiến lược đến năm 2045 với GDP bao nhiêu?",
+  "A": "1.500 tỉ USD",
+  "B": "2.000 tỉ USD",
+  "C": "2.500 tỉ USD",
+  "D": "3.000 tỉ USD",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "593",
+  "QUESTION": "Ý nghĩa chung của Đại hội XII và XIII là gì?",
+  "A": "Chỉ tập trung vào giáo dục",
+  "B": "Xác lập mục tiêu phát triển toàn diện và hiện đại hóa đất nước",
+  "C": "Chỉ định nhân sự cấp cao",
+  "D": "Chỉ cải cách hành chính",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "594",
+  "QUESTION": "Ngày sinh của Chủ tịch Hồ Chí Minh là?",
+  "A": "19\/5\/1890",
+  "B": "1583",
+  "C": "2654",
+  "D": "2597",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "595",
+  "QUESTION": "Tên khai sinh của Hồ Chí Minh là gì?",
+  "A": "Nguyễn Ái Quốc",
+  "B": "Nguyễn Tất Thành",
+  "C": "Nguyễn Sinh Cung",
+  "D": "Lê Văn Nhuận",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "596",
+  "QUESTION": "Năm 1911, Hồ Chí Minh rời bến cảng nào để tìm đường cứu nước?",
+  "A": "Hải Phòng",
+  "B": "Nhà Rồng",
+  "C": "Sài Gòn",
+  "D": "Quảng Châu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "597",
+  "QUESTION": "Hồ Chí Minh gửi bản yêu sách tới Hội nghị nào ở Pháp?",
+  "A": "Versailles",
+  "B": "Geneva",
+  "C": "Potsdam",
+  "D": "Berlin",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "598",
+  "QUESTION": "Nguyễn Ái Quốc tham dự Đại hội Đảng Xã hội Pháp lần thứ mấy?",
+  "A": "XVI",
+  "B": "XVII",
+  "C": "XVIII",
+  "D": "XIX",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "599",
+  "QUESTION": "Tờ báo cách mạng đầu tiên do Hồ Chí Minh xuất bản là gì?",
+  "A": "Thanh niên",
+  "B": "Nhân dân",
+  "C": "Công nông",
+  "D": "Cách mạng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "600",
+  "QUESTION": "“Đường Kách mệnh” do ai biên soạn?",
+  "A": "Trần Phú",
+  "B": "Nguyễn Ái Quốc",
+  "C": "Lê Hồng Phong",
+  "D": "Hà Huy Tập",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "601",
+  "QUESTION": "Hội nghị thành lập Đảng Cộng sản Việt Nam diễn ra ở đâu?",
+  "A": "Hà Nội",
+  "B": "Sài Gòn",
+  "C": "Cửu Long",
+  "D": "Quảng Châu",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "602",
+  "QUESTION": "Hồ Chí Minh lấy tên hiện nay từ năm nào?",
+  "A": "1941",
+  "B": "1942",
+  "C": "1945",
+  "D": "1946",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "603",
+  "QUESTION": "Ngày 2\/9\/1945, Hồ Chí Minh đọc Tuyên ngôn gì?",
+  "A": "Tuyên ngôn Độc lập",
+  "B": "Tuyên ngôn Nhân quyền",
+  "C": "Tuyên ngôn Nhân dân",
+  "D": "Tuyên ngôn Xã hội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "604",
+  "QUESTION": "Chiến thắng Điện Biên Phủ xảy ra năm nào?",
+  "A": "1950",
+  "B": "1954",
+  "C": "1960",
+  "D": "1965",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "605",
+  "QUESTION": "Trần Phú sinh năm nào?",
+  "A": "1902",
+  "B": "1904",
+  "C": "1907",
+  "D": "1912",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "606",
+  "QUESTION": "Quê quán Trần Phú ở đâu?",
+  "A": "Nghệ An",
+  "B": "Hà Tĩnh",
+  "C": "Quảng Trị",
+  "D": "Bắc Ninh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "607",
+  "QUESTION": "Trần Phú được cử sang Quảng Châu gặp ai?",
+  "A": "Hồ Chí Minh",
+  "B": "Lê Duẩn",
+  "C": "Lê Khả Phiêu",
+  "D": "Nguyễn Phú Trọng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "608",
+  "QUESTION": "Trần Phú soạn thảo văn kiện quan trọng nào của Đảng?",
+  "A": "Tự chỉ trích",
+  "B": "Luận cương chính trị",
+  "C": "Nhật ký trong tù",
+  "D": "Đường Kách mệnh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "609",
+  "QUESTION": "Ngày Trần Phú bị bắt là khi nào?",
+  "A": "4\/19\/1931",
+  "B": "9\/6\/1931",
+  "C": "8\/28\/1941",
+  "D": "9\/2\/1945",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "610",
+  "QUESTION": "Lê Hồng Phong sinh năm nào?",
+  "A": "1900",
+  "B": "1902",
+  "C": "1904",
+  "D": "1907",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "611",
+  "QUESTION": "Lê Hồng Phong cùng ai thành lập Tâm Tâm xã?",
+  "A": "Phạm Hồng Thái",
+  "B": "Nguyễn Ái Quốc",
+  "C": "Hồ Tùng Mậu",
+  "D": "Nguyễn Văn Cừ",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "612",
+  "QUESTION": "Lê Hồng Phong được bầu làm Tổng Bí thư lần đầu năm nào?",
+  "A": "1932",
+  "B": "1935",
+  "C": "1938",
+  "D": "1940",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "613",
+  "QUESTION": "Lê Hồng Phong hy sinh ở đâu?",
+  "A": "Hà Nội",
+  "B": "Côn Đảo",
+  "C": "Sài Gòn",
+  "D": "Quảng Trị",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "614",
+  "QUESTION": "Hà Huy Tập sinh năm nào?",
+  "A": "1900",
+  "B": "1902",
+  "C": "1904",
+  "D": "1907",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "615",
+  "QUESTION": "Hà Huy Tập bị xử bắn ở đâu?",
+  "A": "Côn Đảo",
+  "B": "Hóc Môn",
+  "C": "Sài Gòn",
+  "D": "Bắc Ninh",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "616",
+  "QUESTION": "Hà Huy Tập bị chính quyền Pháp bắt lần đầu năm nào?",
+  "A": "1932",
+  "B": "1936",
+  "C": "1938",
+  "D": "1940",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "617",
+  "QUESTION": "Nguyễn Văn Cừ sinh năm nào?",
+  "A": "1904",
+  "B": "1907",
+  "C": "1912",
+  "D": "1915",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "618",
+  "QUESTION": "Nguyễn Văn Cừ tham gia cách mạng từ khi còn là?",
+  "A": "Sinh viên",
+  "B": "Học sinh",
+  "C": "Công nhân",
+  "D": "Quân nhân",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "619",
+  "QUESTION": "Nguyễn Văn Cừ viết tác phẩm gì nổi tiếng?",
+  "A": "Tự chỉ trích",
+  "B": "Đường Kách mệnh",
+  "C": "Nhật ký trong tù",
+  "D": "Luận cương chính trị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "620",
+  "QUESTION": "Tên thật của Trường Chinh là gì?",
+  "A": "Lê Văn Nhuận",
+  "B": "Đặng Xuân Khu",
+  "C": "Nguyễn Duy Cống",
+  "D": "Nguyễn Văn Cúc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "621",
+  "QUESTION": "Trường Chinh sinh năm nào?",
+  "A": "1907",
+  "B": "1915",
+  "C": "1902",
+  "D": "1904",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "622",
+  "QUESTION": "Trường Chinh làm Tổng Bí thư lần đầu năm nào?",
+  "A": "1941",
+  "B": "1951",
+  "C": "1960",
+  "D": "1976",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "623",
+  "QUESTION": "Lê Duẩn sinh năm nào?",
+  "A": "1907",
+  "B": "1912",
+  "C": "1915",
+  "D": "1917",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "624",
+  "QUESTION": "Tên thật của Lê Duẩn là gì?",
+  "A": "Lê Văn Nhuận",
+  "B": "Nguyễn Văn Cúc",
+  "C": "Nguyễn Duy Cống",
+  "D": "Đặng Xuân Khu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "625",
+  "QUESTION": "Lê Duẩn làm Tổng Bí thư lần đầu năm nào?",
+  "A": "1960",
+  "B": "1976",
+  "C": "1982",
+  "D": "1986",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "626",
+  "QUESTION": "Nguyễn Văn Linh sinh năm nào?",
+  "A": "1915",
+  "B": "1917",
+  "C": "1920",
+  "D": "1922",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "627",
+  "QUESTION": "Tên thật của Nguyễn Văn Linh là gì?",
+  "A": "Nguyễn Văn Cúc",
+  "B": "Lê Văn Nhuận",
+  "C": "Nguyễn Duy Cống",
+  "D": "Đặng Xuân Khu",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "628",
+  "QUESTION": "Nguyễn Văn Linh được bầu làm Tổng Bí thư năm nào?",
+  "A": "1985",
+  "B": "1986",
+  "C": "1991",
+  "D": "1996",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "629",
+  "QUESTION": "Đỗ Mười sinh năm nào?",
+  "A": "1915",
+  "B": "1917",
+  "C": "1920",
+  "D": "1922",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "630",
+  "QUESTION": "Tên thật của Đỗ Mười là gì?",
+  "A": "Nguyễn Văn Cúc",
+  "B": "Nguyễn Duy Cống",
+  "C": "Lê Văn Nhuận",
+  "D": "Đặng Xuân Khu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "631",
+  "QUESTION": "Đỗ Mười làm Tổng Bí thư lần đầu năm nào?",
+  "A": "1986",
+  "B": "1991",
+  "C": "1996",
+  "D": "2001",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "632",
+  "QUESTION": "Lê Khả Phiêu sinh năm nào?",
+  "A": "1931",
+  "B": "1935",
+  "C": "1940",
+  "D": "1944",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "633",
+  "QUESTION": "Ngày gia nhập Đảng cộng sản Đông Dương của Lê Khả Phiêu?",
+  "A": "6\/19\/1949",
+  "B": "2\/2\/1917",
+  "C": "7\/1\/1915",
+  "D": "12\/27\/1931",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "634",
+  "QUESTION": "Lê Khả Phiêu làm Tổng Bí thư năm nào?",
+  "A": "1991",
+  "B": "1992",
+  "C": "1996",
+  "D": "1997",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "635",
+  "QUESTION": "Nông Đức Mạnh sinh năm nào?",
+  "A": "1940",
+  "B": "1944",
+  "C": "1950",
+  "D": "1957",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "636",
+  "QUESTION": "Nông Đức Mạnh làm Tổng Bí thư lần đầu năm nào?",
+  "A": "1997",
+  "B": "2001",
+  "C": "2003",
+  "D": "2006",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "637",
+  "QUESTION": "Quê quán Nông Đức Mạnh?",
+  "A": "Bắc Kạn",
+  "B": "Hưng Yên",
+  "C": "Thanh Hóa",
+  "D": "Hà Nội",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "638",
+  "QUESTION": "Nguyễn Phú Trọng sinh năm nào?",
+  "A": "1940",
+  "B": "1944",
+  "C": "1950",
+  "D": "1957",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "639",
+  "QUESTION": "Nguyễn Phú Trọng làm Tổng Bí thư lần đầu năm nào?",
+  "A": "2006",
+  "B": "2011",
+  "C": "2016",
+  "D": "2021",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "640",
+  "QUESTION": "Ngày mất của Nguyễn Phú Trọng?",
+  "A": "1\/31\/2021",
+  "B": "7\/19\/2024",
+  "C": "4\/27\/1998",
+  "D": "7\/10\/1986",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "641",
+  "QUESTION": "Tô Lâm sinh năm nào?",
+  "A": "1940",
+  "B": "1944",
+  "C": "1957",
+  "D": "1960",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "642",
+  "QUESTION": "Quê quán Tô Lâm?",
+  "A": "Hưng Yên",
+  "B": "Hà Nội",
+  "C": "Thanh Hóa",
+  "D": "Bắc Ninh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "643",
+  "QUESTION": "Tô Lâm làm Tổng Bí thư năm nào?",
+  "A": "2020",
+  "B": "2021",
+  "C": "2024",
+  "D": "2026",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "644",
+  "QUESTION": "Hồ Chí Minh bị bắt và giam tại Quảng Tây bao lâu?",
+  "A": "6 tháng",
+  "B": "1 năm 14 ngày",
+  "C": "2 năm",
+  "D": "3 tháng",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "645",
+  "QUESTION": "Trần Phú là Tổng Bí thư đầu tiên của Đảng cộng sản Việt Nam, đúng hay sai?",
+  "A": "Đúng",
+  "B": "Sai",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "646",
+  "QUESTION": "Lê Hồng Phong kết hôn với ai?",
+  "A": "Nguyễn Thị Minh Khai",
+  "B": "Võ Nguyên Giáp",
+  "C": "Trần Phú",
+  "D": "Hà Huy Tập",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "647",
+  "QUESTION": "Hà Huy Tập là người chủ trì ban lãnh đạo Đảng hải ngoại cùng ai?",
+  "A": "Lê Hồng Phong",
+  "B": "Trường Chinh",
+  "C": "Nguyễn Văn Cừ",
+  "D": "Lê Duẩn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "648",
+  "QUESTION": "Nguyễn Văn Cừ tham gia Đảng lần đầu năm nào?",
+  "A": "1929",
+  "B": "1932",
+  "C": "1936",
+  "D": "1938",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "649",
+  "QUESTION": "Trường Chinh làm Phó Thủ tướng Chính phủ kiêm Chủ nhiệm Ủy ban khoa học Nhà nước năm nào?",
+  "A": "1951",
+  "B": "1958",
+  "C": "1960",
+  "D": "1976",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "650",
+  "QUESTION": "Lê Duẩn giữ chức Bí thư Quân ủy trung ương năm nào?",
+  "A": "1960",
+  "B": "1978",
+  "C": "1982",
+  "D": "1986",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "651",
+  "QUESTION": "Nguyễn Văn Linh bị thực dân Pháp bắt và đày đi Côn Đảo năm nào?",
+  "A": "1930",
+  "B": "1936",
+  "C": "1941",
+  "D": "1945",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "652",
+  "QUESTION": "Đỗ Mười giữ chức Chủ tịch Hội đồng Bộ trưởng năm nào?",
+  "A": "1986",
+  "B": "1991",
+  "C": "1996",
+  "D": "2001",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "653",
+  "QUESTION": "Lê Khả Phiêu giữ chức vụ gì trước khi làm Tổng Bí thư?",
+  "A": "Bí thư tỉnh",
+  "B": "Bộ trưởng",
+  "C": "Thượng tướng",
+  "D": "Chủ nhiệm Tổng cục Chính trị",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "654",
+  "QUESTION": "Diện tích của Quân khu 7 là bao nhiêu?",
+  "A": "45.000 km²",
+  "B": "45.729,49 km²",
+  "C": "50.000 km²",
+  "D": "40.500 km²",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "655",
+  "QUESTION": "Dân số Quân khu 7 khoảng bao nhiêu người?",
+  "A": "20 triệu",
+  "B": "22 triệu",
+  "C": "25 triệu",
+  "D": "18 triệu",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "656",
+  "QUESTION": "Quân khu 7 gồm bao nhiêu tỉnh và thành phố?",
+  "A": "7",
+  "B": "8",
+  "C": "9",
+  "D": "10",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "657",
+  "QUESTION": "Hai huyện đảo thuộc Quân khu 7 là gì?",
+  "A": "Phú Quốc, Côn Đảo",
+  "B": "Phú Quý, Côn Đảo",
+  "C": "Côn Đảo, Bạch Long Vĩ",
+  "D": "Phú Quý, Phú Quốc",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "658",
+  "QUESTION": "Vùng chiến lược của Quân khu 7 gồm những loại địa hình nào?",
+  "A": "Đồng bằng, rừng núi, ven biển",
+  "B": "Đồng bằng, rừng núi, đô thị",
+  "C": "Đồng bằng, đồi núi, đô thị",
+  "D": "Rừng núi, đồng bằng, sông ngòi",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "659",
+  "QUESTION": "Miền Đông Nam Bộ được lịch sử giao nhiệm vụ gì trong chiến tranh?",
+  "A": "“Đi trước về sau”",
+  "B": "“Đi sau về trước”",
+  "C": "“Đi đầu, đánh mạnh”",
+  "D": "“Giữ vững, tiến nhanh”",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "660",
+  "QUESTION": "Ngày mở đầu cuộc kháng chiến ở miền Đông là ngày nào?",
+  "A": "9\/2\/1945",
+  "B": "9\/23\/1945",
+  "C": "5\/19\/1945",
+  "D": "4\/30\/1945",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "661",
+  "QUESTION": "Ngày kết thúc cuộc kháng chiến ở miền Đông là ngày nào?",
+  "A": "9\/23\/1975",
+  "B": "9\/2\/1975",
+  "C": "4\/30\/1975",
+  "D": "5\/1\/1975",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "662",
+  "QUESTION": "Sài Gòn được xác định là trung tâm gì trong chiến tranh?",
+  "A": "Phong trào đấu tranh đô thị",
+  "B": "Khu vực nông thôn",
+  "C": "Vùng rừng núi chiến lược",
+  "D": "Khu vực đảo chiến lược",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "663",
+  "QUESTION": "Trong chiến tranh, miền Đông được xác định là gì?",
+  "A": "Chiến trường tiêu diệt địch",
+  "B": "Khu vực kinh tế",
+  "C": "Vùng trung lập",
+  "D": "Khu vực nông nghiệp",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "664",
+  "QUESTION": "Hiện nay, tình hình chính trị-xã hội trên địa bàn Quân khu 7 ra sao?",
+  "A": "Cơ bản ổn định",
+  "B": "Rối loạn",
+  "C": "Bất ổn",
+  "D": "Nguy cơ xung đột cao",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "665",
+  "QUESTION": "Quốc phòng - An ninh ở Quân khu 7 hiện nay ra sao?",
+  "A": "Củng cố, tăng cường",
+  "B": "Yếu kém",
+  "C": "Bị đe dọa",
+  "D": "Không ổn định",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "666",
+  "QUESTION": "Kinh tế trên địa bàn Quân khu 7 hiện nay như thế nào?",
+  "A": "Tăng trưởng khá",
+  "B": "Giảm sút",
+  "C": "Không thay đổi",
+  "D": "Suy thoái",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "667",
+  "QUESTION": "Quân khu 7 là trọng điểm của âm mưu gì của các thế lực thù địch?",
+  "A": "Chiến tranh thông thường",
+  "B": "“Diễn biến hoà bình” và “Bạo loạn lật đổ”",
+  "C": "Xâm lược quân sự trực tiếp",
+  "D": "Cạnh tranh kinh tế",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "668",
+  "QUESTION": "Vai trò chiến lược của Sài Gòn trong chiến tranh là gì?",
+  "A": "Điểm quyết chiến chiến lược cuối cùng",
+  "B": "Khu vực sản xuất nông nghiệp",
+  "C": "Vùng rừng phòng thủ",
+  "D": "Cảng biển quan trọng",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "669",
+  "QUESTION": "Ngày nào trở thành ngày truyền thống của Quân khu 7?",
+  "A": "9\/23\/1945",
+  "B": "12\/10\/1945",
+  "C": "7\/2\/1976",
+  "D": "4\/30\/1975",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "670",
+  "QUESTION": "Ai là Khu bộ trưởng đầu tiên của Quân khu 7?",
+  "A": "Trần Xuân Độ",
+  "B": "Nguyễn Bình",
+  "C": "Võ Nguyên Giáp",
+  "D": "Lê Duẩn",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "671",
+  "QUESTION": "Quân khu 7 khi mới thành lập gồm tỉnh\/thành nào?",
+  "A": "Sài Gòn, Gia Định, Chợ Lớn, Bà Rịa, Biên Hòa, Thủ Dầu Một, Tây Ninh",
+  "B": "Biên Hòa, Bà Rịa, Long Khánh",
+  "C": "Long An, Bình Dương, Tây Ninh",
+  "D": "Sài Gòn, Phước Bình, Long Khánh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "672",
+  "QUESTION": "Ngày 23\/9\/1945 đánh dấu sự kiện gì?",
+  "A": "Ngày truyền thống Quân khu 7",
+  "B": "Thực dân Pháp nổ súng ở Sài Gòn",
+  "C": "Thành lập Quân khu 8",
+  "D": "Chiến thắng Điện Biên Phủ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "673",
+  "QUESTION": "Trong kháng chiến chống Mỹ, miền Đông Nam bộ thuộc chiến trường nào?",
+  "A": "Chiến trường B1",
+  "B": "Chiến trường B2",
+  "C": "Chiến trường C",
+  "D": "Chiến trường D",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "674",
+  "QUESTION": "Mật danh của Quân khu 7 từ tháng 5\/1961 là gì?",
+  "A": "T1",
+  "B": "T2",
+  "C": "B1",
+  "D": "B2",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "675",
+  "QUESTION": "Tháng 10\/1967, quyết định gì liên quan Quân khu 7?",
+  "A": "Giải thể Quân khu 7 và Quân khu Sài Gòn-Gia Định",
+  "B": "Thành lập Quân khu 7 lần đầu",
+  "C": "Thống nhất miền Nam",
+  "D": "Giải phóng Sài Gòn",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "676",
+  "QUESTION": "Sau khi tái lập, Quân khu 7 gồm các tỉnh nào?",
+  "A": "Biên Hòa, Bà Rịa, Long Khánh, Phước Bình, Tây Ninh, Bình Dương, Long An",
+  "B": "Sài Gòn, Gia Định, Chợ Lớn",
+  "C": "Long An, Tây Ninh, Bình Dương",
+  "D": "Biên Hòa, Bà Rịa, Long Khánh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "677",
+  "QUESTION": "Ngày 2\/7\/1976, Quân ủy Trung ương quyết định gì?",
+  "A": "Giải thể Bộ chỉ huy Miền B2, thành lập các Quân khu 5, 7, 9",
+  "B": "Tái lập Quân khu 7",
+  "C": "Thành lập Quân khu 8",
+  "D": "Giải phóng miền Nam",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "678",
+  "QUESTION": "Ai là Chủ nhiệm Chính trị bộ đầu tiên của Quân khu 7?",
+  "A": "Nguyễn Bình",
+  "B": "Trần Xuân Độ",
+  "C": "Lê Duẩn",
+  "D": "Võ Nguyên Giáp",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "679",
+  "QUESTION": "Lực lượng vũ trang cách mạng miền Đông Nam Bộ ra đời sau sự kiện nào?",
+  "A": "Cách mạng Tháng Tám 1945",
+  "B": "Ngày 23\/9\/1945",
+  "C": "Hiệp định Giơnevơ",
+  "D": "Cuộc Đồng khởi 1960",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "680",
+  "QUESTION": "Ngày nào thực dân Pháp nổ súng tấn công các trụ sở chính quyền cách mạng tại Sài Gòn?",
+  "A": "5\/19\/1945",
+  "B": "9\/23\/1945",
+  "C": "8\/11\/1958",
+  "D": "1\/27\/1973",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "681",
+  "QUESTION": "Địa bàn miền Đông Nam Bộ từ 1947–1950 là trọng điểm gì của địch?",
+  "A": "Hậu phương chiến lược",
+  "B": "Trụ sở quân sự",
+  "C": "Căn cứ du kích",
+  "D": "Khu đô thị chiến lược",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "682",
+  "QUESTION": "Phong trào đấu tranh chủ yếu ở miền Đông Nam Bộ kết hợp với gì?",
+  "A": "Phong trào đô thị",
+  "B": "Phong trào du kích",
+  "C": "“Địch ngụy vận”",
+  "D": "Tất cả các phương án trên",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "683",
+  "QUESTION": "Sau Hiệp định Giơnevơ, ai từng bước nắm chính quyền miền Nam Việt Nam?",
+  "A": "Thực dân Pháp",
+  "B": "Đế quốc Mỹ",
+  "C": "Trung Quốc",
+  "D": "Liên Xô",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "684",
+  "QUESTION": "Tháng 12\/1956, Ban Quân sự và Đảng ủy Miền được thành lập dưới sự phụ trách của ai?",
+  "A": "Nguyễn Hữu Xuyến",
+  "B": "Võ Nguyên Giáp",
+  "C": "Lê Duẩn",
+  "D": "Trường Chinh",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "685",
+  "QUESTION": "Hai căn cứ lớn được xây dựng lại sau 1956 là?",
+  "A": "Dương Minh Châu, Chiến khu D",
+  "B": "Bình Giã, Ấp Bắc",
+  "C": "Tây Nguyên, Buôn Ma Thuột",
+  "D": "Nhà Xanh, Biên Hòa",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "686",
+  "QUESTION": "Trận đánh quận lỵ Dầu Tiếng xảy ra vào ngày nào?",
+  "A": "9\/23\/1945",
+  "B": "8\/11\/1958",
+  "C": "1\/27\/1973",
+  "D": "4\/30\/1975",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "687",
+  "QUESTION": "Trận đánh Nhà Xanh (BIF) tại Biên Hòa nhằm vào?",
+  "A": "Trụ sở phái đoàn cố vấn quân sự Mỹ (MAAG)",
+  "B": "Chính quyền ngụy",
+  "C": "Căn cứ du kích",
+  "D": "Khu đô thị",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "688",
+  "QUESTION": "Cuộc Đồng khởi 1960 diễn ra ở miền nào?",
+  "A": "Miền Bắc",
+  "B": "Miền Đông và cực Nam Trung Bộ",
+  "C": "Miền Tây",
+  "D": "Miền Trung",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "689",
+  "QUESTION": "Trong giai đoạn 1961–1965, chiến lược Mỹ-ngụy là gì?",
+  "A": "Chiến tranh đơn phương",
+  "B": "Chiến tranh đặc biệt",
+  "C": "Chiến tranh cục bộ",
+  "D": "Chiến tranh tổng lực",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "690",
+  "QUESTION": "Trận Bình Giã nổi bật vì đánh bại chiến thuật gì của Mỹ?",
+  "A": "Trực thăng vận",
+  "B": "Thiết xa vận",
+  "C": "Hỏa lực pháo binh",
+  "D": "Cả A và B",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "691",
+  "QUESTION": "Khi nào Mỹ tiến hành “Chiến tranh cục bộ” ở miền Nam?",
+  "A": "1960",
+  "B": "Giữa năm 1965",
+  "C": "1972",
+  "D": "1975",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "692",
+  "QUESTION": "Chiến dịch nào LLVT miền Đông thực hiện vào năm 1972?",
+  "A": "Chiến dịch Hồ Chí Minh",
+  "B": "Chiến dịch Nguyễn Huệ",
+  "C": "Đồng khởi",
+  "D": "Bình Giã",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "693",
+  "QUESTION": "Sau Hiệp định Paris 1973, LLVT miền Đông nhanh chóng chuyển sang thế nào?",
+  "A": "Phòng ngự",
+  "B": "Tấn công giành chủ động",
+  "C": "Rút lui",
+  "D": "Du kích",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "694",
+  "QUESTION": "Chiến thắng Buôn Ma Thuột dẫn đến quyết định giải phóng miền Nam vào năm nào?",
+  "A": "1965",
+  "B": "1972",
+  "C": "1975",
+  "D": "1973",
+  "ANSWER": "C"
+ },
+ {
+  "ID": "695",
+  "QUESTION": "Trong tổng tiến công 29–30\/4\/1975, có bao nhiêu điểm nổi dậy tại Sài Gòn, Gia Định?",
+  "A": "41",
+  "B": "107",
+  "C": "50",
+  "D": "75",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "696",
+  "QUESTION": "Sau 30\/4\/1975, LLVT Quân khu 7 thực hiện nhiệm vụ gì?",
+  "A": "Quản lý quân sự",
+  "B": "Tổ chức sắp xếp lực lượng",
+  "C": "Thành lập Quân khu 7",
+  "D": "Tất cả đều đúng",
+  "ANSWER": "D"
+ },
+ {
+  "ID": "697",
+  "QUESTION": "Ngày 30\/4\/1977, lực lượng vũ trang Quân khu 7 tham gia chiến tranh nào?",
+  "A": "Biên giới Tây Nam",
+  "B": "Biên giới phía Bắc",
+  "C": "Chiến tranh Lào",
+  "D": "Chiến tranh Campuchia",
+  "ANSWER": "A"
+ },
+ {
+  "ID": "698",
+  "QUESTION": "Cuộc phản công truy kích Pôn-pốt diễn ra vào thời gian nào?",
+  "A": "1975–1976",
+  "B": "Cuối 1978 – đầu 1979",
+  "C": "1980",
+  "D": "1985",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "699",
+  "QUESTION": "Sau khi Campuchia giải phóng, LLVT Việt Nam tiếp tục nhiệm vụ gì?",
+  "A": "Rút về nước",
+  "B": "Hỗ trợ bảo vệ thành quả cách mạng Campuchia",
+  "C": "Xây dựng quân khu mới",
+  "D": "Chiến đấu chống Mỹ",
+  "ANSWER": "B"
+ },
+ {
+  "ID": "700",
+  "QUESTION": "Từ năm 1989 đến nay, LLVT Quân khu tập trung phòng thủ trên mấy tuyến?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "ANSWER": "C"
+ }
+]
